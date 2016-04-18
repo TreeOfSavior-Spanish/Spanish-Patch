@@ -1,0 +1,94 @@
+﻿UI_20150212_000295	{@st42}버프 가능 장비 목록	{@st42}Availble for Buff
+UI_20150212_000296	{@st42}소모 아이템{/}	{@st42}Consume{/}
+UI_20150212_000297	{@st42}실행	{@st42}Run
+UI_20150212_000298	{@st42}타겟 아이템{/}	{@st42}Target Item{/}
+UI_20150212_000318	{@st59b}모험일지{nl}{@st59s} - 자신의 진행한 정보가 모험일지에 기록{nl} - 아이템 습득, 몬스터 사냥, 제작, 맵탐험, 콘텐츠 진행으로 모험지수 획득{nl}    모험지수 : 다른 모든 지수의 총 합{nl}    성장 : 레벨 및 직업 레벨당 5점{nl}    아이템 : 장비 : 등급 X 10점, 책 : 10점, 기타 : 1점{nl}    몬스터 : 몬스터당 10점 (보스 : 50점){nl}    지역탐색 : 10%당 1점{nl}    퀘스트 : 퀘스트당 1점{nl}    업적 : 업적별로 다름{nl}    제작법 : 개당 10점{nl}    콜렉션 : 덱 5점 , 완성 45점{nl} - 획득한 모험지수에 따라 마을 NPC에게서 보상 획득{/}	
+UI_20150212_000439	파츠1	Parts 1
+UI_20150212_000440	파츠2	Parts 2
+UI_20150212_000441	파츠3	Parts 3
+UI_20150212_000465	희망 레벨                                 ~	Level                                ~
+UI_20150212_000565	{@st59}컴패니언을 소환합니다.{/}	
+UI_20150212_000676	{@st59b}클래스{nl}{@st59s} - 클래스의 서클을 성장시켜 해당 클래스의 스킬을 습득{nl} - 1차 직업에서 2차 직업로 전직할 경우 3개 클래스 선택 가능{nl} -  동일한 직업으로 총 3회까지 전직 가능{nl} -  다른 직업으로 전직 시 이전 직업은 전직 불가{nl} -  스킬포인트 모두 소비 시 전직 가능{nl} - 동일한 클래스도 선택 가능{nl}{@st59b}스킬{nl}{@st59s} - 각  랭크별 스킬은 최대 5레벨 증가 가능{nl} - 마스터에게 배운 특성은 스킬 하단에서 확인 가능{/}	
+UI_20150212_000989	{@st59}팀 이름을 저장합니다{/}	{@st59}Save Team Name{/}
+UI_20150212_001039	{@st41b}팀 이름 변경{/}	{@st41b}Change Team Name{/}
+UI_20150212_001040	{@st59} 팀 이름을 변경합니다{/}	{@st59} Change you team name{/}
+ETC_20150212_001307	농장지대49_2	
+ETC_20150212_001888	오버킬의 초보자	
+ETC_20150212_001889	오버킬을 500회 달성했다.	
+ETC_20150212_001891	오버킬을 1,000회 달성했다.	
+ETC_20150212_001893	오버킬을 3,000회 달성했다.	
+ETC_20150212_001897	보스 몬스터를 300마리를 처치했다.	
+ETC_20150212_001898	보스 헌터	
+ETC_20150212_001899	보스 몬스터를 500마리를 처치했다.	
+ETC_20150212_001901	NXP로 부활한 횟수 100회 이상 달성했다.	
+ETC_20150212_001904	제작을 10회 성공했다. 득을 본 기분이다.	
+ETC_20150212_001906	제작을 50회 성공했다. 이젠 제작도 꽤 손에 익었다.	
+ETC_20150212_001908	제작을 100회 성공했다. 점점 재산이 불어나는게 보인다.	
+ETC_20150212_001910	제작을 300회 성공했다. 말이 필요 없다.	
+ETC_20150212_001929	20개의 보물상자를 도굴하였다.	
+ETC_20150212_002274	포니테일	
+ETC_20150212_002310	{nl} {nl}미니맵 아이콘은 현재 지역에 위치한 정보나 {nl}NPC를 표시합니다.{nl}{img minimap_leader 25 25} : 현재 플레이어의 위치를 나타내는 아이콘 입니다.{nl}{img minimap_1_MAIN 25 25} : 현재 진행중인 퀘스트의 목표지점을 나타냅니다.{nl}{img minimap_0 25 25} : 현재 지역의 중요NPC의 위치를 나타냅니다.{nl}{img minimap_goddess 25 25} : 현재 지역의 워프장치를 나타냅니다.{nl}{img minimap_board 25 25} : 현재 지역의 중요정보를 담고있는 게시판을 나타냅니다.{nl}{img minimap_portal 25 25} : 다른지역으로 이동할 수 있는 통로를 나타냅니다.{nl} {nl}	{Nl} {nl} mini map icon displays the location information and {nl} NPC in the current region. {Nl} {img minimap_leader 25 25}: This is the icon that indicates the position of the current players. {Nl} {img minimap_1_MAIN 25 25}: I shows the target point of Quest currently in progress. {Nl} {img minimap_0 25 25}: I shows the position of the important NPC of the current region. {Nl} {img minimap_goddess 25 25}: I shows the warp device current region. {Nl} {img minimap_board 25 25}: I represent the bulletin board that contain important information for the current region. {Nl} {img minimap_portal 25 25}: it indicates a passage that can be moved to another area. {Nl} {nl}
+ETC_20150212_002324	{nl} {nl}퀘스트 진행 상태 표시{nl} {img minimap_1_MAIN 24 24} : 메인퀘스트 시작 가능{nl} {img minimap_2_MAIN 24 24} : 메인퀘스트 진행 중{nl} {img minimap_3_MAIN 24 24} : 메인퀘스트 완료 대기{nl} {img minimap_1_SUB 24 24} : 서브퀘스트 시작 가능{nl} {img minimap_2_SUB 24 24} : 서브퀘스트 진행 중{nl} {img minimap_3_SUB 24 24} : 서브퀘스트 완료 대기{nl} {nl}	{Nl} {nl} Quest Status {nl} {img minimap_1_MAIN 24 24}: Main quest available {nl} {img minimap_2_MAIN 24 24}: Main quest in progress {nl} {img minimap_3_MAIN 24 24}: Main quest ready to complete {nl} {img minimap_1_SUB 24 24}: Sub-quest available  {nl} {img minimap_2_SUB 24 24}: Sub-quest in progress {nl} {img minimap_3_SUB 24 24}: Sub-quest ready to complete { nl} {nl}
+ETC_20150212_002397	다 수의 스킬을 사용하여 오버히트 발생을 억제할 수 있다.	
+ETC_20150212_002420	레벨업을 통해 얻은 스테이터스포인트를 사용하여 캐릭터의 능력치를 성장시킬 수 있습니다.	
+{nl}{nl}		
+ETC_20150212_002550	모닥불을 사용하기 위해선 인벤토리에 재료가 있어야 합니다. {nl}{img key1 40 40} ~ {img key9 40 40} 숫자키를 사용하여 위치를 지정할 수 있습니다.{nl}모닥불의 재료는 도시에 위치한 	Material is required to inventory in order to use the bonfire. {Nl} {img key1 40 40} You can specify the location using the ~ {img key9 40 40} numeric keys. {Nl} bonfire of material is located in the city
+ETC_20150212_003827	파티원들과 함께 보스를 사냥합니다.	
+ETC_20150212_004340	본당의 수상한 장치들(1)	Main hall of the winning device (1)
+ETC_20150212_004344	빼앗긴 메이번의 물건	Mei times matter was robbed
+ETC_20150212_004445	오버킬 경험치 획득량 (0~2)	Overkill experience value acquisition amount (0-2)
+ETC_20150212_004446	자동타겟시 각도의 중요도 (-10000~-1000)	Importance of angle at the time of automatic target (-10000～-1000)
+ETC_20150212_004447	자동타겟시 거리의 중요도 (-100~-1000)	Importance of the distance of the automatic target (-100-1000)
+ETC_20150212_004448	자동타겟시 높이의 중요도 (-100~-1000)	Importance of the height of the automatic target (-100-1000)
+ETC_20150212_004449	타겟을 쳐다보는 거리(100~200)	As you can see the target (100 to 200)
+ETC_20150212_004520	히트시에PC몸체컬러 (0~1.0)	PC body color of the time hit (0 to 1.0)
+ETC_20150212_004542	아우우우~~	Oh uhh ~ ~
+ETC_20150212_005342	카드 합성(준비중)	
+ETC_20150212_005814	제작법	
+ETC_20150212_005903	개수를 입력하십시오. ({Auto_1} ~ {Auto_2})	Enter quantity. ({Auto_1} ~ {Auto_2})
+ETC_20150212_006048	아이고야 힘들구나~	Whoa.. That was tiresome ~ 
+ETC_20150212_006542	{Auto_2}~{Auto_1}개	{Auto_2} ~ {Auto_1} ea
+ETC_20150212_006732	식물형	Plant Type
+ETC_20150212_006733	야수형	Beast Type
+ETC_20150212_006734	변이형	Mutant Type
+ETC_20150212_006872	누가누가 이길까~	I wonder who would win ~ 
+ETC_20150212_006874	아악~~	Gagaku ~~
+ETC_20150212_007445	냐앙~	Meow~
+ETC_20150212_007580	추카해~ 먼가보상을주고싶지만 귀찮으니 생략	Congrats~ - I want to give something but i'm to lazy to 
+ETC_20150212_007807	채팅창에 0 ~ 10000 범위내의 숫자 입력	Enter a number in the range 0 ~ 10000 in the chat window
+ETC_20150212_007808	동작 중, 채팅창에 0 ~ 10000 범위내의 숫자 입력	In Operation, Enter a number in the range 0 ~ 10000 in the chat window
+ETC_20150212_007811	0 ~ 10000 범위의 숫자가 아님	Not a number in the range 0 ~ 10000
+ETC_20150212_008081	{@st43}전직 일자 : 	
+ETC_20150212_008082	{@st43}플레이 타임 : 	
+ETC_20150212_008140	{Auto_1}~ {Auto_2} 사이의 값을 입력하세요	Please enter a value between {Auto_1} ~ {Auto_2}
+ETC_20150212_008266	Once : 한번에 빵~	Once : at a time ~
+ETC_20150212_008267	Separate : 슬립줘서 뾰뵤뵹~	Separate : N/A
+ETC_20150212_008306	Goblin_Spear:부베 습격병:25/Goblin_Spear:부베 습격병:25/Goblin_Spear:부베 습격병:25/Goblin_Archer_red:부베 습격병:25/Goblin_Spear:부베 습격병:25/Goblin_Spear:부베 습격병:25/Goblin_Spear:부베 습격병:25/Goblin_Spear:부베 습격병:25/Goblin_Spear:부베 습격병:25/Goblin_Spear:부베 습격병:25/GoblinWarrior_red:루다스 부베 투사:26	Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Archer_red: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / GoblinWarrior_red: Ludas Vubber Fighter: 26
+ETC_20150212_008307	Goblin_Spear:부베 습격병:26/Goblin_Spear:부베 습격병:26/Goblin_Spear:부베 습격병:26/Goblin_Archer_red:부베 습격병:26/Goblin_Spear:부베 습격병:26/Goblin_Spear:부베 습격병:26/Goblin_Spear:부베 습격병:26/Goblin_Spear:부베 습격병:26/Goblin_Spear:부베 습격병:26/Goblin_Spear:부베 습격병:26/GoblinWarrior_red:루다스 부베 투사:26	Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Archer_red: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / GoblinWarrior_red: : Ludas Vubber Fighter : 26
+ETC_20150212_008414		
+ETC_20150212_008932	최소 ~ 최대 사거리 출력	Output of Min ~ Max Range
+ETC_20150217_009478	아이템 던전	
+ITEM_20150212_001786	SP를 +32~35 회복 시켜줍니다. 손쉽게 구할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.	The SP is + 32-35 to restore us. You can be easily obtained. I use the right click.
+ITEM_20150212_001812	SP를 +350~400 회복 시켜줍니다. 미식가들사이에서는 최고의 진미로 여겨집니다. 마우스 오른쪽 클릭으로 사용합니다.	The SP and + 350-400 to recover us. In between the gourmet, it is the best delicacy. I use the right click.
+ITEM_20150212_001847	HP를 +40~50 회복 시켜줍니다. 쉽게 구할 수 있는 고기입니다. 날것으로 먹어도 괜찮습니다.  마우스 오른쪽 클릭으로 사용합니다.	The HP and + 40-50 to restore us. This is the meat of easily available. Raw it is okay to eat. I use the right click.
+QUEST_20150212_001141	{nl}{nl} 옛날 클라페다에 모데스타스(Modestas)라는 남자가 살았습니다. {nl}모데스타스씨는 좋은 사람이었지만, 한 가지 큰 결점이 있어서 그의 친구와 친척들은 모두 그를 염려했습니다. 특히 그의 부인은 걱정이 많았습니다. {nl}모데스타스씨는 게으르지도 않았고, 매우 영리하지는 않았지만, 크게 어리석지도 않았으며, 술을많이 마시거나 싸움을 일삼는 사람도 아니었습니다. {nl}모데스타스씨의 문제는 단 하나; 그가 워낙 내기를 좋아하는 사람이라는 점입니다. {nl}	Man named model Stars (Modestas) lived {nl} {nl} Once upon a time in the client fader. {Nl} model Stars's but was a good man, his friends and relatives there is one big drawback, all made him worry. Especially his wife worry there were many. {Nl} model Stars Mr. There was no even lazy, but was not very in smart, largely to foolishly did not have, drink a lot of alcohol, there is no person to do battle on a daily basis. {Nl} model Stars's problem, of single, is that he too is a people who like betting. {Nl}
+QUEST_20150212_001147	 그리고 금괴를 들고 무얼 하냐고 물었습니다.{nl}그러자 노파가 대답했지요.{nl}“이 금괴 둘을 혼인시키면 자식 금괴를 낳아서 내가 더 부자가 될 것 같은데 둘이 마음이 안 맞는지 성사가 안 돼서 고민이야.”{nl}모데스타스씨는 그 말을 듣고 너무 황당해서 이렇게 말했습니다.{nl}“아니 그 금괴로 부자가 되시려면, 그것을 밑천 삼아 장사를 하시든지 어디 좋은 곳에 투자를 하시든지 해야지 결혼시켜 금괴가 새끼를 낳게 한다는 것이 말이 됩니까?”{nl}	And asked to be what to do with the money. {Nl} Then an old woman I answered. {Nl} "and causes the marriage both of bullion, the birth of gold child, I seem to become more and more rich, but I worried not become correct success there is no two people of mind." {Nl} model Stars Mr. says Te too absurd to hear the words. No {nl} ", in order to get rich is in the money, whether it was allowed to get married to be but trying to invest in trying to under three business but where where is good there is a sense that the gold produce a child? "{nl}
+QUEST_20150212_001153	 모데스타스씨는 그 말에 약간 어리둥절해서 다시 물었습니다.{nl}“그러니까 이제부터 저는 홀수 차례 내기는 무조건 이기고 짝수 차례는 무조건 진다고요?”{nl}“그렇지. 그렇게 될 걸세. 자네가 할 일은 홀수 내기에는 많은 돈을 걸고, 다음 차례에는 적은 돈을 거는 일밖에 없지. 그렇게 몇 번 하면 금괴 하나 값은 충분히 벌지 않겠나? 어떤가? 그런 조건에 나랑 내기해볼 텐가?”{nl}“그렇게 번갈아 이기고 지는 능력은 얼마나 지속되는 것이지요?”{nl}	Model Stars Mr. asked again a little disconcerting to the words. {Nl} It would be so "So now I, is an odd number of times of bet unconditional Winning even times me I become unconditional?" {Nl} "so.. Thing you should do, odd It is over a lot of money, probably only applying a little money in the next turn. of the total several times and gold values ??take a chance with me enough to give not do? What about? such conditions Tenga? "{nl}" will to sustain how much winning or losing capacity alternating layers? "{nl}
+QUEST_20150212_001155	 모데스타스씨는 약간 떨리는 목소리로 물었습니다.{nl}“그럼 얼마나 벌어야 하지요?”{nl}노파가 대답했습니다.{nl}“일단 금괴를 하나 주지. 그리고 내게 올 때 그것 말고 다른 금괴를 하나 가져오게. 내 금괴들이 새끼를 쳤든 안 쳤든 그러면 자네가 이긴 걸로 해주지. 시간은 흠. 어디 보자… 한 일주일이면 충분하겠지.”{nl}모데스타스씨는 마지막으로 한 가지를 더 물었습니다. {nl}“만약 당신과의 이 내기에서 내가 지면 무엇을 내놓아야 하죠?”{nl}	Model Stars's asked in a slightly trembling voice. {Nl} "In I must How earn?" {Nl} old woman was the answer. {Nl} "once give one gold. And when I come, otherwise to bring one a lot of other gold. This allows my money there is no Chotodo~un the child Chotodo~un, by you win You give me. hours completely. Where to see try and try ... would be enough as long week. "{nl} model Stars Mr. heard more ultimately one thing. {Nl} "If I would have to be what my floor served in bet with you?" {Nl}
+QUEST_20150212_001173	 작은 입씨름으로 시작된 일은 큰 논쟁이 되었고, 결국 큰돈이 걸린 내기가 되었습니다. 병사들은내깃돈을 모두 모아놓고 승자를 가리기만 하면 되는 상황이었지만, 공교롭게도 각각의 여신을 지지하는 사람들 수가 똑같아서 결정을 내리지 못 하고 있던 참이었습니다.{nl}그래서 의논 끝에 이제부터 가장 먼저 지나가는 사람에게 물어봐서 그 사람이 말하는 여신을 지지한 병사를 승자로 하기로 정했습니다. 가장 먼저 우연히 지나는 사람이 택했으니 그것을 여신의 뜻이라고 간주하기로 한 것입니다. {nl}	That was initiated in the small grip a major discussion, and eventually became the money is applied. While soldiers were situation of only hide the winner by collecting all of the dispute, happens to be, the number of people who support each of the goddess could place you have had Na decisions standing same. At the end of the {nl} So consultation, it was decided to the winner to the soldiers who supported the goddess Muruobuwaso that person say to those who pass the first now most. Since the very first to person through chance has selected, it is what it was to be considered a means of goddess. {Nl}
+QUEST_20150212_001195	 ‘이 알케미스트는 정말 납을 금으로 바꾸는 연구를 하나?’ 그런 생각을 하며 그를 지나치려 했습니다.{nl}하지만 알케미스트는 간만에 자신의 앞을 지나가는 사람이 반가웠는지 모데스타스씨를 불렀습니다. 그리고 난데없이 내기시합을 제안했습니다. 어쩐지 오늘은 온 세상이 모데스타스씨와 내기를 하려는 듯하자 아무리 모데스타스씨라도 질리는 면이 있었습니다. {nl}모데스타스씨가 내기를 좋아하긴 했지만, 내기 상대를 찾기가 이렇게 쉬웠던 적은 없었기도 했고말입니다.{nl}	It is thought to "this alchemist is really? The research to change the lead to gold" such a thing, and tried to hit through him. {Nl} is alchemist is, had been a long time called whether model Stars's people was glad that pass in front of their own. And, we have proposed a suddenly betting game. Somehow today there was a face that get bored even much model Stars Mr. It is suggested that you do to try all the world model Stars san and bet. {Nl} but model Stars san or like betting, and to find a bet of opponent I to was also not small so easily. {Nl}
+QUEST_20150212_001211	 그런데 솟아오른 바위는 땅에 묻히거나 박혀 있어 움직일 수 없는 상태는 아니었지만, 그럼에도 모데스타스씨 혼자서는 움직일 수 없을 정도로 컸습니다. {nl}이까짓 돌덩이 그냥 두고 가려는 생각도 들었지만, 이 바위가 말 두 필과 수레 정도의 가치를 지녔다는 산의 말이 생각나서 그러기도 아까웠습니다. {nl}어디 채석장이나 석공에게 잘 팔면 어느 정도 돈이 될 것이란 생각이 들자 모데스타스씨는 싣지도 버리지도 못하는 처지가 되어 그 자리에서 고민하였습니다.{nl}	However, can bulge stones embedded in the ground, is embedded, although it was not a state unable to move, it was large enough to not be able to move the model Stars's one nonetheless. {Nl} Although big deal even if wanted to let us put only no stones heard, that also was close remembered the words of the mountain with a value of about two Phil and wagon this rock is said. {Nl} where quarry and models Stars, who thought the mention of becoming a how much money selling it well in masonry is made to wind up you can not even throw even put, was trouble on the spot. {Nl}
+QUEST_20150212_001217	 모데스타스씨가 그것이 무엇인지 묻자 노파가 말했습니다.{nl}“자네는 내가 올릴 바위를 수레에 싣고 클라페다에 가게. 그리고 클라페다의 모든 사람들이 인정할 가치가 있는 물건으로 바꾸게. 그런 바꿈에 성공한다면 애초의 내기의 전제 조건이었던 자네 주변 사람들도 아무 일이 없을 걸세. 자네는 어차피 내기에 졌으니 이것은 어렵다고는 하지만, 그래도 한 번 더 자네에게 기회를 주는 일이지. 어떤가?”{nl}이번에도 모데스타스씨에게는 선택의 여지가 없었습니다.	Model Stars san, When asked what it is, said the old woman. {Nl} "kun go to client fader placed on wagon stones to raise me. And changing to what is worth admit all the people of client fader. If successful in such a newline, the premise of the original bet I would have no people for many days around you was a condition. Since you became anyway thing, albeit that this is difficult, but still you by giving a chance again. What? "{nl } This time also to model Stars's did not have a choice.
+QUEST_20150212_001229	 늙은 모습으로 나타나 내기를 거시고, 산을 움직여 석재를 내주신 일이 모두 여신의 섭리임을 깨닫고 다른 사람들에게도 그 사실을 설명하고 설득하였습니다. {nl}그리하여 사람들은 모데스타스씨의 말을 따르기로 하였고, 모데스타스씨가 딥디르비를 통해 여신상을 완성하도록 허락했습니다. {nl}마침내 여신상이 완성되었을 때, 클라페다의 사람들은 과연 클파페다의 사람들은 그들이 사랑하는도시의 중심에 세워진 여신상이 과연 어떤 여신을 기리는 조각상인지 궁금해하며 모였습니다.{nl}	It was determined bet appeared in old form, by moving the mountain is realized that it was dedicated the stone is the providence of all of the goddess, was persuaded by explaining the facts to other people. {Nl} Thus, people decided to follow the words of the model's Stars, model Stars san was allowed to complete the image through the deep federal rain. {Nl} finally when the image is complete, that the people of client fader really big Perfect Dano people, they are image honoring the beloved really what goddess statue, which was built in the heart of the city was gathered and is wondering. {Nl}
+QUEST_20150212_001291	광산마을 탐문	
+QUEST_LV_0100_20150212_002429	부베에 대해	
+QUEST_LV_0100_20150212_004360	7구역으로 가는 길에 떨어져있는 정화관을 찾아 회수하세요.	
+QUEST_LV_0100_20150212_004473	광산마을 탐문(1)	
+QUEST_LV_0100_20150212_004474	광산마을 도착	
+QUEST_LV_0100_20150212_004475	여신의 계시를 좇아 수정광산으로 들어가야 하는데, 수정광산이 있는 광산 마을이 부베에게 습격당한 모양입니다. 광산마을로 빨리 가 보세요!	
+QUEST_LV_0100_20150212_004477	광산마을 촌장과 대화	
+QUEST_LV_0200_20150212_000229	녀석들 머리를 정말 잘 쓴단말이야.{nl} 외부에서 싸구려 골동품들을 가져와서 석화서리가 부는 곳에 놔두는 거야.{nl}그럼 짜잔~! 하고 석화가 되서 뭔가 그럴듯한 걸로 바뀌거든{nl}대도시의 귀족들은 속아서 그걸 아주 비싼값에 사들인다고 들었어.	Really well and shredded it the person's head. {Nl} and it brought the cheap antique from the outside keep the place blows petrified frost. The ~ voila in {nl}! is if changed by the plausible something is getting petrified {nl} metropolis of nobles are fooled, I heard it as the acquired in very high value.
+QUEST_LV_0200_20150212_000952	나크티스에게 닿기 전에 손을 쓰면 될 일입니다.{nl}마족들을 처치하고 구원의 성유물을 찾아 주십시오.	The thing is that you put your hands before touching the Nakutisu. Please find the sexual relic of salvation to defeat {nl} Asmodian.
+QUEST_LV_0200_20150212_000960	단상에 새겨진 글귀	Phrase engraved on stage
+QUEST_LV_0200_20150212_000961	두 눈으로 성스러운 숫자를 기억하라.{nl}촛불의 빛은 사악한 어둠을 쫓을지니.	Please recall the sacred number in both eyes. {Nl} light of candles, Ginny chasing the evil darkness.
+QUEST_LV_0200_20150212_001101	많이도 모아왔군.{nl}그정도면 충분하겠어.	
