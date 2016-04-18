@@ -1708,23 +1708,23 @@ ETC_20150317_001707	Crafting Completed!
 ETC_20150317_001708	The name of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001709	The memo of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001710	Tree
-ETC_20150317_001711	Quest
-ETC_20150317_001712	Weapon
-ETC_20150317_001713	Armor
-ETC_20150317_001714	Two-handed Sword
-ETC_20150317_001715	Bow
-ETC_20150317_001716	Crossbow
-ETC_20150317_001717	One-handed Sword
-ETC_20150317_001718	Wand
-ETC_20150317_001719	Blunt
-ETC_20150317_001720	Other
-ETC_20150317_001721	Spear
-ETC_20150317_001722	Wand
+ETC_20150317_001711	Mision
+ETC_20150317_001712	Arma
+ETC_20150317_001713	Armadura
+ETC_20150317_001714	Espada de Dos Manos
+ETC_20150317_001715	Arco
+ETC_20150317_001716	Ballesta
+ETC_20150317_001717	Espada de una mano
+ETC_20150317_001718	Varita
+ETC_20150317_001719	Maza
+ETC_20150317_001720	Otro
+ETC_20150317_001721	Lanza
+ETC_20150317_001722	Varita
 ETC_20150317_001723	{nl} Do you want to add a socket?
 ETC_20150317_001724	{nl} Do you want to extract this gem?
 ETC_20150317_001725	Would you like to create this item?
 ETC_20150317_001726	Material
-ETC_20150317_001727	Ring
+ETC_20150317_001727	Anillo
 ETC_20150317_001728	Choose this combination for the alchemy process?
 ETC_20150317_001729	Target Item
 ETC_20150317_001730	Combining items..
@@ -1745,11 +1745,11 @@ ETC_20150317_001744	Not possible on this item.
 ETC_20150317_001745	This item is not equipped with a gem.
 ETC_20150317_001746	Please select a socket.
 ETC_20150317_001747	Show All
-ETC_20150317_001748	Consumable
-ETC_20150317_001749	Book
-ETC_20150317_001750	Money
-ETC_20150317_001751	Sub-weapon
-ETC_20150317_001752	Rod
+ETC_20150317_001748	Consumible
+ETC_20150317_001749	Libro
+ETC_20150317_001750	Dinero
+ETC_20150317_001751	Arma Secundaria
+ETC_20150317_001752	Vara
 ETC_20150317_001753	Coat
 ETC_20150317_001754	Hat
 ETC_20150317_001755	Two-handed Spear
@@ -1838,7 +1838,7 @@ ETC_20150317_001837	You can not use your skills while riding your companion.
 ETC_20150317_001838	Shall we light a bonfire?
 ETC_20150317_001839	There is no firewood.
 ETC_20150317_001840	OK
-ETC_20150317_001841	Yes
+ETC_20150317_001841	Si
 ETC_20150317_001842	No
 ETC_20150317_001843	Message
 ETC_20150317_001844	[Notice]
@@ -1929,7 +1929,7 @@ ETC_20150317_001928	View Information
 ETC_20150317_001929	Ch 
 ETC_20150317_001930	¿Quieres moverte al canal {Channel}?
 ETC_20150317_001931	Precio
-ETC_20150317_001932	's Lodge
+ETC_20150317_001932	's Guarida
 ETC_20150317_001933	This channel is closed.
 ETC_20150317_001934	iCoin Shop
 ETC_20150317_001935	Defense
@@ -2858,7 +2858,7 @@ ETC_20150317_002857	Collection Effect
 ETC_20150317_002858	List of acquired
 ETC_20150317_002859	Full list
 ETC_20150317_002860	You already have this collection.
-ETC_20150317_002861	Collection
+ETC_20150317_002861	Colección
 ETC_20150317_002862	A collection has been added.
 ETC_20150317_002863	Only through the NPC can be registered.
 ETC_20150317_002864	Obtain {Auto_2} from {Auto_1}
@@ -5942,7 +5942,7 @@ ETC_20150317_005941	Attributes can be used after they have been mastered.
 ETC_20150317_005942	{nl} {nl} Attributes are automatically added when you start learning. Only one attribute can be trained at a time.{nl} {nl}
 ETC_20150317_005943	{nl} {nl} Attributes you have already mastered can be found at the bottom of the skill window. {nl} {nl}
 ETC_20150317_005944	{nl} {nl} Attributes can be enabled or disabled depending on the situation. {nl} {nl}
-ETC_20150317_005945	Adventure Journal
+ETC_20150317_005945	Diario de Aventuras
 ETC_20150317_005946	You can check the progress of your game and character rankings through the Adventure Journal.
 ETC_20150317_005947	Press {img F4 40 40} to open the Adventure Journal window. 
 ETC_20150317_005948	{nl} {nl}You can check the updated score and ranking of each group in the Adventure Journal.{nl} {nl}
@@ -6170,10 +6170,10 @@ ETC_20150317_006170	When a character dies in the dungeon, select
 ETC_20150317_006171	Resurrect at the nearest area
 ETC_20150317_006172	to move to the dungeon entrance. {nl} Be careful when you're deep inside a dungeon!
 ETC_20150317_006173	Gems can be obtained by hunting monsters and bosses in dungeons. {nl} Be careful, as the gems may be lost when you die.
-ETC_20150317_006174	Equipment
-ETC_20150317_006175	Sub-weapon
-ETC_20150317_006176	Consumable
-ETC_20150317_006177	Companion Equipment
+ETC_20150317_006174	Equipo
+ETC_20150317_006175	Arma Secundaria
+ETC_20150317_006176	Consumible
+ETC_20150317_006177	Equipo del Compañero
 ETC_20150317_006178	N/A
 ETC_20150317_006179	Spray - Black
 ETC_20150317_006180	Combine items into different ones
@@ -6189,7 +6189,7 @@ ETC_20150317_006189	Green Gem
 ETC_20150317_006190	Yellow Gem
 ETC_20150317_006191	Test Gem
 ETC_20150317_006192	Claw
-ETC_20150317_006193	Companion Weapons
+ETC_20150317_006193	Armas del Compañero
 ETC_20150317_006194	Creating weapons in this field require one to have both the skills of blacksmith and farrier. Creating even a simple claw is difficult because of this.
 ETC_20150317_006195	Iron Claw
 ETC_20150317_006196	Some devilish beasts are sensitive to iron, and the secrets to manufacturing it are within this recipe.
@@ -13518,7 +13518,7 @@ ETC_20150717_013519	You have reached the maximum amount of characters.{nl}To cre
 ETC_20150717_013520	Please enter your account password.
 ETC_20150717_013521	Entering the world...
 ETC_20150717_013522	Do you want to learn this attribute?
-ETC_20150717_013523	Connecting to the server...
+ETC_20150717_013523	Conectando al Servidor...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}Press and hold the Shift button + right-click{nl}to sell multiple quantities of an item.{nl}Double-click to sell all.
 ETC_20150717_013525	You will be moved to another channel{nl}due to this one being too full.
 ETC_20150717_013526	When enhancing armor, bracelets or necklaces past +{Auto_1}, if it fails, the Potential of that item will decrease by 1.{nl} {nl}When the Potential falls below 0, the item will be destroyed. Do you want to continue?
@@ -13619,7 +13619,7 @@ ETC_20150729_013620	Earth Colimen
 ETC_20150729_013621	Giant Bat
 ETC_20150729_013622	Blue Gravegolem
 ETC_20150729_013623	Team Battle League Tournament
-ETC_20150729_013624	Team Battle League
+ETC_20150729_013624	Batallas por Equipo
 ETC_20150729_013625	This way!
 ETC_20150729_013626	Let's go!!
 ETC_20150729_013627	Something is wrong with the holy relics!
@@ -20563,8 +20563,8 @@ ETC_20160224_020563	The properties of this item was changed during the trade. Pl
 ETC_20160224_020564	You cannot carry more than {MAX} silver.
 ETC_20160224_020565	Redeemable until [{Time}] 
 ETC_20160224_020566	Unexpirable
-ETC_20160224_020567	Hide
-ETC_20160224_020568	Show
+ETC_20160224_020567	Ocultar
+ETC_20160224_020568	Mostrar
 ETC_20160224_020569	Stat
 ETC_20160224_020570	[Premium] Male Hairstyle
 ETC_20160224_020571	[Premium] Female Hairstyle
@@ -21303,7 +21303,7 @@ ETC_20160323_021302	Recipe - Palemidas Amulet
 ETC_20160323_021303	Recipe - Pertraukos Amulet
 ETC_20160323_021304	Rank: {Number}
 ETC_20160323_021305	You can't move to the instanced dungeon.
-ETC_20160323_021306	EXP Gain
+ETC_20160323_021306	EXP Recivida
 ETC_20160323_021307	You can't use it at the max level.
 ETC_20160323_021308	Physical Damage Decrease
 ETC_20160323_021309	Magic Damage Decrease
