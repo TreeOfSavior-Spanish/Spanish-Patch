@@ -8,7 +8,6 @@ Miembros:
 ## Archivos a Traducir:
 - UI.tsv - Darkloud
 - ETC.tsv - Darkelfen (elfengirox00)
-- INTL.tsv - TRADUCIDO - Darkelfen (elfengirox00)
 - ITEM.tsv
 - QUEST.tsv
 - QUEST_JOBSTEP.tsv
@@ -20,7 +19,7 @@ Miembros:
 
 ## Archivos Traducidos:
 
-....
+- INTL.tsv - Darkelfen (elfengirox00)
 
 ## Guia de GitHub
 
