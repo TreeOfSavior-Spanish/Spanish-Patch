@@ -1,5 +1,5 @@
 ETC_20150317_000001	Kepa
-ETC_20150317_000002	Kepa no es un monstruo fuerte. Sin embargo, atacarlo sin cuidado podría destrozarte.
+ETC_20150317_000002	Kepa no es un monstruo fuerte. Sin embargo, atacarlo sin cuidado podría hacerte llorar.
 ETC_20150317_000003	Gran Kepa
 ETC_20150317_000004	Existen personas que a veces intentan comer Gran Kepa. No los dejes.
 ETC_20150317_000005	Kepa Rojo
@@ -42,7 +42,7 @@ ETC_20150317_000041	Araña Arbustera Amarilla
 ETC_20150317_000042	Dionia Desagradable
 ETC_20150317_000043	Dionia Poza
 ETC_20150317_000044	Fragaras Azul
-ETC_20150317_000045	Éste monstruo creció, pero no mucho a cambiado.  Incluso en el pasado, solía ser una planta despiadada y letal.
+ETC_20150317_000045	Éste monstruo creció, pero no ha cambiado mucho. Incluso en el pasado, solía ser una planta despiadada y letal.
 ETC_20150317_000046	Fragaras Azul
 ETC_20150317_000047	Fragaras Roja
 ETC_20150317_000048	Vubbe Luchador
@@ -21437,16 +21437,16 @@ ETC_20160411_021436	Press the F11 key to view your list of Collections registere
 ETC_20160411_021437	Battle League tip
 ETC_20160411_021438	The Team Battle League ranking is reset every Monday at midnight.
 ETC_20160411_021439	You can purchase EXP cards using the points earned through the Team Battle League.
-ETC_20160411_021440	Guild tip
+ETC_20160411_021440	Consejo sobre el gremio
 ETC_20160411_021441	Guild wars start 1 hour after war has been declared and carry on for 1 week.
 ETC_20160411_021442	Guild masters can set their guilds to
 ETC_20160411_021443	 status, which disables war declarations.
-ETC_20160411_021444	Team Storage tip
-ETC_20160411_021445	Using a Token, you can transfer items between characters in the same account through the team storage.
+ETC_20160411_021444	Consejo sobre el almacen del equipo
+ETC_20160411_021445	Usando un símbolo premium, puedes transferir objetos entre personajes en la misma cuenta a través del almacen del equipo.
 ETC_20160411_021446	You can receive EXP cards from Wings of Vibora NPCs by defeating a certain number of monsters.
 ETC_20160411_021447	You can receive EXP cards from Wings of Vibora NPCs by achieving 100% completion on a map.
-ETC_20160411_021448	Team Level tip
-ETC_20160411_021449	The higher your team level, the more extra EXP your characters earn. You can raise your team up to level 50.
+ETC_20160411_021448	Consejo sobre el nivel del equipo
+ETC_20160411_021449	A mayor nivel de tu equipo, mas EXP extra ganan tus personajes. Puedes subir a tu equipo hasta nivel 50.
 ETC_20160411_021450	Thrust Skill Lv +1
 ETC_20160411_021451	Bash Skill Lv +1
 ETC_20160411_021452	Gung Ho Skill Lv +1
@@ -21728,12 +21728,12 @@ ETC_20160411_021727	Turn Undead Skill Lv +1
 ETC_20160411_021728	Conversion Skill Lv +1
 ETC_20160411_021729	Barrier Skill Lv +1
 ETC_20160411_021730	Conviction Skill Lv +1
-ETC_20160412_021731	Report bot	
-ETC_20160412_021732	Report {Name} as a bot user?
-ETC_20160412_021733	{Name} has been reported. Thank you.
+ETC_20160412_021731	Reportar bot	
+ETC_20160412_021732	¿Reportar a {Name} cómo un bot?
+ETC_20160412_021733	{Name} ha sido reportado. Muchas Gracias.
 ETC_20160415_021734	Delay period after account creation until trading is available: (seconds)	
 ETC_20160415_021735	Min Market Price: Adjust	
-ETC_20160415_021736	Chat messages cannot exceed {Max} bites. Use of emoticons and links is restricted as these can take up a large number of bites.
-ETC_20150317_001460	Chat messages cannot exceed {Max} bites. Use of emoticons is restricted as these can take up a large number of bites.	
-ETC_20160415_021737	This function will be available after {Time}.
-ETC_20160415_021738	This user is currently unable to trade.
+ETC_20160415_021736	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons y enlaces está restringido pues puede consumir una gran cantidad de bites.
+ETC_20150317_001460	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons está restringido pues puede consumir una gran cantidad de bites.	
+ETC_20160415_021737	Esta función estará disponible en {Time}.
+ETC_20160415_021738	Este usuario no puede realizar intercambios en este momento.
