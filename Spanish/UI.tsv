@@ -207,18 +207,18 @@ UI_20150317_000206	{@st49}Select{/}
 UI_20150317_000207	{@st49}Cancel{/}
 UI_20150317_000208	{@st49}Delete{/}
 UI_20150317_000209	Enter a file name to save.
-UI_20150317_000210	{@st43}Friends
-UI_20150317_000211	{@st59}Close{/}
-UI_20150317_000212	{@st59b}Friends{nl}{@st59s} - Become friends with other players in the game. {nl} - You can check the status of your friends through the Friends List tab. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
-UI_20150317_000213	{@st41b}Show Online{/}
-UI_20150317_000214	{@st41b}List
-UI_20150317_000215	{@st41b}Manage
-UI_20150317_000216	{@st41b}Send Friend Request
-UI_20150317_000217	{@st41b}Block
-UI_20150317_000218	{@st59}Search{/}
+UI_20150317_000210	{@st43}Amigos
+UI_20150317_000211	{@st59}Cerrar{/}
+UI_20150317_000212	{@st59b}Amigos{nl}{@st59s} - Hazte amigo de otros jugadores en el juego. {nl} - Puedes comprobar sus estados en la ventana de amigos. {nl} - En la Ventana de administracion, puedes invitar, rechazar o bloquear Amigos. {/}
+UI_20150317_000213	{@st41b}En Linea{/}
+UI_20150317_000214	{@st41b}Lista
+UI_20150317_000215	{@st41b}Administrar
+UI_20150317_000216	{@st41b}Enviar peticion de amistad
+UI_20150317_000217	{@st41b}Bloquear
+UI_20150317_000218	{@st59}Buscar{/}
 UI_20150317_000219	{@st44}Guild{/}
 UI_20150317_000220	Guild
-UI_20150317_000221	List
+UI_20150317_000221	Lista
 UI_20150317_000222	News
 UI_20150317_000223	Guild Mission
 UI_20150317_000224	Members Online
@@ -274,9 +274,9 @@ UI_20150317_000273	{@st59}Pantalones{/}
 UI_20150317_000274	{@st59}Zapatos{/}
 UI_20150317_000275	{@st59}Mano Izquierda{/}
 UI_20150317_000276	{@st59}Mano Derecha{/}
-UI_20150317_000277	{@st59}Brazalete 1{/}
-UI_20150317_000278	{@st59}Brazalete 2{/}
-UI_20150317_000279	{@st59}Armband{/}
+UI_20150317_000277	{@st59}Pulsera 1{/}
+UI_20150317_000278	{@st59}Pulsera 2{/}
+UI_20150317_000279	{@st59}Brazalete{/}
 UI_20150317_000280	{@st59}Buscar{/}
 UI_20150317_000281	Peso
 UI_20150317_000282	{@st43}Equipment Buff{/}
@@ -728,7 +728,7 @@ UI_20150317_000727	{@st59}Inventario (F2){/}
 UI_20150317_000728	{@st59}Clases & Habilidades (F3){/}
 UI_20150317_000729	{@st59}Diario de Aventuras (F4){/}
 UI_20150317_000730	{@st59}Misiones (F5){/}
-UI_20150317_000731	{@st59}Party (F6){/}
+UI_20150317_000731	{@st59}Grupo (F6){/}
 UI_20150317_000732	{@st59}Amigos (F7){/}
 UI_20150317_000733	{@st59}Macro (F8) {/}
 UI_20150317_000734	{@st59}Compañero (F9) {/}
@@ -941,17 +941,17 @@ UI_20150317_000940	{@st59}Edit property{/}
 UI_20150317_000941	{@st42}Save{/}
 UI_20150317_000942	{@st59}Save{/}
 UI_20150317_000943	{@st44}Edit UI properties{/}
-UI_20150317_000944	{@St59}Character Selection{/}
-UI_20150317_000945	{@St59}Logout{/}
-UI_20150317_000946	{@St59}Settings{/}
-UI_20150317_000947	{@St59}Quit{/}
+UI_20150317_000944	{@St59}Seleccionar Personaje{/}
+UI_20150317_000945	{@St59}Desconectar{/}
+UI_20150317_000946	{@St59}Opciones{/}
+UI_20150317_000947	{@St59}Salir{/}
 UI_20150317_000948	{@st43}Lodge Settings{/}
-UI_20150317_000949	{@st59}Close{/}
+UI_20150317_000949	{@st59}Cerrar{/}
 UI_20150317_000950	{@St42_b}{s18}{#f5c384}Team Name{/}
 UI_20150317_000951	{@st59}Enter Team name {/}
 UI_20150317_000952	{@st59}Save Team Name{/}
 UI_20150317_000953	Provisional Delete
-UI_20150317_000954	{@St59}Close{/}
+UI_20150317_000954	{@St59}Cerrar{/}
 UI_20150317_000955	{@St43}Lodge Decorating{/}
 UI_20150317_000956	{@St41b}Theme{/}
 UI_20150317_000957	{@St41b}Item Arrangement{/}
@@ -964,38 +964,38 @@ UI_20150317_000963	{@St41b}Return{/}
 UI_20150317_000964	{@St59}Go back to your Lodge without creating a character
 UI_20150317_000965	Cambiar Personaje
 UI_20150317_000966	{@St41}Personaje{/}
-UI_20150317_000967	{@St59}Rotate clockwise{/}
-UI_20150317_000968	{@St59}Rotate counterclockwise{/}
-UI_20150317_000969	{@St43b}Character Rotation{/}
-UI_20150317_000970	{@st43}Character Name{/}
-UI_20150317_000971	Enter a name{@st59} {/}
-UI_20150317_000972	{@St43b}Choose Gender{/}
+UI_20150317_000967	{@St59}Rotar hacia la derecha{/}
+UI_20150317_000968	{@St59}Rotate hacia la izquierda{/}
+UI_20150317_000969	{@St43b}Rotación del Personaje{/}
+UI_20150317_000970	{@st43}Nombre del Personaje{/}
+UI_20150317_000971	Introduce un Nombre{@st59} {/}
+UI_20150317_000972	{@St43b}Selecciona un genero{/}
 UI_20150317_000973	{@St59}Chica{/}
 UI_20150317_000974	{@St59}Chico{/}
-UI_20150317_000975	{@st43b}Choose Hairstyle{/}
-UI_20150317_000976	{@st59}Hairstyle 1{/}
-UI_20150317_000977	{@st59}Hairstyle 2{/}
-UI_20150317_000978	{@St59}Hairstyle 3{/}
-UI_20150317_000979	{@st59}Hairstyle 4{/}
-UI_20150317_000980	{@st59}Hairstyle 5{/}
-UI_20150317_000981	{@st59}Hairstyle 6{/}
-UI_20150317_000982	{@st59}Hairstyle 7{/}
-UI_20150317_000983	{@st59}Hairstyle 8{/}
-UI_20150317_000984	{@st59}Hairstyle 9{/}
-UI_20150317_000985	{@st59}Hairstyle 10{/}
-UI_20150317_000986	{@St43b}Select Class{/}
+UI_20150317_000975	{@st43b}Elige un Peinado{/}
+UI_20150317_000976	{@st59}Peinado 1{/}
+UI_20150317_000977	{@st59}Peinado 2{/}
+UI_20150317_000978	{@St59}Peinado 3{/}
+UI_20150317_000979	{@st59}Peinado 4{/}
+UI_20150317_000980	{@st59}Peinado 5{/}
+UI_20150317_000981	{@st59}Peinado 6{/}
+UI_20150317_000982	{@st59}Peinado 7{/}
+UI_20150317_000983	{@st59}Peinado 8{/}
+UI_20150317_000984	{@st59}Peiando 9{/}
+UI_20150317_000985	{@st59}Peinado 10{/}
+UI_20150317_000986	{@St43b}Selecciona una Clase{/}
 UI_20150317_000987	{@st59}Swordsman{/}
 UI_20150317_000988	{@st59}Wizard{/}
 UI_20150317_000989	{@st59}Archer{/}
 UI_20150317_000990	{@st59}Cleric{/}
 UI_20150317_000991	{@St41b}Visit Barrack {/}
 UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}
-UI_20150317_000993	{@St41b}Logout{/}
+UI_20150317_000993	{@St41b}Desconectar{/}
 UI_20150317_000994	{@St59}Ir a la pantalla de login{/}
 UI_20150317_000995	{@St41b}Salir del juego{/}
 UI_20150317_000996	{@St59}Salir de Tree of Savior{/}
 UI_20150317_000997	{@st41b}Selecciona un canal{/}
-UI_20150317_000998	{@st43}Enter{/}
+UI_20150317_000998	{@st43}Entrar{/}
 UI_20150317_000999	{@St59}Comenzar partida con el personaje seleccionado{/}
 UI_20150317_001000	{@St43}{s26}Team Name{/}
 UI_20150317_001001	{@st59}Team Name{/}
@@ -1066,7 +1066,7 @@ UI_20150317_001065	{@st41b}Cancel
 UI_20150317_001066	{@st59}Cancelar Creacion de Personaje{/}
 UI_20150317_001067	Character Information
 UI_20150317_001068	{@st41}Bring Along
-UI_20150317_001069	{@st59}After clicking this, select a character for the companion to follow you{/}
+UI_20150317_001069	{@st59}Despues de hacer click aqui, selecciona un personaje para que el copañero lo siga{/}
 UI_20150317_001070	UI of Item Creation
 UI_20150317_001071	{s24}Name :
 UI_20150317_001072	{s16} STR :
@@ -1628,7 +1628,7 @@ UI_20150714_001627	Favoritos recividos : %s
 UI_20150714_001628	{@st66b}Mostrar Experiencia Recivida{/}
 UI_20150714_001629	{@st66b}Mostrar Nombre del Personaje{/}
 UI_20150714_001630	{@st66b}Mostrar solo el Nombre del Equipo{/}
-UI_20150714_001631	{@st66b}Mostrar Nombres de otros Jugadores{/}
+UI_20150714_001631	{@st66b}Mostrar Nombres de los Jugadores{/}
 UI_20150714_001632	{@st66b}Auto{/}
 UI_20150714_001633	{@st66b}Mando{/}
 UI_20150714_001634	{@st66b}Teclado{/}
@@ -1826,7 +1826,7 @@ UI_20151016_001825	Notice
 UI_20151022_001826	{@st41}Server Queue
 UI_20151022_001827	{#000000}{s18}The server is currently full. Queuing for entry.
 UI_20151022_001828	{#000000}{s18}Current Position : %s
-UI_20151022_001829	{@st66b}Show Other Character's Effects
+UI_20151022_001829	{@st66b}Mostrar Efectos de Otros Personajes
 UI_20151102_001830	iCoin
 UI_20151224_001831	{@st41b}Change{s18}(Requires 100 TP){/}
 UI_20151224_001832	Consume Quantity
@@ -1856,9 +1856,9 @@ UI_20151224_001855	Ally
 UI_20151224_001856	Enemy
 UI_20151224_001857	{@st66b}Cooking
 UI_20151224_001858	{@st66b}Food
-UI_20151224_001859	{@st66b}List
-UI_20151224_001860	{@st66b}Manage
-UI_20151224_001861	{@st59}Close{/}
+UI_20151224_001859	{@st66b}Lista
+UI_20151224_001860	{@st66b}Administrar
+UI_20151224_001861	{@st59}Cerrar{/}
 UI_20151224_001862	{@st43}Guild{/}
 UI_20151224_001863	{@st41b}Basic Information
 UI_20151224_001864	{@st41b}Property
@@ -1871,7 +1871,7 @@ UI_20151224_001870	Summon
 UI_20151224_001871	To Guild Member
 UI_20151224_001872	Go
 UI_20151224_001873	{@st43}History{/}
-UI_20151224_001874	{@st59}Close{/}
+UI_20151224_001874	{@st59}Cerrar{/}
 UI_20151224_001875	{@st45tw2}Category{/}
 UI_20151224_001876	{@st45tw2}Variation Value{/}
 UI_20151224_001877	{@st45tw2}Time{/}
@@ -1945,9 +1945,9 @@ UI_20151224_001944	{@st41b}Enter
 UI_20151224_001945	{@st66b}Public Party List{/}
 UI_20151224_001946	{@st66b}Recommended Player List{/}
 UI_20151224_001947	Life
-UI_20151224_001948	{@st43}Message Box
-UI_20151224_001949	{@st66b}All
-UI_20151224_001950	{@st66b}Unread
+UI_20151224_001948	{@st43}Correo
+UI_20151224_001949	{@st66b}Todos
+UI_20151224_001950	{@st66b}No Leidos
 UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quests window.{nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue.{nl} - The arrow on your character's foot leads to the location of your quest{nl} - A 'Return' icon is displayed in the quests window when a quest is completed{nl}  (Teleports you to the Quest NPC using the Backspace key or a mouse-click){nl} - Add or remove quests in the quests window by ticking or unticking the box in front of the quest name{/}
 UI_20151224_001952	{@st66b}  In Progress  {/}
 UI_20151224_001953	{@st66b}  Abandoned  {/}

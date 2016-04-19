@@ -1446,7 +1446,7 @@ ETC_20150317_001445	3cm lake 26_1
 ETC_20150317_001446	3cm lake 26_2
 ETC_20150317_001447	Closed Town 53_1
 ETC_20150317_001448	Item Dungeon
-ETC_20150317_001449	// Item
+ETC_20150317_001449	// Objeto
 ETC_20150317_001450	You must have DirectX 9.0c or higher installed to run the game client.
 ETC_20150317_001451	Failed to initialize 3D Device.
 ETC_20150317_001452	IME installed is not supported. Please send the name of IME below to GM.
@@ -1599,7 +1599,7 @@ ETC_20150317_001598	Please select the angle of rotation and click
 ETC_20150317_001599	Please select a pen and draw a picture.
 ETC_20150317_001600	The remaining amount of spray is missing
 ETC_20150317_001601	Already Selected
-ETC_20150317_001602	Are you sure you want to delete your companion {Name}?
+ETC_20150317_001602	¿Estas seguro de querer borrar a tu compañero {Name}?
 ETC_20150317_001603	Equipped {Auto_1} item has been destroyed
 ETC_20150317_001604	Equipped{Auto_1} item has been changed to {Auto_2}
 ETC_20150317_001605	You cannot use this while jumping
@@ -1874,7 +1874,7 @@ ETC_20150317_001873	Inheritance
 ETC_20150317_001874	Start
 ETC_20150317_001875	Join
 ETC_20150317_001876	Obtained item
-ETC_20150317_001877	Accessory
+ETC_20150317_001877	Accesorio
 ETC_20150317_001878	Set
 ETC_20150317_001879	Recipe
 ETC_20150317_001880	Active Skill
@@ -1890,11 +1890,11 @@ ETC_20150317_001889	Temporary Event
 ETC_20150317_001890	Acquired
 ETC_20150317_001891	You already have it.
 ETC_20150317_001892	A Field Boss appeared!
-ETC_20150317_001893	Item
-ETC_20150317_001894	Map
-ETC_20150317_001895	Achievement
+ETC_20150317_001893	Objeto
+ETC_20150317_001894	Mapa
+ETC_20150317_001895	Logro
 ETC_20150317_001896	Mike
-ETC_20150317_001897	Mission
+ETC_20150317_001897	Mision
 ETC_20150317_001898	Other character
 ETC_20150317_001899	Cancel Participation
 ETC_20150317_001900	{Auto_1} level
@@ -2396,9 +2396,9 @@ ETC_20150317_002395	Rank or higher
 ETC_20150317_002396	Rank below
 ETC_20150317_002397	Male characters only
 ETC_20150317_002398	Female characters only
-ETC_20150317_002399	Item
-ETC_20150317_002400	Item needed
-ETC_20150317_002401	 required
+ETC_20150317_002399	Objeto
+ETC_20150317_002400	Objeto necesario
+ETC_20150317_002401	 requerido
 ETC_20150317_002402	Subquest Conditions{nl}
 ETC_20150317_002403	You have not completed the pre-requisite of this quest. You cannot proceed with the party.
 ETC_20150317_002404	Murky energy is flowing out. Run away.
@@ -19183,7 +19183,7 @@ ETC_20151224_019183	There are no tools to repair.
 ETC_20151224_019184	You are too close to the NPC.
 ETC_20151224_019185	Enter a name for your companion
 ETC_20151224_019186	Ability Reduce
-ETC_20151224_019187	Bring Along
+ETC_20151224_019187	Llevar contigo
 ETC_20151224_019188	Your companion cannot equip this.
 ETC_20151224_019189	This item cannot be used in its current state.
 ETC_20151224_019190	You cannot mount your companion while you are transforming.
@@ -21303,7 +21303,7 @@ ETC_20160323_021302	Recipe - Palemidas Amulet
 ETC_20160323_021303	Recipe - Pertraukos Amulet
 ETC_20160323_021304	Rank: {Number}
 ETC_20160323_021305	You can't move to the instanced dungeon.
-ETC_20160323_021306	EXP Recivida
+ETC_20160323_021306	Bonus de EXP
 ETC_20160323_021307	You can't use it at the max level.
 ETC_20160323_021308	Physical Damage Decrease
 ETC_20160323_021309	Magic Damage Decrease
