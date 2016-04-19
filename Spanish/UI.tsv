@@ -206,7 +206,7 @@ UI_20150317_000205	Spray Presets
 UI_20150317_000206	{@st49}Seleccionar{/}
 UI_20150317_000207	{@st49}Cancelar{/}
 UI_20150317_000208	{@st49}Borrar{/}
-UI_20150317_000209	Enter a file name to save.
+UI_20150317_000209	Introduce nombre de archivo para guardar.
 UI_20150317_000210	{@st43}Amigos
 UI_20150317_000211	{@st59}Cerrar{/}
 UI_20150317_000212	{@st59b}Amigos{nl}{@st59s} - Hazte amigo de otros jugadores en el juego. {nl} - Puedes comprobar sus estados en la ventana de amigos. {nl} - En la Ventana de administracion, puedes invitar, rechazar o bloquear Amigos. {/}
@@ -216,46 +216,46 @@ UI_20150317_000215	{@st41b}Administrar
 UI_20150317_000216	{@st41b}Enviar peticion de amistad
 UI_20150317_000217	{@st41b}Bloquear
 UI_20150317_000218	{@st59}Buscar{/}
-UI_20150317_000219	{@st44}Guild{/}
-UI_20150317_000220	Guild
+UI_20150317_000219	{@st44}Clan{/}
+UI_20150317_000220	Clan
 UI_20150317_000221	Lista
-UI_20150317_000222	News
-UI_20150317_000223	Guild Mission
-UI_20150317_000224	Members Online
-UI_20150317_000225	{@st44}Create Guild{/}
-UI_20150317_000226	{@st42}Create{/}
-UI_20150317_000227	{@st42}Close{/}
-UI_20150317_000228	{@st42}All{/}
-UI_20150317_000229	{@st42}Today's Rankings{/}
-UI_20150317_000230	{@st42}Weekly Rankings{/}
+UI_20150317_000222	Noticias
+UI_20150317_000223	Mision de Clan
+UI_20150317_000224	Miembros en linea
+UI_20150317_000225	{@st44}Crear Clan{/}
+UI_20150317_000226	{@st42}Crear{/}
+UI_20150317_000227	{@st42}Cerrar{/}
+UI_20150317_000228	{@st42}Todo{/}
+UI_20150317_000229	{@st42}Ranking de hoy{/}
+UI_20150317_000230	{@st42}Ranking Semanal{/}
 UI_20150317_000231	{@st56}Rank {/}
-UI_20150317_000232	{@st56}Points{/}
-UI_20150317_000233	{@st56}Class{/}
-UI_20150317_000234	{@st56}Name {/}
-UI_20150317_000235	Previous Page
-UI_20150317_000236	Next Page
-UI_20150317_000237	{@st42}Search ID{/}
-UI_20150317_000238	Enter the ID to search
-UI_20150317_000239	Close the Hall of Fame
-UI_20150317_000240	Enter the ID to search
-UI_20150317_000241	{@st59} Stamina {/}
-UI_20150317_000242	{@st43}Help List{/}
-UI_20150317_000243	{@st59}Close{/}
-UI_20150317_000244	{@st59b}Help List{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}
-UI_20150317_000245	{@st43}{s22}Help{/}
-UI_20150317_000246	{@st47_b}{b}Help Topics{/}
-UI_20150317_000247	{@st42b}Simple Help Contents{/}
-UI_20150317_000248	{@st59}View details{/}
-UI_20150317_000249	Please enter a quantity
-UI_20150317_000250	{@st59}Enter the contents{/}
-UI_20150317_000251	{@st41b}Confirm
-UI_20150317_000252	{@st59}Confirm {/}
-UI_20150317_000253	{@st41b}Close
-UI_20150317_000254	{@st59}Cancel {/}
+UI_20150317_000232	{@st56}Puntos{/}
+UI_20150317_000233	{@st56}Clase{/}
+UI_20150317_000234	{@st56}Nombre {/}
+UI_20150317_000235	Pagina Anterior
+UI_20150317_000236	Siguiente Pagina
+UI_20150317_000237	{@st42}Buscar ID{/}
+UI_20150317_000238	Introduce una ID para buscar
+UI_20150317_000239	Cerrar el Salón de la Fama
+UI_20150317_000240	Introduce una ID para buscar
+UI_20150317_000241	{@st59} Estamina {/}
+UI_20150317_000242	{@st43}Lista de ayuda{/}
+UI_20150317_000243	{@st59}Cerrar{/}
+UI_20150317_000244	{@st59b}Lista de ayuda{nl}{@st59s} - Si necesitas ayuda con algo, Siempre puedes leer los temas de ayuda. {nl} - Selecciona un tema para mas información. {/}
+UI_20150317_000245	{@st43}{s22}Ayuda{/}
+UI_20150317_000246	{@st47_b}{b}Temas de Ayuda{/}
+UI_20150317_000247	{@st42b}Contenido Simple de Ayuda{/}
+UI_20150317_000248	{@st59}Ver Detalles{/}
+UI_20150317_000249	Por favor introduce una cantidad
+UI_20150317_000250	{@st59}Introduce el contenido{/}
+UI_20150317_000251	{@st41b}Confirmar
+UI_20150317_000252	{@st59}Confirmar {/}
+UI_20150317_000253	{@st41b}Cerrar
+UI_20150317_000254	{@st59}Cancelar {/}
 UI_20150317_000255	{@st43}Warp{/}
-UI_20150317_000256	{@st59}Close{/}
+UI_20150317_000256	{@st59}Cerrar{/}
 UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Allows you to quickly travel to regions you have already visited. {nl} - Feature is activated when two or more warp points are available. {nl} {/}
-UI_20150317_000258	{@st41}Current Location : %s{/}
+UI_20150317_000258	{@st41}Localización actual : %s{/}
 UI_20150317_000259	{@st43}{s22}Warp{/}
 UI_20150317_000260	{@st41b}Do you want to move to this area?{/}
 UI_20150317_000261	What about Siauliai
