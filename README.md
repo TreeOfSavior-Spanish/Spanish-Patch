@@ -7,8 +7,8 @@ Miembros:
 
 ## Archivos a Traducir:
 - UI.tsv - Darkloud
-- ETC.tsv
-- INTL.tsv - Darkelfen
+- ETC.tsv - Darkelfen (elfengirox00)
+- INTL.tsv - TRADUCIDO - Darkelfen (elfengirox00)
 - ITEM.tsv
 - QUEST.tsv
 - QUEST_JOBSTEP.tsv
