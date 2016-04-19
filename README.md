@@ -3,6 +3,7 @@ Proyecto de traduccion ToS a Español.
 
 Miembros:
 Darkloud
+Darkelfen (elfengirox00)
 
 ## Archivos a Traducir:
 - UI.tsv - Darkloud
