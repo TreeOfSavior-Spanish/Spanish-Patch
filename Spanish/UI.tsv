@@ -27,14 +27,14 @@ UI_20150317_000026	{@st41b}Precio Actual
 UI_20150317_000027	{@st41b}Precio de Subasta
 UI_20150317_000028	{@st41b}Puja mínima por {@st57}%s{@st41b}Plata{/}
 UI_20150317_000029	{@st41b}Puja{/}
-UI_20150317_000030	{@st43b}¡Compra ahora!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_000030	{@st43b}¡Comprar ahora!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_000031	{@st44}Opciones de Permisos{/}
 UI_20150317_000032	{@st45}Nombre: %s{/}
 UI_20150317_000033	{@st45}Inventario de Party{/}
 UI_20150317_000034	{@st49}Ninguna
 UI_20150317_000035	{@st49}Almacenar
 UI_20150317_000036	{@st49}Retirar
-UI_20150317_000037	{@st45}Survey{/}
+UI_20150317_000037	{@st45}Encuesta{/}
 UI_20150317_000038	{@st49}Crear
 UI_20150317_000039	{@st49}Borrar
 UI_20150317_000040	{@st44}Guardar{/}
