@@ -1,0 +1,4 @@
+- Los nombres de los monstruos seran modificados, pero no los nombres propios.
+Ej: Fisherman -> Pescador || Vubbe Fighter -> Vubbe Luchador || Bushspider -> Araña Arbustera
+- Stats -> Estadísticas
+- Skills -> Habilidades
