@@ -127,7 +127,7 @@ UI_20150317_000126	{s16}{b}u
 UI_20150317_000127	{s16}{b}Seleciona el area deseada.
 UI_20150317_000128	{s18}{b}Ver Minimapa{/}
 UI_20150317_000129	{@st41b}Lista de Herramientas{/}
-UI_20150317_000130	{@st59b}Colección {nl}{@st59s}- Compra el pack de Colección para añadir objetos coleccionables a tu colección. {nl} - La tecla de Colección se activara cuando uses un pack de objetos de colección. {nl} {/}
+UI_20150317_000130	{@st59b}Colección {nl}{@st59s}- Consigue el pack de Colección para añadir objetos coleccionables a tu colección. {nl} - La tecla de Colección se activara cuando uses un pack de objetos de colección. {nl} {/}
 UI_20150317_000131	{@st59}Cerrar{/}
 UI_20150317_000132	{@st43}Colección{/}
 UI_20150317_000133	{@st43}Color Spray{/}
@@ -213,7 +213,7 @@ UI_20150317_000212	{@st59b}Amigos{nl}{@st59s} - Hazte amigo de otros jugadores e
 UI_20150317_000213	{@st41b}En Linea{/}
 UI_20150317_000214	{@st41b}Lista
 UI_20150317_000215	{@st41b}Administrar
-UI_20150317_000216	{@st41b}Enviar peticion de amistad
+UI_20150317_000216	{@st41b}Añadir Amigo
 UI_20150317_000217	{@st41b}Bloquear
 UI_20150317_000218	{@st59}Buscar{/}
 UI_20150317_000219	{@st44}Clan{/}
@@ -473,7 +473,7 @@ UI_20150317_000472	{Gr gradation1}Registration{/}
 UI_20150317_000473	Register Rules
 UI_20150317_000474	{Gr gradation1}Cancel{/}
 UI_20150317_000475	Cancel Action
-UI_20150317_000476	{@st43}Companion Info
+UI_20150317_000476	{@st43}Información del Compañero
 UI_20150317_000477	{@st59b}Companion Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized. {/}
 UI_20150317_000478	{@st59}Close{/}
 UI_20150317_000479	{@st41b}Name : {@sti9}%s{/}
@@ -1539,7 +1539,7 @@ UI_20150428_001538	{@st41b}Auto{/}
 UI_20150428_001539	{@st41b}Controller{/}
 UI_20150428_001540	{@st41b}Keyboard{/}
 UI_20150428_001541	Controller
-UI_20150428_001542	{@st59}Informacion del Mando{/}
+UI_20150428_001542	{@st59}Información del Mando{/}
 UI_20150428_001543	Keyboard
 UI_20150428_001544	{@st59}Información del Teclado{/}
 UI_20150428_001545	{@st43}Gráficos{/}
@@ -1564,7 +1564,7 @@ UI_20150714_001563	{@st41b}Remove Refreshment Table
 UI_20150714_001564	{@st42}My Summon Skill
 UI_20150714_001565	{@st42}Stat
 UI_20150714_001566	{@st42}Current Location : %s{/}
-UI_20150714_001567	{@st59b}Equipo {nl}{@st59s} - Pelo/Ropa: Equipamiento para cambiar la apariencia del personaje. {nl} - Armas: De una mano o de dos manos {nl} (Arma Secundaria/Escudo se pueden equipar con armas de una mano) {nl} - Armadura: Pecho, Pantalon, Guantes, Zapatos. {nl} - Accessorios: 1 Colgante y 2 Brazaletes. {nl} {/}
+UI_20150714_001567	{@st59b}Equipo {nl}{@st59s} - Pelo/Ropa: Equipamiento para cambiar la apariencia del personaje. {nl} - Armas: De una mano o de dos manos {nl} (Arma Secundaria/Escudo se pueden equipar con armas de una mano) {nl} - Armadura: Pecho, Pantalon, Guantes, Zapatos. {nl} - Accessorios: 1 Colgante y 2 Pulseras. {nl} {/}
 UI_20150714_001568	{@st43}Open %s Shop {/}
 UI_20150714_001569	{@st41b}Roasting{/}
 UI_20150714_001570	{@st66}Select All
@@ -1962,7 +1962,7 @@ UI_20151224_001961	{@st59b}Classes{nl}{@st59s}- You can learn new skills by grow
 UI_20151224_001962	{@st66b}Information{/}
 UI_20151224_001963	{@st66b}Achievements{/}
 UI_20151224_001964	{@st66b}Character Settings{/}
-UI_20151224_001965	{@st59}Collection (F11){/}
+UI_20151224_001965	{@st59}Colección (F11){/}
 UI_20151224_001966	{@st66b}Configurar Teclas
 UI_20151224_001967	{@st42}Duration: %s{/}
 UI_20151224_001968	Applies to this %s for %s{nl} and delete %s from inventory
@@ -2169,7 +2169,7 @@ UI_20160323_002168	{@st43}{s26}Nivel de Equipo %s{/}
 UI_20160323_002169	{@st66b}Info de Equipo
 UI_20160323_002170	{#2c140c}Average Level : %s{/}
 UI_20160323_002171	{@st41b}Join
-UI_20160323_002172	{@st42} Saludos del Personaje{/}
+UI_20160323_002172	{@st42} Saludo del Personaje{/}
 UI_20160323_002173	[Server] Nombre del Guild
 UI_20160323_002174	Record / Puntuación
 UI_20160323_002175	[Created: %s ago]
