@@ -1,10 +1,13 @@
 [ Básicos ]
+- Lv -> Nv
 - Character(s) -> Personaje(s)
 - Stats -> Estadísticas
 - Skill(s) -> Habilidad(es)
 - EXP -> Se conserva (EXPerience/EXPeriencia)
 - NPC -> PNJ
 - Tip -> Consejo
+- Silver -> Plata
+- Guild -> Clan
 
 [ Nombres de Clases ]
 >> Archer: Arquero
@@ -48,12 +51,12 @@
 >> Necromancer: Nigromante
 >> Alchemist: Alquimista
 >> Rune Caster: ¿¿¿Recitador de Runas???
->> Warlock: Hechicero
+>> Warlock: Brujo
 >> Featherfoot: ???
 
 >> Cleric: Clérigo
 >> Krivis: =
->> Priest: 
+>> Priest: Sacerdote
 >> Bokor: =
 >> Dievdirbys: =
 >> Sadhu: =
