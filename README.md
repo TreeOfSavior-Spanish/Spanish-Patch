@@ -50,6 +50,8 @@ los cambios que hemos realizado, le añadiremos un nombre descriptivo y una pequ
 
 ![alt tag](https://raw.githubusercontent.com/TreeOfSavior-Spanish/Spanish-Patch/master/Spanish/Guia%20GitHub/Commit.PNG)
 
--En la pestaña History podemos ir viendo los cambios hechos anteriormente por nuestros compañeros o por nosotros.
+- Despues de cada Commit se debe hacer otro "Sync"
+
+- En la pestaña History podemos ir viendo los cambios hechos anteriormente por nuestros compañeros o por nosotros.
 
 
