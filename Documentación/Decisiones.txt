@@ -12,7 +12,7 @@
 [ Nombres de Clases ]
 >> Archer: Arquero
 >> Quarrel Shooter: Ballestero (NdT: Quarrel es un tipo de Saeta con punta cuadrada).
->> Ranger: ???
+>> Ranger: Guardabosque
 >> Sapper: Zapador
 >> Hunter: Cazador
 >> Wugushi: =
