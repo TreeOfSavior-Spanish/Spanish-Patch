@@ -8,7 +8,7 @@ Miembros:
 ## Archivos a Traducir:
 - UI.tsv - Darkloud
 - ETC.tsv
-- INTL.tsv
+- INTL.tsv - Darkelfen
 - ITEM.tsv
 - QUEST.tsv
 - QUEST_JOBSTEP.tsv
