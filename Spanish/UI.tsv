@@ -1,4 +1,4 @@
-UI_20150317_000001	{@st41b}Learn Attributes{nl}from respective masters of each class.{/}
+UI_20150317_000001	{@st41b}Aprende atributos{nl}desde el maestro de cada clase.{/}
 UI_20150317_000002	{@st43}Lista de Atributos {/}
 UI_20150317_000003	{@st59}Cerrar{/}
 UI_20150317_000004	{@st43}Aprender Atributos{/}
@@ -8,7 +8,7 @@ UI_20150317_000007	Mis Logros
 UI_20150317_000008	Ranking del Servidor
 UI_20150317_000009	{@st59}Un evento inesperado está disponible.{/}
 UI_20150317_000010	{@st59}Hay un nuevo mensaje de Ayuda{/}
-UI_20150317_000011	{@st41}¿Estas seguro que quieres craftear este tipo de flecha?{/}
+UI_20150317_000011	{@st41}¿Estas seguro que quieres crear este tipo de flecha?{/}
 UI_20150317_000012	{@st41b}Una vez{/}
 UI_20150317_000013	{@st41b}Todo{/}
 UI_20150317_000014	{@st41b}Pausa{/}
@@ -133,79 +133,79 @@ UI_20150317_000132	{@st43}Colección{/}
 UI_20150317_000133	{@st43}Color Spray{/}
 UI_20150317_000134	{@st49}Color Spray{/}
 UI_20150317_000135	{@st49}Color{/}
-UI_20150317_000136	{@st49}Remaining{/}
-UI_20150317_000137	{@st49}Brush{/}
-UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Draw{/}{/}
-UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}
-UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}
-UI_20150317_000141	{@st49}Close{/}
-UI_20150317_000142	{@st43}Companion Adoption
-UI_20150317_000143	{@st59}Enter the name of your newly adopted companion {/}
-UI_20150317_000144	{@st41b}Name{/}
-UI_20150317_000145	{@st41b}Price %s{/}
-UI_20150317_000146	{@st59}Close{/}
-UI_20150317_000147	{@st41b}Adopt
-UI_20150317_000148	{@st59}Confirm{/}
-UI_20150317_000149	{@st43}Companion Shop
-UI_20150317_000150	{@st59}Close{/}
-UI_20150317_000151	{@st43}Other Character Info{/}{@st42}
-UI_20150317_000152	{@st59}Close{/}
-UI_20150317_000153	{@st41b}Information
+UI_20150317_000136	{@st49}Restante{/}
+UI_20150317_000137	{@st49}Pincel{/}
+UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Dibujar{/}{/}
+UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Guardar{/}{/}
+UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Importar{/}{/}
+UI_20150317_000141	{@st49}Cerrar{/}
+UI_20150317_000142	{@st43}Adopción de Compañero
+UI_20150317_000143	{@st59}Introduce el nombre de tu nuevo compañero adoptado {/}
+UI_20150317_000144	{@st41b}Nombre{/}
+UI_20150317_000145	{@st41b}Precio %s{/}
+UI_20150317_000146	{@st59}Cerrar{/}
+UI_20150317_000147	{@st41b}Adoptar
+UI_20150317_000148	{@st59}Confirmar{/}
+UI_20150317_000149	{@st43}Tienda de Compañeros
+UI_20150317_000150	{@st59}Cerrar{/}
+UI_20150317_000151	{@st43}Información de otro personaje{/}{@st42}
+UI_20150317_000152	{@st59}Cerrar{/}
+UI_20150317_000153	{@st41b}Información
 UI_20150317_000154	{@st41b}Record
-UI_20150317_000155	Team Name
-UI_20150317_000156	Character Name
-UI_20150317_000157	Circle {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}
-UI_20150317_000158	Warrior
-UI_20150317_000159	Adventure Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
-UI_20150317_000160	Adventure Index {#ffff00}%s{/} ({#ffff00}Unranked{/})
-UI_20150317_000161	Total Achievements : {#ffff00}%s{/}
-UI_20150317_000162	Settings
-UI_20150317_000163	Clear the tab title to delete the tab.
-UI_20150317_000164	{@st49}All{/}
-UI_20150317_000165	{@st49}System{/}
-UI_20150317_000166	{@st49}Talk{/}
-UI_20150317_000167	{@st49}Combat{/}
-UI_20150317_000168	{@st49}Item{/}
-UI_20150317_000169	{@st43}Credits{/}
-UI_20150317_000170	{@st43}Lock Target settings {/}
-UI_20150317_000171	NPC Name
-UI_20150317_000172	Compare
-UI_20150317_000173	Illustration
-UI_20150317_000174	Select a conversation
-UI_20150317_000175	Text Help
-UI_20150317_000176	{@st41}Item Crafting{/}
-UI_20150317_000177	{@st45tw2}Crafting the item...
-UI_20150317_000178	%r seconds
-UI_20150317_000179	{@st41}Cancel{/}
-UI_20150317_000180	{@st45tw2}Quantity{/}
-UI_20150317_000181	{@st45tw2}Do you want to craft this item?
-UI_20150317_000182	{@st41}Confirm{/}
-UI_20150317_000183	Quest Information
-UI_20150317_000184	{@st59}Cancel Trade{/}
-UI_20150317_000185	{@st43}Personal Trade{/}
-UI_20150317_000186	My Trading List
-UI_20150317_000187	Silver : %s
-UI_20150317_000188	Enter
-UI_20150317_000189	{@st41}Accept
-UI_20150317_000190	{@st41}Confirm
-UI_20150317_000191	Other Player's (%s) Trading List
-UI_20150317_000192	Other Player's Name
-UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}
-UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?
-UI_20150317_000195	{s20}{ol}%s Would you like to join?
-UI_20150317_000196	{s20}{ol}Participants : (1/5)
-UI_20150317_000197	{s20}{ol}Participants : (%s/%s)
-UI_20150317_000198	{s20}{ol}The game will begin after 1 second.
-UI_20150317_000199	{s20}{ol}The game will begin after %s seconds.
-UI_20150317_000200	Do not show this anymore for today.
-UI_20150317_000201	Do not show Field Events.
-UI_20150317_000202	Join Game
-UI_20150317_000203	Start a game with other players.
-UI_20150317_000204	Decline game invite.
+UI_20150317_000155	Nombre de Equipo
+UI_20150317_000156	Nombre de Personaje
+UI_20150317_000157	Circulo {#ffff00}%s{/} %s Nv. {#ffff00}%s{/}
+UI_20150317_000158	Guerrero
+UI_20150317_000159	Índice de aventura {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
+UI_20150317_000160	Índice de aventura {#ffff00}%s{/} ({#ffff00}Sin clasificar{/})
+UI_20150317_000161	Logros Totales : {#ffff00}%s{/}
+UI_20150317_000162	Opciones
+UI_20150317_000163	Borrar titulo de la ventana para borrar la ventana.
+UI_20150317_000164	{@st49}Todo{/}
+UI_20150317_000165	{@st49}Sistema{/}
+UI_20150317_000166	{@st49}Hablar{/}
+UI_20150317_000167	{@st49}Combate{/}
+UI_20150317_000168	{@st49}Objeto{/}
+UI_20150317_000169	{@st43}Creditos{/}
+UI_20150317_000170	{@st43}Opciones de Fijar Objetivo {/}
+UI_20150317_000171	Nombre PNJ
+UI_20150317_000172	Comparar
+UI_20150317_000173	Ilustración
+UI_20150317_000174	Seleccionar una conversación
+UI_20150317_000175	Texto de ayuda
+UI_20150317_000176	{@st41}Creación de Objetos{/}
+UI_20150317_000177	{@st45tw2}Crear objeto...
+UI_20150317_000178	%r segundos
+UI_20150317_000179	{@st41}Cancelar{/}
+UI_20150317_000180	{@st45tw2}Cantidad{/}
+UI_20150317_000181	{@st45tw2}¿Quieres crear este objeto?
+UI_20150317_000182	{@st41}Confirmar{/}
+UI_20150317_000183	Información de mision
+UI_20150317_000184	{@st59}Cancelar Comercio{/}
+UI_20150317_000185	{@st43}Comercio personal{/}
+UI_20150317_000186	Mi Lista de Comercio
+UI_20150317_000187	Plata : %s
+UI_20150317_000188	Entrar
+UI_20150317_000189	{@st41}Aceptar
+UI_20150317_000190	{@st41}Confirmar
+UI_20150317_000191	Otros Jugadores (%s) Lista de Comercio
+UI_20150317_000192	Nombres de Otros Jugadores
+UI_20150317_000193	{s18}{ol} {gr gradation1}Evento de Campo{/}
+UI_20150317_000194	{s20}{ol}¡Derrota a la tribu Vubbe! ¿Quieres unirte?
+UI_20150317_000195	{s20}{ol}%s ¿Te gustaría unirte?
+UI_20150317_000196	{s20}{ol}Participantes : (1/5)
+UI_20150317_000197	{s20}{ol}Participantes : (%s/%s)
+UI_20150317_000198	{s20}{ol}El juego comenzara pasado 1 segundo.
+UI_20150317_000199	{s20}{ol}El juego comenzara pasado %s segundos.
+UI_20150317_000200	No mostrar esto más para hoy.
+UI_20150317_000201	No mostrar los eventos de campo.
+UI_20150317_000202	Unirse a la partida
+UI_20150317_000203	Comenzar partida con otros jugadores.
+UI_20150317_000204	Rechazar invitaciones.
 UI_20150317_000205	Spray Presets
-UI_20150317_000206	{@st49}Select{/}
-UI_20150317_000207	{@st49}Cancel{/}
-UI_20150317_000208	{@st49}Delete{/}
+UI_20150317_000206	{@st49}Seleccionar{/}
+UI_20150317_000207	{@st49}Cancelar{/}
+UI_20150317_000208	{@st49}Borrar{/}
 UI_20150317_000209	Enter a file name to save.
 UI_20150317_000210	{@st43}Amigos
 UI_20150317_000211	{@st59}Cerrar{/}
@@ -959,9 +959,9 @@ UI_20150317_000958	{@St41b}Name
 UI_20150317_000959	{@St41b}Price
 UI_20150317_000960	{@St41b}State
 UI_20150317_000961	{@St44}Nuevo Personaje{/}
-UI_20150317_000962	{@St41b}{s22}Select Character Class{/}
-UI_20150317_000963	{@St41b}Return{/}
-UI_20150317_000964	{@St59}Go back to your Lodge without creating a character
+UI_20150317_000962	{@St41b}{s22}Selecciona una clase para el Personaje{/}
+UI_20150317_000963	{@St41b}Volver{/}
+UI_20150317_000964	{@St59}Vuelve a la guarida sin crear un personaje
 UI_20150317_000965	Cambiar Personaje
 UI_20150317_000966	{@St41}Personaje{/}
 UI_20150317_000967	{@St59}Rotar hacia la derecha{/}
@@ -1008,7 +1008,7 @@ UI_20150317_001007	{@St42}Change{/}
 UI_20150317_001008	{@St44}New Window Name{/}
 UI_20150317_001009	{@St43}{s40}{gr gradation4}Crear Personaje{/}
 UI_20150317_001010	{@St59}Crear Personaje{/}
-UI_20150317_001011	{@St59}Cancelar Creacion de Personaje{/}
+UI_20150317_001011	{@St59}Cancelar Creación de Personaje{/}
 UI_20150317_001012	{@St59}Cerrar{/}
 UI_20150317_001013	{@St59}Create a team with the entered name{/}
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!
@@ -1054,27 +1054,27 @@ UI_20150317_001053	Characters Water Reflection
 UI_20150317_001054	Background Water Reflection
 UI_20150317_001055	{s20}{#BBBBBB}Glow Setup
 UI_20150317_001056	Enable Glow
-UI_20150317_001057	{@st41}Attack{/}
-UI_20150317_001058	{@St41}Defense{/}
-UI_20150317_001059	{@st41}Support{/}
-UI_20150317_001060	{@st41}Difficulty{/}
-UI_20150317_001061	{@st41}Hairstyle
-UI_20150317_001062	{@st41}Rotation
+UI_20150317_001057	{@st41}Ataque{/}
+UI_20150317_001058	{@St41}Defensa{/}
+UI_20150317_001059	{@st41}Apoyo{/}
+UI_20150317_001060	{@st41}Dificultad{/}
+UI_20150317_001061	{@st41}Peinado
+UI_20150317_001062	{@st41}Rotación
 UI_20150317_001063	{@st43}Crear Personaje
-UI_20150317_001064	{@st59}Create Current Character{/}
-UI_20150317_001065	{@st41b}Cancel
-UI_20150317_001066	{@st59}Cancelar Creacion de Personaje{/}
-UI_20150317_001067	Character Information
-UI_20150317_001068	{@st41}Bring Along
+UI_20150317_001064	{@st59}Crear Personaje actual{/}
+UI_20150317_001065	{@st41b}Cancelar
+UI_20150317_001066	{@st59}Cancelar Creación de Personaje{/}
+UI_20150317_001067	Información del personaje
+UI_20150317_001068	{@st41}Llevar contigo
 UI_20150317_001069	{@st59}Despues de hacer click aqui, selecciona un personaje para que el copañero lo siga{/}
-UI_20150317_001070	UI of Item Creation
-UI_20150317_001071	{s24}Name :
+UI_20150317_001070	UI de Creación de objetos
+UI_20150317_001071	{s24}Nombre :
 UI_20150317_001072	{s16} STR :
 UI_20150317_001073	{s16} HP :
 UI_20150317_001074	{s16} AGI :
 UI_20150317_001075	{s16} VIT :
 UI_20150317_001076	{s16} Force :
-UI_20150317_001077	{s18} Class Selection
+UI_20150317_001077	{s18} Seleccion de Clase
 UI_20150317_001078	{s18} Right Way Union
 UI_20150317_001079	{s18} Providence Evil Union
 UI_20150317_001080	Hong Moo Moon
@@ -2007,7 +2007,7 @@ UI_20151224_002006	{@st42}Battle System Designer{nl}{@st41b}{s22}Girak Choi{nl}{
 UI_20151224_002007	{@st42}Background Designer{nl}{@st41b}{s22}Roch{nl}Rendering Studio Corp.{nl}Lisa Lee{nl}Dongho Kang{nl}JIN{nl}Yeonew{nl}Moje{nl}Hyunjung Lee{nl} {nl}{@st42}Content Design Manager{nl}{@st41b}{s22}Choungsu Lee{nl} {nl}{@st42}Content Designer{nl}{@st41b}{s22}Ujeong Son{nl}Wonjong Lee{nl}Orange Smith{nl}Jihyun Moon{nl}Jeongsu Kim{nl}Donghun Choe{nl}Seungyoung Jin{nl}Ginyi Lee{nl}Jongwook Moon{nl} {nl}{@st42}Scenario Writer{nl}{@st41b}{s22}Seion Kim{nl} {nl}{@st42}Conworlding Supervisor{nl}{@st41b}{s22}Martynas Siauciunas Kacinskas{nl}Kristina Kudriasova{/}
 UI_20151224_002008	{@st42}Sound Director{nl}{@st41b}{s22}sevin{nl} {nl}{@st42}General Sound Designer{nl}{@st41b}{s22}MIGHT{nl} {nl}{@st42}Sound Designer{nl}{@st41b}{s22}VIKCO{nl} {nl}{@st42}UX/UI Manager{nl}{@st41b}{s22}Gilyong Lee{nl} {nl}{@st42}UI Designer{nl}{@st41b}{s22}Jooyeon Seo{nl} {nl}{@st42}DBA{nl}{@st41b}{s22}Manju Han{nl} {nl}{@st42}Quality Assurance Manager{nl}{@st41b}{s22}Yonghyun Kim{nl} {nl}{@st42}Quality Assurance{nl}{@st41b}{s22}Yonghyun Ahn{nl}Eunyoung Park{nl}Mancheol No{nl}Eunyeong Lee{nl}Yebin Lheem{nl}Jaesoon Jang{nl}Jisu Park{/}
 UI_20151224_002009	{@st42}Global Publishing Director{nl}{@st41b}{s22}Moojin Shin{nl} {nl}{@st42}Localization{nl}{@st41b}{s22}Jay{nl}Shawn{nl}Jenny{nl}John{nl} {nl}{@st42}Technical Support{nl}{@st41b}{s22}Kangwoo Kim{nl}Wanjae Lee{nl}Sunyong Lee{nl}Sungkie Park{/}
-UI_20151224_002010	Select Starting City
+UI_20151224_002010	Selecciona una ciudad de inicio
 UI_20151224_002011	{@st44}Klaipeda
 UI_20151224_002012	{@st59s}A mining town that has progressed thanks to the Crystal Mine.{nl}This city received minor damage during Medzio Diena.{/}
 UI_20151224_002013	{@st44}Orsha
