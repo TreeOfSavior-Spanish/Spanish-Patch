@@ -252,18 +252,18 @@ UI_20150317_000251	{@st41b}Confirmar
 UI_20150317_000252	{@st59}Confirmar {/}
 UI_20150317_000253	{@st41b}Cerrar
 UI_20150317_000254	{@st59}Cancelar {/}
-UI_20150317_000255	{@st43}Warp{/}
+UI_20150317_000255	{@st43}Teletransporte{/}
 UI_20150317_000256	{@st59}Cerrar{/}
-UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Allows you to quickly travel to regions you have already visited. {nl} - Feature is activated when two or more warp points are available. {nl} {/}
+UI_20150317_000257	{@st59b}Teletransporte{nl}{@st59s} - Te permite viajar rapidamente a regiones que ya has visitado. {nl} - Esta opcion se activa cuando se han activado dos o mas teletransportes. {nl} {/}
 UI_20150317_000258	{@st41}Localización actual : %s{/}
-UI_20150317_000259	{@st43}{s22}Warp{/}
-UI_20150317_000260	{@st41b}Do you want to move to this area?{/}
-UI_20150317_000261	What about Siauliai
-UI_20150317_000262	Coin Consumed : 0
-UI_20150317_000263	Intro
+UI_20150317_000259	{@st43}{s22}Teletransporte{/}
+UI_20150317_000260	{@st41b}¿Quieres moverte a esa zona?{/}
+UI_20150317_000261	Que pasa con Siauliai
+UI_20150317_000262	Monedas gastadas : 0
+UI_20150317_000263	Introducción
 UI_20150317_000264	{@st43}Inventario{/}
 UI_20150317_000265	{@st59}Cerrar{/}
-UI_20150317_000266	{@st59b}Equipment {nl} {@st59s}- Hair/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
+UI_20150317_000266	{@st59b}Equipamiento {nl} {@st59s}- Pelo/Ropa: Equipamiento para cambiar la apariencia del personaje. {nl} - Arma: Se puede equipar armas de una mano o de dos manos {nl} (arma secundaria/escudo pueden ser equipada con armas de una mano) {nl} - Armadura: Pecho, Pantalon, Guantes, Zapatos. {nl} - Accesorios: Se pueden equipar 1 Colgante y 2 Pulseras. {nl} {/}
 UI_20150317_000267	{@st59}Acc de pelo 1{/}
 UI_20150317_000268	{@st59}Acc de pelo 2{/}
 UI_20150317_000269	{@st59}Colgante{/}
@@ -279,243 +279,243 @@ UI_20150317_000278	{@st59}Pulsera 2{/}
 UI_20150317_000279	{@st59}Brazalete{/}
 UI_20150317_000280	{@st59}Buscar{/}
 UI_20150317_000281	Peso
-UI_20150317_000282	{@st43}Equipment Buff{/}
+UI_20150317_000282	{@st43}Encantamiento de equipo{/}
 UI_20150317_000283	{@st59}Cerrar{/}
-UI_20150317_000284	{@st42}Available for Buff
-UI_20150317_000285	{@st42}Consume{/}
-UI_20150317_000286	{@st42}Run
-UI_20150317_000287	{@st42}Target Item{/}
-UI_20150317_000288	{@st59}Ring 1{/}
-UI_20150317_000289	{@st43}Item Crafting{/}
-UI_20150317_000290	{@st42b}Show Craftable Items{/}
+UI_20150317_000284	{@st42}Disponible para encantar
+UI_20150317_000285	{@st42}Consumir{/}
+UI_20150317_000286	{@st42}Correr
+UI_20150317_000287	{@st42}Objeto objetivo{/}
+UI_20150317_000288	{@st59}Anillo 1{/}
+UI_20150317_000289	{@st43}Crafteando Objeto{/}
+UI_20150317_000290	{@st42b}Mostrar Objetos Crafteables{/}
 UI_20150317_000291	{@st59}Cerrar{/}
-UI_20150317_000292	{@st43}{s22}Split Item
-UI_20150317_000293	{@st59}Enter a quantity{/}
-UI_20150317_000294	Monster HP Bar
-UI_20150317_000295	{@st44}Item Set acquired{/}
-UI_20150317_000296	Keyboard Warrior
-UI_20150317_000297	Kills
-UI_20150317_000298	99 minutes 99 seconds
-UI_20150317_000299	38000 points
-UI_20150317_000300	Enhanced Speed Potion
-UI_20150317_000301	{@st41}Confirm{/}
-UI_20150317_000302	{@st59b} Adventure Journal {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
+UI_20150317_000292	{@st43}{s22}Separar Objetos
+UI_20150317_000293	{@st59}Introduce una cantidad{/}
+UI_20150317_000294	PV del Mosntruo
+UI_20150317_000295	{@st44}Adquirido Objeto de Set{/}
+UI_20150317_000296	Guerrero del teclado
+UI_20150317_000297	Muertes
+UI_20150317_000298	99 minutos 99 segundos
+UI_20150317_000299	38000 puntos
+UI_20150317_000300	Poción encantada de Velocidad
+UI_20150317_000301	{@st41}Confirmar{/}
+UI_20150317_000302	{@st59b} Diario de Aventuras {nl}{@st59s}- Tu progreso en el juego se guarda en el Diario de Aventuras. {nl} - Puedes progrsar en tu diario de aventuras completando contenido como: obtener Objetos,cazando monstruos, crafteando y explorando mapas.{nl}    Índice de Aventuras : El total de todo el Índice. {nl}    Aumento : 5 puntos por nivel de personaje y nivel de clase {nl}    Objetos : Equipamiento : grado X 10 puntos, Libros : 10 puntos, Otros : 1 punto {nl}    Monstruos : 10 puntos por monstruos (50 puntos por Monstruo Jefe) {nl}    Mapas : 1 punto por 10% explorado {nl}    Misiones : 1 puntos por misión {nl}    Logros : Varios por logro {nl}    Creación : 10 puntos {nl}    Colección : 5 puntos por un pack y 45 puntos cuando lo completes {nl} - Puedes recibir recompensas especiales de un PNJ de las ciudades dependiendo de tu Índice de Aventura. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Logros{/}
-UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Points{/}
-UI_20150317_000305	{@st42b} Average / %s Points {/}
-UI_20150317_000306	1st / %s Points
+UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Puntos{/}
+UI_20150317_000305	{@st42b} Media / %s Puntos {/}
+UI_20150317_000306	1st / %s Puntos
 UI_20150317_000307	Rank %s
-UI_20150317_000308	%s Points
-UI_20150317_000309	Profession
-UI_20150317_000310	Team
-UI_20150317_000311	{@st59}Close{/}
+UI_20150317_000308	%s Puntos
+UI_20150317_000309	Profesión
+UI_20150317_000310	Equipo
+UI_20150317_000311	{@st59}Cerrar{/}
 UI_20150317_000312	{@st43}Ranking del diario de Aventuras{/}
 UI_20150317_000313	{@st43}{s22}Rank   
 UI_20150317_000314	{@st43}{s22}Nombre
 UI_20150317_000315	{@st43}{s22}Puntuación
-UI_20150317_000316	{@st41}Details{/}
-UI_20150317_000317	{@st43}Start Crafting{/}
-UI_20150317_000318	{@st59}Start item crafting.{/}
-UI_20150317_000319	{@st44}Keypad{/}
-UI_20150317_000320	{@st42}Time limit
-UI_20150317_000321	{@st56}Kill{/}
+UI_20150317_000316	{@st41}Detalles{/}
+UI_20150317_000317	{@st43}Empezar Creación{/}
+UI_20150317_000318	{@st59}Empezar Creación de Objeto.{/}
+UI_20150317_000319	{@st44}Teclado{/}
+UI_20150317_000320	{@st42}Tiempo Limite
+UI_20150317_000321	{@st56}Matar{/}
 UI_20150317_000322	{@st56}Overkill{/}
-UI_20150317_000323	{@st56}Shot{/}
-UI_20150317_000324	{@st56}Dead{/}
-UI_20150317_000325	Spell Power
-UI_20150317_000326	Defense
-UI_20150317_000327	Magic Resistance
-UI_20150317_000328	Critical Attack Rate
-UI_20150317_000329	{@st43}Socket{/}
-UI_20150317_000330	{@st59}Close{/}
-UI_20150317_000331	Please insert your items
-UI_20150317_000332	Potential
-UI_20150317_000333	Additional Socket Cost : {#ff9933}%s{/}{nl}Gem Extraction Cost : {#ff9933}%s{/}
-UI_20150317_000334	{@st41b}Add Socket
-UI_20150317_000335	{@st41b}Extract Gem
-UI_20150317_000336	{@st41}Craft{/}
-UI_20150317_000337	{@st41}%s %s ea
-UI_20150317_000338	Area Map
-UI_20150317_000339	Area Explored : 95.5%
-UI_20150317_000340	{@st45tw}Area Explored %s% {/}
-UI_20150317_000341	{@st59}Close{/}
-UI_20150317_000342	{@st41}Map{/}
+UI_20150317_000323	{@st56}Disparo{/}
+UI_20150317_000324	{@st56}Muerte{/}
+UI_20150317_000325	Poder de Hechizos
+UI_20150317_000326	Defensa
+UI_20150317_000327	Resistencia Magica
+UI_20150317_000328	Tasa de ataque crítico
+UI_20150317_000329	{@st43}Encaje{/}
+UI_20150317_000330	{@st59}Cerrar{/}
+UI_20150317_000331	Por favor inserta tus objetos
+UI_20150317_000332	Potencial
+UI_20150317_000333	Coste de Encaje Adicional : {#ff9933}%s{/}{nl}Coste de Extracción de Gema : {#ff9933}%s{/}
+UI_20150317_000334	{@st41b}Añadir Encaje
+UI_20150317_000335	{@st41b}Extraer Gema
+UI_20150317_000336	{@st41}Crear{/}
+UI_20150317_000337	{@st41}%s %s u
+UI_20150317_000338	Mapa del Area
+UI_20150317_000339	Area del Mapa Explorada : 95.5%
+UI_20150317_000340	{@st45tw}Area del Mapa Explorada %s% {/}
+UI_20150317_000341	{@st59}Cerrar{/}
+UI_20150317_000342	{@st41}Mapa{/}
 UI_20150317_000343	Shift(clear), Ctrl(mid fill)
-UI_20150317_000344	{ol}Title
-UI_20150317_000345	{@st41}Add{/}
-UI_20150317_000346	{@st41}Delete{/}
-UI_20150317_000347	{@st41}Save{/}
-UI_20150317_000348	{@st41}Auto{/}
-UI_20150317_000349	{@st41}Reset{/}
-UI_20150317_000350	{@st59}Set quantity.{/}
-UI_20150317_000351	{ol}Group
-UI_20150317_000352	{ol}Message
-UI_20150317_000353	{ol}Sound
-UI_20150317_000354	{@st41}Create Minimap{/}
-UI_20150317_000355	{@st55}Area Map
-UI_20150317_000356	{@st43}{s22}Market{/}
-UI_20150317_000357	{@st43}{s24}Market{/}
-UI_20150317_000358	{@st42b}Filter{/}
-UI_20150317_000359	{@st42b}Type{/}
-UI_20150317_000360	{@st42b}Req. Lv{/}
-UI_20150317_000361	{@st42b}Enhance Lv{/}
-UI_20150317_000362	{@st42b}Name
-UI_20150317_000363	{@st41b}Retrieve %s
-UI_20150317_000364	{@st41b}Sell
-UI_20150317_000365	{@st41b}Search
-UI_20150317_000366	{@st59}Close{/}
-UI_20150317_000367	{@st42b}Sort
-UI_20150317_000368	{@st41b}Purchase
-UI_20150317_000369	{@st43}{s22}Retrieve
-UI_20150317_000370	{@st41b}Retrieve All
-UI_20150317_000371	{@st41b}Retrieve
-UI_20150317_000372	{@st43}{s22}Sell
-UI_20150317_000373	{@st42b}Quantity
-UI_20150317_000374	{@st42b}Price
-UI_20150317_000375	{@st42b}Hide Seller's Name{/}
-UI_20150317_000376	{@st41b}Register
-UI_20150317_000377	Siege Coin
-UI_20150317_000378	Someone was killed by someone
-UI_20150317_000379	{@st43}Minigames{/}
-UI_20150317_000380	{@st49}Fire Catapult{/}
-UI_20150317_000381	{@st44}Control directions{/}
-UI_20150317_000382	{@st44}Fire{/}
-UI_20150317_000383	Minigame
-UI_20150317_000384	{s18}{ol}{gr gradation1}Hide and seek minigame{/}
-UI_20150317_000385	{s16}Would you like to join the mini-game?
-UI_20150317_000386	{s16}Participants : (0/5)
-UI_20150317_000387	{s16}Participants : (%s /%s)
-UI_20150317_000388	{s16}The game starts after 1 second.
-UI_20150317_000389	{s16}The game starts after %s seconds.
-UI_20150317_000390	{@st59}Zoom in{/}
-UI_20150317_000391	{@st59}Zoom out{/}
-UI_20150317_000392	{@st59}Map (M){/}
-UI_20150317_000393	{@st42b} Area Map
-UI_20150317_000394	{@st44}Item Synthesizer{/}
-UI_20150317_000395	{s16}{#FFcc66}{ol}Please select the item you want to create{/}{/}
-UI_20150317_000396	{s16}{#FFcc66}{ol}Drag the ingredients to the slots
-UI_20150317_000397	{@st42}Create{/}
-UI_20150317_000398	{@st42} Cancel {/}
-UI_20150317_000399	Information of %s
-UI_20150317_000400	Kepa or ...
+UI_20150317_000344	{ol}Titulo
+UI_20150317_000345	{@st41}Añadir{/}
+UI_20150317_000346	{@st41}Borrar{/}
+UI_20150317_000347	{@st41}Guardar{/}
+UI_20150317_000348	{@st41}Automatico{/}
+UI_20150317_000349	{@st41}Reseteat{/}
+UI_20150317_000350	{@st59}Seleccionar cantidad.{/}
+UI_20150317_000351	{ol}Grupo
+UI_20150317_000352	{ol}Mensaje
+UI_20150317_000353	{ol}Sonido
+UI_20150317_000354	{@st41}Crear Minimapa{/}
+UI_20150317_000355	{@st55}Mapa del Area
+UI_20150317_000356	{@st43}{s22}Mercado{/}
+UI_20150317_000357	{@st43}{s24}Mercado{/}
+UI_20150317_000358	{@st42b}Filtro{/}
+UI_20150317_000359	{@st42b}Tipo{/}
+UI_20150317_000360	{@st42b}Nv Req.{/}
+UI_20150317_000361	{@st42b}Nv de Encantamiento {/}
+UI_20150317_000362	{@st42b}Nombre
+UI_20150317_000363	{@st41b}Retirar %s
+UI_20150317_000364	{@st41b}Vender
+UI_20150317_000365	{@st41b}Buscar
+UI_20150317_000366	{@st59}Cerrar{/}
+UI_20150317_000367	{@st42b}Ordenar
+UI_20150317_000368	{@st41b}Comprar
+UI_20150317_000369	{@st43}{s22}Retirar
+UI_20150317_000370	{@st41b}Retirar Todo
+UI_20150317_000371	{@st41b}Retirar
+UI_20150317_000372	{@st43}{s22}Vender
+UI_20150317_000373	{@st42b}Cantidad
+UI_20150317_000374	{@st42b}Precio
+UI_20150317_000375	{@st42b}Ocultar nombre de los Vendedores{/}
+UI_20150317_000376	{@st41b}Registrar
+UI_20150317_000377	Moneda de Asedio
+UI_20150317_000378	Alguien ha sido asesinado por alguien
+UI_20150317_000379	{@st43}Minijuegos{/}
+UI_20150317_000380	{@st49}Catapulta de Fuego{/}
+UI_20150317_000381	{@st44}Direcciones de control{/}
+UI_20150317_000382	{@st44}Fuego{/}
+UI_20150317_000383	Minijuego
+UI_20150317_000384	{s18}{ol}{gr gradation1}Minijuego del Escondite{/}
+UI_20150317_000385	{s16}¿Quieres entrar al minijuego?
+UI_20150317_000386	{s16}Participantes : (0/5)
+UI_20150317_000387	{s16}Participantes : (%s /%s)
+UI_20150317_000388	{s16}El juego comenzara pasado 1 segundo.
+UI_20150317_000389	{s16}El juego comenzara pasado %s segundos.
+UI_20150317_000390	{@st59}Acercar Zoom{/}
+UI_20150317_000391	{@st59}Alejar Zoom{/}
+UI_20150317_000392	{@st59}Mapa (M){/}
+UI_20150317_000393	{@st42b} Mapa del Area
+UI_20150317_000394	{@st44}Sintetización de Objetos{/}
+UI_20150317_000395	{s16}{#FFcc66}{ol}Por favor Seleciona el objeto que quieres crear{/}{/}
+UI_20150317_000396	{s16}{#FFcc66}{ol}Arrastra los ingredientes a los espacios
+UI_20150317_000397	{@st42}Crear{/}
+UI_20150317_000398	{@st42} Cancelar {/}
+UI_20150317_000399	Informaciòn de %s
+UI_20150317_000400	Kepa o ...
 UI_20150317_000401	{@st41}{Details}
-UI_20150317_000402	{s20}{#050505}Monster Description Monster Description Monster Description Monster Description
-UI_20150317_000403	{@st41} Kill {/}
+UI_20150317_000402	{s20}{#050505}Monstruo Descripción Monstruo Descripción Monstruo Descripción Monstruo Descripción
+UI_20150317_000403	{@st41} Muerte {/}
 UI_20150317_000404	{@st41} Overkill {/}
-UI_20150317_000405	{@st41} Normal Kill {/}
+UI_20150317_000405	{@st41} Muerte Normal {/}
 UI_20150317_000406	{@st41} Area {/}
-UI_20150317_000407	{@st41} Item {/}
-UI_20150317_000408	{@st41} Achievement {/}
-UI_20150317_000409	Object
+UI_20150317_000407	{@st41} Objeto {/}
+UI_20150317_000408	{@st41} Logro {/}
+UI_20150317_000409	Objeto
 UI_20150317_000410	{@st43}Necronomicon{/}
-UI_20150317_000411	{@st59}Close{/}
-UI_20150317_000412	{@st59}I am too lazy to think.{/}
-UI_20150317_000413	Summoned Creature : {#ffcc33}%s{/}
-UI_20150317_000414	Undead Harpy
-UI_20150317_000415	Skill : %s
-UI_20150317_000416	Skill 1, Skill 2
-UI_20150317_000417	Fragments Required : %s
-UI_20150317_000418	Beast 60 / Insect 20/ Mutant 10
-UI_20150317_000419	Number of Fragments
-UI_20150317_000420	Parts 1
-UI_20150317_000421	Parts 2
-UI_20150317_000422	Parts 3
-UI_20150317_000423	Congratulations! You have leveled up.
-UI_20150317_000424	Item Alarm
-UI_20150317_000425	{@st64}Details{/}
-UI_20150317_000426	How to Play
-UI_20150317_000427	{@st42b}          Move once with each of the keys{/}
-UI_20150317_000428	{@st42b}       Perform a basic attack{/}
-UI_20150317_000429	{@st42b}                Jump up{/}
-UI_20150317_000430	{@st42b}  Press two directional keys to move diagonally.{/}
-UI_20150317_000431	Fog Map Tool
-UI_20150317_000432	Tool for killing monsters
-UI_20150317_000433	Tool for making a mini-map
-UI_20150317_000434	Dialogue tool
-UI_20150317_000435	{@st43}GM Settings{/}
-UI_20150317_000436	{@st59}Close{/}
-UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the Create Party button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party in the Settings tab. {nl} - Set up specific search conditions for party members from the Public Party list.{/}
-UI_20150317_000438	{@st43}Party Information{/}
-UI_20150317_000439	{@st41b}Members{/}
-UI_20150317_000440	{@st41b}Party Event {/}
-UI_20150317_000441	{@st41b}Settings{/}
-UI_20150317_000442	{@st41}Members{/}
-UI_20150317_000443	{@st41}Requirements for joining this party
-UI_20150317_000444	{@st41b}Public
-UI_20150317_000445	{@st41b}Private
-UI_20150317_000446	Wish Level                                ~
-UI_20150317_000447	{@st41}Loot Distribution
-UI_20150317_000448	{@st41b}Free for all
-UI_20150317_000449	{@st41b}Round Robin
-UI_20150317_000450	{@st41b}Random
-UI_20150317_000451	{@st41}EXP Distribution
-UI_20150317_000452	{@st41b}Individual EXP
-UI_20150317_000453	{@st41b}Equal EXP
-UI_20150317_000454	{@st41b}By Level
-UI_20150317_000455	{@st41}Quest Sharing
-UI_20150317_000456	{@st41b}Enabled
-UI_20150317_000457	{@st41b}Disabled
-UI_20150317_000458	{@st41b}Create Party
-UI_20150317_000459	{@st43}Public Party List {/}
-UI_20150317_000460	{@st59b}Public Party List{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}
-UI_20150317_000461	{@st59}Close Party List{/}
-UI_20150317_000462	Use Search
-UI_20150317_000463	Quest Sharing
-UI_20150317_000464	EXP Distribution
-UI_20150317_000465	Item Distribution
-UI_20150317_000466	{@st43}Invite
-UI_20150317_000467	{@st41b}Invite{/}
-UI_20150317_000468	{s18}{ol}{gr gradation1}Logout PC rules{/}
-UI_20150317_000469	{ol}Conditions for applying rules
-UI_20150317_000470	{ol}Action for applying rules
-UI_20150317_000471	Enter a name for the rule
-UI_20150317_000472	{Gr gradation1}Registration{/}
-UI_20150317_000473	Register Rules
-UI_20150317_000474	{Gr gradation1}Cancel{/}
-UI_20150317_000475	Cancel Action
+UI_20150317_000411	{@st59}Cerrar{/}
+UI_20150317_000412	{@st59}Soy demasiado vago para pensar.{/}
+UI_20150317_000413	Criatura Invocada : {#ffcc33}%s{/}
+UI_20150317_000414	Arpia no-muerta
+UI_20150317_000415	Habilidad : %s
+UI_20150317_000416	Habilidad 1, Habilidad 2
+UI_20150317_000417	Fragmentos Requeridos : %s
+UI_20150317_000418	Bestia 60 / Insecto 20/ Mutante 10
+UI_20150317_000419	Numero de Fragmentos
+UI_20150317_000420	Partes 1
+UI_20150317_000421	Partes 2
+UI_20150317_000422	Partes 3
+UI_20150317_000423	¡Felicidades! Has subido de nivel.
+UI_20150317_000424	Alarma de Objeto
+UI_20150317_000425	{@st64}Detalles{/}
+UI_20150317_000426	Como jugar
+UI_20150317_000427	{@st42b}          Mueve una vez con cada una de las teclas{/}
+UI_20150317_000428	{@st42b}       Haz un ataque basico{/}
+UI_20150317_000429	{@st42b}                Salta arriba{/}
+UI_20150317_000430	{@st42b}  Pulsa dos teclas de dirección para moverte en diagonal.{/}
+UI_20150317_000431	Herramienta de niebla en mapa
+UI_20150317_000432	Herramienta para matar monstruos
+UI_20150317_000433	Herramienta para hacer minimapas
+UI_20150317_000434	Herramienta de dialogo
+UI_20150317_000435	{@st43}Opciones de GM{/}
+UI_20150317_000436	{@st59}Cerrar{/}
+UI_20150317_000437	{@st59b}Información de Grupo{nl}{@st59s} - Click en el boton de crear grupo para crear un grupo. {nl} - Click derecho en otros jugadores para invitarlos a tu grupo. {nl} - Se pueden hacer cambios al grupo en la pestaña opciones. {nl} - Configura las condiciones de busqueda del grupo para los jugadores que buscan grupo desde la lista publica de grupos.{/}
+UI_20150317_000438	{@st43}Información de Grupo{/}
+UI_20150317_000439	{@st41b}Miembros{/}
+UI_20150317_000440	{@st41b}Evento de Grupo {/}
+UI_20150317_000441	{@st41b}Opciones{/}
+UI_20150317_000442	{@st41}Miembros{/}
+UI_20150317_000443	{@st41}Requisitos para unirte a este grupo
+UI_20150317_000444	{@st41b}Publico
+UI_20150317_000445	{@st41b}Privado
+UI_20150317_000446	Nivel deseado                                ~
+UI_20150317_000447	{@st41}Distribución del botín
+UI_20150317_000448	{@st41b}Libre para todos
+UI_20150317_000449	{@st41b}Por rondas
+UI_20150317_000450	{@st41b}Aleatorio
+UI_20150317_000451	{@st41}Distribución de EXP
+UI_20150317_000452	{@st41b}EXP Individual
+UI_20150317_000453	{@st41b}EXP Equitativa 
+UI_20150317_000454	{@st41b}Por Nivel
+UI_20150317_000455	{@st41}Compartir Misión
+UI_20150317_000456	{@st41b}Activado
+UI_20150317_000457	{@st41b}Desactivado
+UI_20150317_000458	{@st41b}Crear Grupo
+UI_20150317_000459	{@st43}Lista Publica de Grupos {/}
+UI_20150317_000460	{@st59b}Lista Publica de Grupos{nl}{@st59s} - Busca un grupo que este buscando miemrbos en tu servidor  {nl} - Usa la opción de busqueda para encontrar el grupo que quieres{/}
+UI_20150317_000461	{@st59}Cerrar Lista de Grupos{/}
+UI_20150317_000462	Usar Busqueda
+UI_20150317_000463	Misiones Compartidas
+UI_20150317_000464	Distribucion de EXP
+UI_20150317_000465	Distribución del botín
+UI_20150317_000466	{@st43}Invitar
+UI_20150317_000467	{@st41b}Invitar{/}
+UI_20150317_000468	{s18}{ol}{gr gradation1}Desconectar reglas PC{/}
+UI_20150317_000469	{ol}Condición para aplicar reglas
+UI_20150317_000470	{ol}Acción para aplicar reglas
+UI_20150317_000471	Introduce un nombre para la Regla
+UI_20150317_000472	{Gr gradation1}Registro{/}
+UI_20150317_000473	Registrar Reglas
+UI_20150317_000474	{Gr gradation1}Cancelar{/}
+UI_20150317_000475	Cancelar Acción
 UI_20150317_000476	{@st43}Información del Compañero
-UI_20150317_000477	{@st59b}Companion Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized. {/}
-UI_20150317_000478	{@st59}Close{/}
-UI_20150317_000479	{@st41b}Name : {@sti9}%s{/}
-UI_20150317_000480	{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}
+UI_20150317_000477	{@st59b}Información del Compañero{nl}{@st59s} - Puedes activar a tu compañero o ponerlo a descansar con el boton que hay abajo. {nl} - Los atributos y el equipo de tu compañero pueden ser customizados. {/}
+UI_20150317_000478	{@st59}Cerrar{/}
+UI_20150317_000479	{@st41b}Nombre : {@sti9}%s{/}
+UI_20150317_000480	{@sti9}%s{@st41b}Intimidad : {@sti9}%s {@st41b}Nivel{/}
 UI_20150317_000481	{@st41b}EXP{/}
-UI_20150317_000482	{@st41b}Stamina{/}
-UI_20150317_000483	{@st41b}Affinity{/}
-UI_20150317_000484	{@st41b}Attributes and Information
-UI_20150317_000485	{@st43}Companion{/}
-UI_20150317_000486	{@st59b}Companion{nl}{@st59s} - Click on an item in the list to view more information. {/}
-UI_20150317_000487	{@st59}Close{/}
-UI_20150317_000488	{@st59}Close{/}
-UI_20150317_000489	{@st59}Help{nl} - View detailed information and tips. {nl} - View other topics from the Help List{/}
-UI_20150317_000490	{@st43}Help{/}
-UI_20150317_000491	Help Topics
-UI_20150317_000492	{ol}{#AAAA00}{s16}Elapsed Time : %s
-UI_20150317_000493	{@st43}Poison Pot{/}
-UI_20150317_000494	{@st59}Close{/}
-UI_20150317_000495	{@st59}Need to write{/}
-UI_20150317_000496	Poison Amount: %s
-UI_20150317_000497	Items that can be used to Craft poison
-UI_20150317_000498	Select All
-UI_20150317_000499	Click again to de-select all
-UI_20150317_000500	Crafting
-UI_20150317_000501	shuffle shuffle mix and shuffle
-UI_20150317_000502	{@st43}Category{/}
-UI_20150317_000503	{@st43}Me{/}
-UI_20150317_000504	{@st43}Target{/}
-UI_20150317_000505	{@st43}Level{/}
-UI_20150317_000506	{@st43}Funds{/}
+UI_20150317_000482	{@st41b}Estamina{/}
+UI_20150317_000483	{@st41b}Afinidad{/}
+UI_20150317_000484	{@st41b}Atributos y Información
+UI_20150317_000485	{@st43}Compañero{/}
+UI_20150317_000486	{@st59b}Compañero{nl}{@st59s} - Haz click en un objeto de la lista para ver ams información. {/}
+UI_20150317_000487	{@st59}Cerrar{/}
+UI_20150317_000488	{@st59}Cerrar{/}
+UI_20150317_000489	{@st59}Ayuda{nl} - Ver información y consejos detallados. {nl} - Ver otros temas de la lista de ayuda{/}
+UI_20150317_000490	{@st43}Ayuda{/}
+UI_20150317_000491	Temas de Ayuda
+UI_20150317_000492	{ol}{#AAAA00}{s16}Tiempo transcurrido : %s
+UI_20150317_000493	{@st43}Bote de Veneno{/}
+UI_20150317_000494	{@st59}Cerrar{/}
+UI_20150317_000495	{@st59}Necesito escribir{/}
+UI_20150317_000496	Cantidad de Veneno: %s
+UI_20150317_000497	Estos objetos pueden ser usados para crear veneno
+UI_20150317_000498	Seleccionar todos
+UI_20150317_000499	Haz Click otra vez para deseleccionar todos
+UI_20150317_000500	Creación
+UI_20150317_000501	mezclar mezclar la mezcla y mezclar
+UI_20150317_000502	{@st43}Categoria{/}
+UI_20150317_000503	{@st43}Yo{/}
+UI_20150317_000504	{@st43}Objetivo{/}
+UI_20150317_000505	{@st43}Nivel{/}
+UI_20150317_000506	{@st43}Fondos{/}
 UI_20150317_000507	{@st43}Rate{/}
-UI_20150317_000508	{@st43}PvP Win/Loss Ratio{/}
-UI_20150317_000509	{@st59}Close{/}
-UI_20150317_000510	{@sti5}Total Purchase Amount : %s{/}
-UI_20150317_000511	{@sti5}Total Amount : %s{/}
-UI_20150317_000512	{@st41b} Purchase
-UI_20150317_000513	{@st43}Gained materials for a craftable item!
+UI_20150317_000508	{@st43}PvP Ganadas/Perdidas Ratio{/}
+UI_20150317_000509	{@st59}Cerrar{/}
+UI_20150317_000510	{@sti5}Cantidad Total Comprada : %s{/}
+UI_20150317_000511	{@sti5}Cantidad Total : %s{/}
+UI_20150317_000512	{@st41b} Comprar
+UI_20150317_000513	{@st43}¡Materiales obtenidos para crear objetos!
 UI_20150317_000514	{@st43}Magnum Opus{/}
-UI_20150317_000515	{@st41}Delete All
+UI_20150317_000515	{@st41}Borrar Todo
 UI_20150317_000516	{@st42}Pension target {@stx1}(%s required){/}
-UI_20150317_000517	{@st41}Combine
-UI_20150317_000518	{@st43}Quests{/}
+UI_20150317_000517	{@st41}Combinar
+UI_20150317_000518	{@st43}Misiones{/}
 UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
 UI_20150317_000520	{@st41b}In Progress{/}
 UI_20150317_000521	{@st41b}Abandoned{/}
