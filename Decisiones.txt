@@ -1,4 +1,82 @@
-- Los nombres de los monstruos seran modificados, pero no los nombres propios.
-Ej: Fisherman -> Pescador || Vubbe Fighter -> Vubbe Luchador || Bushspider -> Araña Arbustera
+[ Básicos ]
+- Character(s) -> Personaje(s)
 - Stats -> Estadísticas
-- Skills -> Habilidades
+- Skill(s) -> Habilidad(es)
+- EXP -> Se conserva (EXPerience/EXPeriencia)
+- NPC -> PNJ
+- Tip -> Consejo
+
+[ Nombres de Clases ]
+>> Archer: Arquero
+>> Quarrel Shooter: Ballestero (NdT: Quarrel es un tipo de Saeta con punta cuadrada).
+>> Ranger: ???
+>> Sapper: Zapador
+>> Hunter: Cazador
+>> Wugushi: =
+>> Scout: Explorador
+>> Fletcher: ¿¿¿Remerador???
+>> Rogue: ¿¿¿Truhán???
+>> Falconer: Halconero
+>> Schwarzer Reiter: =
+>> Cannoneer: Cañonero
+>> Musketeer: Mosquetero
+
+>> Swordman: Espadachín
+>> Highlander: ???
+>> Peltasta: =
+>> Hoplite: Hoplita
+>> Barbarian: Bárbaro
+>> Rodelero: =
+>> Cataphrac: Catafracto
+>> Squire: ¿¿¿Escudero???
+>> Corsair: Corsario
+>> Doppelsoeldner: =
+>> Fencer: Esgrimista (NdT: El término correcto es "Tirador")
+>> Dragoon: Dragón
+>> Templar: Templario
+>> Shinobi: =
+
+>> Wizard: Mago
+>> Pyromancer: Piromante
+>> Cryomancer: Criomante
+>> Psychokino: Psicoquino
+>> Linker: ???
+>> Thaumaturge: Taumaturgo
+>> Elementalist: Elementalista
+>> Sorcerer: Hechicero
+>> Chronomancer: Cronomante
+>> Necromancer: Nigromante
+>> Alchemist: Alquimista
+>> Rune Caster: ¿¿¿Recitador de Runas???
+>> Warlock: Hechicero
+>> Featherfoot: ???
+
+>> Cleric: Clérigo
+>> Krivis: =
+>> Priest: 
+>> Bokor: =
+>> Dievdirbys: =
+>> Sadhu: =
+>> Paladin: Paladín
+>> Monk: Monje
+>> Pardoner: ???
+>> Chaplain: ???
+>> Druid: Druída
+>> Oracle: Oráculo
+>> Plague Doctor: ¿¿¿Doctor de la Plaga???
+>> Kabbalist: Cabalista
+
+[ Nombres de monstruos ]
+Los nombres de los monstruos seran modificados, pero no así los nombres propios.
+Ejemplos: 
+Fisherman -> Pescador
+Vubbe Fighter -> Vubbe Luchador
+Bushspider -> Araña Arbustera
+etc.
+
+El prefijo "Large" será traducido como "Gran".
+El prefijo "Big" será traducido como "Enorme".
+Esto debido a que existen monstruos de una misma familia que tienen los sufijos "Large" y "Big" y sólo les diferencia el nivel.
+Ejemplo:
+Large Kepa (nivel 2).
+Big Red Kepa (nivel 7)
