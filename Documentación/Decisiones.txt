@@ -83,3 +83,10 @@ Esto debido a que existen monstruos de una misma familia que tienen los sufijos 
 Ejemplo:
 Large Kepa (nivel 2).
 Big Red Kepa (nivel 7)
+
+[ Nombres del Equipamiento ]
+Los nombres del equipamiento seran modificados, pero no los nombres propios.
+Ejemplos: 
+Excalibur Sword -> Espada Excalibur 
+Arde Dagger -> Daga Arde
+etc.
