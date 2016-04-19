@@ -984,10 +984,10 @@ UI_20150317_000983	{@st59}Peinado 8{/}
 UI_20150317_000984	{@st59}Peiando 9{/}
 UI_20150317_000985	{@st59}Peinado 10{/}
 UI_20150317_000986	{@St43b}Selecciona una Clase{/}
-UI_20150317_000987	{@st59}Swordsman{/}
-UI_20150317_000988	{@st59}Wizard{/}
-UI_20150317_000989	{@st59}Archer{/}
-UI_20150317_000990	{@st59}Cleric{/}
+UI_20150317_000987	{@st59}Espadachín{/}
+UI_20150317_000988	{@st59}Mago{/}
+UI_20150317_000989	{@st59}Arquero{/}
+UI_20150317_000990	{@st59}Clérigo{/}
 UI_20150317_000991	{@St41b}Visit Barrack {/}
 UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}
 UI_20150317_000993	{@St41b}Desconectar{/}
@@ -997,8 +997,8 @@ UI_20150317_000996	{@St59}Salir de Tree of Savior{/}
 UI_20150317_000997	{@st41b}Selecciona un canal{/}
 UI_20150317_000998	{@st43}Entrar{/}
 UI_20150317_000999	{@St59}Comenzar partida con el personaje seleccionado{/}
-UI_20150317_001000	{@St43}{s26}Team Name{/}
-UI_20150317_001001	{@st59}Team Name{/}
+UI_20150317_001000	{@St43}{s26}Nombre de Equipo{/}
+UI_20150317_001001	{@st59}Nombre de Equipo{/}
 UI_20150317_001002	{@st41b}Change Team Name{/}
 UI_20150317_001003	{@st59}Change Team Name{/}
 UI_20150317_001004	{@St41}Compañero{/}
