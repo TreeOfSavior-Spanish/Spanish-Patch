@@ -72,62 +72,62 @@ UI_20150317_000071	{@st59}Máquina Expendedora de Buffs{nl} - Puedes pagar plata
 UI_20150317_000072	Carriage Menu
 UI_20150317_000073	{ol}{s22}Desmontar{/}
 UI_20150317_000074	Casteando
-UI_20150317_000075	{@st43}Game Settings{/}
-UI_20150317_000076	{@st64}Use the arrow keys to select a cell!
-UI_20150317_000077	{@st43}Advancement Information {/}
-UI_20150317_000078	{@st43}Select Class
+UI_20150317_000075	{@st43}Opciones de Juego{/}
+UI_20150317_000076	{@st64}¡Usa las flechas para seleccionar una celda!
+UI_20150317_000077	{@st43}Información de ascenso {/}
+UI_20150317_000078	{@st43}Selecciona una clase
 UI_20150317_000079	Psychokinesist
-UI_20150317_000080	{@st42}%s Circle {/}
-UI_20150317_000081	How many circles
-UI_20150317_000082	Displays a brief description of the class.
-UI_20150317_000083	{@st41b}Attack {@sti7}%s{/}
-UI_20150317_000084	{@st41b}Support {@sti7}%s{/}
-UI_20150317_000085	{@st41b}Difficulty{@sti7}%s{/}
-UI_20150317_000086	{@st59}Close{/}
-UI_20150317_000087	Advancement Alarm
-UI_20150317_000088	{@st43} Advancement
+UI_20150317_000080	{@st42}%s Circulo {/}
+UI_20150317_000081	Cuantos circulos
+UI_20150317_000082	Muestra una breve descripción de la clase.
+UI_20150317_000083	{@st41b}Ataque {@sti7}%s{/}
+UI_20150317_000084	{@st41b}Apoyo {@sti7}%s{/}
+UI_20150317_000085	{@st41b}Dificultad{@sti7}%s{/}
+UI_20150317_000086	{@st59}Cerrar{/}
+UI_20150317_000087	Alarma de ascenso
+UI_20150317_000088	{@st43} Ascenso
 UI_20150317_000089	{@sti7}{s14} Personaje {/}
 UI_20150317_000090	{@sti8}{s14} Clase {/}
 UI_20150317_000091	{@st44}Chat{/}
-UI_20150317_000092	To. WWWWWWWW and 1 other
-UI_20150317_000093	General: /s chat {nl} Shout: /y chat {nl} Party: /p chat{nl} Whisper: /w character's username chat
-UI_20150317_000094	{@st41}All Chat{/}
-UI_20150317_000095	{@59}Quit{/}
-UI_20150317_000096	{@59}Invite{/}
-UI_20150317_000097	{@st59}All{/}
-UI_20150317_000098	{@st59}Normal (/s chat){/}
-UI_20150317_000099	{@st59}Shout (/y chat){/}
-UI_20150317_000100	{@st59}Party (/p chat){/}
-UI_20150317_000101	{@st59}Whisper (/w team name chat){/}
-UI_20150317_000102	{@st59}Adjust Chat Window{/}
-UI_20150317_000103	{@st43}{s22}Chat Macro{/}
+UI_20150317_000092	Para. WWWWWWWW y 1 otro
+UI_20150317_000093	General: /s chat {nl} Grito: /y texto {nl} Grupo: /p texto{nl} Susurro: /w nombre del personaje texto
+UI_20150317_000094	{@st41}Todos los Chats{/}
+UI_20150317_000095	{@59}Salir{/}
+UI_20150317_000096	{@59}Invitar{/}
+UI_20150317_000097	{@st59}Todo{/}
+UI_20150317_000098	{@st59}Normal (/s texto){/}
+UI_20150317_000099	{@st59}Grito (/y texto){/}
+UI_20150317_000100	{@st59}Grupo (/p texto){/}
+UI_20150317_000101	{@st59}Susurro (/w Nombre de equipo texto){/}
+UI_20150317_000102	{@st59}Ajustar Ventana de chat{/}
+UI_20150317_000103	{@st43}{s22}Macro de chat{/}
 UI_20150317_000104	{@st43}Macro{/}
-UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - How to use: {nl} 1. Drag a gesture icon to any gesture slots at the bottom. {nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to simultaneously use the phrase and make the gesture. {/}
+UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - Como usar: {nl} 1. Arrastra el icono de una emoción a un espació mas abajo. {nl} 2. Escribe tu frase y guarda. {nl} 3. Usa tu macro para escribir la frase y usar la emoción simultaneamente. {/}
 UI_20150317_000106	{@st59}Cerrar{/}
 UI_20150317_000107	{@st41b}Guardar{/}
 UI_20150317_000108	{@st59}Guardar{/}
 UI_20150317_000109	{@st41b}Cancelar{/}
 UI_20150317_000110	{@st59}Cancelar{/}
-UI_20150317_000111	{@st42}Chat Settings
-UI_20150317_000112	{@st42}Transparency
-UI_20150317_000113	Show Chat Balloon
-UI_20150317_000114	Show Shouts on Top
-UI_20150317_000115	{@st43}Cheat List{/}
-UI_20150317_000116	{@st42b}Item{/}
-UI_20150317_000117	{@st42b}Monster{/}
+UI_20150317_000111	{@st42}Opciones del Chat
+UI_20150317_000112	{@st42}Transparencia
+UI_20150317_000113	Mostrar globo del chat
+UI_20150317_000114	Mostrar gritos arriba
+UI_20150317_000115	{@st43}Lista de Trucos{/}
+UI_20150317_000116	{@st42b}Objeto{/}
+UI_20150317_000117	{@st42b}Monstruo{/}
 UI_20150317_000118	{@st42b}Move map{/}
-UI_20150317_000119	{@st42b}Combat Order{/}
+UI_20150317_000119	{@st42b}Orden de combate{/}
 UI_20150317_000120	{@st41b}Cerrar{/}
-UI_20150317_000121	{s16}{b}Create items by clicking on the Create button or double-click.
-UI_20150317_000122	{s16}{b}ea
-UI_20150317_000123	{s16}{b}Lv.
-UI_20150317_000124	{@st41b}Search{/}
-UI_20150317_000125	{s16}{b}Summon monsters by clicking on the Create button or double-click.
-UI_20150317_000126	{s16}{b}ea
-UI_20150317_000127	{s16}{b}Select a desired area.
-UI_20150317_000128	{s18}{b}View Minimap{/}
-UI_20150317_000129	{@st41b}Tool List{/}
-UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
+UI_20150317_000121	{s16}{b}Crear objetos haciendo click en el boton Crear o Doble click.
+UI_20150317_000122	{s16}{b}u
+UI_20150317_000123	{s16}{b}Nv.
+UI_20150317_000124	{@st41b}Buscar{/}
+UI_20150317_000125	{s16}{b}Invocar monstruos haciendo click en el boton Crear o Doble click.
+UI_20150317_000126	{s16}{b}u
+UI_20150317_000127	{s16}{b}Seleciona el area deseada.
+UI_20150317_000128	{s18}{b}Ver Minimapa{/}
+UI_20150317_000129	{@st41b}Lista de Herramientas{/}
+UI_20150317_000130	{@st59b}Colección {nl}{@st59s}- Compra el pack de Colección para añadir objetos coleccionables a tu colección. {nl} - La tecla de Colección se activara cuando uses un pack de objetos de colección. {nl} {/}
 UI_20150317_000131	{@st59}Cerrar{/}
 UI_20150317_000132	{@st43}Colección{/}
 UI_20150317_000133	{@st43}Color Spray{/}
