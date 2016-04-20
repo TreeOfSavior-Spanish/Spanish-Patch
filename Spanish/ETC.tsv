@@ -1447,71 +1447,71 @@ ETC_20150317_001446	3cm lake 26_2
 ETC_20150317_001447	Closed Town 53_1
 ETC_20150317_001448	Item Dungeon
 ETC_20150317_001449	// Objeto
-ETC_20150317_001450	You must have DirectX 9.0c or higher installed to run the game client.
-ETC_20150317_001451	Failed to initialize 3D Device.
-ETC_20150317_001452	IME installed is not supported. Please send the name of IME below to GM.
-ETC_20150317_001453	Please use the keyboard that supports the language required by the operating system.
-ETC_20150317_001454	Hardware acceleration is not supported by your graphics card or hardware.{nl}Make sure your graphics card or hardware is compatible.
-ETC_20150317_001455	Please adjust your screen resolution to at least 1024x768 and color quality to 16-bit or 32-bit.
-ETC_20150317_001456	The client has been shutdown due to a display driver error. {nl} Please contact the manufacturer for assistance
-ETC_20150317_001457	The client has been shutdown due to a audio driver error. {nl} Please install or reinstall the audio driver.
-ETC_20150317_001458	Background data does not exist. Please download all data and try again.
-ETC_20150317_001459	You cannot whisper to yourself.
-ETC_20150317_001460	Chat can not exceed {Max} bytes. Number of emoticons usable are limited because it may take several bytes.
-ETC_20150317_001461	Duration
-ETC_20150317_001462	User
-ETC_20150317_001463	Time Left
-ETC_20150317_001464	Name
-ETC_20150317_001465	{S18}{ol}{#ffffcc}Your name cannot exceed 16 characters {nl} including blank spaces.
-ETC_20150317_001466	{S18}{ol}{#ffffcc}Disconnected from the server.{nl}
+ETC_20150317_001450	Debes tener DirectX 9.0c o superior instalado para ejecutar el cliente del juego.
+ETC_20150317_001451	Falla al iniciar dispositivo 3D.
+ETC_20150317_001452	IME instalado no es soportado. Por favor envía el nombre del IME indicado abajo a un GM.
+ETC_20150317_001453	Por favor usa un teclado que soporte el lenguaje requerido por el sistema operativo.
+ETC_20150317_001454	Tu tarjeta gráfica o Hardware no soporta la aceleración de Hardware.{nl}Asegurate de usar una tarjeta gráfica o hardware compatible.
+ETC_20150317_001455	Por Ffavor ajusta la resolución de tu pantalla a al menos 1024x768 y la calidad del color a 16-bit o 32-bit.
+ETC_20150317_001456	El cliente ha sido apagado debido a un error en el controlador de video. {nl} Por favor contacta al manufacturador para más asistencia
+ETC_20150317_001457	El cliente ha sido apagado debido a un error en el controlador de audio. {nl} Por favor instala o reinstala el controlador de audio.
+ETC_20150317_001458	No existen datos de respaldo. Por favor descarga nuevamente todos los datos y prueba nuevamente.
+ETC_20150317_001459	No puedes susurrarte a ti mismo.
+ETC_20150317_001460	El chat no puede exceder los {Max} bytes. El número de emoticons usables esta limitado porque pueden consumir muchos bytes.
+ETC_20150317_001461	Duración
+ETC_20150317_001462	Usuario
+ETC_20150317_001463	Tiempo Restante
+ETC_20150317_001464	Nombre
+ETC_20150317_001465	{S18}{ol}{#ffffcc}No nombre no puede exceder 16 carácteres {nl} incluyendo espacios en blanco.
+ETC_20150317_001466	{S18}{ol}{#ffffcc}Desconectado del servidor.{nl}
 ETC_20150317_001467	{S18}{ol}{#ffffcc}Move to the login mode after 3 seconds.
-ETC_20150317_001468	{S18}{ol}{#ffffcc}Cannot connect to the server.
-ETC_20150317_001469	{S18}{ol}{#ffffcc}Your ID exceeds the maximum length allowed.
-ETC_20150317_001470	{S18}{ol}{#ffffcc}Your username or password is incorrect. {nl} Please note that passwords are case sensitive.
+ETC_20150317_001468	{S18}{ol}{#ffffcc}Imposible conectar con el servidor.
+ETC_20150317_001469	{S18}{ol}{#ffffcc}Tu ID excede el tamaño máximo permitido.
+ETC_20150317_001470	{S18}{ol}{#ffffcc}Tu nombre de usuario o contraseña es incorrecta. {nl} Recuerda que la contraseña distingue mayúsculas y minúsculas.
 ETC_20150317_001471	{S18}{ol}{#ffffcc}Server shutdown is not completed, or you are already logged in.{nl} Server shutdown may take up to 3 minutes.
-ETC_20150317_001472	{S18}{ol}{#ffffcc}Wrong verification code.
-ETC_20150317_001473	{S18}{ol}{#ffffcc}This name already exists. {nl} Please enter a different name.
-ETC_20150317_001474	{S18}{ol}{#ffffcc}You cannot create a character.
-ETC_20150317_001475	{S18}{ol}{#ffffcc}You cannot delete this character.
-ETC_20150317_001476	Team does not exist
-ETC_20150317_001477	{S18}{ol}{#ffffcc}This character does not exist.
-ETC_20150317_001478	Cannot start game
-ETC_20150317_001479	{S18}{ol}{#ffffcc} Disconnected from the server due to verification failure
-ETC_20150317_001480	You've exceeded your maximum carrying weight.{nl}Sell or discard items from your inventory to reduce weight. 
-ETC_20150317_001481	You cannot obtain any more items. You have exceeded the maximum number of items allowed.
-ETC_20150317_001482	Your inventory is full
-ETC_20150317_001483	This server is closed
-ETC_20150317_001484	This item cannot be equipped
-ETC_20150317_001485	[{Word}] is not allowed for use.
-ETC_20150317_001486	{S20}{ol}{#46c8ff} You do not have enough SP
-ETC_20150317_001487	Server version does not match
-ETC_20150317_001488	You do not meet the level requirement.{nl}Check the required level in the description
-ETC_20150317_001489	Cannot be equipped by male characters.{nl}Check the gender and level requirement in the description
-ETC_20150317_001490	Cannot be equipped by female characters.{nl}Check the gender and level requirement in the description
-ETC_20150317_001491	The character name must be at least %s characters.
-ETC_20150317_001492	The character name must be less than %s characters.
-ETC_20150317_001493	{S18}{ol}{#ffffcc} Password is incorrect
-ETC_20150317_001494	You cannot join the game. Your level does not match the level requirements.
-ETC_20150317_001495	You do not have permission
+ETC_20150317_001472	{S18}{ol}{#ffffcc}Código de verificación incorrecto.
+ETC_20150317_001473	{S18}{ol}{#ffffcc}Este nombre ya existe. {nl} Ingresa un nombre distinto.
+ETC_20150317_001474	{S18}{ol}{#ffffcc}No puedes crear personajes.
+ETC_20150317_001475	{S18}{ol}{#ffffcc}No puedes borrar este personaje.
+ETC_20150317_001476	Equipo Inexistente
+ETC_20150317_001477	{S18}{ol}{#ffffcc}Personaje Inexistente.
+ETC_20150317_001478	Imposible iniciar el juego
+ETC_20150317_001479	{S18}{ol}{#ffffcc} Has sido desconectado del servidor por un error en la verificación
+ETC_20150317_001480	Has excedido tu capacidad de carga.{nl}Vende o descarta objetos de tu inventario para reducir peso. 
+ETC_20150317_001481	No puedes obtener mas objetos. Has excedido el número de objetos permitidos.
+ETC_20150317_001482	Tu inventario esta lleno
+ETC_20150317_001483	Este servidor se encuentra cerrado
+ETC_20150317_001484	Este objeto no puede ser equipado
+ETC_20150317_001485	[{Word}] no está permitido su uso.
+ETC_20150317_001486	{S20}{ol}{#46c8ff} No tienes suficientes PR
+ETC_20150317_001487	No coincide tu versión del servidor 
+ETC_20150317_001488	No cumples con el nivel necesario.{nl}Revisa el nivel requerido en la descripción
+ETC_20150317_001489	No puede ser equipado por personajes masculinos.{nl}Revisa el requisito de género y nivel en la descripción 
+ETC_20150317_001490	No puede ser equipado por personajes femeninos.{nl}Revisa el requisito de género y nivel en la descripción
+ETC_20150317_001491	El nombre de tu personaje debe tener al menos %s carácteres.
+ETC_20150317_001492	El nombre de tu personaje debe ser menor a %s carácteres.
+ETC_20150317_001493	{S18}{ol}{#ffffcc} Contraseña Incorrecta
+ETC_20150317_001494	No puedes unirte al juego. Tu nivel no coincide con los requisitos de nivel.
+ETC_20150317_001495	No permitido
 ETC_20150317_001496	This room does not exist. {nl}Please refresh the Room List.
 ETC_20150317_001497	You cannot enter the room as there is no empty slot.
 ETC_20150317_001498	You cannot move as there is no empty slot in the alliance.
 ETC_20150317_001499	You cannot close any more slots of the alliance.
-ETC_20150317_001500	You do not have enough players to start the mission.
-ETC_20150317_001501	This warp location has been successfully saved.
-ETC_20150317_001502	This warp point has already been saved.
+ETC_20150317_001500	No hay suficientes jugadores cómo para comenzar la misión.
+ETC_20150317_001501	Punto de teletransporte guardado con éxito.
+ETC_20150317_001502	Este punto de teletransporte ya ha sido guardado.
 ETC_20150317_001503	The server end is not completed {nl}or you have logged in from another computer. {nl}End the connection.
 ETC_20150317_001504	When you delete the character,{nl} all equipped items will also be deleted.{nl} Are you sure you want to delete?
-ETC_20150317_001505	New job has been added.
-ETC_20150317_001506	{Auto_1} {Auto_2} item(s) obtained.
+ETC_20150317_001505	Nueva clase añadida.
+ETC_20150317_001506	{Auto_1} {Auto_2} objeto(s) obtenidos.
 ETC_20150317_001507	Disconnected from the mission server.
 ETC_20150317_001508	Cannot create mission room. {nl}Please try it again later.
-ETC_20150317_001509	Your character is not logged in
-ETC_20150317_001510	This place cannot be saved as a warp point.
+ETC_20150317_001509	Tu personaje no se encuentra en el juego
+ETC_20150317_001510	Esta ubicación no puede ser designada cómo punto de teletransporte.
 ETC_20150317_001511	You have exceeded the number of players for the team.
 ETC_20150317_001512	Currently I chose Zone waypoint
 ETC_20150317_001513	You cannot create a room as the level does not match the level requirement of the game.
-ETC_20150317_001514	{s18}{ol}{#ffffcc} Maximum number of characters reached. {nl} To create a new character, you must first delete an existing character.
+ETC_20150317_001514	{s18}{ol}{#ffffcc} Has alcanzado el límite de personajes. {nl} Para crear un nuevo personajes, debes borrar uno existente.
 ETC_20150317_001515	You do not have enough character points.{nl}You can earn character points through quests or missions.
 ETC_20150317_001516	Leader is unable to learn this stance. {nl}Please check available job to obtain the stance in Stance promotion description.
 ETC_20150317_001517	This stance has already been obtained.
@@ -1767,10 +1767,10 @@ ETC_20150317_001766	¿Deseas gastar los objetos seleccionados para crear veneno?
 ETC_20150317_001767	No puedes usar esto en la misma área.
 ETC_20150317_001768	Item in buff
 ETC_20150317_001769	Tipos
-ETC_20150317_001770	Equipo de Acompañante
+ETC_20150317_001770	Equipo del Compañero
 ETC_20150317_001771	Reparación Completa
-ETC_20150317_001772	Armadura de Acompañante
-ETC_20150317_001773	Arma de Acompañante
+ETC_20150317_001772	Armadura del Compañero
+ETC_20150317_001773	Arma del Compañero
 ETC_20150317_001774	Casco
 ETC_20150317_001775	Enfriamiento: {Sec} segundos
 ETC_20150317_001776	Efecto del Arma
@@ -1918,10 +1918,10 @@ ETC_20150317_001917	Activado
 ETC_20150317_001918	Individual
 ETC_20150317_001919	Por Turnos
 ETC_20150317_001920	Aleatorio
-ETC_20150317_001921	Equal
-ETC_20150317_001922	By Level
-ETC_20150317_001923	View All
-ETC_20150317_001924	Swordsman
+ETC_20150317_001921	Igual
+ETC_20150317_001922	Por Nivel
+ETC_20150317_001923	Ver Todo
+ETC_20150317_001924	Espadachín
 ETC_20150317_001925	Wizard
 ETC_20150317_001926	Archer
 ETC_20150317_001927	Cleric
@@ -21737,3 +21737,4 @@ ETC_20160415_021736	Los mensajes de chat no pueden exceder los {Max} bites. El u
 ETC_20150317_001460	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons está restringido pues puede consumir una gran cantidad de bites.
 ETC_20160415_021737	Esta función estará disponible en {Time}.
 ETC_20160415_021738	Este usuario no puede realizar intercambios en este momento.
+

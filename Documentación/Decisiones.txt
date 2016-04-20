@@ -1,5 +1,8 @@
 [ Básicos ]
 - Lv -> Nv
+- HP -> PS
+- MP -> PM
+- SP -> PR
 - Character(s) -> Personaje(s)
 - Stats -> Estadísticas
 - Skill(s) -> Habilidad(es)
@@ -10,7 +13,7 @@
 - Guild -> Clan
 - Advancement -> Ascenso
 - Cooldown -> Enfriamiento
-- Companion -> Acompañante
+- Companion -> Compañero
 
 [ Estadistícas ]
 - HP --> PS -> Puntos de Salud
