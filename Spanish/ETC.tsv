@@ -1851,7 +1851,7 @@ ETC_20150317_001850	Times
 ETC_20150317_001851	Damage
 ETC_20150317_001852	{Ul}Maximum Attack! {/}
 ETC_20150317_001853	{Ul}Maximum Damage! {/}
-ETC_20150317_001854	 Lv
+ETC_20150317_001854	 Nv
 ETC_20150317_001855	Obtained Quantity
 ETC_20150317_001856	Obtained Monsters
 ETC_20150317_001857	Buy from Shop
@@ -2052,7 +2052,7 @@ ETC_20150317_002051	[No Disponible]
 ETC_20150317_002052	[Available]
 ETC_20150317_002053	[En Progreso]
 ETC_20150317_002054	[Incompleta]
-ETC_20150317_002055	[Completada]
+ETC_20150317_002055	[Completa]
 ETC_20150317_002056	Repetible
 ETC_20150317_002057	Collect Wood Essence
 ETC_20150317_002058	Offering blood of Black-Eyed Maize to the altar
@@ -21442,7 +21442,7 @@ ETC_20160411_021441	Guild wars start 1 hour after war has been declared and carr
 ETC_20160411_021442	Guild masters can set their guilds to
 ETC_20160411_021443	 status, which disables war declarations.
 ETC_20160411_021444	Consejo sobre el almacen del equipo
-ETC_20160411_021445	Usando un símbolo premium, puedes transferir objetos entre personajes en la misma cuenta a través del almacen del equipo.
+ETC_20160411_021445	Usando un token premium, puedes transferir objetos entre personajes en la misma cuenta a través del almacen del equipo.
 ETC_20160411_021446	You can receive EXP cards from Wings of Vibora NPCs by defeating a certain number of monsters.
 ETC_20160411_021447	You can receive EXP cards from Wings of Vibora NPCs by achieving 100% completion on a map.
 ETC_20160411_021448	Consejo sobre el nivel del equipo

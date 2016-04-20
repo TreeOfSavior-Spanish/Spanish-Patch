@@ -627,7 +627,7 @@ UI_20150317_000626	{@st59}Resetear carrito de la compra{/}
 UI_20150317_000627	{@st41b}Confirmar{/}
 UI_20150317_000628	{@st59}Confirmar Transacción{/}
 UI_20150317_000629	{@st43}Tienda{/}
-UI_20150317_000630	{@st41b}Objetos comprados{/}
+UI_20150317_000630	{@st41b}Objetos a comprar{/}
 UI_20150317_000631	{@st41b}Objetos vendidos{/}
 UI_20150317_000632	{@st41b}Precio{/}
 UI_20150317_000633	{@st41b}Balance{/}
@@ -1813,7 +1813,7 @@ UI_20151001_001812	{@st45tw2}Category
 UI_20151001_001813	Action
 UI_20151001_001814	Restore defaults
 UI_20151016_001815	{@st59}El objeto seleccionado sera bloqueado.{/}
-UI_20151016_001816	{@st59}No puedes cambiar el aspecto de tu guarida y Previsualizarlo.
+UI_20151016_001816	{@st59}Puedes cambiar el aspecto de tu guarida y Previsualizarlo.
 UI_20151016_001817	%s Personajes{/}
 UI_20151016_001818	{@st42b}Previsualizar
 UI_20151016_001819	{@st42b}Volver
