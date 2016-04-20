@@ -8,6 +8,7 @@
 - Tip -> Consejo
 - Silver -> Plata
 - Guild -> Clan
+- advancement -> Ascenso
 
 [ Nombres de Clases ]
 >> Archer: Arquero
