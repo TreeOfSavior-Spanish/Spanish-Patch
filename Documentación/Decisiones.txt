@@ -12,6 +12,16 @@
 - Cooldown -> Enfriamiento
 - Companion -> Acompañante
 
+[ Estadistícas ]
+- HP --> PS -> Puntos de Salud
+- MP --> PM -> Puntos de Mana
+- SP --> PR -> Puntos de Resistencia
+- STR -->FUE -> Fuerza
+- DEX -> Destreza
+- INT -> Inteligencia
+- CON -> Consistencia
+- SPR -> Espiritu
+
 [ Nombres de Clases ]
 >> Archer: Arquero
 >> Quarrel Shooter: Ballestero (NdT: Quarrel es un tipo de Saeta con punta cuadrada).
