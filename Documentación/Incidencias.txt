@@ -2,3 +2,4 @@
 Linea 21    "Availest"          - No sabemos como traducirlo.
 Linea 205   "Spray Presets"     - No sabemos como traducirlo.
 Linea 613   "Rest Quickslot"    - No sabemos como traducirlo.
+Linea 655   "Psychohassle"      - No sabemos como traducirlo.
