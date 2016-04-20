@@ -291,7 +291,7 @@ UI_20150317_000290	{@st42b}Mostrar Objetos Crafteables{/}
 UI_20150317_000291	{@st59}Cerrar{/}
 UI_20150317_000292	{@st43}{s22}Separar Objetos
 UI_20150317_000293	{@st59}Introduce una cantidad{/}
-UI_20150317_000294	PV del Mosntruo
+UI_20150317_000294	PS del Mosntruo
 UI_20150317_000295	{@st44}Adquirido Objeto de Set{/}
 UI_20150317_000296	Guerrero del teclado
 UI_20150317_000297	Muertes
@@ -434,7 +434,7 @@ UI_20150317_000433	Herramienta para hacer minimapas
 UI_20150317_000434	Herramienta de dialogo
 UI_20150317_000435	{@st43}Opciones de GM{/}
 UI_20150317_000436	{@st59}Cerrar{/}
-UI_20150317_000437	{@st59b}Información de Grupo{nl}{@st59s} - Click en el boton de crear grupo para crear un grupo. {nl} - Click derecho en otros jugadores para invitarlos a tu grupo. {nl} - Se pueden hacer cambios al grupo en la pestaña opciones. {nl} - Configura las condiciones de busqueda del grupo para los jugadores que buscan grupo desde la lista publica de grupos.{/}
+UI_20150317_000437	{@st59b}Información de Grupo{nl}{@st59s} - Click en el boton de crear grupo para crear un grupo. {nl} - Click derecho en otros jugadores para invitarlos a tu grupo. {nl} - Se pueden hacer cambios al grupo en la pestaña opciones. {nl} - Configura las condiciones de busqueda del grupo para los jugadores que buscan grupo desde la lista Pública de grupos.{/}
 UI_20150317_000438	{@st43}Información de Grupo{/}
 UI_20150317_000439	{@st41b}Miembros{/}
 UI_20150317_000440	{@st41b}Evento de Grupo {/}
@@ -456,12 +456,12 @@ UI_20150317_000455	{@st41}Compartir Misión
 UI_20150317_000456	{@st41b}Activado
 UI_20150317_000457	{@st41b}Desactivado
 UI_20150317_000458	{@st41b}Crear Grupo
-UI_20150317_000459	{@st43}Lista Publica de Grupos {/}
-UI_20150317_000460	{@st59b}Lista Publica de Grupos{nl}{@st59s} - Busca un grupo que este buscando miemrbos en tu servidor  {nl} - Usa la opción de busqueda para encontrar el grupo que quieres{/}
+UI_20150317_000459	{@st43}Lista Pública de Grupos {/}
+UI_20150317_000460	{@st59b}Lista Pública de Grupos{nl}{@st59s} - Busca un grupo que este buscando miemrbos en tu servidor  {nl} - Usa la opción de busqueda para encontrar el grupo que quieres{/}
 UI_20150317_000461	{@st59}Cerrar Lista de Grupos{/}
 UI_20150317_000462	Usar Busqueda
-UI_20150317_000463	Misiones Compartidas
-UI_20150317_000464	Distribucion de EXP
+UI_20150317_000463	Compartir Misión
+UI_20150317_000464	Distribución de EXP
 UI_20150317_000465	Distribución del botín
 UI_20150317_000466	{@st43}Invitar
 UI_20150317_000467	{@st41b}Invitar{/}
@@ -1070,7 +1070,7 @@ UI_20150317_001069	{@st59}Despues de hacer click aqui, selecciona un personaje p
 UI_20150317_001070	UI de Creación de objetos
 UI_20150317_001071	{s24}Nombre :
 UI_20150317_001072	{s16} FRZ :
-UI_20150317_001073	{s16} PV :
+UI_20150317_001073	{s16} PS :
 UI_20150317_001074	{s16} AGI :
 UI_20150317_001075	{s16} VIT :
 UI_20150317_001076	{s16} Force :
@@ -1188,7 +1188,7 @@ UI_20150317_001187	Compartiendo Misión : {#FFFF00}%s{/}
 UI_20150317_001188	N/A
 UI_20150317_001189	Distribución de EXP : {#FFFF00}%s{/}
 UI_20150317_001190	Equitativa
-UI_20150317_001191	Distribución de Objetos : {#FFFF00}%s{/}
+UI_20150317_001191	Distribución del Botín : {#FFFF00}%s{/}
 UI_20150317_001192	Aleatoria
 UI_20150317_001193	Cómo puedo
 UI_20150317_001194	No ves quien es
@@ -1513,97 +1513,97 @@ UI_20150428_001512	{@st59}Cerrar tutorial para Mando(M){/}
 UI_20150428_001513	Tutorial de Teclado
 UI_20150428_001514	{@st44}Desconectar{/}
 UI_20150428_001515	{@st41b}Dejar Ayudante(Requiere %s iCoin){/}
-UI_20150428_001516	Socket Addition Cost : {#ff9933}%s{/}{nl}Gem Removal Cost : {#ff9933}%s{/}
-UI_20150428_001517	{@st41b}Remove Gem
-UI_20150428_001518	{@st42}{s14}{#ffff00}UI Mode{/}
-UI_20150428_001519	{@st59}Use keyboard or controller to control UI
-UI_20150428_001520	Use Search Party 
-UI_20150428_001521	When a character matching your party conditions is found {nl}[Party match found!] notice will be shown.
-UI_20150428_001522	{@st41}Play Style{/}
-UI_20150428_001523	Questing
-UI_20150428_001524	Hunting
-UI_20150428_001525	Events
-UI_20150428_001526	{@st41}Lv. Difference{/}
-UI_20150428_001527	Not related
-UI_20150428_001528	{@st41}Desired Class Type{/}
-UI_20150428_001529	{@st41b}Leave Party
-UI_20150428_001530	{@st59}Search by party description{/}
-UI_20150428_001531	{s18}{ol}{gr gradation1}Helper Rules{/}
-UI_20150428_001532	{@st59}Craft{/}
-UI_20150428_001533	{@st45ty}Hairstyle Color
-UI_20150428_001534	{@st45ty}Available Title
-UI_20150428_001535	{@st41_yellow}Helper Skill
-UI_20150428_001536	{@st41b}Show Other Character Names{/}
+UI_20150428_001516	Añadir encaje Cuesta : {#ff9933}%s{/}{nl}Quitar gema Cuesta : {#ff9933}%s{/}
+UI_20150428_001517	{@st41b}Quitar Gema
+UI_20150428_001518	{@st42}{s14}{#ffff00}Modo de Interfaz{/}
+UI_20150428_001519	{@st59}Usa el teclado o mando para controlar la Interfaz
+UI_20150428_001520	Usar Buscador de Grupo
+UI_20150428_001521	Cuando un personaje que coincide con tus condiciones de grupo es encontrado {nl}La noticia [¡Se encontró un grupo!] se mostrará.
+UI_20150428_001522	{@st41}Estilo de juego{/}
+UI_20150428_001523	Misiones
+UI_20150428_001524	Caza
+UI_20150428_001525	Eventos
+UI_20150428_001526	{@st41}Diferencia de Nv.{/}
+UI_20150428_001527	No relatado
+UI_20150428_001528	{@st41}Tipo de clase deseada{/}
+UI_20150428_001529	{@st41b}Dejar grupo
+UI_20150428_001530	{@st59}Buscar grupo por descripción{/}
+UI_20150428_001531	{s18}{ol}{gr gradation1}Reglas de Asistente{/}
+UI_20150428_001532	{@st59}Crear{/}
+UI_20150428_001533	{@st45ty}Color de pelo
+UI_20150428_001534	{@st45ty}Titulo disponible
+UI_20150428_001535	{@st41_yellow}Habilidad de Asistente
+UI_20150428_001536	{@st41b}Mostrar nombres de otros personajes{/}
 UI_20150428_001537	{@st43}Forma de la Interfaz{/}
 UI_20150428_001538	{@st41b}Automático{/}
-UI_20150428_001539	{@st41b}Controller{/}
-UI_20150428_001540	{@st41b}Keyboard{/}
-UI_20150428_001541	Controller
+UI_20150428_001539	{@st41b}Mando{/}
+UI_20150428_001540	{@st41b}Teclado{/}
+UI_20150428_001541	Mando
 UI_20150428_001542	{@st59}Información del Mando{/}
-UI_20150428_001543	Keyboard
+UI_20150428_001543	Teclado
 UI_20150428_001544	{@st59}Información del Teclado{/}
 UI_20150428_001545	{@st43}Gráficos{/}
 UI_20150428_001546	{@st43}Rendimiento{/}
-UI_20150428_001547	{@st41b}Low-spec Mode{/}
-UI_20150428_001548	{@st41b}Auto Adjustment{/}
-UI_20150428_001549	{@st41b}Don't use{/}
-UI_20150428_001550	Game FAQ
-UI_20150428_001551	Players : (%s/%s)
-UI_20150428_001552	At least Lv. 100 : (%s/%s)
-UI_20150511_001553	{@st41}Link Party Invite
-UI_20150714_001554	{@st66b}Items Sold : ×%s / Items Unsold : ×%s{/}
-UI_20150714_001555	{@st41b}Trade Log
-UI_20150714_001556	{@st41b}Remove Base Camp
-UI_20150714_001557	Card Battles
-UI_20150714_001558	{@st64}%s Win(s) {/}
-UI_20150714_001559	Select Card
-UI_20150714_001560	Adventure Index:{#ffff00} %s{/} ({#ffff00}Rank: #%s{/})
-UI_20150714_001561	{@st66b}Like!
-UI_20150714_001562	I like this character {#ffff00}%s{/}
-UI_20150714_001563	{@st41b}Remove Refreshment Table
-UI_20150714_001564	{@st42}My Summon Skill
-UI_20150714_001565	{@st42}Stat
-UI_20150714_001566	{@st42}Current Location : %s{/}
+UI_20150428_001547	{@st41b}Bajo{/}
+UI_20150428_001548	{@st41b}Automático{/}
+UI_20150428_001549	{@st41b}Desactivado{/}
+UI_20150428_001550	FAQ del Juego
+UI_20150428_001551	Jugadores : (%s/%s)
+UI_20150428_001552	Al menos Nv. 100 : (%s/%s)
+UI_20150511_001553	{@st41}Enlace de invitación a grupo
+UI_20150714_001554	{@st66b}Objetos Vendidos : ×%s / Objetos sin Vender : ×%s{/}
+UI_20150714_001555	{@st41b}Registro de Comercio
+UI_20150714_001556	{@st41b}Quitar Campamento Base
+UI_20150714_001557	Batalla de Cartas
+UI_20150714_001558	{@st64}%s Ganadas(s) {/}
+UI_20150714_001559	Selecciona una Carta
+UI_20150714_001560	Índice de Aventuras:{#ffff00} %s{/} ({#ffff00}Rank: #%s{/})
+UI_20150714_001561	{@st66b}¡Me Gusta!
+UI_20150714_001562	Me gusta este personaje {#ffff00}%s{/}
+UI_20150714_001563	{@st41b}Quitar mesa de refrigerios
+UI_20150714_001564	{@st42}Mi habilidad de Invocación
+UI_20150714_001565	{@st42}Estadística
+UI_20150714_001566	{@st42}Localización actual : %s{/}
 UI_20150714_001567	{@st59b}Equipo {nl}{@st59s} - Pelo/Ropa: Equipamiento para cambiar la apariencia del personaje. {nl} - Armas: De una mano o de dos manos {nl} (Arma Secundaria/Escudo se pueden equipar con armas de una mano) {nl} - Armadura: Pecho, Pantalon, Guantes, Zapatos. {nl} - Accessorios: 1 Colgante y 2 Pulseras. {nl} {/}
-UI_20150714_001568	{@st43}Open %s Shop {/}
-UI_20150714_001569	{@st41b}Roasting{/}
-UI_20150714_001570	{@st66}Select All
-UI_20150714_001571	{@st43}Craft Arrow{/}
-UI_20150714_001572	{@st59}Close{/}
-UI_20150714_001573	{@st66b}Check{/}
-UI_20150714_001574	{@st66b}Leave Helper(Requires %s iCoin){/}
-UI_20150714_001575	Additional Socket Cost : {#000000}%s{/} {nl}Gem Extraction Cost : {#000000}%s{/}
-UI_20150714_001576	{ds}Recommended Level : %s
-UI_20150714_001577	Explored : 50.0%
-UI_20150714_001578	{@st45tw}[%s% explored]{/}
-UI_20150714_001579	>>Show More Info...
+UI_20150714_001568	{@st43}Tienda %s Abierta {/}
+UI_20150714_001569	{@st41b}Hornear{/}
+UI_20150714_001570	{@st66}Seleccionar Todo
+UI_20150714_001571	{@st43}Crear Flecha{/}
+UI_20150714_001572	{@st59}Cerrar{/}
+UI_20150714_001573	{@st66b}Comprobar{/}
+UI_20150714_001574	{@st66b}Dejar Asistente(Requiere %s iCoin){/}
+UI_20150714_001575	Encaje adicional Cuesta : {#000000}%s{/} {nl}Extraer gema Cuesta : {#000000}%s{/}
+UI_20150714_001576	{ds}Nivel Recomendado : %s
+UI_20150714_001577	Explorado : 50.0%
+UI_20150714_001578	{@st45tw}[%s% exploredo]{/}
+UI_20150714_001579	>>Mostrar mas Información...
 UI_20150714_001580	%s (Rank %s)
-UI_20150714_001581	Job Name
-UI_20150714_001582	{@st41b}Invite
+UI_20150714_001581	Nombre de Trabajo
+UI_20150714_001582	{@st41b}Invitar
 UI_20150714_001583	{@st41}You can change to keyboard, controller, or mouse controls in the system menu.{nl}
 UI_20150714_001584	When you meet a character matching your party conditions, {nl}[Party match found!] notice will be shown.{nl}You will also be recommended to other parties.
-UI_20150714_001585	{@st42}Play Style{/}
-UI_20150714_001586	{@st42}Lv. Difference{/}
-UI_20150714_001587	Any
-UI_20150714_001588	{@st42}Class Type{/}
-UI_20150714_001589	{@st42}Party Name : %s{/}
-UI_20150714_001590	{@st42}Description{/}
-UI_20150714_001591	{@st42}Enter{/}
-UI_20150714_001592	{@st42}Item Distribution
-UI_20150714_001593	{@st42}EXP Distribution
-UI_20150714_001594	Individual EXP
-UI_20150714_001595	Equal EXP
-UI_20150714_001596	By Level
-UI_20150714_001597	{@st42}Quest Sharing
-UI_20150714_001598	Disabled
-UI_20150714_001599	{@st42}Public Party{/}
-UI_20150714_001600	Level
-UI_20150714_001601	{@st42}Use 'Recommend Party'{/}
-UI_20150714_001602	By Distance
-UI_20150714_001603	By Class
-UI_20150714_001604	By Level
-UI_20150714_001605	By Quest
-UI_20150714_001606	By Closeness
+UI_20150714_001585	{@st42}Estilo de juego{/}
+UI_20150714_001586	{@st42}Diferencia de Nv.{/}
+UI_20150714_001587	Cualquiera
+UI_20150714_001588	{@st42}Tipo de Clase{/}
+UI_20150714_001589	{@st42}Nombre del grupo : %s{/}
+UI_20150714_001590	{@st42}Descripción{/}
+UI_20150714_001591	{@st42}Entrar{/}
+UI_20150714_001592	{@st42}Distribución del Botín
+UI_20150714_001593	{@st42}Distribución de EXP
+UI_20150714_001594	EXP Individual 
+UI_20150714_001595	EXP Equitativa
+UI_20150714_001596	Por nivel
+UI_20150714_001597	{@st42}Compartir Misión
+UI_20150714_001598	Desactivado
+UI_20150714_001599	{@st42}Grupo Publico{/}
+UI_20150714_001600	Nivel
+UI_20150714_001601	{@st42}Usa 'Grupo Recomendado'{/}
+UI_20150714_001602	Por Distancia
+UI_20150714_001603	Por Clase
+UI_20150714_001604	Por Nivel
+UI_20150714_001605	Por Misión
+UI_20150714_001606	Por Cercania
 UI_20150714_001607	{@st42}Share Party Invite Link
 UI_20150714_001608	>>Party Preview...
 UI_20150714_001609	Party Name : %s
@@ -1629,10 +1629,10 @@ UI_20150714_001628	{@st66b}Mostrar Experiencia Recivida{/}
 UI_20150714_001629	{@st66b}Mostrar Nombre del Personaje{/}
 UI_20150714_001630	{@st66b}Mostrar solo el Nombre del Equipo{/}
 UI_20150714_001631	{@st66b}Mostrar Nombres de los Jugadores{/}
-UI_20150714_001632	{@st66b}Auto{/}
+UI_20150714_001632	{@st66b}Automática{/}
 UI_20150714_001633	{@st66b}Mando{/}
 UI_20150714_001634	{@st66b}Teclado{/}
-UI_20150714_001635	{@st66b}Ratón
+UI_20150714_001635	{@st66b}Ratón y Teclado
 UI_20150714_001636	{@st66b}Pantalla Completa{/}
 UI_20150714_001637	{@st66b}Modo Ventana{/}
 UI_20150714_001638	{@st66b}Volumen de los Efectos (%s){/}
@@ -1712,7 +1712,7 @@ UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
 UI_20150717_001714	{@st42b}Swordsman types can dash by pressing the arrow key twice.{/}
-UI_20150717_001715	{@st42}Party Name & Description{/}
+UI_20150717_001715	{@st42}Nombre de grupo y descripción{/}
 UI_20150717_001716	{@st42}Insert Party Invite Tag
 UI_20150717_001717	{@st41b}Public Party List{/}
 UI_20150717_001718	{@st41b}Recommended Character List{/}
@@ -1722,7 +1722,7 @@ UI_20150717_001721	You must use the Party Member Recommendation function.
 UI_20150717_001722	{@st66b}Quest Class Name{/}
 UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter a quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
 UI_20150717_001724	{@st59}Mouse Info{/}
-UI_20150717_001725	{@st66b}Sort
+UI_20150717_001725	{@st66b}Ordenar
 UI_20150717_001726	{@st59}Sort items in your storage{/}
 UI_20150717_001727	{@st59}Equip weapons to this slot{nl}Press Alt+Z to swap weapons{/}
 UI_20150717_001728	Spectate another character
@@ -1732,14 +1732,14 @@ UI_20150717_001731	{@st41}Move Now
 UI_20150717_001732	{@st41b}             A 'Team Name' represents all your characters.{nl}                It's a common name used within the game.{nl}                  (Changing your Team Name will cost TP!){/}
 UI_20150729_001733	{@st42}Show only attributes that can be learned{/}
 UI_20150729_001734	Leg Count
-UI_20150729_001735	Key
-UI_20150729_001736	Weight
+UI_20150729_001735	Tecla
+UI_20150729_001736	Pesp
 UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
 UI_20150729_001739	{@st59}Close Arrow Crafting{/}
 UI_20150729_001740	Fragments needed : Mutant %s / Beast %s / Plant %s
 UI_20150729_001741	{@st42b}         Swordsman classes can sprint by                     double-tapping a directional key{/}
-UI_20150729_001742	{@st41}Party Settings
+UI_20150729_001742	{@st41}Opciones de Grupo
 UI_20150729_001743	{@st41}Party Recruit Settings
 UI_20150729_001744	{@st42}Search for Party Members{/}
 UI_20150729_001745	When a player meets the criteria you set up, a [Party Match!] message will be shown on your screen.
@@ -1808,10 +1808,10 @@ UI_20150918_001807	{@st41b}Change Signboard Title
 UI_20150918_001808	{@sti9}My Rank
 UI_20150918_001809	{@sti9}Kill Rank
 UI_20150918_001810	{@sti9}Damage Rank
-UI_20151001_001811	{@st43}Key Settings{/}
-UI_20151001_001812	{@st45tw2}Category
-UI_20151001_001813	Action
-UI_20151001_001814	Restore defaults
+UI_20151001_001811	{@st43}Configurar Teclas{/}
+UI_20151001_001812	{@st45tw2}Categoria
+UI_20151001_001813	Acción
+UI_20151001_001814	Por Defecto
 UI_20151016_001815	{@st59}El objeto seleccionado sera bloqueado.{/}
 UI_20151016_001816	{@st59}Puedes cambiar el aspecto de tu guarida y Previsualizarlo.
 UI_20151016_001817	%s Personajes{/}
@@ -1935,9 +1935,9 @@ UI_20151224_001934	{@st66b}Settings{/}
 UI_20151224_001935	{@st42b}Save{/}
 UI_20151224_001936	{@st41}Party Name & Description{/}
 UI_20151224_001937	Show Nearby Parties
-UI_20151224_001938	Public Party
-UI_20151224_001939	Lv. Difference
-UI_20151224_001940	Use 'Recommend Party'
+UI_20151224_001938	Grupo Público
+UI_20151224_001939	Nv. de Difer
+UI_20151224_001940	Usar 'Grupo Recomendado'
 UI_20151224_001941	{@st66b}Insert Party Invite Tag
 UI_20151224_001942	Competitive Mission
 UI_20151224_001943	Unit
@@ -2161,16 +2161,16 @@ UI_20160323_002160	CON : {@st41b}%s
 UI_20160323_002161	INT : {@st41b}%s
 UI_20160323_002162	DEX : {@st41b}%s
 UI_20160323_002163	SPR : {@st41b}%s
-UI_20160323_002164	{@st42}Hairstyle Color{/}
-UI_20160323_002165	{@st42}Available Titles{/}
+UI_20160323_002164	{@st42}Color de pelo{/}
+UI_20160323_002165	{@st42}Titulos disponibles{/}
 UI_20160323_002166	Información del equipo
-UI_20160323_002167	{@st66b}Cambiar Guarida{/}
+UI_20160323_002167	{@st66b}Cambiar {nl} Guarida{/}
 UI_20160323_002168	{@st43}{s26}Nivel de Equipo %s{/}
-UI_20160323_002169	{@st66b}Info de Equipo
+UI_20160323_002169	{@st66b} Información {nl} de Equipo
 UI_20160323_002170	{#2c140c}Average Level : %s{/}
 UI_20160323_002171	{@st41b}Join
 UI_20160323_002172	{@st42} Saludo del Personaje{/}
-UI_20160323_002173	[Server] Nombre del Guild
+UI_20160323_002173	[Serveidor] Nombre del Guild
 UI_20160323_002174	Record / Puntuación
-UI_20160323_002175	[Created: %s ago]
+UI_20160323_002175	[Creado hace: %s]
 UI_20160411_002176	{@st66b}Usar vibración en la camara{/}
