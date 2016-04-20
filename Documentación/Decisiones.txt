@@ -1,8 +1,5 @@
 [ Básicos ]
 - Lv -> Nv
-- HP -> PS
-- MP -> PM
-- SP -> PR
 - Character(s) -> Personaje(s)
 - Stats -> Estadísticas
 - Skill(s) -> Habilidad(es)
@@ -19,8 +16,8 @@
 - HP --> PS -> Puntos de Salud
 - MP --> PM -> Puntos de Mana
 - SP --> PR -> Puntos de Resistencia
-- STR -->FUE -> Fuerza
-- DEX -> Destreza
+- STR --> FUE -> Fuerza
+- DEX --> DES -> Destreza
 - INT -> Inteligencia
 - CON -> Consistencia
 - SPR -> Espiritu
