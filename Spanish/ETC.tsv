@@ -1890,7 +1890,7 @@ ETC_20150317_001889	Temporary Event
 ETC_20150317_001890	Acquired
 ETC_20150317_001891	You already have it.
 ETC_20150317_001892	A Field Boss appeared!
-ETC_20150317_001893	Objeto
+ETC_20150317_001893	Botín
 ETC_20150317_001894	Mapa
 ETC_20150317_001895	Logro
 ETC_20150317_001896	Mike
@@ -14604,11 +14604,11 @@ ETC_20150918_014605	The field boss in this region has been defeated.
 ETC_20150918_014606	You cannot participate PvP it the current map due to an error.
 ETC_20150918_014607	{Name} requested to join the party.
 ETC_20150918_014608	Do you want to join this party?
-ETC_20150918_014609	Round Robin
-ETC_20150918_014610	Random
+ETC_20150918_014609	Por turnos
+ETC_20150918_014610	Aleatorio
 ETC_20150918_014611	Individual
-ETC_20150918_014612	Shared
-ETC_20150918_014613	Unshared
+ETC_20150918_014612	Compartida
+ETC_20150918_014613	No Compartida
 ETC_20150918_014614	You have exceeded the number of times that you can participate in an instanced dungeon for today.
 ETC_20150918_014615	You do not meet the level requirement of this instanced dungeon
 ETC_20150918_014616	Defeat Matsums that are rushing in!
