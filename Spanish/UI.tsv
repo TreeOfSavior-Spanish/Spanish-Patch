@@ -958,20 +958,20 @@ UI_20150317_000957	{@St41b}Item Arrangement{/}
 UI_20150317_000958	{@St41b}Name
 UI_20150317_000959	{@St41b}Price
 UI_20150317_000960	{@St41b}State
-UI_20150317_000961	{@St44}Nuevo Personaje{/}
+UI_20150317_000961	{@St44}New Character{/}
 UI_20150317_000962	{@St41b}{s22}Select Character Class{/}
 UI_20150317_000963	{@St41b}Return{/}
 UI_20150317_000964	{@St59}Go back to your Lodge without creating a character
-UI_20150317_000965	Cambiar Personaje
-UI_20150317_000966	{@St41}Personaje{/}
+UI_20150317_000965	Change Character
+UI_20150317_000966	{@St41}Character{/}
 UI_20150317_000967	{@St59}Rotate clockwise{/}
 UI_20150317_000968	{@St59}Rotate counterclockwise{/}
 UI_20150317_000969	{@St43b}Character Rotation{/}
 UI_20150317_000970	{@st43}Character Name{/}
 UI_20150317_000971	Enter a name{@st59} {/}
 UI_20150317_000972	{@St43b}Choose Gender{/}
-UI_20150317_000973	{@St59}Chica{/}
-UI_20150317_000974	{@St59}Chico{/}
+UI_20150317_000973	{@St59}Female{/}
+UI_20150317_000974	{@St59}Male{/}
 UI_20150317_000975	{@st43b}Choose Hairstyle{/}
 UI_20150317_000976	{@st59}Hairstyle 1{/}
 UI_20150317_000977	{@st59}Hairstyle 2{/}
@@ -991,25 +991,25 @@ UI_20150317_000990	{@st59}Cleric{/}
 UI_20150317_000991	{@St41b}Visit Barrack {/}
 UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}
 UI_20150317_000993	{@St41b}Logout{/}
-UI_20150317_000994	{@St59}Ir a la pantalla de login{/}
-UI_20150317_000995	{@St41b}Salir del juego{/}
-UI_20150317_000996	{@St59}Salir de Tree of Savior{/}
-UI_20150317_000997	{@st41b}Selecciona canal{/}
+UI_20150317_000994	{@St59}Move to the login screen{/}
+UI_20150317_000995	{@St41b}Exit Game{/}
+UI_20150317_000996	{@St59}Exit Tree of Savior{/}
+UI_20150317_000997	{@st41b}Select Channel{/}
 UI_20150317_000998	{@st43}Enter{/}
-UI_20150317_000999	{@St59}Comenzar partida con el personaje seleccionado{/}
+UI_20150317_000999	{@St59}Start the game with the selected character{/}
 UI_20150317_001000	{@St43}{s26}Team Name{/}
 UI_20150317_001001	{@st59}Team Name{/}
 UI_20150317_001002	{@st41b}Change Team Name{/}
 UI_20150317_001003	{@st59}Change Team Name{/}
-UI_20150317_001004	{@St41}Compañero{/}
+UI_20150317_001004	{@St41}Companion{/}
 UI_20150317_001005	Chat Drag
 UI_20150317_001006	{@St44}New Dialog Name{/}
 UI_20150317_001007	{@St42}Change{/}
 UI_20150317_001008	{@St44}New Window Name{/}
-UI_20150317_001009	{@St43}{s40}{gr gradation4}Crear Personaje{/}
-UI_20150317_001010	{@St59}Crear Personaje{/}
-UI_20150317_001011	{@St59}Cancelar Creacion de Personaje{/}
-UI_20150317_001012	{@St59}Cerrar{/}
+UI_20150317_001009	{@St43}{s40}{gr gradation4}Character Creation{/}
+UI_20150317_001010	{@St59}Create a character{/}
+UI_20150317_001011	{@St59}Cancel character creation{/}
+UI_20150317_001012	{@St59}Close{/}
 UI_20150317_001013	{@St59}Create a team with the entered name{/}
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!
 UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, guild joining, conversation and more.{nl}         Team Name can be changed at any time using 150 TP.{/}
@@ -1021,18 +1021,18 @@ UI_20150317_001020	Account ID
 UI_20150317_001021	{@st59}Enter your Account ID{/}
 UI_20150317_001022	Password
 UI_20150317_001023	{@St59}Enter your password{/}
-UI_20150317_001024	{@St43}Entrar{/}
-UI_20150317_001025	{@St59}Conectar al servidor seleccionado{/}
+UI_20150317_001024	{@St43}Enter{/}
+UI_20150317_001025	{@St59}Connect to the selected server{/}
 UI_20150317_001026	{@st41b}Replay{/}
 UI_20150317_001027	{@st41b}Single Mode{/}
-UI_20150317_001028	{@St41b}Salir del juego{/}
+UI_20150317_001028	{@St41b}Exit Game{/}
 UI_20150317_001029	Save
 UI_20150317_001030	{@St59}If checked, your account will be saved{/}
-UI_20150317_001031	Servidores
-UI_20150317_001032	{@St59}Servidores{/}
+UI_20150317_001031	Server List
+UI_20150317_001032	{@St59}Select Server{/}
 UI_20150317_001033	Login Title
 UI_20150317_001034	[Closed Beta version]
-UI_20150317_001035	Opciones
+UI_20150317_001035	Options
 UI_20150317_001036	Visibility Range
 UI_20150317_001037	{S20}{#BBBBBB}Visibility Range
 UI_20150317_001038	Visibility Range :
@@ -1060,10 +1060,10 @@ UI_20150317_001059	{@st41}Support{/}
 UI_20150317_001060	{@st41}Difficulty{/}
 UI_20150317_001061	{@st41}Hairstyle
 UI_20150317_001062	{@st41}Rotation
-UI_20150317_001063	{@st43}Crear Personaje
+UI_20150317_001063	{@st43}Create Character
 UI_20150317_001064	{@st59}Create Current Character{/}
 UI_20150317_001065	{@st41b}Cancel
-UI_20150317_001066	{@st59}Cancelar Creacion de Personaje{/}
+UI_20150317_001066	{@st59}Cancel Character Selection{/}
 UI_20150317_001067	Character Information
 UI_20150317_001068	{@st41}Bring Along
 UI_20150317_001069	{@st59}After clicking this, select a character for the companion to follow you{/}
@@ -1379,15 +1379,15 @@ UI_20150323_001378	{@st59}Close Personal Storage{/}
 UI_20150323_001379	{@sti6}Storing and taking items from storage costs %s silver...{/}
 UI_20150323_001380	{@st59}Alt+Z to change weapons{/}
 UI_20150323_001381	{@st59}Save Lodge Settings{/}
-UI_20150323_001382	Cambiar Guarida
+UI_20150323_001382	Change Lodge
 UI_20150323_001383	{@st59}Close
-UI_20150323_001384	{@st59}Cambiar Guarida{nl} - Change the map and expand the number of available characters by changing your Lodge. 
+UI_20150323_001384	{@st59}Change Lodge{nl} - Change the map and expand the number of available characters by changing your Lodge. 
 UI_20150323_001385	{@st41}Cancel Preview
 UI_20150323_001386	{@st46}My iCoins : %s{/}
-UI_20150323_001387	{@st41b}Cambiar Guarida{/}
-UI_20150323_001388	{@st59}Decorar Guarida{/}
-UI_20150323_001389	{@st41b}Opciones de la Guarida{/}
-UI_20150323_001390	{@st59}Cambiar opciones de la Guarida{/}
+UI_20150323_001387	{@st41b}Change Lodge{/}
+UI_20150323_001388	{@st59}Decorate your Lodge{/}
+UI_20150323_001389	{@st41b}Lodge Settings{/}
+UI_20150323_001390	{@st59}Change Lodge Settings{/}
 UI_20150323_001391	{@st45ty}Character Greeting{/}
 UI_20150323_001392	{@st45ty}Buy-in Shop
 UI_20150323_001393	{@st41b}Change
@@ -1663,7 +1663,7 @@ UI_20150714_001662	Damage
 UI_20150714_001663	{@st41}Return to the zone
 UI_20150714_001664	{@st41b}Return to the zone in just %s seconds...{/}
 UI_20150714_001665	{@st59}Opens the message box{/}
-UI_20150714_001666	{@st42}Cambiar Guarida{/}
+UI_20150714_001666	{@st42}Change Lodge{/}
 UI_20150714_001667	{@st42}Lodge Settings{/}
 UI_20150714_001668	{@st65}%s Score{/}
 UI_20150714_001669	{@st65}×%s{/}
@@ -1987,7 +1987,7 @@ UI_20151224_001986	{@st43}Change Team Name{/}
 UI_20151224_001987	{@st59}Change Team Name{/}
 UI_20151224_001988	{@st59}Cancel{/}
 UI_20151224_001989	{@st66b18}Change Team Name{/}
-UI_20151224_001990	{@st66b18}Cambiar Guarida{/}
+UI_20151224_001990	{@st66b18}Change Lodge{/}
 UI_20151224_001991	{@st66}A Team Name change costs 150 TP{/}
 UI_20151224_001992	{@st59}Enter a name{/}
 UI_20151224_001993	{@st41b}Free TP{/}
@@ -1998,9 +1998,9 @@ UI_20151224_001997	{@st59}Visit the lodges of other players.{/}
 UI_20151224_001998	{@st41b}Message Box{/}
 UI_20151224_001999	{@st59}Open the Message Box{/}
 UI_20151224_002000	{@st42}Character{/}
-UI_20151224_002001	{@st42}TP Gratis{/}
-UI_20151224_002002	{@st42}TP de Evento{/}
-UI_20151224_002003	{@st41b}Creditos{/}
+UI_20151224_002001	{@st42}Free TP{/}
+UI_20151224_002002	{@st42}Event TP{/}
+UI_20151224_002003	{@st41b}Credits{/}
 UI_20151224_002004	{@st59}Credits{/}
 UI_20151224_002005	{@st42}Producer and Director{/}{nl}{@st41b}{s22}Seyong Kim{nl} {nl}{@st42}Art Director{nl}{@st41b}{s22}Jeongwon An (MAGGI){nl} {nl}{@st42}Art Designer{nl}{@st41b}{s22}Mina Kim{nl}Heajin Sung{nl}Minkyong Kang{nl}Junhyuck Park{nl}Jinyoung Bae{nl}Hyosun Shin{nl}Sehee Park{nl} {nl}{@st42}Senior Programmer{nl}{@st41b}{s22}Sanghyup Shin{nl} {nl}{@st42}Research Programmer{nl}{@st41b}{s22}Jaehoon Jung{nl} {nl}{@st42}Programmer{nl}{@st41b}{s22}Young Choi{nl}Seongbae Han{nl}Bora Kim{nl}YongGyun Lee{nl}Minkyu Kim{/}
 UI_20151224_002006	{@st42}Battle System Designer{nl}{@st41b}{s22}Girak Choi{nl}{nl}P.J. Kim{nl} {nl}{@st42}Level Designer{nl}{@st41b}{s22}Hongseok Ra{nl} {nl}{@st42}Screenplay Director{nl}{@st41b}{s22}Seungjo Lee{nl} {nl}{@st42}Lead Animator{nl}{@st41b}{s22}Sujin Lee{nl} {nl}{@st42}Animator{nl}{@st41b}{s22}Seunghyeon Myeong{nl}Minwoo Park{nl}Sookyung Kim{nl}Dongjin Kim{nl}Mijin Kim{nl} {nl}{@st42}Effects / SFX{nl}{@st41b}{s22}Hyejin Jung{nl} {nl}{@st42}Character Designer{nl}{@st41b}{s22}Jiae Park{nl}Junwon Hwang{nl}Subum Lee{nl}Dami Kim{/}
@@ -2164,9 +2164,9 @@ UI_20160323_002163	SPR : {@st41b}%s
 UI_20160323_002164	{@st42}Hairstyle Color{/}
 UI_20160323_002165	{@st42}Available Titles{/}
 UI_20160323_002166	Team Info
-UI_20160323_002167	{@st66b}Cambiar Guarida{/}
-UI_20160323_002168	{@st43}{s26}Nivel de Equipo %s{/}
-UI_20160323_002169	{@st66b}Info de Equipo
+UI_20160323_002167	{@st66b}Change Lodge{/}
+UI_20160323_002168	{@st43}{s26}Team Level %s{/}
+UI_20160323_002169	{@st66b}Team Info
 UI_20160323_002170	{#2c140c}Average Level : %s{/}
 UI_20160323_002171	{@st41b}Join
 UI_20160323_002172	{@st42} Character Greetings{/}

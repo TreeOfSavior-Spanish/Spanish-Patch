@@ -1569,7 +1569,7 @@ ETC_20150317_001568	Your strength is insufficient
 ETC_20150317_001569	Starting map not available.
 ETC_20150317_001570	Request Failed
 ETC_20150317_001571	This character is currently a party leader and cannot be deleted.
-ETC_20150317_001572	Crear Personaje
+ETC_20150317_001572	Create Character
 ETC_20150317_001573	You need to learn the required attributes to use this weapon.
 ETC_20150317_001574	Item Bought
 ETC_20150317_001575	Failed to purchase item! It has already been sold out.
@@ -1927,8 +1927,8 @@ ETC_20150317_001926	Archer
 ETC_20150317_001927	Cleric
 ETC_20150317_001928	View Information
 ETC_20150317_001929	Ch 
-ETC_20150317_001930	¿Quieres moverte al canal {Channel}?
-ETC_20150317_001931	Precio
+ETC_20150317_001930	Do you want to move to channel {Channel}?
+ETC_20150317_001931	Price
 ETC_20150317_001932	's Lodge
 ETC_20150317_001933	This channel is closed.
 ETC_20150317_001934	iCoin Shop
