@@ -345,8 +345,8 @@ UI_20150317_000344	{ol}Titulo
 UI_20150317_000345	{@st41}Añadir{/}
 UI_20150317_000346	{@st41}Borrar{/}
 UI_20150317_000347	{@st41}Guardar{/}
-UI_20150317_000348	{@st41}Automatico{/}
-UI_20150317_000349	{@st41}Reseteat{/}
+UI_20150317_000348	{@st41}Automático{/}
+UI_20150317_000349	{@st41}Resetear{/}
 UI_20150317_000350	{@st59}Seleccionar cantidad.{/}
 UI_20150317_000351	{ol}Grupo
 UI_20150317_000352	{ol}Mensaje
@@ -1271,7 +1271,7 @@ UI_20150317_001270	{@St41b} Memo
 UI_20150317_001271	{@St41b}Creación
 UI_20150317_001272	{@St41b}Precio : %s{/}
 UI_20150317_001273	{@Sti5}Precio : %s{/}
-UI_20150317_001274	{@Sti9} Mision de Party (%s){/}
+UI_20150317_001274	{@Sti9} Misión de Grupo (%s){/}
 UI_20150317_001275	{@st41_yellow} Porcentaje de Exploración: %s% {/}
 UI_20150317_001276	{@st41_yellow} Puntación: %s {/}
 UI_20150317_001277	{@st42b}{b}Porcentaje de Logro{/}
@@ -1534,8 +1534,8 @@ UI_20150428_001533	{@st45ty}Hairstyle Color
 UI_20150428_001534	{@st45ty}Available Title
 UI_20150428_001535	{@st41_yellow}Helper Skill
 UI_20150428_001536	{@st41b}Show Other Character Names{/}
-UI_20150428_001537	{@st43}UI Mode{/}
-UI_20150428_001538	{@st41b}Auto{/}
+UI_20150428_001537	{@st43}Forma de la Interfaz{/}
+UI_20150428_001538	{@st41b}Automático{/}
 UI_20150428_001539	{@st41b}Controller{/}
 UI_20150428_001540	{@st41b}Keyboard{/}
 UI_20150428_001541	Controller
@@ -1622,7 +1622,7 @@ UI_20150714_001621	{@st66}Items requiring a repair
 UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Increase skills{/}
 UI_20150714_001624	{@st59}Cerrar{/}
-UI_20150714_001625	{@st43}Skills & Attributes{/}
+UI_20150714_001625	{@st43}Habilidades y Atributos{/}
 UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
 UI_20150714_001627	Favoritos recividos : %s
 UI_20150714_001628	{@st66b}Mostrar Experiencia Recivida{/}
@@ -1639,7 +1639,7 @@ UI_20150714_001638	{@st66b}Volumen de los Efectos (%s){/}
 UI_20150714_001639	{@st66b}Volumen de la Música (%s){/}
 UI_20150714_001640	{@st66b}Volumen General (%s){/}
 UI_20150714_001641	{@st66b}Bajo{/}
-UI_20150714_001642	{@st66b}Automatico{/}
+UI_20150714_001642	{@st66b}Automático{/}
 UI_20150714_001643	{@st66b}Desactivado{/}
 UI_20150714_001644	{@st66b}Bloom{/}
 UI_20150714_001645	{@st66b}Vignette{/}

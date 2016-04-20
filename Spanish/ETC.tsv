@@ -1708,7 +1708,7 @@ ETC_20150317_001707	Crafting Completed!
 ETC_20150317_001708	The name of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001709	The memo of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001710	Tree
-ETC_20150317_001711	Mision
+ETC_20150317_001711	Misión
 ETC_20150317_001712	Arma
 ETC_20150317_001713	Armadura
 ETC_20150317_001714	Espada de Dos Manos
@@ -2048,12 +2048,12 @@ ETC_20150317_002047	Number
 ETC_20150317_002048	Retrieve
 ETC_20150317_002049	Buy
 ETC_20150317_002050	View Market
-ETC_20150317_002051	[Unavailable]
+ETC_20150317_002051	[No Disponible]
 ETC_20150317_002052	[Available]
-ETC_20150317_002053	[In Progress]
-ETC_20150317_002054	[Incomplete]
-ETC_20150317_002055	[Complete]
-ETC_20150317_002056	Repeatable
+ETC_20150317_002053	[En Progreso]
+ETC_20150317_002054	[Incompleta]
+ETC_20150317_002055	[Completada]
+ETC_20150317_002056	Repetible
 ETC_20150317_002057	Collect Wood Essence
 ETC_20150317_002058	Offering blood of Black-Eyed Maize to the altar
 ETC_20150317_002059	Complete sticky dye!
@@ -21728,12 +21728,12 @@ ETC_20160411_021727	Turn Undead Skill Lv +1
 ETC_20160411_021728	Conversion Skill Lv +1
 ETC_20160411_021729	Barrier Skill Lv +1
 ETC_20160411_021730	Conviction Skill Lv +1
-ETC_20160412_021731	Reportar bot	
+ETC_20160412_021731	Reportar bot
 ETC_20160412_021732	¿Reportar a {Name} cómo un bot?
 ETC_20160412_021733	{Name} ha sido reportado. Muchas Gracias.
-ETC_20160415_021734	Delay period after account creation until trading is available: (seconds)	
-ETC_20160415_021735	Min Market Price: Adjust	
+ETC_20160415_021734	Delay period after account creation until trading is available: (seconds)
+ETC_20160415_021735	Min Market Price: Adjust
 ETC_20160415_021736	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons y enlaces está restringido pues puede consumir una gran cantidad de bites.
-ETC_20150317_001460	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons está restringido pues puede consumir una gran cantidad de bites.	
+ETC_20150317_001460	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons está restringido pues puede consumir una gran cantidad de bites.
 ETC_20160415_021737	Esta función estará disponible en {Time}.
 ETC_20160415_021738	Este usuario no puede realizar intercambios en este momento.
