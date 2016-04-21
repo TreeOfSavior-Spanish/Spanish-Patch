@@ -1952,7 +1952,7 @@ UI_20151224_001951	{@st59b}Misiones{nl}{@st59s} - Cuando coges una nueva mision,
 UI_20151224_001952	{@st66b}  En Progreso  {/}
 UI_20151224_001953	{@st66b}  Abandonada  {/}
 UI_20151224_001954	{@st66b}Resucitar con un Cristal de Alma{/}
-UI_20151224_001955	{@st59b}Tienda{nl}{@st59s} - Usa Shift + Right-click para introducir una cantidad para vender/comprar muchos objetos{nl} - Right-click dos veces para venderlos todos{/}
+UI_20151224_001955	{@st59b}Tienda{nl}{@st59s} - Usa Shift + Click derecho para introducir una cantidad para vender/comprar muchos objetos{nl} - Click derecho dos veces para venderlos todos{/}
 UI_20151224_001956	Numero de Creaciones
 UI_20151224_001957	{@st42}%s Beneficios{/}
 UI_20151224_001958	¿Quieres usar este %s?{/}
