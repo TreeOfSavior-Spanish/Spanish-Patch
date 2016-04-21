@@ -16,6 +16,7 @@
 - HP --> PS -> Puntos de Salud
 - MP --> PM -> Puntos de Mana
 - SP --> PR -> Puntos de Resistencia
+- STA --> RES -> Resistencia
 - STR --> FUE -> Fuerza
 - DEX --> DES -> Destreza
 - INT -> Inteligencia
