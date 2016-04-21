@@ -101,6 +101,8 @@ Big Red Kepa (nivel 7)
 El prefijo "High" se ha traducido cómo "Alto" para evitar usar "Gran" que está siendo empleado.
 
 [ Nombres del Equipamiento ]
+Crude --> Brutal
+
 Los nombres del equipamiento seran modificados, pero no los nombres propios.
 Ejemplos: 
 Excalibur Sword -> Espada Excalibur 
