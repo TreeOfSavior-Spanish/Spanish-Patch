@@ -287,7 +287,7 @@ UI_20150317_000286	{@st42}Correr
 UI_20150317_000287	{@st42}Objeto objetivo{/}
 UI_20150317_000288	{@st59}Anillo 1{/}
 UI_20150317_000289	{@st43}Crafteando Objeto{/}
-UI_20150317_000290	{@st42b}Mostrar Objetos Crafteables{/}
+UI_20150317_000290	{@st42b}Mostrar Objetos Creables{/}
 UI_20150317_000291	{@st59}Cerrar{/}
 UI_20150317_000292	{@st43}{s22}Separar Objetos
 UI_20150317_000293	{@st59}Introduce una cantidad{/}
@@ -1268,7 +1268,7 @@ UI_20150317_001267	{@St41}Comprar
 UI_20150317_001268	Cantidad Restante : %s {/}
 UI_20150317_001269	{@St41}Objeto{/}
 UI_20150317_001270	{@St41b} Memo
-UI_20150317_001271	{@St41b}Creación
+UI_20150317_001271	{@St41b}Crear
 UI_20150317_001272	{@St41b}Precio : %s{/}
 UI_20150317_001273	{@Sti5}Precio : %s{/}
 UI_20150317_001274	{@Sti9} Misión de Grupo (%s){/}
