@@ -11,6 +11,7 @@
 - Advancement -> Ascenso
 - Cooldown -> Enfriamiento
 - Companion -> Compañero
+- Storage -> Banco
 
 [ Estadistícas ]
 - HP --> PS -> Puntos de Salud
