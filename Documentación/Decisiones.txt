@@ -110,6 +110,11 @@ Arde Dagger -> Daga Arde
 Bronze Armor -> Armadura de Bronce
 etc.
 
+[ Tipos de Ataque ]
+Strike --> Golpe
+Slash --> Corte
+Pierce --> Penetración
+
 [ Lore del Juego ] 
 Aspectos clave del juego cómo eventos y nombres propios no deberían ser traducidos (Ej: Medzio Diena)
 Sin embargo, el concepto de "Great Plant Cataclism" ha sido traducido cómo "Gran Cataclismo Silvano". //Darkelfen
