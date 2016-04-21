@@ -1483,7 +1483,7 @@ ETC_20150317_001482	Tu inventario esta lleno
 ETC_20150317_001483	Este servidor se encuentra cerrado
 ETC_20150317_001484	Este objeto no puede ser equipado
 ETC_20150317_001485	[{Word}] no está permitido su uso.
-ETC_20150317_001486	{S20}{ol}{#46c8ff} No tienes suficientes PR
+ETC_20150317_001486	{S20}{ol}{#46c8ff} No tienes suficientes PM
 ETC_20150317_001487	No coincide tu versión del servidor 
 ETC_20150317_001488	No cumples con el nivel necesario.{nl}Revisa el nivel requerido en la descripción
 ETC_20150317_001489	No puede ser equipado por personajes masculinos.{nl}Revisa el requisito de género y nivel en la descripción 
@@ -1578,7 +1578,7 @@ ETC_20150317_001577	¡Has fallado en comprar el objeto! Fondos insuficientes.
 ETC_20150317_001578	¡Has fallado en comprar el objeto! El vendedor ha cancelado o removido este objeto de la lista.
 ETC_20150317_001579	¡Has fallado en comprar el objeto! Un error desconocido ha ocurrido.
 ETC_20150317_001580	Estuvo cerca
-ETC_20150317_001581	{s20}{ol}{#46ffc8} No tienes suficientes PR
+ETC_20150317_001581	{s20}{ol}{#46ffc8} No tienes suficientes PM
 ETC_20150317_001582	No tienes el objeto requerido para realizar la habilidad.
 ETC_20150317_001583	No peudes equiparte un arma secundaria mientras usas armas de 2 manos.
 ETC_20150317_001584	No puedes usar 'Regreso' mientras estás en Modo Descanso.
@@ -1792,7 +1792,7 @@ ETC_20150317_001791	Tournament Second Winner
 ETC_20150317_001792	Ranker of Tournament {Auto_1} Round
 ETC_20150317_001793	PS bajos: ¡Usa {Auto_1}% objeto de recuperación!
 ETC_20150317_001794	Has usado un objeto de recuperación.
-ETC_20150317_001795	Max PR {Auto_2} aumenta permanente al usar {Auto_1}
+ETC_20150317_001795	Max PM {Auto_2} aumenta permanente al usar {Auto_1}
 ETC_20150317_001796	Montar
 ETC_20150317_001797	Desmontar
 ETC_20150317_001798	Mascota
@@ -1952,7 +1952,7 @@ ETC_20150317_001951	{@st41}Recompenza Perdida {/}
 ETC_20150317_001952	Apertura
 ETC_20150317_001953	There is no reward list of the treasure chest.
 ETC_20150317_001954	The reward setting is incorrect.
-ETC_20150317_001955	¡Destruir cristales raíz del árbol puede ayudarte a recuperar PR!
+ETC_20150317_001955	¡Destruir cristales raíz del árbol puede ayudarte a recuperar PM!
 ETC_20150317_001956	Clase
 ETC_20150317_001957	{@st41b} Titulo {/}
 ETC_20150317_001958	{@St41b} {Auto_1} Puntaje de Logro: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
@@ -2382,7 +2382,7 @@ ETC_20150317_002381	Porfavor guíanos a la Diosa.
 ETC_20150317_002382	Absorbida energía del guardían
 ETC_20150317_002383	Moviendose.
 ETC_20150317_002384	No moverse.
-ETC_20150317_002385	{@st59} Aumenta PR y recuperación de PR {/}
+ETC_20150317_002385	{@st59} Aumenta PM y recuperación de PM {/}
 ETC_20150317_002386	{nl} Missión Completada
 ETC_20150317_002387	Lo ví. Obviamente no era un Muerto Vivo.
 ETC_20150317_002388	No es un Muerto Vivo.
@@ -2570,7 +2570,7 @@ ETC_20150317_002569	Darle carne al Peregrino
 ETC_20150317_002570	Haciendo funcionar el dispositivo
 ETC_20150317_002571	Daño adicional {Auto_1}!
 ETC_20150317_002572	Absorción Física {Auto_1}!
-ETC_20150317_002573	Absorción de PR {Auto_1}!
+ETC_20150317_002573	Absorción de PM {Auto_1}!
 ETC_20150317_002574	Enfriando reducido en {Auto_1} segundos
 ETC_20150317_002575	¡Golpeador de Escudo {Auto_1}!
 ETC_20150317_002576	¡Critico!
@@ -2762,7 +2762,7 @@ ETC_20150317_002761	Defensa Crítica
 ETC_20150317_002762	Intercambiable
 ETC_20150317_002763	Inintercambiable
 ETC_20150317_002764	Ratio de recuperación por Pociones
-ETC_20150317_002765	Recuperación de PR
+ETC_20150317_002765	Recuperación de PM
 ETC_20150317_002766	Imposible de vender
 ETC_20150317_002767	Ataque propiedad Fuego
 ETC_20150317_002768	Ataque propiedad Hielo
@@ -2982,7 +2982,7 @@ ETC_20150317_002981	Último Ingreso: {Min} minuto(s) atrás
 ETC_20150317_002982	Último Ingreso: just now
 ETC_20150317_002983	Espacio temporal
 ETC_20150317_002984	{Auto_1} PS fue recuperado
-ETC_20150317_002985	{Auto_1} PR fue recuperado
+ETC_20150317_002985	{Auto_1} PM fue recuperado
 ETC_20150317_002986	Unirse
 ETC_20150317_002987	...¿¡¿¡Me ha seguido!?!?
 ETC_20150317_002988	¡Cualquier tipo qeu se encuentre cerca!
@@ -14757,7 +14757,7 @@ ETC_20151001_014758	My powers... end here.
 ETC_20151001_014759	Va..Vakarine!!!!
 ETC_20151001_014760	Curse you all!!!
 ETC_20151001_014761	Kedorlaomer Merchant's Benefit
-ETC_20151001_014762	PR Notice : Join Kedorlaomer Merchants!{nl}Benefit Effect : Temporary increase in attack and magic attack!
+ETC_20151001_014762	PM Notice : Join Kedorlaomer Merchants!{nl}Benefit Effect : Temporary increase in attack and magic attack!
 ETC_20151001_014763	For display of 2 hour buff icon
 ETC_20151001_014764	For running 2 hour
 ETC_20151001_014765	Corpse
@@ -15670,7 +15670,7 @@ ETC_20151016_015671	There they are!
 ETC_20151016_015672	You check it with Monocle.
 ETC_20151016_015673	Cozy Lodge
 ETC_20151016_015674	Kedoran Merchant Alliance Benefit
-ETC_20151016_015675	PR Notice : Join the Kedoran Merchant Alliance!{nl}Benefit Effect : Temporary increase in attack and magic attack!
+ETC_20151016_015675	PM Notice : Join the Kedoran Merchant Alliance!{nl}Benefit Effect : Temporary increase in attack and magic attack!
 ETC_20151016_015676	Drowsy Ferret
 ETC_20151016_015677	Observe
 ETC_20151016_015678	The ferret has been already observed.
