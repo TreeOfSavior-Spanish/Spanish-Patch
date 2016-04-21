@@ -14,7 +14,7 @@
 
 [ Estadistícas ]
 - HP --> PS -> Puntos de Salud
-- PS --> PM -> Puntos de Magicos
+- SP --> PM -> Puntos de Magicos
 - STA --> RES -> Resistencia
 - STR --> FUE -> Fuerza
 - DEX --> DES -> Destreza
