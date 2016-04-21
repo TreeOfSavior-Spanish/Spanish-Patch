@@ -1959,9 +1959,9 @@ UI_20151224_001958	¿Quieres usar este %s?{/}
 UI_20151224_001959	Este objeto desaparecera de tu inventario{nl}Reseteara todos tus puntos de Habilidad.
 UI_20151224_001960	{@st41}Usar
 UI_20151224_001961	{@st59b}Clases{nl}{@st59s}- Puedes aprender nuevas habilidades aumentando el circulo de tu clase. {nl} - Puedes elegir entre 3 clases en tu primer y segundo ascenso. {nl} - Puedes ascender a la misma clase 3 veces. {nl} - No puedes volver a una clase anterior una vez hayas ascendido a otra. {nl} - Tienes que consumir todos tus puntos de habilidad antes de ascender. {nl} - Puedes eleir la misma clase.{nl}{@st59b}Skills{nl}{@st59s} - Puedes incrementar el Rank de cada habilidad hasta nivel 5.{nl} - Los atributos aprendidos de los maestros se muestran abajo. {/}
-UI_20151224_001962	{@st66b}Información{/}
-UI_20151224_001963	{@st66b}Logros{/}
-UI_20151224_001964	{@st66b}Opciones de Personaje{/}
+UI_20151224_001962	{@st66b}{s14}Información{/}
+UI_20151224_001963	{@st66b}{s14}Logros{/}
+UI_20151224_001964	{@st66b}{s14}Opciones de Personaje{/}
 UI_20151224_001965	{@st59}Colección (F11){/}
 UI_20151224_001966	{@st66b}Configurar Teclas
 UI_20151224_001967	{@st42}Duración: %s{/}
