@@ -184,7 +184,7 @@ ETC_20150317_000183	Sauga
 ETC_20150317_000184	Saugas
 ETC_20150317_000185	Escorpion
 ETC_20150317_000186	Tontulia
-ETC_20150317_000187	La Tontulia es una mutación más móbil del Tontus.
+ETC_20150317_000187	La Tontulia es una mutación más móvil del Tontus.
 ETC_20150317_000188	Tontus
 ETC_20150317_000189	Cuando los cactús mutaron en Tontus la vida de los habitantes del desierto empeoró.
 ETC_20150317_000190	Vekarabe
@@ -1493,8 +1493,8 @@ ETC_20150317_001492	El nombre de tu personaje debe ser menor a %s carácteres.
 ETC_20150317_001493	{S18}{ol}{#ffffcc} Contraseña Incorrecta
 ETC_20150317_001494	No puedes unirte al juego. Tu nivel no coincide con los requisitos de nivel.
 ETC_20150317_001495	No permitido
-ETC_20150317_001496	This room does not exist. {nl}Please refresh the Room List.
-ETC_20150317_001497	You cannot enter the room as there is no empty slot.
+ETC_20150317_001496	Esa Sala no existe. {nl}Por favor recarga la lista de Salas.
+ETC_20150317_001497	No puedes entrar a la sala porque no hay más espacios disponibles.
 ETC_20150317_001498	You cannot move as there is no empty slot in the alliance.
 ETC_20150317_001499	You cannot close any more slots of the alliance.
 ETC_20150317_001500	No hay suficientes jugadores cómo para comenzar la misión.
@@ -1602,7 +1602,7 @@ ETC_20150317_001601	Ya lo has seleccionado
 ETC_20150317_001602	¿Estas seguro de querer borrar a tu compañero {Name}?
 ETC_20150317_001603	Tu objeto {Auto_1} equipado ha sido destruido
 ETC_20150317_001604	Objeto equipado {Auto_1} ha sido cambiado a {Auto_2}
-ETC_20150317_001605	No puedes usar esto mientras salta
+ETC_20150317_001605	No puedes usar esto mientras saltas
 ETC_20150317_001606	Fondos insuficientes.
 ETC_20150317_001607	No puedes instalar o invocar en coordenadas invalidas
 ETC_20150317_001608	Cambiado
@@ -1701,7 +1701,7 @@ ETC_20150317_001700	Ya no puedes equiparlo.
 ETC_20150317_001701	Tu equipo ha sido dañado cómo penalización por morir.
 ETC_20150317_001702	Mejora
 ETC_20150317_001703	{s18}{ol}Si la mejora de armas sobre nivel {#ffffcc}+{Auto_1} falla, su Potencial será consumido. Si el Potencial se vuelve inferior a 0, el objeto será destruido. ¿Deseas Mejorar el objeto?
-ETC_20150317_001704	Use the {Auto_1} item to start crafting. Do you want to continue?
+ETC_20150317_001704	Usando {Auto_1} para comenzar a crear. ¿Deseas continuar?
 ETC_20150317_001705	{@st42) Mientras creas
 ETC_20150317_001706	Moverte ha cancelado la creación del objeto.
 ETC_20150317_001707	¡Creación Completada!
@@ -1906,7 +1906,7 @@ ETC_20150317_001905	Puntuación de regalo + {Auto_1}
 ETC_20150317_001906	Recompenza
 ETC_20150317_001907	EXP
 ETC_20150317_001908	(Resistencia al Ataque)
-ETC_20150317_001909	Requiere registro en tu Libro de Aventuras. Presiona la tecla A mientras estás sentado para actualizar.
+ETC_20150317_001909	Requiere registro en tu Diario de Aventuras. Presiona la tecla A mientras estás sentado para actualizar.
 ETC_20150317_001910	Ahora puedes usar [{Auto_1}] como título.
 ETC_20150317_001911	Atributos
 ETC_20150317_001912	{@st59} Click para más información {/}
@@ -1952,7 +1952,7 @@ ETC_20150317_001951	{@st41}Recompenza Perdida {/}
 ETC_20150317_001952	Apertura
 ETC_20150317_001953	There is no reward list of the treasure chest.
 ETC_20150317_001954	The reward setting is incorrect.
-ETC_20150317_001955	¡Destruir cristales de raíz del árbol puede ayudarte a recuperar PR!
+ETC_20150317_001955	¡Destruir cristales raíz del árbol puede ayudarte a recuperar PR!
 ETC_20150317_001956	Clase
 ETC_20150317_001957	{@st41b} Titulo {/}
 ETC_20150317_001958	{@St41b} {Auto_1} Puntaje de Logro: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
@@ -1993,9 +1993,9 @@ ETC_20150317_001992	Todos
 ETC_20150317_001993	Puntos
 ETC_20150317_001994	No tienes suficientes espacios disponibles.
 ETC_20150317_001995	Lista de Misiones
-ETC_20150317_001996	Libro de Aventuras Actualizado
-ETC_20150317_001997	{#000000} objeto no registrado en el Libro de Aventuras.
-ETC_20150317_001998	Este monstruo no está registrado en el Libro de Aventuras.
+ETC_20150317_001996	Diario de Aventuras Actualizado
+ETC_20150317_001997	{#000000} objeto no registrado en el Diario de Aventuras.
+ETC_20150317_001998	Este monstruo no está registrado en el Diario de Aventuras.
 ETC_20150317_001999	Maestría de Lanza
 ETC_20150317_002000	Puntería
 ETC_20150317_002001	Acción Tactica
@@ -2104,7 +2104,7 @@ ETC_20150317_002103	¡Revelador! {nl} ¡Recordaré esto!
 ETC_20150317_002104	Excavando
 ETC_20150317_002105	¡Has obtenido hierbas!
 ETC_20150317_002106	No has encontrado nada.
-ETC_20150317_002107	Rezando a la Estatua de la Diosa
+ETC_20150317_002107	Venerando la Estatua de la Diosa
 ETC_20150317_002108	Has terminado de rezarle a la Estatua de la Diosa
 ETC_20150317_002109	Orando por purificación
 ETC_20150317_002110	¡Los Espirítus Malignos han aparecido! {nl} ¡Debes derrotarlos en 60 segundos!
@@ -2202,805 +2202,805 @@ ETC_20150317_002201	Haciendo una tumba para Liliya
 ETC_20150317_002202	Descartando la caja músical
 ETC_20150317_002203	La has descartado en el lugar.
 ETC_20150317_002204	Mirando a través del montón de hojas
-ETC_20150317_002205	The orgel came out from greenery!
-ETC_20150317_002206	Collecting Young Leaves
-ETC_20150317_002207	Collected the your leaf of Asellu!
-ETC_20150317_002208	A Kepari popped out from the Asellu's roots!
-ETC_20150317_002209	Seeing the foodstuffs
-ETC_20150317_002210	The garbage is out of stock.{nl}Collect the more garbage from food place in Ishplau.
-ETC_20150317_002211	There are no monsters around to throw the blead.
-ETC_20150317_002212	Destroying
-ETC_20150317_002213	You are slowed by a lazy aura emanating from a Tree Root Crystal!{nl}Remove the Tree Root Crystal at Nederlingas Highway to remove this curse!
-ETC_20150317_002214	Dismantling
-ETC_20150317_002215	Failed to dismantle the core of crystal
-ETC_20150317_002216	Obtained a stamina to succeed dismantling the core of crystal 
-ETC_20150317_002217	As the side effect of the core of crystal, The old hook appeared!
-ETC_20150317_002218	Amulet pieces are combined to form one amulet!
-ETC_20150317_002219	Succeed to dismantle Transformed Tree Root Crystal 
-ETC_20150317_002220	Fainted from touching the wrong Tree Root Crystal!
-ETC_20150317_002221	Fell asleep from touching the wrong Tree Root Crystal!
-ETC_20150317_002222	Slowed from touching the wrong Tree Root Crystal!
-ETC_20150317_002223	I will freeze to the touch the wrong roots to fix it!
-ETC_20150317_002224	I will make you regret!The bad guys!
-ETC_20150317_002225	Betrayer..I would never forgive you!I will get back at you for this even my bone break.
-ETC_20150317_002226	Soothing the soul
-ETC_20150317_002227	Yes... It is all worthless..
-ETC_20150317_002228	I don't need all. I never forgive!
-ETC_20150317_002229	You are same!
-ETC_20150317_002230	Picking the flower
-ETC_20150317_002231	Picked the flower!
-ETC_20150317_002232	Offering Flowers
-ETC_20150317_002233	I hate the traitors but... now I have to go back.
-ETC_20150317_002234	Even sooth the trapped souls, It has transformed to a monster as the anger!
-ETC_20150317_002235	I have no tolerance for guys!
-ETC_20150317_002236	I can never forgive you guys for this matter even I will in hell!
-ETC_20150317_002237	They betrayed us!
-ETC_20150317_002238	Pilgrim Liliya
-ETC_20150317_002239	Discarding
-ETC_20150317_002240	Discarded the map again!
-ETC_20150317_002241	Scouring the dust of the mountain
-ETC_20150317_002242	You have obtained the map! Right-click it to use!
-ETC_20150317_002243	Putting the map into the tube
-ETC_20150317_002244	You have placed the map in the collection tube
-ETC_20150317_002245	Picking up the map
-ETC_20150317_002246	Retrieved the map which was placed into the tube!
-ETC_20150317_002247	As the blessing of altar, You can run very fast during 30 sec!
-ETC_20150317_002248	I want to make a contribution of 100 silver.
-ETC_20150317_002249	I want to make a contribution of 500 silver.
-ETC_20150317_002250	I want to make a contribution of 1000 silver.
-ETC_20150317_002251	I want to make a contribution of 40 silver.
-ETC_20150317_002252	I want to make a contribution of 50 silver.
-ETC_20150317_002253	I want to make a contribution of 100 silver.
-ETC_20150317_002254	As promised, I donated 100 silver.
-ETC_20150317_002255	As promised, I donated 500 silver.
-ETC_20150317_002256	As promised, I donated 1000 silver.
-ETC_20150317_002257	As promised, I donated 40 silver.
-ETC_20150317_002258	As promised, I donated 50 silver.
-ETC_20150317_002259	Collecting Dewdrops
-ETC_20150317_002260	You have successfully collected dewdrops!
-ETC_20150317_002261	Detected the monster which swallowed the flag to tear around here.{nl}Use V key for faith's mark!
-ETC_20150317_002262	A lighting fighter curses the sanctum
-ETC_20150317_002263	The lighting fighter appeared as the power of faith's mark!
-ETC_20150317_002264	Blessed from Sanctum, it is able to make a power attack during 10 sec!
-ETC_20150317_002265	Blessed from Sanctum, you will be received the spirit of divine during 10 sec!
-ETC_20150317_002266	Worship the Goddess Statue
-ETC_20150317_002267	Use warp
-ETC_20150317_002268	Worshiping
-ETC_20150317_002269	Picking up flowers for offering
-ETC_20150317_002270	Plucked the flower!
-ETC_20150317_002271	I lost in the fragrance of flowers.
-ETC_20150317_002272	Buy
-ETC_20150317_002273	Offer 10 silver
-ETC_20150317_002274	Offered 10 silver!
-ETC_20150317_002275	As the blessing of sanctum, the recovery time will be increased during 10 sec!
-ETC_20150317_002276	Collecting dewdrops on the tombstone
-ETC_20150317_002277	Successfully collected the dewdrops!
-ETC_20150317_002278	You collected all the dewdrops in the leather pouch!
-ETC_20150317_002279	Digging the roots
-ETC_20150317_002280	Red Tree Ambulo
-ETC_20150317_002281	Red Tree Ambulo appeared from root of reeds.
-ETC_20150317_002282	You fainted from the root's poison!
-ETC_20150317_002283	Obtained the monster's dead skin cell
-ETC_20150317_002284	Preparing the Jar
-ETC_20150317_002285	Collecting sap
-ETC_20150317_002286	A patterned stone fell off from an unknown pillar!
-ETC_20150317_002287	Obtained garbage 5ea again.
-ETC_20150317_002288	Decoy Success 
-ETC_20150317_002289	The other monster sensed the mold and approached!
-ETC_20150317_002290	The movement speed has been decreased as step on the cactusvel's indolence!
-ETC_20150317_002291	Shocked for a while after stepping on the corrupted place!
-ETC_20150317_002292	Help me! Please let me out! Kill them!
-ETC_20150317_002293	There is no response. Please re-try.
-ETC_20150317_002294	The monster appeared from flower's root.
-ETC_20150317_002295	Wounded as the reed leaf to be chafed!
-ETC_20150317_002296	Couldn't catch anything!
-ETC_20150317_002297	Took the flag of sanctum!
-ETC_20150317_002298	failed to take the flag of sanctum!
-ETC_20150317_002299	Insignia trigger
-ETC_20150317_002300	Root Parasite Tree Ambulo
-ETC_20150317_002301	Witas made a sleep!
-ETC_20150317_002302	Succeeded in releasing the trapped soul!
-ETC_20150317_002303	The soul is going to attack! Defeat them first!
-ETC_20150317_002304	Succeeded in hunting the trapped monsters!
-ETC_20150317_002305	Flower
-ETC_20150317_002306	Altar-bound Soul
-ETC_20150317_002307	Collected the herb!
-ETC_20150317_002308	Bring the jar near the pond!
-ETC_20150317_002309	You have already collected the sap!
-ETC_20150317_002310	What is it?
-ETC_20150317_002311	Archon seems to have recovered. Try talking to him!
-ETC_20150317_002312	In the description of the area where you picked up the music box
-ETC_20150317_002313	The garbage is full.{nl}First to use the garbage and then re collect it.
-ETC_20150317_002314	Found a Piece of Vubbe Cloth! {nl} This might be a clue!
-ETC_20150317_002315	The quest failed since the refugees have become exhausted! {nl} This quest can not be restarted for five minutes.
-ETC_20150317_002316	Failed the quest due to timeout! {nl} This quest can not be restarted for five minutes.
-ETC_20150317_002317	Using the Crest of Emptiness
-ETC_20150317_002318	Use it in a surrounding pillar which has a similar shape.
-ETC_20150317_002319	The barrier has already been released!
-ETC_20150317_002320	Get Suteisu to worship the die Mina!
-ETC_20150317_002321	Flashpoint of owl image is now off!
-ETC_20150317_002322	I did not observe the flashpoint of the owl image!
-ETC_20150317_002323	Sealed unit has been canceled!
-ETC_20150317_002324	Talk with a very tired Drapelium
-ETC_20150317_002325	Trying to persuade Drapeliun
-ETC_20150317_002326	Drapeliun seems to have returned its human form again!
-ETC_20150317_002327	There is no effect in talking with a spirited Drapeliun!
-ETC_20150317_002328	Getting rid of food piles
-ETC_20150317_002329	It can be only be used on the road of large Frogfish.
-ETC_20150317_002330	It can not be used during certain quests in progress
-ETC_20150317_002331	It has exploded as the searching the food place!
+ETC_20150317_002205	¡El orgel salió de los arbustos!
+ETC_20150317_002206	Recolectando Hojas Jovénes
+ETC_20150317_002207	¡Has recolectado Hoja de Asellu!
+ETC_20150317_002208	¡Un Kepari apareció desde las raíces de Asellu!
+ETC_20150317_002209	Mirando los comestibles
+ETC_20150317_002210	No queda basura.{nl}Recolecta más basura desde el comedero de Ishplau.
+ETC_20150317_002211	No hay monstruos cercas para lanzar la purga.
+ETC_20150317_002212	Destruyendo
+ETC_20150317_002213	¡Fuíste ralentízado por un aura somnolienta proviniente del Cristal Raíz del Árbol!{nl}¡Remueve el Cristal Raíz del Árbol en la Ruta Nederlingas para remover esta maldición!
+ETC_20150317_002214	Desmantelando
+ETC_20150317_002215	Has fallado en desmantelar el núcleo del cristal
+ETC_20150317_002216	Has obtenido la resistencia para desmantelar el núcleo del cristal 
+ETC_20150317_002217	Cómo un efecto secundario del núcleo del cristal ¡El Viejo Gancho ha aparecido!
+ETC_20150317_002218	¡Las piezas del amuleto se han combinado en un único Amuleto!
+ETC_20150317_002219	Has tenido éxito en desmantelar el Cristal Raíz del Árbol Transformado 
+ETC_20150317_002220	¡Te has desmayado por tocar el Cristal Raíz del Árbol incorrecto!
+ETC_20150317_002221	¡Has caído dormido por tocar el Cristal Raíz del Árbol incorrecto!
+ETC_20150317_002222	¡Te sido ralentizado por tocar el Cristal Raíz del Árbol incorrecto!
+ETC_20150317_002223	¡Congelaré al tacto las raíces erroneas para reparlo!
+ETC_20150317_002224	¡Te haré arrepentirte! ¡Los chicos malos!
+ETC_20150317_002225	Traídor..¡Nunca te perdonaré! Te devolveré está incluso si eso me rompe los huesos.
+ETC_20150317_002226	Calmando el alma
+ETC_20150317_002227	Sí... Todo ha sido en vano..
+ETC_20150317_002228	No lo necesito. ¡Nunca será perdonado!
+ETC_20150317_002229	¡Tu eres igual!
+ETC_20150317_002230	Tomando la flor
+ETC_20150317_002231	¡Has tomado la flor!
+ETC_20150317_002232	Ofreciendo flores
+ETC_20150317_002233	Odio a los traidores pero... ahora debo volver.
+ETC_20150317_002234	Incluso luego de calmar las almas atrapadas, ¡Se ha transformado en un monstruo por su enojo!
+ETC_20150317_002235	¡No tolero a los chicos!
+ETC_20150317_002236	¡Nunca los perdonaré por esta aunque vaya al infierno!
+ETC_20150317_002237	¡Ellos nos traicionaron!
+ETC_20150317_002238	Peregrina Liliya
+ETC_20150317_002239	Descartando
+ETC_20150317_002240	¡Nuevamente has descartado el mapa!
+ETC_20150317_002241	Limpiando el polvo de la montaña
+ETC_20150317_002242	¡Has obtenido el mapa! ¡Click derecho para emplearlo!
+ETC_20150317_002243	Poniendo el mapa en el tubo
+ETC_20150317_002244	Has colocado el mapa en el tubo de colección
+ETC_20150317_002245	Tomando el mapa
+ETC_20150317_002246	¡has obtenido el mapa dejado en el tubo de colección!
+ETC_20150317_002247	Cómo una bendición del altar, ¡Puedes correr muy rápido durante 30 segundos!
+ETC_20150317_002248	Quiero hacer una contribución de 100 plata.
+ETC_20150317_002249	Quiero hacer una contribución de 500 plata.
+ETC_20150317_002250	Quiero hacer una contribución de 1000 plata.
+ETC_20150317_002251	Quiero hacer una contribución de 40 plata.
+ETC_20150317_002252	Quiero hacer una contribución de 50 plata.
+ETC_20150317_002253	Quiero hacer una contribución de 100 plata.
+ETC_20150317_002254	Cómo prometí, doné 100 plata.
+ETC_20150317_002255	Cómo prometí, doné 500 plata.
+ETC_20150317_002256	Cómo prometí, doné 1000 plata.
+ETC_20150317_002257	Cómo prometí, doné 40 plata.
+ETC_20150317_002258	Cómo prometí, doné 50 plata.
+ETC_20150317_002259	Recolectando Gotas de Rocío
+ETC_20150317_002260	¡Has recolectado Gotas de Rocío exitosamente!
+ETC_20150317_002261	Has detectado al monstruo que engulló la bandera para romper.{nl}¡Usa la tecla V para usar la marca de fe!
+ETC_20150317_002262	Un luchador de rayo ha maldecido el sanctum
+ETC_20150317_002263	¡El luchador de rayo apareció por la marca de fe!
+ETC_20150317_002264	Bendecido por el sanctum, ¡es capaz de realizar un poderoso ataque durante 10 segundos!
+ETC_20150317_002265	Bendecido por el sanctum, ¡Has recibido el espirítu de divinidad por 10 segundos!
+ETC_20150317_002266	Venerando la Estatua de la Diosa
+ETC_20150317_002267	Usar teletransporte
+ETC_20150317_002268	Venerando
+ETC_20150317_002269	Recogiendo flores para la ofrenda
+ETC_20150317_002270	¡Has arrancado la flor!
+ETC_20150317_002271	Me perdí con la fragancia de las flores.
+ETC_20150317_002272	Comprar
+ETC_20150317_002273	Ofrecer 10 plata
+ETC_20150317_002274	¡Has ofrecido 10 plata!
+ETC_20150317_002275	Cómo una bendición del sanctum, ¡Se ha aumentado el tiempo de recuperación en 10 segundos!
+ETC_20150317_002276	Recolectando gotas de rocío de la tumba
+ETC_20150317_002277	¡Has recolectado Gotas de Rocío exitosamente!
+ETC_20150317_002278	¡Has recolectado todas las Gotas de Rocío en la bolsa de cuero!
+ETC_20150317_002279	Cavando las Raíces
+ETC_20150317_002280	Ambulo de Árbol Rojo
+ETC_20150317_002281	Ambulo de Árbol Rojo ha aparecido de las raíz de las cañas.
+ETC_20150317_002282	¡Te has desmayado por el veneno de las raíces!
+ETC_20150317_002283	Has obtenido las células de la piel del monstruo meurto
+ETC_20150317_002284	Preparando la jarra
+ETC_20150317_002285	Recolectando savia
+ETC_20150317_002286	¡Una piedra con patrones se cayó desde una pilar desconocido!
+ETC_20150317_002287	Has obtenido 5u de basura nuevamente.
+ETC_20150317_002288	Señuelo éxitoso 
+ETC_20150317_002289	¡El otro monstruo detectó el moho y se ha acercado!
+ETC_20150317_002290	¡La velocidad de movimiento se ha reducido en tanto pisas la indolencia de cactusvel!
+ETC_20150317_002291	¡En estado de shock luego de pisar tan corrupto lugar!
+ETC_20150317_002292	¡Ayuda! ¡Déjenme salir! ¡Mátenlos!
+ETC_20150317_002293	No hay respuesta. Por favor re-intenta.
+ETC_20150317_002294	El monstruo apareció desde las raíces de la flor.
+ETC_20150317_002295	¡Herido cómo la hoja de caña a ser frotada!
+ETC_20150317_002296	¡No pudiste atrapar nada!
+ETC_20150317_002297	¡Tomaste la bandera del sanctum!
+ETC_20150317_002298	¡Has fallado en obtener la bandera del sanctum!
+ETC_20150317_002299	Activador de la insignia
+ETC_20150317_002300	Raíz parásita del Árbol Ambulo
+ETC_20150317_002301	¡Witas ha hecho dormir!
+ETC_20150317_002302	¡Has tenido éxito en liberar el alma atrapada!
+ETC_20150317_002303	¡El alma se prepara a atacar! ¡Derrotales primero!
+ETC_20150317_002304	¡Has cazado con éxito los monstruos atrapados!
+ETC_20150317_002305	Flow
+ETC_20150317_002306	Alma atada al Altar
+ETC_20150317_002307	¡Has recolectado la Hierba!
+ETC_20150317_002308	¡Lleva la jarra cerca de la fuente!
+ETC_20150317_002309	¡Ya has recolectado la savia!
+ETC_20150317_002310	¿Qué es esto?
+ETC_20150317_002311	Archon se ha recuperado. ¡Trata de hablarle!
+ETC_20150317_002312	En la descripción del área desde donde tomaste la caja músical
+ETC_20150317_002313	Lleno de basura.{nl}Usa la basura primero y luego vuelve a recolectarla.
+ETC_20150317_002314	¡Has encontrado un trozo de vestimenta de Vubbe! {nl} ¡Podría ser una pista!
+ETC_20150317_002315	¡La misión ha fallado porque los refugiados se han extenuado! {nl} No puedes vovler a tomar esta misión por 5 minutos.
+ETC_20150317_002316	¡Has fallado la misión por falta de tiempo! {nl} No puedes vovler a tomar esta misión por 5 minutos.
+ETC_20150317_002317	Usando la cresta de vacío
+ETC_20150317_002318	Usala en un pilar cercano con una forma símilar.
+ETC_20150317_002319	¡La barrera ha sido liberada!
+ETC_20150317_002320	¡Trae Suteisu para venerar a la muerta Mina!
+ETC_20150317_002321	¡El punto de ebullición de la imagen del búho ha desaparecido!
+ETC_20150317_002322	¡No ví el punto de ebullición del la imagen del búho!
+ETC_20150317_002323	¡Se ha cancelado la unidad sellada!
+ETC_20150317_002324	Conversar con un Drapelium muy cansado
+ETC_20150317_002325	Tratando de persuadir al Drapeliun
+ETC_20150317_002326	¡El Drapeliun al parecer ha regresado a su forma humana!
+ETC_20150317_002327	¡Conversar con un Drapeliun muy animado no es efectivo!
+ETC_20150317_002328	Deshaciendose de las pilas de comida
+ETC_20150317_002329	Sólo puede ser usado en el camino de un gran ranísapo.
+ETC_20150317_002330	No puede ser usado durante ciertas misiones en progreso
+ETC_20150317_002331	¡Ha explotado mientras buscaba comida!
 ETC_20150317_002332	Scared reblogged appearance in the dummy!
-ETC_20150317_002333	I passed out during the dust explosion!
-ETC_20150317_002334	Obtained the moist moss from Kowak!{nl}Spray to control a blaze to the Tree Root Crystal!
-ETC_20150317_002335	Spraying the moss!
-ETC_20150317_002336	The blaze is going to be managed after spraying.
-ETC_20150317_002337	The blaze is done, Please destroy the transformation Tree Root Crystal.
-ETC_20150317_002338	All monster entered into the box.
-ETC_20150317_002339	Inputted monsters into the treasure box.
-ETC_20150317_002340	You must defeat monsters around the treasure chest!
-ETC_20150317_002341	Due to no have the core of Tree Root Crystal, we can't do it anything.{nl}Find out the core of crystal from monster nearby and destroy to input.
-ETC_20150317_002342	Reacting to the crystal
-ETC_20150317_002343	The monster's soul which have the core of Tree Root Crystal came out!
-ETC_20150317_002344	Monster's soul came out
-ETC_20150317_002345	We need to take out the souls by consuming the HP to bring monsters nearby!
-ETC_20150317_002346	Modified tree root does not respond
-ETC_20150317_002347	Medium reagent roots
-ETC_20150317_002348	Reagent had been well dispersed! {nl} now the souls that came out are missing, please try to wait for a while!
-ETC_20150317_002349	Does not have any reaction. {nl} Please try again in other monsters
-ETC_20150317_002350	Flowers I can use for the necessary soul!
-ETC_20150317_002351	I devoted all the offerings!
-ETC_20150317_002352	Made an offering!
-ETC_20150317_002353	You must lure and defeat monsters in the vicinity of the sanctum!
-ETC_20150317_002354	Removed by robbing the ground which have the monster summon circles.
-ETC_20150317_002355	Physical fitness of the goddess image is reduced to less than 60%! Please be discharged hit the {nl} vine!
-ETC_20150317_002356	The health of the Goddess Statue is reduced to less than 20%! {nl} Get rid of the vines!
-ETC_20150317_002357	The health of the Goddess Statue is reduced to less than 10%! {nl} Get rid of the vines!
-ETC_20150317_002358	The flowers withered and died.
-ETC_20150317_002359	Re-obtaining the picture
-ETC_20150317_002360	Obtained the picture again
-ETC_20150317_002361	Throwing the picture
-ETC_20150317_002362	Thrown out the picture to the tombstone
-ETC_20150317_002363	I am taking out a handkerchief once again
-ETC_20150317_002364	You took out the handkerchief again
-ETC_20150317_002365	Among surrounding the handkerchief
-ETC_20150317_002366	Put a handkerchief into the box. We can do it again.
-ETC_20150317_002367	There is no a key.{nl}Collect the keys from the monsters.
-ETC_20150317_002368	Check the operational obelisk with a secondary magic tool
-ETC_20150317_002369	Test failed
-ETC_20150317_002370	Burned the funeral orations
-ETC_20150317_002371	Burn a funeral oration
-ETC_20150317_002372	Repairing scarecrow
-ETC_20150317_002373	Select dialog 1
-ETC_20150317_002374	Select dialog 2
-ETC_20150317_002375	Leave the place. 
-ETC_20150317_002376	First space 
-ETC_20150317_002377	Second space 
-ETC_20150317_002378	Third space 
-ETC_20150317_002379	Fourth space 
-ETC_20150317_002380	Firewood
-ETC_20150317_002381	Please lead to the goddess.
-ETC_20150317_002382	Absorbed the energy of the guardian
-ETC_20150317_002383	Moving.
-ETC_20150317_002384	Do not move.
-ETC_20150317_002385	{@st59} Increase SP and SP recovery {/}
-ETC_20150317_002386	{nl} Quest Completed
-ETC_20150317_002387	I saw it. It's obviously not Deadborn.
-ETC_20150317_002388	It's not Deadborn.
-ETC_20150317_002389	Why would I have followed it if it is Deadborn?
-ETC_20150317_002390	Deadborn in Saltistter? That doesn't make any sense.
-ETC_20150317_002391	Prerequisite: 
-ETC_20150317_002392	Level or higher
-ETC_20150317_002393	Level or below
-ETC_20150317_002394	Rank
-ETC_20150317_002395	Rank or higher
-ETC_20150317_002396	Rank below
-ETC_20150317_002397	Male characters only
-ETC_20150317_002398	Female characters only
+ETC_20150317_002333	¡Me desmayé durante la explosión de polvo!
+ETC_20150317_002334	¡Has obtenido Musgo Húmedo del Kowak!{nl}¡Esparcelo para controlar una flama hacia el Cristal Raíz del Árbol!
+ETC_20150317_002335	¡Esparciendo el musgo!
+ETC_20150317_002336	La flama será controlada luego de esparcir el musgo.
+ETC_20150317_002337	La flama está creada. Por favor destruye la transformación del Cristal Raíz del Árbol.
+ETC_20150317_002338	Todos los monstruos han entrado a la caja.
+ETC_20150317_002339	Metiendo monstruos a la caja del tesoro.
+ETC_20150317_002340	¡Debes derrotar a los monstruos alrededor del cofre del tesoro!
+ETC_20150317_002341	Por no tener núcleos de cristal raíz del árbol, no podemos hacer nada.{nl}Busca el núcleo de cristal en los monstruos cercanos para insertarlo.
+ETC_20150317_002342	Reaccionando al cristal
+ETC_20150317_002343	¡El alma del monstruo que tenía el núcleo de cristal ha salido!
+ETC_20150317_002344	Salió el alma del monstruo
+ETC_20150317_002345	¡Necesitamos extraer las almas consumiendo PS para atraer monstruos cerca!
+ETC_20150317_002346	Las raíces modificadas no responden
+ETC_20150317_002347	Raíces reactivas intermedias
+ETC_20150317_002348	¡El reactivo ha sido bien esparcido! {nl} Ahora las almas que se habían salido están perdidas, ¡por favor espera un momento!
+ETC_20150317_002349	No ha tenido ninguna reacción. {nl} Intenta en otros monstruos
+ETC_20150317_002350	¡Flores que puedo usar para el alma necesaria!
+ETC_20150317_002351	¡Dediqué todas las ofrendas!
+ETC_20150317_002352	¡Has hecho una ofrenda!
+ETC_20150317_002353	¡Debes atraer y derrotar los monstruos en las cercanías del sanctum!
+ETC_20150317_002354	Removido tras robar la tierra que poseía los círculos de invocación.
+ETC_20150317_002355	¡La salud de la Estatua del Diosa ha sido reducida a menos del 60%! {nl} ¡Deshaste de las líanas!
+ETC_20150317_002356	¡La salud de la Estatua del Diosa ha sido reducida a menos del 20%! {nl} ¡Deshaste de las líanas!
+ETC_20150317_002357	¡La salud de la Estatua del Diosa ha sido reducida a menos del 10%! {nl} ¡Deshaste de las líanas!
+ETC_20150317_002358	Las flroes se marchitaron y murieron.
+ETC_20150317_002359	Re-obteniendo la foto
+ETC_20150317_002360	Has obtenido la foto nuevamente
+ETC_20150317_002361	Lanzando la foto
+ETC_20150317_002362	las lanzado la foto a la tumba
+ETC_20150317_002363	Estoy sacando el mantel nuevamente
+ETC_20150317_002364	Sacaste el mantel nuevamente
+ETC_20150317_002365	Rodeando el mantel
+ETC_20150317_002366	Se puso el mantel en la caja. Podemos repetirlo.
+ETC_20150317_002367	No tienes la llave.{nl}Recolecta llaves de los monstruos.
+ETC_20150317_002368	Revisa el obelísco operacional con una herramienta mágica secundaria
+ETC_20150317_002369	Prueba fallida
+ETC_20150317_002370	Has quemado las oraciones del fúneral
+ETC_20150317_002371	Quema una oración del fúneral
+ETC_20150317_002372	Reparando Espantapájaros
+ETC_20150317_002373	Selecciona dialógo 1
+ETC_20150317_002374	Selecciona dialógo 2
+ETC_20150317_002375	Dejar el lugar. 
+ETC_20150317_002376	Primer espacio 
+ETC_20150317_002377	Segundo espacio 
+ETC_20150317_002378	Tercer espacio 
+ETC_20150317_002379	Cuarto espacio 
+ETC_20150317_002380	Leña
+ETC_20150317_002381	Porfavor guíanos a la Diosa.
+ETC_20150317_002382	Absorbida energía del guardían
+ETC_20150317_002383	Moviendose.
+ETC_20150317_002384	No moverse.
+ETC_20150317_002385	{@st59} Aumenta PR y recuperación de PR {/}
+ETC_20150317_002386	{nl} Missión Completada
+ETC_20150317_002387	Lo ví. Obviamente no era un Muerto Vivo.
+ETC_20150317_002388	No es un Muerto Vivo.
+ETC_20150317_002389	¿Porqué habría de seguirlo si es un Muerto Vivo?
+ETC_20150317_002390	¿Muertos Vivos en Saltistter? Eso no tiene Sentido.
+ETC_20150317_002391	Prerequisito: 
+ETC_20150317_002392	Nivel o superior
+ETC_20150317_002393	Nivel o inferior
+ETC_20150317_002394	Ranking
+ETC_20150317_002395	Ranking o superior
+ETC_20150317_002396	Ranking bajo
+ETC_20150317_002397	Sólo personajes masculinos
+ETC_20150317_002398	Sólo personajes femeninos
 ETC_20150317_002399	Objeto
 ETC_20150317_002400	Objeto necesario
 ETC_20150317_002401	 requerido
-ETC_20150317_002402	Subquest Conditions{nl}
-ETC_20150317_002403	You have not completed the pre-requisite of this quest. You cannot proceed with the party.
-ETC_20150317_002404	Murky energy is flowing out. Run away.
-ETC_20150317_002405	Successfully destroyed the Demon Summoner
-ETC_20150317_002406	Destroy spell purifier
-ETC_20150317_002407	Insane Panto
-ETC_20150317_002408	Failed to protect the purifying altar
-ETC_20150317_002409	Successfully defeated Gaigalas! {nl} Cut off the root of Bramble.
-ETC_20150317_002410	Successfully defeated Molich! {nl} Cut off the root of Bramble.
-ETC_20150317_002411	Successfully defeated the root of Bramble. Defeat Gaigalas.
-ETC_20150317_002412	Successfully defeated the root of Bramble. Defeat Molich.
-ETC_20150317_002413	Successfully purified murky force
-ETC_20150317_002414	Failed to protect royal tombstone lantern!
-ETC_20150317_002415	The Corrupt Vikaras exploded!
-ETC_20150317_002416	The Corrupt Vikaras is about to explode
-ETC_20150317_002417	Failed to prevent destroying the royal tombstone!
-ETC_20150317_002418	About when the Great Cathedral was built
-ETC_20150317_002419	About Naktis
-ETC_20150317_002420	Soul of integer won!
-ETC_20150317_002421	It's transformed souls.
-ETC_20150317_002422	Essence of souls scattered in the air like dust.
-ETC_20150317_002423	Turn on 1
-ETC_20150317_002424	Turn on 2
-ETC_20150317_002425	Turn on 3
-ETC_20150317_002426	Turn on 4
-ETC_20150317_002427	Turn on 5
-ETC_20150317_002428	Turn on 6
-ETC_20150317_002429	Checking the Essence
-ETC_20150317_002430	Checking the Scripture
-ETC_20150317_002431	Scripture won!
-ETC_20150317_002432	It is a too old and dirty bible.
-ETC_20150317_002433	It is very helpful even if it is old
-ETC_20150317_002434	I ask the position of the device
-ETC_20150317_002435	The relic matches the altar!
-ETC_20150317_002436	You will not be able to put the Holy relics at home.
-ETC_20150317_002437	Insert the Holy Relic of Mercy
-ETC_20150317_002438	Insert the Holy Relic of Salvation
-ETC_20150317_002439	Already waiting for the soul of the bishop Aurelius.
-ETC_20150317_002440	Examining
-ETC_20150317_002441	You found the item underground
-ETC_20150317_002442	Nothing was found
-ETC_20150317_002443	Type
-ETC_20150317_002444	Attribute
-ETC_20150317_002445	x{Count} obtained
-ETC_20150317_002446	Found the reference related with Naktis
-ETC_20150317_002447	Failed to find the reference related with Naktis
-ETC_20150317_002448	Obtained the herb!
-ETC_20150317_002449	Device seems to be open
-ETC_20150317_002450	Use a key.
-ETC_20150317_002451	Just leave it
-ETC_20150317_002452	Open the device to use the key.
-ETC_20150317_002453	I know the place what you want to find.
-ETC_20150317_002454	I know the place what the stuff hidden by human.
-ETC_20150317_002455	There is a chance to impress Naktis
-ETC_20150317_002456	We need to hurry to find it.
-ETC_20150317_002457	Now is the time.
-ETC_20150317_002458	Successfully persuaded.
-ETC_20150317_002459	I'll be there first!
-ETC_20150317_002460	The transformation worked!{nl}Leak the information to Naktis' servants.
-ETC_20150317_002461	Drinking the Transformation Potion
+ETC_20150317_002402	Condiciones de Sub-misión{nl}
+ETC_20150317_002403	No has cumplido los pre-requisitos de esta misión. No puedes continuar con el grupo.
+ETC_20150317_002404	Esta fluyendo energía lóbrega. Corre.
+ETC_20150317_002405	Has destruído el invocador de demonios
+ETC_20150317_002406	Destruye el purificador de hechizos
+ETC_20150317_002407	Panto Loco
+ETC_20150317_002408	Has fallado en proteger el altar
+ETC_20150317_002409	¡Has derrotado a Gaigalas! {nl} Corta la raíz de Zarsa.
+ETC_20150317_002410	¡Has derrotado a Molich! {nl} Corta la raíz de Zarsa.
+ETC_20150317_002411	¡Has derrotado a raíz de Zarsa. Derrota a Gaigalas.
+ETC_20150317_002412	¡Has derrotado a raíz de Zarsa. Derrota a Molich.
+ETC_20150317_002413	Has purificado energía lóbrega
+ETC_20150317_002414	¡Has fallado en proteger la linterna de la Tumba Real!
+ETC_20150317_002415	¡El Vikaras corrupto explotó!
+ETC_20150317_002416	El Vikaras corrupto está a punto de explotar
+ETC_20150317_002417	¡Has fallado en prevenir la destrucción de la Tumba Real!
+ETC_20150317_002418	Acerca de cuando se construyó la catedral
+ETC_20150317_002419	Acerca de Naktis
+ETC_20150317_002420	¡Obtuviste alma íntegra!
+ETC_20150317_002421	Son almas trasformadas.
+ETC_20150317_002422	La escencia de las almas está esparcida en el aire cómo polvo.
+ETC_20150317_002423	Encender 1
+ETC_20150317_002424	Encender 2
+ETC_20150317_002425	Encender 3
+ETC_20150317_002426	Encender 4
+ETC_20150317_002427	Encender 5
+ETC_20150317_002428	Encender 6
+ETC_20150317_002429	Revisando la Escencia
+ETC_20150317_002430	Revisando la Escritura
+ETC_20150317_002431	¡Has obtenido Escritua
+ETC_20150317_002432	Es una Biblia muy vieja y sucia.
+ETC_20150317_002433	Es muy útil aunque sea vieja
+ETC_20150317_002434	Preguntar por la ubicación del dispositivo
+ETC_20150317_002435	¡La reliquía concuerda con el altar!
+ETC_20150317_002436	No serás capaz de montar las reliquias en casa.
+ETC_20150317_002437	Inserta la Santa Reliquía de la Píedad
+ETC_20150317_002438	Inserta la Santa Reliquía de la Salvación
+ETC_20150317_002439	Esperando el alma del sacerdote Aurelius.
+ETC_20150317_002440	Examinando
+ETC_20150317_002441	Encontraste el objeto bajo tierra
+ETC_20150317_002442	No encontraste nada
+ETC_20150317_002443	Tipo
+ETC_20150317_002444	Atributo
+ETC_20150317_002445	Has obtenido x{Count}
+ETC_20150317_002446	Has encontrado la referencia relacionado con Naktis
+ETC_20150317_002447	Has fallado en encontrar la referencia relacionado con Naktis
+ETC_20150317_002448	¡Has obtenido la Hierba!
+ETC_20150317_002449	El dispositivo parece estar abierto
+ETC_20150317_002450	Usar una llave.
+ETC_20150317_002451	Dejarlo cómo esta
+ETC_20150317_002452	Abrir el dispositivo para usar la llave.
+ETC_20150317_002453	Conozco el lugar que quieres encontrar.
+ETC_20150317_002454	Conozco el lugar donde los humanos lo ocultaron.
+ETC_20150317_002455	Tienes una oportunidad para impresionar a Naktis
+ETC_20150317_002456	Necesitamos apresurarnos para encontrarlo.
+ETC_20150317_002457	Ahora es cuando.
+ETC_20150317_002458	Persuadido con éxito.
+ETC_20150317_002459	¡Estaré allí primero!
+ETC_20150317_002460	¡La transformación ha funcionado!{nl}Revela la información a los sirvientes de Naktis.
+ETC_20150317_002461	Bebiendo la poción de transformación
 ETC_20150317_002462	Okay...
-ETC_20150317_002463	Unseal device
-ETC_20150317_002464	Unsealing device
-ETC_20150317_002465	Use the red key
-ETC_20150317_002466	Use the blue key
-ETC_20150317_002467	Use the purple key
-ETC_20150317_002468	Use the green key
-ETC_20150317_002469	Use the yellow key
-ETC_20150317_002470	Beads begin to glow
-ETC_20150317_002471	There is no key.
-ETC_20150317_002472	Tips on solving the secret
-ETC_20150317_002473	Method for obtaining the Holy Relic
-ETC_20150317_002474	About relics
-ETC_20150317_002475	Ask about a second device
-ETC_20150317_002476	Navigation of next device
-ETC_20150317_002477	The herb is rotten.
-ETC_20150317_002478	Examining the contents...
-ETC_20150317_002479	Examining the contents related with the herb
-ETC_20150317_002480	It's not related with the herb.
-ETC_20150317_002481	Naktis' servants have destroyed the pot.
-ETC_20150317_002482	Doubt about the durability of Maven's device
-ETC_20150317_002483	Naktis' Servants
-ETC_20150317_002484	Whereabouts of the last key
-ETC_20150317_002485	Whereabouts of Naktis
-ETC_20150317_002486	The orbs and keys
-ETC_20150317_002487	Absorbed the weak Petrifying Frost.
-ETC_20150317_002488	Collecting
-ETC_20150317_002489	Collected petrified flower!
-ETC_20150317_002490	Covering
-ETC_20150317_002491	Covered with fragrant stone powder!
-ETC_20150317_002492	The monster is already covered with fragrant stone powder.
-ETC_20150317_002493	Low level Ice Wall
-ETC_20150317_002494	Used low level ice wall scroll. {nl} Damage the monsters as much as you can!
-ETC_20150317_002495	Using Scroll
-ETC_20150317_002496	Retrieved the stolen materials!
-ETC_20150317_002497	Checking Portal
-ETC_20150317_002498	It seems to be working!
-ETC_20150317_002499	There is no sign of it working at all.
-ETC_20150317_002500	Attaching propaganda
-ETC_20150317_002501	Attached the Royal Army propaganda!
-ETC_20150317_002502	Information about the Royal Army recruitment has been posted. {nl} It's hanging high up on the wall.
-ETC_20150317_002503	Destroyed the record of insurgents!
-ETC_20150317_002504	Obtained damaged propaganda.
-ETC_20150317_002505	Covering the smell
-ETC_20150317_002506	Covered the supplies with monster's odor.
-ETC_20150317_002507	Odor of this monster was already covered on supplies.
-ETC_20150317_002508	Used the bomb!
-ETC_20150317_002509	Retrieved the records.
-ETC_20150317_002510	Warp
-ETC_20150317_002511	You... Everyone must die!
-ETC_20150317_002512	It won't end like that!
-ETC_20150317_002513	View Collection
-ETC_20150317_002514	View Adventure Journal
-ETC_20150317_002515	I'll make a donation
-ETC_20150317_002516	I see the request
-ETC_20150317_002517	Another player is already harvesting.
-ETC_20150317_002518	Using Scroll..
-ETC_20150317_002519	Setting up Jar of Fire...
-ETC_20150317_002520	Opening the Box...
-ETC_20150317_002521	Already found the Jewel of Prominence
-ETC_20150317_002522	Found the Jewel of Prominence
-ETC_20150317_002523	Information on the Central Purifier on the 1st Floor
-ETC_20150317_002524	Information on the Passage Purifier on the 1st Floor
-ETC_20150317_002525	Information on the Auxiliary Purifier on the 2nd Floor
-ETC_20150317_002526	You defeated Bearkaras. {nl} Find useful parts from the spare purifier.
-ETC_20150317_002527	Information on the Main Purifier on the 2nd Floor
-ETC_20150317_002528	The compass is not responding
-ETC_20150317_002529	The Purifier here works well.
-ETC_20150317_002530	You can hear machines working from across. {nl}There may be lubricants in District 5.
-ETC_20150317_002531	The sound of the machine is getting clearer. {nl} There may be lubricants in District 5.
-ETC_20150317_002532	Checking Compass
-ETC_20150317_002533	Found lubricant. {nl} Go back and repair the Magic Supply Device.
-ETC_20150317_002534	All Purifier Pipes are working. {nl} Reactivate Purifiers circulation.
-ETC_20150317_002535	Found all parts needed for repairs. {nl} Return to the main purifier and fix it.
-ETC_20150317_002536	The Magic is slowly leaking out from the Jewel of Prominence. {nl} It's better to quickly find and remove the cause.
-ETC_20150317_002537	Stand in front of the valve to check it.
-ETC_20150317_002538	Please proceed after defeating the Bearkaras.
-ETC_20150317_002539	Found the parts! {nl} Return to the purifier at the entrance and fix it.
-ETC_20150317_002540	Parts Found!{nl} Return to the central purifier and fix it.
-ETC_20150317_002541	You defeated the Stone Whale that was interrupting your search. {nl} Find the remaining parts of the main purifier.
-ETC_20150317_002542	Operating the Guardian Stone
-ETC_20150317_002543	The Guardian Stone's energy has been released!
-ETC_20150317_002544	The Guardian Stone has not been charged yet
-ETC_20150317_002545	The Guardian Stone's energy has been charged
-ETC_20150317_002546	Drawing out Oil
-ETC_20150317_002547	No more reference related with Naktis.
-ETC_20150317_002548	Re-collecting the priest's book...
-ETC_20150317_002549	Re-collecting Maven's key...
-ETC_20150317_002550	Obtained Maven's key!
-ETC_20150317_002551	Naktis' servants are being too disrupting!
-ETC_20150317_002552	Using Maven's key...
-ETC_20150317_002553	Experimental Matsum
-ETC_20150317_002554	Pouring the Acid Solution
-ETC_20150317_002555	Using the Magic Crystal
-ETC_20150317_002556	Recovering the Holy Relic
-ETC_20150317_002557	Relic not detected
-ETC_20150317_002558	Detecting a Relic
-ETC_20150317_002559	Use Enchant Scroll
-ETC_20150317_002560	There was no reaction
-ETC_20150317_002561	The monster fainted
-ETC_20150317_002562	The monster exploded
-ETC_20150317_002563	Mise to prove that you are the person clearly
-ETC_20150317_002564	Door is opened. Please won the revelation
-ETC_20150317_002565	And about in the paint of the meat
-ETC_20150317_002566	Need more meats
-ETC_20150317_002567	Feel hunger and have a headache
-ETC_20150317_002568	I'm full
-ETC_20150317_002569	Giving the meat to the Pilgrim
-ETC_20150317_002570	Running the device
-ETC_20150317_002571	Additional damage {Auto_1}!
-ETC_20150317_002572	Absorption Physical {Auto_1}!
-ETC_20150317_002573	Absorption SP {Auto_1}!
-ETC_20150317_002574	Decreased cooldown by {Auto_1} seconds
-ETC_20150317_002575	Shield Hitter {Auto_1}!
-ETC_20150317_002576	Critical!
-ETC_20150317_002577	Immunity!
-ETC_20150317_002578	Provoke!
-ETC_20150317_002579	Reflection Damage!
-ETC_20150317_002580	Additional Auto_1} %% damage!
-ETC_20150317_002581	Reduce {Auto_1} %% damage!
-ETC_20150317_002582	Remove Shield!
-ETC_20150317_002583	Counter!!
-ETC_20150317_002584	Attribute Weapon Attack + {Auto_1}%
-ETC_20150317_002585	Break Ice Rim Blow
-ETC_20150317_002586	Break Rim Blow
-ETC_20150317_002587	Adjust Rim Blow
-ETC_20150317_002588	Close Shot Penalty
-ETC_20150317_002589	Carve Attack
-ETC_20150317_002590	Leave Guild
-ETC_20150317_002591	Party Request
-ETC_20150317_002592	Failed to create a party
-ETC_20150317_002593	The name of the party already exists
-ETC_20150317_002594	Leave the party
-ETC_20150317_002595	Questionnaire title is too long
-ETC_20150317_002596	Question
-ETC_20150317_002597	Vote
-ETC_20150317_002598	Set of access rights
-ETC_20150317_002599	Cannot join anymore
-ETC_20150317_002600	The party has acquired {Auto_1} EXP
-ETC_20150317_002601	Party level has increased to {Auto_1}
-ETC_20150317_002602	{Auto_1} Party Raid has started {nl} Press the button to join
-ETC_20150317_002603	Joined {Auto_1}'s party
-ETC_20150317_002604	Created {Auto_1} party
-ETC_20150317_002605	{Inviter} has invited you to a party.{nl}Would you like to join?
-ETC_20150317_002606	{PC} is already a member of a party
-ETC_20150317_002607	You are not a member of a party
-ETC_20150317_002608	Do you want to leave this party?
-ETC_20150317_002609	Your party leader wants to disband the party {nl} Are you sure you want to disband the party?
-ETC_20150317_002610	The party has been disbanded
-ETC_20150317_002611	{@st41b} If you are not a member of a party, check the information below to create a new one {/}
-ETC_20150317_002612	{@st41} Words of thanks {/}
-ETC_20150317_002613	{@st41} Name {/}
-ETC_20150317_002614	{@st43} Party Settings {/}
-ETC_20150317_002615	{@st41} Member Limit {/}
-ETC_20150317_002616	{@st41b} Max {/}
-ETC_20150317_002617	{@st41} Entry Limit{/}
-ETC_20150317_002618	{@st41} Password {/}
-ETC_20150317_002619	{@st41} Preferred Class {/}
-ETC_20150317_002620	{@st41b} Random {/}
-ETC_20150317_002621	{@st41b} Warrior only {/}
-ETC_20150317_002622	{@st41b} Wizard only {/}
-ETC_20150317_002623	{@st41b} Archer only {/}
-ETC_20150317_002624	{@st41b} Cleric only {/}
-ETC_20150317_002625	{@st41b} Sorcerer only {/}
-ETC_20150317_002626	{@st41b} Public {/}
-ETC_20150317_002627	{@st41b} Private {/}
-ETC_20150317_002628	My Page
-ETC_20150317_002629	Last Visit
-ETC_20150317_002630	Open board and logout
-ETC_20150317_002631	iCoin cycle
-ETC_20150317_002632	You do not have any iCoin to give.
-ETC_20150317_002633	Enter the amount of iCoin you want to gift.
-ETC_20150317_002634	{Auto_2} ~ {Auto_1} ea
-ETC_20150317_002635	You received {Count} iCoin as a gift from {Giver}.
-ETC_20150317_002636	I gifted {Count} iCoin to {Receiver}.
-ETC_20150317_002637	{Giver} has not enough iCoin to gift.
-ETC_20150317_002638	{Receiver} can no longer receive iCoin for today.
-ETC_20150317_002639	Fluid body of {Auto_1}
-ETC_20150317_002640	You do not have enough iCoin.
-ETC_20150317_002641	Your shout cannot exceed {MaxByte} bytes.
-ETC_20150317_002642	This party does not exist.
-ETC_20150317_002643	Expel
-ETC_20150317_002644	Leave
-ETC_20150317_002645	Party Info
-ETC_20150317_002646	Make Party Leader
-ETC_20150317_002647	has declined the party request.
-ETC_20150317_002648	Do you want to join this party?
-ETC_20150317_002649	The mike cannot exceed {MaxLen} characters.
-ETC_20150317_002650	You are already in a party
-ETC_20150317_002651	You are currently not in a party.
-ETC_20150317_002652	All
-ETC_20150317_002653	There are not enough party members.
-ETC_20150317_002654	Available time of next quest
-ETC_20150317_002655	Quest can be progressed.
-ETC_20150317_002656	Reconnection wait time
-ETC_20150317_002657	Party Quest is possible.
-ETC_20150317_002658	Only the party leader can do this.
-ETC_20150317_002659	All members must come to {MapName} to begin the Quest.
-ETC_20150317_002660	Not all members are not together.
-ETC_20150317_002661	Members of party quest have been met. The quest will be available after a certain time.
-ETC_20150317_002662	has left.
+ETC_20150317_002463	Liberar dispositivo
+ETC_20150317_002464	Dispositivo Liberado
+ETC_20150317_002465	Usa la llave roja
+ETC_20150317_002466	Usa la llave azul
+ETC_20150317_002467	Usa la llave morada
+ETC_20150317_002468	Usa la llave verde
+ETC_20150317_002469	Usa la llave amarilla
+ETC_20150317_002470	Las cuentas han comenzado a brillar
+ETC_20150317_002471	No hay llaves.
+ETC_20150317_002472	Consejos para resolver el secreto
+ETC_20150317_002473	Método para obtener la Reliquía Sagrada
+ETC_20150317_002474	Acerca de las Reliquías
+ETC_20150317_002475	Preguntar sobre el segundo dispositivo
+ETC_20150317_002476	Navegación del siguiente dispositivo
+ETC_20150317_002477	La hierba esta podrida.
+ETC_20150317_002478	Examinando los contenidos...
+ETC_20150317_002479	Examinando contenidos relacionados a la hierba
+ETC_20150317_002480	No guarda relación con la hierba.
+ETC_20150317_002481	Los sirvientes de Naktis han destruído la olla.
+ETC_20150317_002482	Duda acerca de la durabilidad del dispositivo de Maven
+ETC_20150317_002483	Sirvientes de Naktis
+ETC_20150317_002484	Paradero de la última llave
+ETC_20150317_002485	Paradero de Naktis
+ETC_20150317_002486	El orbe y las llaves
+ETC_20150317_002487	Has absorbido el Frío Petrificante débil.
+ETC_20150317_002488	Recolectando
+ETC_20150317_002489	¡Has recolectado flor petrificada!
+ETC_20150317_002490	Cubriendo
+ETC_20150317_002491	¡Cubierto con fragante polvo de roca!
+ETC_20150317_002492	El monstruo ya se encuentra cubierto con fragante polvo de roca.
+ETC_20150317_002493	Muralla de Hielo de Bajo Nivel
+ETC_20150317_002494	Has usado pergamino de Muralla de Hielo de Bajo Nivel. {nl} ¡Daña a los mosntruos tanto cómo puedas!
+ETC_20150317_002495	Usando Pergamino
+ETC_20150317_002496	¡Has recuperado los materiales robados!
+ETC_20150317_002497	Revisando Portal
+ETC_20150317_002498	¡Al parecer funciona!
+ETC_20150317_002499	No parece que funcione.
+ETC_20150317_002500	Pegando propaganda
+ETC_20150317_002501	¡Has pegado propaganda de la Armada Real!
+ETC_20150317_002502	Información acerca del reclutamiento de la Armada Real ha sido pegada. {nl} Esta colgando en lo alto de la pared.
+ETC_20150317_002503	¡Has destruído el registro de insurgente!
+ETC_20150317_002504	Has obtenido propaganda dañada.
+ETC_20150317_002505	Cubriendo el olor
+ETC_20150317_002506	Has cubierto los sumistros con aroma de monstruo.
+ETC_20150317_002507	Ya has cubierto los sumistros con el olor de este monstruo.
+ETC_20150317_002508	¡Has usado la bomba!
+ETC_20150317_002509	Has recuperado los registros.
+ETC_20150317_002510	Teletransportar
+ETC_20150317_002511	Tú... ¡Todos deben morir!
+ETC_20150317_002512	¡No quiero terminar así!
+ETC_20150317_002513	Ver Colección
+ETC_20150317_002514	Ver Diario de Aventuras
+ETC_20150317_002515	haré una donación
+ETC_20150317_002516	Ví el pedido
+ETC_20150317_002517	Otro jugador se encuentra cosechando.
+ETC_20150317_002518	Usando Pergamino..
+ETC_20150317_002519	Preparando Jarra de Fuego...
+ETC_20150317_002520	Abriendo Caja...
+ETC_20150317_002521	Ya encontraste la Joya de Prominencia
+ETC_20150317_002522	Has encontrado la Joya de Prominencia
+ETC_20150317_002523	Información del Purificador Central en el 1er piso
+ETC_20150317_002524	Información del Purificador de Pasillo en el 1er Piso
+ETC_20150317_002525	Información del Purificador Auxiliar en el 2nd Piso
+ETC_20150317_002526	Has derrotado a Bearkaras. {nl} Encontraste partes útiles en el purificador de repuesto.
+ETC_20150317_002527	Información del Purificador Principal en el 2nd Piso
+ETC_20150317_002528	El compás no responde
+ETC_20150317_002529	Este purifcador funciona bien.
+ETC_20150317_002530	Puedes escuchar el sonido de maquinas a traves. {nl}Pueden haber lubricantes en el Distrito 5.
+ETC_20150317_002531	El sonido de la maquinaria se vuelve más claro. {nl} Pueden haber lubricantes en el Distrito 5.
+ETC_20150317_002532	Revisando Compás
+ETC_20150317_002533	Has encontrado Lubricante. {nl} Regresa y repara el Dispositivo Suplidor de Magia.
+ETC_20150317_002534	Todos los purificadores se encuentran funcionando. {nl} Reactiva la circulación de purificadores.
+ETC_20150317_002535	Has encontrado todas las partes necesarias para las reparaciones. {nl} Regresa al purificador principal y arreglalo.
+ETC_20150317_002536	La magia se escapa lentamente de la Joya de Prominencia. {nl} Mejor encontrar rápidamente la causa y removerla.
+ETC_20150317_002537	Úbicate frente a la válvula para revisarla.
+ETC_20150317_002538	Porfavor procede luego de haber derrotado al Bearkaras.
+ETC_20150317_002539	¡Partes encontradas! {nl} Regresa al purificador de la entrada y arreglalo.
+ETC_20150317_002540	¡Partes encontradas! {nl} Regresa al purificador central y arreglalo.
+ETC_20150317_002541	has derrotado a la Ballena de Rocas que impedía tu búsqueda. {nl} Encuentra las partes faltantes del purificador central.
+ETC_20150317_002542	Operando la Piedra Guardiana
+ETC_20150317_002543	¡La energía de la Piedra Guardiana ha sido liberada!
+ETC_20150317_002544	La Piedra Guardiana no se ha cargado aún
+ETC_20150317_002545	La energía de la Piedra Guardiana ha sido cargada
+ETC_20150317_002546	Sacando Aceite
+ETC_20150317_002547	No hay más referencias relacionadas a Naktis.
+ETC_20150317_002548	Recogiendo el libro del Sacerdote...
+ETC_20150317_002549	Recogiendo la llave de Maven...
+ETC_20150317_002550	¡Has obtenido la llave de Maven!
+ETC_20150317_002551	¡Los sirvientes de Naktis están siendo muy molestos!
+ETC_20150317_002552	Usando llave de Maven...
+ETC_20150317_002553	Matsum Experimental
+ETC_20150317_002554	Vertiendo Solución Ácida
+ETC_20150317_002555	Usando Cristal Mágico
+ETC_20150317_002556	Recuperando la Reliquía Sagrada
+ETC_20150317_002557	No se ha detectado la Reliquía
+ETC_20150317_002558	Detectando Reliquía
+ETC_20150317_002559	Usar Pergamino de Encantamiento
+ETC_20150317_002560	No hubo reacción
+ETC_20150317_002561	El monstruo se desmayó
+ETC_20150317_002562	El monstruo explotó
+ETC_20150317_002563	Demuestra claramente quien eres
+ETC_20150317_002564	Puerta abierta. Obten la Revelación
+ETC_20150317_002565	Acerca de la pintura en la carne
+ETC_20150317_002566	Necesito más carne
+ETC_20150317_002567	Siento hambre y dolor de cabeza
+ETC_20150317_002568	Estoy lleno
+ETC_20150317_002569	Darle carne al Peregrino
+ETC_20150317_002570	Haciendo funcionar el dispositivo
+ETC_20150317_002571	Daño adicional {Auto_1}!
+ETC_20150317_002572	Absorción Física {Auto_1}!
+ETC_20150317_002573	Absorción de PR {Auto_1}!
+ETC_20150317_002574	Enfriando reducido en {Auto_1} segundos
+ETC_20150317_002575	¡Golpeador de Escudo {Auto_1}!
+ETC_20150317_002576	¡Critico!
+ETC_20150317_002577	¡Inmune!
+ETC_20150317_002578	¡Provocado!
+ETC_20150317_002579	¡Reflejar Daño!
+ETC_20150317_002580	¡Aumenta daño en {Auto_1} %%!
+ETC_20150317_002581	¡Reduce daño en {Auto_1} %%!
+ETC_20150317_002582	¡Remover Escudo!
+ETC_20150317_002583	¡¡Contra-ataque!!
+ETC_20150317_002584	Daño de arma por atributo + {Auto_1}%
+ETC_20150317_002585	Golpe de Canto Rompe-hielo
+ETC_20150317_002586	Golpe de Canto Rompedor
+ETC_20150317_002587	Ajustar Golpe de Canto
+ETC_20150317_002588	Penalización por disparo a quemaropa
+ETC_20150317_002589	Esculpir
+ETC_20150317_002590	Abandonar Gremio
+ETC_20150317_002591	Solicitud de Grupo
+ETC_20150317_002592	Has fallado en Crear un Grupo
+ETC_20150317_002593	El nombre del Grupo ya existe
+ETC_20150317_002594	Abandonar el Grupo
+ETC_20150317_002595	El titulo del cuestionario es muy largo
+ETC_20150317_002596	Pregunta
+ETC_20150317_002597	Voto
+ETC_20150317_002598	Grupo de privilegios de acceso
+ETC_20150317_002599	Ya no puedes unirte
+ETC_20150317_002600	El grupo ha adquirido {Auto_1} EXP
+ETC_20150317_002601	El nivel del grupo ha aumentado a {Auto_1}
+ETC_20150317_002602	{Auto_1} Asalto Grupal ha comenzado {nl} Presiona el botón para unirte
+ETC_20150317_002603	Te has unido al grupo de {Auto_1}
+ETC_20150317_002604	Has creado el Grupo {Auto_1}.
+ETC_20150317_002605	{Inviter} te ha invitado a su grupo.{nl}¿Deseas unirte?
+ETC_20150317_002606	{PC} ya es miembro de un grupo
+ETC_20150317_002607	No eres miembro de un grupo
+ETC_20150317_002608	¿Quieres abandonar este grupo?
+ETC_20150317_002609	Tu líder de grupo quiere desarmar el grupo {nl} ¿Seguro de desarmar el grupo?
+ETC_20150317_002610	El grupo ha sido desarmado
+ETC_20150317_002611	{@st41b} Si no eres miembro de un grupo, revisa la información de abajo para crear uno {/}
+ETC_20150317_002612	{@st41} Palabras de Agradecimiento {/}
+ETC_20150317_002613	{@st41} Nombre {/}
+ETC_20150317_002614	{@st43} Ajustes de Grupo {/}
+ETC_20150317_002615	{@st41} Límite de Miembros {/}
+ETC_20150317_002616	{@st41b} Máx {/}
+ETC_20150317_002617	{@st41} Límite de ingresos{/}
+ETC_20150317_002618	{@st41} Contraseña {/}
+ETC_20150317_002619	{@st41} Clase Preferida {/}
+ETC_20150317_002620	{@st41b} Aleatorio {/}
+ETC_20150317_002621	{@st41b} Sólo Espadachín {/}
+ETC_20150317_002622	{@st41b} Sólo Mago {/}
+ETC_20150317_002623	{@st41b} Sólo Arquero {/}
+ETC_20150317_002624	{@st41b} Sólo Clérigo {/}
+ETC_20150317_002625	{@st41b} Sólo Invocador {/}
+ETC_20150317_002626	{@st41b} Público {/}
+ETC_20150317_002627	{@st41b} Privado {/}
+ETC_20150317_002628	Mi Página
+ETC_20150317_002629	Última Visita
+ETC_20150317_002630	Abrir tablero
+ETC_20150317_002631	Ciclo de iCoins
+ETC_20150317_002632	No tienes iCoins para regalar.
+ETC_20150317_002633	Ingresa el número de iCoins que quieres regalar.
+ETC_20150317_002634	{Auto_2} ~ {Auto_1} u
+ETC_20150317_002635	Has recibido {Count} iCoins como un regalo de {Giver}.
+ETC_20150317_002636	Regalé {Count} iCoins a {Receiver}.
+ETC_20150317_002637	{Giver} no tiene suficientes iCoins para regalar.
+ETC_20150317_002638	{Receiver} no puede recibir más iCoins hoy.
+ETC_20150317_002639	Cuerpo Astral de {Auto_1}
+ETC_20150317_002640	Insusficientes iCoins.
+ETC_20150317_002641	Tu Grito no puede exceder los {MaxByte} bytes.
+ETC_20150317_002642	Ese grupo no existe.
+ETC_20150317_002643	Expulsar
+ETC_20150317_002644	Irse
+ETC_20150317_002645	Info del Grupo
+ETC_20150317_002646	Hacer lider de Grupo
+ETC_20150317_002647	Has rechazado la invitación a Grupo.
+ETC_20150317_002648	¿Quieres unirte a este Grupo?
+ETC_20150317_002649	El mic no puede exceder los {MaxLen} carácteres.
+ETC_20150317_002650	Ya te encuentras en un grupo
+ETC_20150317_002651	No te encuentras en un grupo.
+ETC_20150317_002652	Todos
+ETC_20150317_002653	No hay suficientes miembros en el grupo.
+ETC_20150317_002654	Tiempo disponible para la siguiente misión
+ETC_20150317_002655	Esta misión puede ser progresada.
+ETC_20150317_002656	Tiempo de espera para reconexión
+ETC_20150317_002657	Es posible hacer misión grupal.
+ETC_20150317_002658	Sólo el líder del grupo puede hacer esto.
+ETC_20150317_002659	Todos los miembros deben ir a {MapName} para comenzar la misión.
+ETC_20150317_002660	No todos los miembros están juntos.
+ETC_20150317_002661	Todos los miembros del grupo se han encontrado. La misión estará disponible en poco tiempo.
+ETC_20150317_002662	se ha retirado.
 ETC_20150317_002663	Normal
-ETC_20150317_002664	Shout
-ETC_20150317_002665	Party
-ETC_20150317_002666	To {Who} and {Count} others
-ETC_20150317_002667	Chat Room List
-ETC_20150317_002668	This user does not exist.
-ETC_20150317_002669	Party Quest Area
-ETC_20150317_002670	This user does not exist or is offline.
-ETC_20150317_002671	Enter the player's Team Name to invite.
-ETC_20150317_002672	{TargetName} and {Count} others
-ETC_20150317_002673	Start Auction
-ETC_20150317_002674	Failed to start an auction
-ETC_20150317_002675	Another auction is in progress
-ETC_20150317_002676	No bidder
-ETC_20150317_002677	The auction has been canceled
-ETC_20150317_002678	{Auto_2} won the bid with {Auto_1} silver
-ETC_20150317_002679	The auction has ended
-ETC_20150317_002680	You earned {Auto_1} silver from the auction
-ETC_20150317_002681	Already the highest bidder
-ETC_20150317_002682	Bidding complete
-ETC_20150317_002683	Do you want to bid?
-ETC_20150317_002684	You received the item from the auction.
-ETC_20150317_002685	Your item from the auction has been sold.
-ETC_20150317_002686	Received money from the expired auction
-ETC_20150317_002687	The auction has ended.
-ETC_20150317_002688	Placed an item for auction!
-ETC_20150317_002689	{Bidder} is the highest bidder for {ItemName}.{/}
-ETC_20150317_002690	You are currently the highest bidder of {Auto_1}.{/}
-ETC_20150317_002691	{ItemName} was put up for auction in {MapName}.
-ETC_20150317_002692	{PC} has won {ItemName} from the auction.
-ETC_20150317_002693	You cannot bid higher than the buyout price.
-ETC_20150317_002694	Confirm purchase?
-ETC_20150317_002695	Do you want to adopt this companion?
-ETC_20150317_002696	Seller
-ETC_20150317_002697	Quantity
-ETC_20150317_002698	Unit Price
-ETC_20150317_002699	Total Price
-ETC_20150317_002700	Quantity
-ETC_20150317_002701	Your selling price must be at least 0 silver.
-ETC_20150317_002702	Your selling quantity must be higher than 0.
-ETC_20150317_002703	Your item has been successfully added to the Market.
-ETC_20150317_002704	You have successfully purchased an item from the Market.{nl}Please check if you've received the item.
-ETC_20150317_002705	There are too many search results. Use detailed search queries to narrow down your search.
-ETC_20150317_002706	Are you sure you want to cancel the registration of this item?
-ETC_20150317_002707	Your item has successfully been canceled from the Market.{nl}Please check if you've received the item.
-ETC_20150317_002708	An equipped item cannot be added.
-ETC_20150317_002709	Private
-ETC_20150317_002710	Confirm
-ETC_20150317_002711	Price: Low to High
-ETC_20150317_002712	Price: High to Low
-ETC_20150317_002713	Newly Listed
-ETC_20150317_002714	Price entered must be at least 1.
-ETC_20150317_002715	Only skills that consume items are possible.
-ETC_20150317_002716	Keep out! The stones should be delivered as soon as possible.
+ETC_20150317_002664	Grito
+ETC_20150317_002665	Grupo
+ETC_20150317_002666	De {Who} y {Count} otros
+ETC_20150317_002667	Lista de salas de Chat
+ETC_20150317_002668	Ese usuario no existe.
+ETC_20150317_002669	Área de Misión Grupal
+ETC_20150317_002670	El usuario no existe o no se encuentra en linea.
+ETC_20150317_002671	Ingresa el nombre del Equipo del jugador para invitarle.
+ETC_20150317_002672	{TargetName} y {Count} otros
+ETC_20150317_002673	Comenzar Subasta
+ETC_20150317_002674	Has fallado en iniciar la Subasta
+ETC_20150317_002675	Otra subasta se encuentra en progreso
+ETC_20150317_002676	No hay postor
+ETC_20150317_002677	La subasta ha sido cancelada
+ETC_20150317_002678	{Auto_2} ganó la púja por {Auto_1} plata
+ETC_20150317_002679	La subasta ha finalizado
+ETC_20150317_002680	Has obtenido {Auto_1} plata por la subasta
+ETC_20150317_002681	Ya eres el mejor postor
+ETC_20150317_002682	Puja Completa
+ETC_20150317_002683	¿Quieres pujar?
+ETC_20150317_002684	Has recibido el objeto de la subasta.
+ETC_20150317_002685	Tu objeto de la subasta ha sido vendido.
+ETC_20150317_002686	Dinero recibido de la subasta expirada
+ETC_20150317_002687	La subasta ha finalizado.
+ETC_20150317_002688	¡Has puesto un objeto en la subasta!
+ETC_20150317_002689	{Bidder} es el mejor postor para {ItemName}.{/}
+ETC_20150317_002690	Eres el mejor postor para {Auto_1}.{/}
+ETC_20150317_002691	{ItemName} está siendo subastado en {MapName}.
+ETC_20150317_002692	{PC} ha ganado {ItemName} de la subasta.
+ETC_20150317_002693	No puedes pujar más que el precio de venta fijado.
+ETC_20150317_002694	¿Confirmar compra?
+ETC_20150317_002695	¿Quienes adoptar este Compañero?
+ETC_20150317_002696	Vendedor
+ETC_20150317_002697	Cantidad
+ETC_20150317_002698	Precio unitario
+ETC_20150317_002699	Precio total
+ETC_20150317_002700	Cantidad
+ETC_20150317_002701	Tu precio de venta debe ser mayor a 0 plata.
+ETC_20150317_002702	La cantidad a vender debe ser mayor a 0.
+ETC_20150317_002703	Tu objeto se ha añadido con éxito al emrcado.
+ETC_20150317_002704	Has comprado un objeto éxitosamente del mercado.{nl}Por favor revisa que hayas recibido el objeto.
+ETC_20150317_002705	Muchos resultados de busqueda. Detalla más tu búsqueda para reducir el número de resultado.
+ETC_20150317_002706	¿Estas seguro de querer cancelar el registro de este objeto?
+ETC_20150317_002707	Tu objeto ha sido cancelado del mercado con éxito.{nl}Por favor revisa si recibiste el objeto.
+ETC_20150317_002708	Un objeto equipado no puede ser añadido.
+ETC_20150317_002709	Privado
+ETC_20150317_002710	Confirmar
+ETC_20150317_002711	Precio: Menor a Mayor
+ETC_20150317_002712	Precio: Mayor a Menor
+ETC_20150317_002713	Recientemente Listado
+ETC_20150317_002714	El precio ingresado debe ser al menos 1.
+ETC_20150317_002715	Sólo se puede con habilidades que consumen objetos.
+ETC_20150317_002716	¡Alejate! Las piedras deben ser entregadas lo antes posible.
 ETC_20150317_002717	Bleeding Arrow
 ETC_20150317_002718	Penetrating Arrow
 ETC_20150317_002719	Explosive Arrow
-ETC_20150317_002720	[Craftable]
-ETC_20150317_002721	Stamina
-ETC_20150317_002722	Attack
-ETC_20150317_002723	Attacking Speed
-ETC_20150317_002724	Critical Rate
-ETC_20150317_002725	Durability
+ETC_20150317_002720	[Creable]
+ETC_20150317_002721	Resistencia
+ETC_20150317_002722	Ataque
+ETC_20150317_002723	Velocidad de Ataque
+ETC_20150317_002724	Ratio Crítico
+ETC_20150317_002725	Durabilidad
 ETC_20150317_002726	Splash
-ETC_20150317_002727	Accuracy
-ETC_20150317_002728	Critical Resistance
+ETC_20150317_002727	Precisión
+ETC_20150317_002728	Resistencia a Críticos
 ETC_20150317_002729	Splash Defense
 ETC_20150317_002730	INT
-ETC_20150317_002731	SPR
-ETC_20150317_002732	Skill Attack
-ETC_20150317_002733	Magic Resistance
+ETC_20150317_002731	ESP
+ETC_20150317_002732	Ataque de Habilidad
+ETC_20150317_002733	Resistencia Mágica
 ETC_20150317_002734	Dugout Attack
 ETC_20150317_002735	Rim Attack
-ETC_20150317_002736	Magic Attack
-ETC_20150317_002737	Magic Defense
+ETC_20150317_002736	Ataque Mágico
+ETC_20150317_002737	Defensa Mágica
 ETC_20150317_002738	Creates an additional slot when equipped
-ETC_20150317_002739	Gender
+ETC_20150317_002739	Genéro
 ETC_20150317_002740	Maximum Socket(s)
-ETC_20150317_002741	Sell to Shop
-ETC_20150317_002742	Trade with Player
-ETC_20150317_002743	Enhance Potential
-ETC_20150317_002744	Sell Price to Shop
-ETC_20150317_002745	Equip Level
-ETC_20150317_002746	Equip Class
-ETC_20150317_002747	Piercing
-ETC_20150317_002748	Slashing
-ETC_20150317_002749	Striking
-ETC_20150317_002750	Increase Range
-ETC_20150317_002751	Increase range of Slashing
-ETC_20150317_002752	Attack Range
-ETC_20150317_002753	Attack Angle
-ETC_20150317_002754	Block Rate
-ETC_20150317_002755	Repeated Hit
-ETC_20150317_002756	Rear Attack Range
-ETC_20150317_002757	Use specific skill
-ETC_20150317_002758	Possible
-ETC_20150317_002759	Unavailable
-ETC_20150317_002760	Critical Attack
-ETC_20150317_002761	Critical Defense
-ETC_20150317_002762	Tradable
-ETC_20150317_002763	Untradeable
-ETC_20150317_002764	Potion Recovery Rate
-ETC_20150317_002765	SP Recovery
-ETC_20150317_002766	Unable to sell
-ETC_20150317_002767	Fire Property Attack
-ETC_20150317_002768	Ice Property Attack
-ETC_20150317_002769	Poison Property Attack
-ETC_20150317_002770	Holy Property Attack
-ETC_20150317_002771	Dark Property Attack
-ETC_20150317_002772	Movement Speed
-ETC_20150317_002773	HP Recovery
-ETC_20150317_002774	Attack against Plant-type Targets
-ETC_20150317_002775	Attack against Beast-type Targets
-ETC_20150317_002776	Attack against Devil-type Targets
-ETC_20150317_002777	Attack against Mutant-type Targets
-ETC_20150317_002778	Wind Property Attack
-ETC_20150317_002779	Fire Property Resistance
-ETC_20150317_002780	Ice Property Resistance
-ETC_20150317_002781	Poison Property Resistance
-ETC_20150317_002782	Lightning Property Resistance
-ETC_20150317_002783	Holy Property Resistance
-ETC_20150317_002784	Dark Property Resistance
-ETC_20150317_002785	AoE Attack Ratio
-ETC_20150317_002786	AoE Defense Ratio
-ETC_20150317_002787	2% chance of +300 additional damage when attacking
-ETC_20150317_002788	3% chance of 20% receiving continuous damage equal to 20% HP when hit
-ETC_20150317_002789	4% chance of +100 additional all resistance when hit by magic
-ETC_20150317_002790	Lightning Property Attack
-ETC_20150317_002791	Knockback Power
-ETC_20150317_002792	Attack against Small-type Targets
-ETC_20150317_002793	Attack against Medium-type Targets
-ETC_20150317_002794	Attack against Large-type Targets
-ETC_20150317_002795	Block
-ETC_20150317_002796	Block Penetration
-ETC_20150317_002797	Attack against Cloth Armor Targets
-ETC_20150317_002798	Attack against Leather Armor Targets
-ETC_20150317_002799	Attack against Plate Armor Targets
-ETC_20150317_002800	Attack against Ghost Armor Targets
-ETC_20150317_002801	Magic Penetration
-ETC_20150317_002802	Item EXP
-ETC_20150317_002803	Shooting Distance
-ETC_20150317_002804	Speed
-ETC_20150317_002805	Attack against Insect-type Targets
-ETC_20150317_002806	Earth Property Attack
-ETC_20150317_002807	Earth Property Resistance
-ETC_20150317_002808	Physical Damage when mounted
-ETC_20150317_002809	Magic Damage when mounted
-ETC_20150317_002810	Pierce Defense
-ETC_20150317_002811	Slash Defense
-ETC_20150317_002812	Strike Defense
-ETC_20150317_002813	Maximum Carry Weight
-ETC_20150317_002814	Very Easy
-ETC_20150317_002815	Easy
+ETC_20150317_002741	Vender a tienda
+ETC_20150317_002742	Intercambiar con Jugador
+ETC_20150317_002743	Mejorar Potencial
+ETC_20150317_002744	Precio de venta a tienda
+ETC_20150317_002745	Nivel requerido
+ETC_20150317_002746	Clase requerida
+ETC_20150317_002747	Penetrante
+ETC_20150317_002748	Cortante
+ETC_20150317_002749	Golpeante
+ETC_20150317_002750	Aumenta rango
+ETC_20150317_002751	Aumenta rango de Corte
+ETC_20150317_002752	Ataque Rango
+ETC_20150317_002753	Ataque Ángular
+ETC_20150317_002754	Ratio de Bloqueo
+ETC_20150317_002755	Multi-golpe
+ETC_20150317_002756	Rango de Ataque Posterior
+ETC_20150317_002757	Usar Habilidad Específica
+ETC_20150317_002758	Posible
+ETC_20150317_002759	No disponible
+ETC_20150317_002760	Ataque Crítico
+ETC_20150317_002761	Defensa Crítica
+ETC_20150317_002762	Intercambiable
+ETC_20150317_002763	Inintercambiable
+ETC_20150317_002764	Ratio de recuperación por Pociones
+ETC_20150317_002765	Recuperación de PR
+ETC_20150317_002766	Imposible de vender
+ETC_20150317_002767	Ataque propiedad Fuego
+ETC_20150317_002768	Ataque propiedad Hielo
+ETC_20150317_002769	Ataque propiedad Veneno
+ETC_20150317_002770	Ataque propiedad Santo
+ETC_20150317_002771	Ataque propiedad Oscuridad
+ETC_20150317_002772	Velocidad de Movimiento
+ETC_20150317_002773	Recuperación de PS
+ETC_20150317_002774	Ataque contra blancos tipo Planta
+ETC_20150317_002775	Ataque contra blancos tipo Bestia
+ETC_20150317_002776	Ataque contra blancos tipo Demonio
+ETC_20150317_002777	Ataque contra blancos tipo Mutante
+ETC_20150317_002778	Ataque propiedad Viento
+ETC_20150317_002779	Resistencia a propiedad Fuego
+ETC_20150317_002780	Resistencia a propiedad Hielo
+ETC_20150317_002781	Resistencia a propiedad Veneno
+ETC_20150317_002782	Resistencia a propiedad Electricidad
+ETC_20150317_002783	Resistencia a propiedad Santo 
+ETC_20150317_002784	Resistencia a propiedad Oscuridad
+ETC_20150317_002785	Ratio de ataque de área
+ETC_20150317_002786	Ratio de defensa de área
+ETC_20150317_002787	2% probabilidad de obtener +300 de daño adicional al atacar
+ETC_20150317_002788	3% probabilidad de recibir 20% de daño continuo igual al 20% PS cuando golpeas
+ETC_20150317_002789	4% probabilidad de obtener +100 de resistencia a todo cuando eres golpeado con magia
+ETC_20150317_002790	Ataque propiedad Electricidad
+ETC_20150317_002791	Poder de Empuje
+ETC_20150317_002792	Ataque contra blancos de tipo Pequeño
+ETC_20150317_002793	Ataque contra blancos de tipo Mediano
+ETC_20150317_002794	Ataque contra blancos de tipo Grande
+ETC_20150317_002795	Bloqueo
+ETC_20150317_002796	Penetración de bloqueo
+ETC_20150317_002797	Ataque contra blancos con Armadura de Tela
+ETC_20150317_002798	Ataque contra blancos con Armadura de Cuero
+ETC_20150317_002799	Ataque contra blancos con Armadura de Placas
+ETC_20150317_002800	Ataque contra blancos con Armadura Espectral
+ETC_20150317_002801	Penetración Mágica
+ETC_20150317_002802	Objeto de EXP
+ETC_20150317_002803	Distancia de Disparo
+ETC_20150317_002804	Velocidad
+ETC_20150317_002805	Ataque contra blancos de tipo Insecto
+ETC_20150317_002806	Ataque propiedad Tierra
+ETC_20150317_002807	Resistencia propiedad Tierra
+ETC_20150317_002808	Daño Físico al montar
+ETC_20150317_002809	Daño Mágico al montar
+ETC_20150317_002810	Defensa a Penetración
+ETC_20150317_002811	Defensa a Cortes
+ETC_20150317_002812	Defensa a Golpes
+ETC_20150317_002813	Máximo Peso Cargado
+ETC_20150317_002814	Muy Fácil
+ETC_20150317_002815	Fácil
 ETC_20150317_002816	Normal
-ETC_20150317_002817	Hard
-ETC_20150317_002818	Very Hard
-ETC_20150317_002819	{S22}{ol}Next Quest Level: {Auto_1}
-ETC_20150317_002820	Area: 
+ETC_20150317_002817	Díficil
+ETC_20150317_002818	Muy Díficil
+ETC_20150317_002819	{S22}{ol}Siguiente Nivel de Misión: {Auto_1}
+ETC_20150317_002820	Área: 
 ETC_20150317_002821	{@st45w3}{s18}x{Auto_2} {Auto_1} {/}
-ETC_20150317_002822	{@st41}Reward Received:
-ETC_20150317_002823	{@st64} Approach the NPC and press 
-ETC_20150317_002824	Space Bar
-ETC_20150317_002825	 to start a conversation
-ETC_20150317_002826	Abandon the quest
-ETC_20150317_002827	Abandon
-ETC_20150317_002828	Warp to
-ETC_20150317_002829	Objective: 
-ETC_20150317_002830	Warrior Type
-ETC_20150317_002831	Wizard Type
-ETC_20150317_002832	Archer Type
-ETC_20150317_002833	Cleric Type
-ETC_20150317_002834	Sorcerer Type
-ETC_20150317_002835	Human-type
-ETC_20150317_002836	Devil-type
-ETC_20150317_002837	Plant-type
-ETC_20150317_002838	Beast-type
-ETC_20150317_002839	Mutant-type
-ETC_20150317_002840	Object
-ETC_20150317_002841	Insect-type
-ETC_20150317_002842	Cloth
-ETC_20150317_002843	Leather
+ETC_20150317_002822	{@st41}Recompenza Recibida:
+ETC_20150317_002823	{@st64} Acercate al PNJ y presiona 
+ETC_20150317_002824	Barra espaciadora
+ETC_20150317_002825	 para iniciar una conversación
+ETC_20150317_002826	Abandonar la misión
+ETC_20150317_002827	Abandonar
+ETC_20150317_002828	Teletransportarse a
+ETC_20150317_002829	Objetivo: 
+ETC_20150317_002830	Tipo Luchador
+ETC_20150317_002831	Tipo Mago
+ETC_20150317_002832	Tipo Arquero
+ETC_20150317_002833	Tipo Clérigo
+ETC_20150317_002834	Tipo Invocador
+ETC_20150317_002835	Tipo Humanoide
+ETC_20150317_002836	Tipo Demonio
+ETC_20150317_002837	Tipo Planta
+ETC_20150317_002838	Tipo Bestia
+ETC_20150317_002839	Tipo Mutante
+ETC_20150317_002840	Objeto
+ETC_20150317_002841	Tipo Insecto
+ETC_20150317_002842	Tela
+ETC_20150317_002843	Cuero
 ETC_20150317_002844	Metal
-ETC_20150317_002845	Chain
-ETC_20150317_002846	Ghost
-ETC_20150317_002847	This mercenary already belongs to somebody else.
-ETC_20150317_002848	The mercenary's level is higher than the PC's level.
-ETC_20150317_002849	The mercenary has been hired.
-ETC_20150317_002850	The mercenary was let go.
-ETC_20150317_002851	This mercenary is already hired.
-ETC_20150317_002852	The theme of your Barracks has been changed.
-ETC_20150317_002853	You have successfully{nl}changed your Team Name.
-ETC_20150317_002854	You have failed to{nl}change your Team Name.
-ETC_20150317_002855	Enter a Team Name. This name will be the name seen by other players.
-ETC_20150317_002856	This Team Name already exists.
-ETC_20150317_002857	Collection Effect
-ETC_20150317_002858	List of acquired
-ETC_20150317_002859	Full list
-ETC_20150317_002860	You already have this collection.
+ETC_20150317_002845	Cadenas
+ETC_20150317_002846	Espectral
+ETC_20150317_002847	Este mercenario ya le pertene a alguien.
+ETC_20150317_002848	El nivel del mercenario es superior al nivel del PJ.
+ETC_20150317_002849	El mercenario ha sido contratado.
+ETC_20150317_002850	Has dejado ir al mercenario.
+ETC_20150317_002851	Este mercenario se encuentra contratado.
+ETC_20150317_002852	La tématica de tus Barracas ha sido cambiada.
+ETC_20150317_002853	Has cambiado con éxito{nl}el nombre de tu equipo.
+ETC_20150317_002854	Has fallado en cambiar{nl}el nombre de tu equipo.
+ETC_20150317_002855	Ingresa un nombre de equipo. Este nombre será visto por otros jugadores.
+ETC_20150317_002856	Este nombre de equipo ya existe.
+ETC_20150317_002857	Efecto de Colección
+ETC_20150317_002858	Lista de adquiridos
+ETC_20150317_002859	Lista Completa
+ETC_20150317_002860	Ya tienes esta colección.
 ETC_20150317_002861	Colección
-ETC_20150317_002862	A collection has been added.
-ETC_20150317_002863	Only through the NPC can be registered.
-ETC_20150317_002864	Obtain {Auto_2} from {Auto_1}
-ETC_20150317_002865	Total Explored
-ETC_20150317_002866	explored
-ETC_20150317_002867	{Auto_1} quest(s) cleared
-ETC_20150317_002868	{Auto_1} NPCs met
-ETC_20150317_002869	Score {Category}
-ETC_20150317_002870	Rank
-ETC_20150317_002871	Adventure
-ETC_20150317_002872	Exploration
-ETC_20150317_002873	{Auto_1} collection(s) acquired
-ETC_20150317_002874	{Auto_1} achievement(s) earned
-ETC_20150317_002875	{Auto_1} mission(s) cleared
-ETC_20150317_002876	Adventure Ranking
-ETC_20150317_002877	{Auto_1} collection(s) completed
-ETC_20150317_002878	Contents
-ETC_20150317_002879	Set items
-ETC_20150317_002880	Completion Rate:
-ETC_20150317_002881	Score:
-ETC_20150317_002882	Boss
-ETC_20150317_002883	Date
-ETC_20150317_002884	Click to go to the item page.
-ETC_20150317_002885	Recent
-ETC_20150317_002886	Help
-ETC_20150317_002887	Enter your friend's Team Name
-ETC_20150317_002888	Already in your Friends List
-ETC_20150317_002889	You have a new friend request.
-ETC_20150317_002890	Received requests
-ETC_20150317_002891	Sent requests
-ETC_20150317_002892	Declined requests
-ETC_20150317_002893	Friends who are registered to TOS
-ETC_20150317_002894	Friends who do not play TOS
-ETC_20150317_002895	Someone you may know
-ETC_20150317_002896	were together
-ETC_20150317_002897	Formed party
-ETC_20150317_002898	Traded
-ETC_20150317_002899	Block List
-ETC_20150317_002900	Played together {Count} time(s)
-ETC_20150317_002901	Formed a party together {Count} time(s)
-ETC_20150317_002902	Traded {Count} time(s)
-ETC_20150317_002903	Already in your block list.
-ETC_20150317_002904	Enter the Team Name you want to block.
-ETC_20150317_002905	The name of your group is too long.
-ETC_20150317_002906	The contents of your memo is too long.
-ETC_20150317_002907	Memo Settings
-ETC_20150317_002908	Group Settings ??
-ETC_20150317_002909	Enter Memo
-ETC_20150317_002910	Group Settings
-ETC_20150317_002911	Friend Request
-ETC_20150317_002912	Your friend request has been sent.
-ETC_20150317_002913	New Group
-ETC_20150317_002914	Block
-ETC_20150317_002915	Remove Group
-ETC_20150317_002916	Change Group Name
-ETC_20150317_002917	Are you sure you want to delete this?
-ETC_20150317_002918	Unblock
-ETC_20150317_002919	The friend request was not sent.
-ETC_20150317_002920	Initial payment
-ETC_20150317_002921	More Info
-ETC_20150317_002922	Location
-ETC_20150317_002923	Rank
-ETC_20150317_002924	{From}{nl}wants to trade with you.
-ETC_20150317_002925	The trade request has been declined.
-ETC_20150317_002926	The trade has been canceled.
-ETC_20150317_002927	The trade was successful.
-ETC_20150317_002928	Sent a trade request to {To}.
-ETC_20150317_002929	No save point specified
-ETC_20150317_002930	You have an item with less than 30% durability remaining.
-ETC_20150317_002931	You have an item with 0% durability.
-ETC_20150317_002932	This equipped item cannot be consumed.
-ETC_20150317_002933	This enhanced item cannot be consumed.
-ETC_20150317_002934	Your enhanced item will be consumed. Are you sure you want to proceed?
-ETC_20150317_002935	The field boss will appear in a while
-ETC_20150317_002936	This is a preparation function.
-ETC_20150317_002937	{@st59} Share this quest with your party members
-ETC_20150317_002938	{@st59} This quest is currently shown to party members
-ETC_20150317_002939	{Name}'s Quest
-ETC_20150317_002940	Searching...
-ETC_20150317_002941	Match found.
-ETC_20150317_002942	Waiting for entry
-ETC_20150317_002943	Moving
-ETC_20150317_002944	Game in progress
-ETC_20150317_002945	PvP Shop
-ETC_20150317_002946	Size
-ETC_20150317_002947	Defense type
-ETC_20150317_002948	Element attributes
-ETC_20150317_002949	Rating
-ETC_20150317_002950	Attack Attribute
-ETC_20150317_002951	Enable attack type
-ETC_20150317_002952	Moving Type
-ETC_20150317_002953	Small
-ETC_20150317_002954	Medium
-ETC_20150317_002955	Large
-ETC_20150317_002956	Extra Large
-ETC_20150317_002957	Ghost
-ETC_20150317_002958	No Attribute
-ETC_20150317_002959	Fire
-ETC_20150317_002960	Water
-ETC_20150317_002961	Lightning
-ETC_20150317_002962	Poison
-ETC_20150317_002963	Dark
-ETC_20150317_002964	Holy
-ETC_20150317_002965	Earth
+ETC_20150317_002862	Una colección ha sido añadida.
+ETC_20150317_002863	Sólo puede registrarse a través de PNJ.
+ETC_20150317_002864	Obtenidos {Auto_2} de {Auto_1}
+ETC_20150317_002865	Total Explorado
+ETC_20150317_002866	explorado
+ETC_20150317_002867	{Auto_1} misión(es) completadas
+ETC_20150317_002868	{Auto_1} PNJs encontrados
+ETC_20150317_002869	Puntaje {Category}
+ETC_20150317_002870	Ranking
+ETC_20150317_002871	Adventura
+ETC_20150317_002872	Exploración
+ETC_20150317_002873	{Auto_1} colección(es) adquiridas
+ETC_20150317_002874	{Auto_1} Logro(s) obtenidos
+ETC_20150317_002875	{Auto_1} misión(es) completados
+ETC_20150317_002876	Ranking de Aventuras
+ETC_20150317_002877	{Auto_1} colección(es) completadas
+ETC_20150317_002878	Contenidos
+ETC_20150317_002879	Fijar Objetos
+ETC_20150317_002880	% de Completación:
+ETC_20150317_002881	Puntaje:
+ETC_20150317_002882	Jefe
+ETC_20150317_002883	Fecha
+ETC_20150317_002884	Click para ri al número de página.
+ETC_20150317_002885	Reciente
+ETC_20150317_002886	Ayuda
+ETC_20150317_002887	Ingresa el Nombre del Equipo de tu Amigo
+ETC_20150317_002888	Ya se encuentra en tu lista de amigos
+ETC_20150317_002889	Tienes una nueva solicitud de amistad.
+ETC_20150317_002890	Solicitudes recibidas
+ETC_20150317_002891	Solicitudes enviadas
+ETC_20150317_002892	Solicitudes rechazadas
+ETC_20150317_002893	Amigos que se han registrado en TOS
+ETC_20150317_002894	AMigos que no juegan TOS
+ETC_20150317_002895	Alguien que puedes conocer
+ETC_20150317_002896	estuvieron juntos
+ETC_20150317_002897	Formaron Grupo
+ETC_20150317_002898	Intercambiaron
+ETC_20150317_002899	Lista de Bloqueados
+ETC_20150317_002900	Jugaron Juntos {Count} veces
+ETC_20150317_002901	Formaron Grupo juntos {Count} veces
+ETC_20150317_002902	Intercambiaron {Count} veces
+ETC_20150317_002903	Ya se encuentra en tu lista de bloqueados.
+ETC_20150317_002904	Ingresa el Nombre del Equipo que deseas bloquear.
+ETC_20150317_002905	El nombre de tu grupo es muy largo.
+ETC_20150317_002906	Los contenidos de tu memo son muy largos.
+ETC_20150317_002907	Ajustes de Memo 
+ETC_20150317_002908	Ajustes de Grupo ??
+ETC_20150317_002909	Ingresar Memo
+ETC_20150317_002910	Ajustes de Grupo
+ETC_20150317_002911	Solicitud de Amistad
+ETC_20150317_002912	Tu solicitud de amistad ha sido enviada.
+ETC_20150317_002913	Nuevo Grupo
+ETC_20150317_002914	Bloquear
+ETC_20150317_002915	Remover Grupo
+ETC_20150317_002916	Cambiar Nombre de Grupo
+ETC_20150317_002917	¿Seguro de borrar esto?
+ETC_20150317_002918	Desbloquear
+ETC_20150317_002919	La solicitud de amistad no fue enviada.
+ETC_20150317_002920	Pago Inicial
+ETC_20150317_002921	Más info
+ETC_20150317_002922	Ubicación
+ETC_20150317_002923	Ranking
+ETC_20150317_002924	{From}{nl}quiere intercambiar contigo.
+ETC_20150317_002925	La solicitud de intercambio ha sido rechazada.
+ETC_20150317_002926	La solicitud de intercambio ha sido cancelada.
+ETC_20150317_002927	Intercambio éxitoso.
+ETC_20150317_002928	Has enviado una solicitud de intercambio a {To}.
+ETC_20150317_002929	No hay punto de guardado especificado
+ETC_20150317_002930	Tienes un objeto con 30% o menos de durabilidad restante.
+ETC_20150317_002931	Tienes un objeto con 0% durabilidad.
+ETC_20150317_002932	Este objeto equipado no puede ser consumido.
+ETC_20150317_002933	Este objeto mejorado no puede ser consumido.
+ETC_20150317_002934	Tu item mejorado será consumido. ¿Deseas continuar?
+ETC_20150317_002935	Un monstruo jefe está próximo a aparecer
+ETC_20150317_002936	Esta función está siendo preparada.
+ETC_20150317_002937	{@st59} Compartir esta misión con tus miembros de Grupo
+ETC_20150317_002938	{@st59} Esta misión es mostrada a tus miembros de grupo
+ETC_20150317_002939	Misión de {Name}
+ETC_20150317_002940	Buscando...
+ETC_20150317_002941	Coincidencia Encontrada.
+ETC_20150317_002942	Esperando para ingresar
+ETC_20150317_002943	Moviendo
+ETC_20150317_002944	Juego en Progreso
+ETC_20150317_002945	Tienda JvJ
+ETC_20150317_002946	Tamaño
+ETC_20150317_002947	Tipo de defensa
+ETC_20150317_002948	Atributos Elementales
+ETC_20150317_002949	Puntuación
+ETC_20150317_002950	Atributos de Ataque
+ETC_20150317_002951	Activar tipo de ataque
+ETC_20150317_002952	Móvil
+ETC_20150317_002953	Pequeño
+ETC_20150317_002954	Mediano
+ETC_20150317_002955	Grande
+ETC_20150317_002956	Extra Grande
+ETC_20150317_002957	Espectral
+ETC_20150317_002958	Sin Atributo
+ETC_20150317_002959	Fuego
+ETC_20150317_002960	Agua
+ETC_20150317_002961	Electricidad
+ETC_20150317_002962	Veneno
+ETC_20150317_002963	Oscuridad
+ETC_20150317_002964	Santo
+ETC_20150317_002965	Tierra
 ETC_20150317_002966	NA
-ETC_20150317_002967	Slash
-ETC_20150317_002968	Pierce
-ETC_20150317_002969	Strike
-ETC_20150317_002970	Magic
-ETC_20150317_002971	Physical
-ETC_20150317_002972	Distant
-ETC_20150317_002973	Fixation
-ETC_20150317_002974	Ground-based
-ETC_20150317_002975	Airborne Type
-ETC_20150317_002976	Elite
-ETC_20150317_002977	Last login: {Year} year(s) ago
-ETC_20150317_002978	Last login: {Month} month(s) ago
-ETC_20150317_002979	Last login: {Day} day(s) ago
-ETC_20150317_002980	Last login: {Hour} hour(s) ago
-ETC_20150317_002981	Last login: {Min} minute(s) ago
-ETC_20150317_002982	Last login: just now
-ETC_20150317_002983	Temporary space
-ETC_20150317_002984	{Auto_1} HP was recovered
-ETC_20150317_002985	{Auto_1} SP was recovered
-ETC_20150317_002986	Join
-ETC_20150317_002987	...Followed me!?!?
-ETC_20150317_002988	Type is whoever is near me!
-ETC_20150317_002989	I wonder who would win ~
-ETC_20150317_002990	Random Game, my favorite + _ +
+ETC_20150317_002967	Corte
+ETC_20150317_002968	Penetrante
+ETC_20150317_002969	Golpe
+ETC_20150317_002970	Magia
+ETC_20150317_002971	Físico
+ETC_20150317_002972	A distancia
+ETC_20150317_002973	Fijo
+ETC_20150317_002974	de Piso
+ETC_20150317_002975	Tipo Aéreo
+ETC_20150317_002976	Élite
+ETC_20150317_002977	Último Ingreso: {Year} año(s) atrás
+ETC_20150317_002978	Último Ingreso: {Month} mes(es) atrás
+ETC_20150317_002979	Último Ingreso: {Day} día(s) atrás
+ETC_20150317_002980	Último Ingreso: {Hour} hora(s) atrás
+ETC_20150317_002981	Último Ingreso: {Min} minuto(s) atrás
+ETC_20150317_002982	Último Ingreso: just now
+ETC_20150317_002983	Espacio temporal
+ETC_20150317_002984	{Auto_1} PS fue recuperado
+ETC_20150317_002985	{Auto_1} PR fue recuperado
+ETC_20150317_002986	Unirse
+ETC_20150317_002987	...¿¡¿¡Me ha seguido!?!?
+ETC_20150317_002988	¡Cualquier tipo qeu se encuentre cerca!
+ETC_20150317_002989	Me pregunto quien ganará ~
+ETC_20150317_002990	Juego Al Ázar, mi favorito + _ +
 ETC_20150317_002991	Ahhhhhh~~
-ETC_20150317_002992	Nice! It's over
-ETC_20150317_002993	GREATER FEVER! Additional attack and EXP will be applied!
-ETC_20150317_002994	FEVER TIME!! Additional attack will be applied!
-ETC_20150317_002995	's Box
-ETC_20150317_002996	Full Room
-ETC_20150317_002997	The enhancement was successful.
-ETC_20150317_002998	It has been reset because the enhancement failed..
-ETC_20150317_002999	Reward
-ETC_20150317_003000	Received
-ETC_20150317_003001	Combining
-ETC_20150317_003002	Write
-ETC_20150317_003003	Already obtained:
+ETC_20150317_002992	¡Genial! Se acabo
+ETC_20150317_002993	¡¡GRAN FERVOR! ¡Se aplicará Ataque y EXP adicional!
+ETC_20150317_002994	¡¡FERVOR!! ¡Se aplicará ataque adicional!
+ETC_20150317_002995	Caja de
+ETC_20150317_002996	Sala LLena
+ETC_20150317_002997	Mejora Éxitosa.
+ETC_20150317_002998	Ha sido reiniciado porque ha fallado la mejora..
+ETC_20150317_002999	Recompenza
+ETC_20150317_003000	Recibido
+ETC_20150317_003001	Combinando
+ETC_20150317_003002	Escribiendo
+ETC_20150317_003003	Ya has obtenido:
 ETC_20150317_003004	You must complete the West Siauliai Woods quest in order to progress
 ETC_20150317_003005	Found an Archaeologist's Token!
 ETC_20150317_003006	Did not find anything.
@@ -3276,7 +3276,7 @@ ETC_20150317_003275	Turning off guardian device
 ETC_20150317_003276	Turned off local guardian device
 ETC_20150317_003277	This local guardian device is turned off
 ETC_20150317_003278	Start lever
-ETC_20150317_003279	Defeat the boss on the 2nd floor of the Royal Mausoleum.
+ETC_20150317_003279	Defeat the boss on the 2nd Piso of the Royal Mausoleum.
 ETC_20150317_003280	Restarting
 ETC_20150317_003281	Collecting the condensed magic source
 ETC_20150317_003282	You need to get rid of the phantom
@@ -4196,7 +4196,7 @@ ETC_20150317_004195	{@st42}{b}{#ff9900} Mystagogue:
 ETC_20150317_004196	] Learning attribute... (
 ETC_20150317_004197	Remaining minutes)
 ETC_20150317_004198	] Attribute will be learned soon! (1 minute)
-ETC_20150317_004199	 minute(s) required
+ETC_20150317_004199	 minuto(s) required
 ETC_20150317_004200	 seconds required
 ETC_20150317_004201	{@st42b} Silver
 ETC_20150317_004202	{@st42_yellow}{s16} Maximum Level
@@ -10823,7 +10823,7 @@ ETC_20150406_010824	The device is activating. It's dangerous!
 ETC_20150406_010825	Red Crystal Pillar is causing the resonance!
 ETC_20150406_010826	Blue Crystal Pillar is causing the resonance!
 ETC_20150406_010827	Yellow Crystal Pillar is causing the resonance!
-ETC_20150406_010828	You don't have any equipment to cause the resonance.{nl}Search the 1st floor.
+ETC_20150406_010828	You don't have any equipment to cause the resonance.{nl}Search the 1er Piso.
 ETC_20150406_010829	You have more of them for registering rather than consuming.
 ETC_20150406_010830	You already used the scroll in this area!
 ETC_20150406_010831	Answer the Guardian's question again
@@ -14619,7 +14619,7 @@ ETC_20150918_014620	While defeating Vubbes, set the bombs on the secret hallway
 ETC_20150918_014621	Stop the monsters that are trying to ruin the seal ceremony!
 ETC_20150918_014622	You have found Dry Thorn Forest Wood!
 ETC_20150918_014623	Defeat the ominous spirit!
-ETC_20150918_014624	Defeat the boss monster on the 2nd floor of the Royal Mausoleum!
+ETC_20150918_014624	Defeat the boss monster on the 2nd Piso of the Royal Mausoleum!
 ETC_20150918_014625	You have successfully tested the decoy!
 ETC_20150918_014626	You have failed to protect the Goddess Statue!
 ETC_20150918_014627	You have succeeded in the experiment of anesthetic
@@ -15368,8 +15368,8 @@ ETC_20151001_015369	18F
 ETC_20151001_015370	19F
 ETC_20151001_015371	20F
 ETC_20151001_015372	Lobby
-ETC_20151001_015373	Cleared the 1st floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015374	Cleared the 2nd floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015373	Cleared the 1er Piso!{nl}Break the door to move to the next floor!
+ETC_20151001_015374	Cleared the 2nd Piso!{nl}Break the door to move to the next floor!
 ETC_20151001_015375	Cleared the 3rd floor!{nl}Break the door to move to the next floor!
 ETC_20151001_015376	Cleared the 4th floor!{nl}Break the door to move to the next floor!
 ETC_20151001_015377	Cleared the 5th floor!{nl}Break the door to move to the next floor!
@@ -15388,8 +15388,8 @@ ETC_20151001_015389	Cleared the 17th floor!{nl}Break the door to move to the nex
 ETC_20151001_015390	Cleared the 18th floor!{nl}Break the door to move to the next floor!
 ETC_20151001_015391	Cleared the 19th floor!{nl}Break the door to move to the next floor!
 ETC_20151001_015392	Cleared the 20th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015393	Monsters will appear on the 1st floor after 10 seconds!
-ETC_20151001_015394	Monsters will appear on the 2nd floor after 10 seconds!
+ETC_20151001_015393	Monsters will appear on the 1er Piso after 10 seconds!
+ETC_20151001_015394	Monsters will appear on the 2nd Piso after 10 seconds!
 ETC_20151001_015395	Monsters will appear on the 3rd floor after 10 seconds!
 ETC_20151001_015396	Monsters will appear on the 4th floor after 10 seconds!
 ETC_20151001_015397	Monsters will appear on the 5th floor after 10 seconds!
@@ -19362,7 +19362,7 @@ ETC_20151224_019362	You've failed to capture the monster
 ETC_20151224_019363	Collecting Thorn Venum
 ETC_20151224_019364	There are no monsters that are capable to collect Thorn Venom
 ETC_20151224_019365	The evil energy has been purified and collected into the tree branch
-ETC_20151224_019366	Using Scroll
+ETC_20151224_019366	Usando Pergamino
 ETC_20151224_019367	Casting the curse with the Incantation Tools
 ETC_20151224_019368	All monsters around are cursed
 ETC_20151224_019369	Using the mysterious orb
@@ -19743,7 +19743,7 @@ ETC_20151224_019743	You can no longer expand your storage.
 ETC_20151224_019744	Enhanced or advanced equipment is included. Do you want to proceed?
 ETC_20151224_019745	A play time limit of {TimeStr} has been set as part of the shutdown law.
 ETC_20151224_019746	Excessive gaming can negatively affect your health.
-ETC_20151224_019747	You have been playing for {Time} hour(s).
+ETC_20151224_019747	You have been playing for {Time} hora(s).
 ETC_20151224_019748	Are you sure you want to cancel learning this attribute?{nl}The spent silver will not be refunded.
 ETC_20151224_019749	You have canceled learning the attribute.
 ETC_20151224_019750	You cannot equip this item.
@@ -19778,7 +19778,7 @@ ETC_20151224_019778	Obtained a usable flint detector.
 ETC_20151224_019779	The petite demon is doubtful of you.
 ETC_20151224_019780	Is Gesti really looking for me?
 ETC_20151224_019781	The friends have gone missing.
-ETC_20151224_019782	{Time} day(s) : {FREE}% of the selling price
+ETC_20151224_019782	{Time} día(s) : {FREE}% of the selling price
 ETC_20151224_019783	About the goddesses
 ETC_20151224_019784	Ask about Orsha
 ETC_20151224_019785	The Great Pirate and Hirevan Volume One
@@ -19865,7 +19865,7 @@ ETC_20151224_019865	Mercenary Employment
 ETC_20151224_019866	TP Shop Purchase
 ETC_20151224_019867	Stat Reset
 ETC_20151224_019868	Request
-ETC_20151224_019869	Instant Warp
+ETC_20151224_019869	Teletransporte Instantáneo
 ETC_20151224_019870	Character Name Change
 ETC_20151224_019871	Random Box
 ETC_20151224_019872	Stat Reset
@@ -19884,34 +19884,34 @@ ETC_20151224_019884	Hairstyle17
 ETC_20151224_019885	Hairstyle18
 ETC_20151224_019886	Underground Catacombs Dungeon Entrance
 ETC_20151224_019887	[TP Trader]{nl}   Leticia
-ETC_20151224_019888	[Templar Master]{nl}Knight Commander Uska
-ETC_20151224_019889	[Cryomancer Master]{nl}  Aleister Crowley
-ETC_20151224_019890	[Blacksmith]{nl}   Ilanai
-ETC_20151224_019891	[Equipment Merchant]{nl}      Jura
-ETC_20151224_019892	  [Lord of Orsha]{nl}    Inesa Hamondale
-ETC_20151224_019893	[Orsha Bishop]{nl}        Urbonas
-ETC_20151224_019894	[Item Merchant]{nl}        Alf
-ETC_20151224_019895	[Accessory Merchant]{nl}        Jurus
-ETC_20151224_019896	[Hoplite Master]{nl}        Aidas Valor
-ETC_20151224_019897	[Paladin Submaster]{nl}        Silvia Naimon
-ETC_20151224_019898	[Wizard Submaster]{nl}          Dejamis
-ETC_20151224_019899	[Pyromancer Submaster]{nl}        Cathy Naimos
-ETC_20151224_019900	[Cryomancer Submaster]{nl}       Octavia Ifflyn
-ETC_20151224_019901	[Psychokino Master]{nl}       Ili Terid
+ETC_20151224_019888	[Maestro Templario]{nl}Uska Comandante de los Caballeros
+ETC_20151224_019889	[Maestro Criomante]{nl}  Aleister Crowley
+ETC_20151224_019890	[Herrería]{nl}   Ilanai
+ETC_20151224_019891	[Vendedor de Equipo]{nl}      Jura
+ETC_20151224_019892	  [Señor de Orsha]{nl}    Inesa Hamondale
+ETC_20151224_019893	[Sacerdote de Orsha]{nl}        Urbonas
+ETC_20151224_019894	[Vendedor de Objetos]{nl}        Alf
+ETC_20151224_019895	[Vendedor de Accesorios]{nl}        Jurus
+ETC_20151224_019896	[Maestro Hoplita]{nl}        Aidas Valor
+ETC_20151224_019897	[Sub-maestro Paladín]{nl}        Silvia Naimon
+ETC_20151224_019898	[Sub-maestro Mago]{nl}          Dejamis
+ETC_20151224_019899	[Sub-maestro Piromante]{nl}        Cathy Naimos
+ETC_20151224_019900	[Sub-maestro Criomante]{nl}       Octavia Ifflyn
+ETC_20151224_019901	[Maestro Psicoquino]{nl}       Ili Terid
 ETC_20151224_019902	[Linker Master]{nl}    Winona Ende
-ETC_20151224_019903	[Thaumaturge Submaster]{nl}          Diemer Fallon
-ETC_20151224_019904	[Elementalist Master]{nl}         Wican Celestic
-ETC_20151224_019905	[Archer Submaster]{nl}         Gunnison
-ETC_20151224_019906	[Ranger Submaster]{nl}            Sheba
-ETC_20151224_019907	[Quarrel Shooter Submaster]{nl}            Shorris
-ETC_20151224_019908	[Sapper Submaster]{nl}     Zubin Katal
-ETC_20151224_019909	[Hunter Submaster]{nl}       Belkin Vellon
-ETC_20151224_019910	[Wugushi Master]{nl}          Wor Pat
-ETC_20151224_019911	[Scout Submaster]{nl}          Suina
-ETC_20151224_019912	[Companion Trader]{nl}            Taurus
-ETC_20151224_019913	[Market Manager]{nl}     Tilliana
-ETC_20151224_019914	[Storage Keeper]{nl}      Aisa
-ETC_20151224_019915	[Orsha's Magic Association]{nl}           Florianna
+ETC_20151224_019903	[Sub-maestro Taumaturgo]{nl}          Diemer Fallon
+ETC_20151224_019904	[Maestro Elementalista]{nl}         Wican Celestic
+ETC_20151224_019905	[Sub-maestro Arquero]{nl}         Gunnison
+ETC_20151224_019906	[Sub-maestro Guardabosques]{nl}            Sheba
+ETC_20151224_019907	[Sub-maestro Ballestero]{nl}            Shorris
+ETC_20151224_019908	[Sub-maestro Zapador]{nl}     Zubin Katal
+ETC_20151224_019909	[Sub-maestro Cazador]{nl}       Belkin Vellon
+ETC_20151224_019910	[Maestro Wugushi]{nl}          Wor Pat
+ETC_20151224_019911	[Sub-maestro Explorador]{nl}          Suina
+ETC_20151224_019912	[Vendedor de Compañeros]{nl}            Taurus
+ETC_20151224_019913	[Manager del Mercado]{nl}     Tilliana
+ETC_20151224_019914	[Guarda de Almacen]{nl}      Aisa
+ETC_20151224_019915	[Asociación Mágica de Orsha]{nl}           Florianna
 ETC_20151224_019916	[Wings of Vibora]{nl}            Rosia
 ETC_20151224_019917	Novaha Relic
 ETC_20151224_019918	Mind Control Crystal
@@ -20627,7 +20627,7 @@ ETC_20160224_020627	Are you really sure you want to withdraw from this war?
 ETC_20160224_020628	Once a declaration of war has been made, it cannot be withdrawn until {Minute} minutes have passed.
 ETC_20160224_020629	The {Name1} guild has withdrawn their declaration of war against the {Name2} guild.
 ETC_20160224_020630	Only the side that declared the war can withdraw it.
-ETC_20160224_020631	{Time} hour(s) remain in the war with the {Name} guild.
+ETC_20160224_020631	{Time} hora(s) remain in the war with the {Name} guild.
 ETC_20160224_020632	Your Guild Tower is under attack by the {Name} guild.
 ETC_20160224_020633	The war between the {Name1} guild and the {Name2} guild has ended.
 ETC_20160224_020634	The {Name1} guild has destroyed {Name2}'s Guild Tower.
@@ -21737,4 +21737,5 @@ ETC_20160415_021736	Los mensajes de chat no pueden exceder los {Max} bites. El u
 ETC_20150317_001460	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons está restringido pues puede consumir una gran cantidad de bites.
 ETC_20160415_021737	Esta función estará disponible en {Time}.
 ETC_20160415_021738	Este usuario no puede realizar intercambios en este momento.
+
 
