@@ -1500,214 +1500,214 @@ ETC_20150317_001499	You cannot close any more slots of the alliance.
 ETC_20150317_001500	No hay suficientes jugadores cómo para comenzar la misión.
 ETC_20150317_001501	Punto de teletransporte guardado con éxito.
 ETC_20150317_001502	Este punto de teletransporte ya ha sido guardado.
-ETC_20150317_001503	The server end is not completed {nl}or you have logged in from another computer. {nl}End the connection.
-ETC_20150317_001504	When you delete the character,{nl} all equipped items will also be deleted.{nl} Are you sure you want to delete?
+ETC_20150317_001503	No completado desde el servidor {nl}o te encuentras dentro del juego desde otra computadora. {nl}Conexión finalizada.
+ETC_20150317_001504	Cuando borres un personaje,{nl} todos los objetos equipados serán borrados.{nl} ¿Estas seguro de querer borrar el personaje?
 ETC_20150317_001505	Nueva clase añadida.
 ETC_20150317_001506	{Auto_1} {Auto_2} objeto(s) obtenidos.
-ETC_20150317_001507	Disconnected from the mission server.
+ETC_20150317_001507	Has sido desconectado del servidor de misión.
 ETC_20150317_001508	Cannot create mission room. {nl}Please try it again later.
 ETC_20150317_001509	Tu personaje no se encuentra en el juego
 ETC_20150317_001510	Esta ubicación no puede ser designada cómo punto de teletransporte.
-ETC_20150317_001511	You have exceeded the number of players for the team.
+ETC_20150317_001511	Has excedido el número de jugadores para el equipo.
 ETC_20150317_001512	Currently I chose Zone waypoint
 ETC_20150317_001513	You cannot create a room as the level does not match the level requirement of the game.
 ETC_20150317_001514	{s18}{ol}{#ffffcc} Has alcanzado el límite de personajes. {nl} Para crear un nuevo personajes, debes borrar uno existente.
-ETC_20150317_001515	You do not have enough character points.{nl}You can earn character points through quests or missions.
+ETC_20150317_001515	No tienes suficientes puntos de personaje.{nl}Puedes obtener puntos de personaje a través de misiones.
 ETC_20150317_001516	Leader is unable to learn this stance. {nl}Please check available job to obtain the stance in Stance promotion description.
 ETC_20150317_001517	This stance has already been obtained.
 ETC_20150317_001518	You cannot use this stance yet.
-ETC_20150317_001519	You have tried to connect to a server which is not registered.{nl}Please contact the publisher.
-ETC_20150317_001520	Please enter your account ID
-ETC_20150317_001521	{S18}{ol}{#ffffcc} Please enter your account password
-ETC_20150317_001522	You cannot move to another channel now.
-ETC_20150317_001523	You cannot build a structure near another structure.
-ETC_20150317_001524	You cannot add a new friend because your Friends List is full.
-ETC_20150317_001525	You cannot send a friend request, because the character is waiting for the friend request of another character. {nl} Try again later.
-ETC_20150317_001526	You cannot send a friend request, because the other character is currently already waiting for a friend request.
-ETC_20150317_001527	You cannot send a friend request, because the other player's Friends List is already full.
-ETC_20150317_001528	The other player has declined your friend request.
-ETC_20150317_001529	This character is already in your Friends List. {nl}The request was canceled.
-ETC_20150317_001530	You have sent the message of a friend request to the character. {nl}Wait for 30 seconds to accept the request.
-ETC_20150317_001531	The friend request timed out. The request was canceled.
-ETC_20150317_001532	Cannot enter as the number of players exceeded.
-ETC_20150317_001533	Attempt to reconnect %02d times...
-ETC_20150317_001534	Your account has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to Customer Service for details.
-ETC_20150317_001535	Your character has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to Customer Service for details.
-ETC_20150317_001536	You don't have enough of the {ItemName}.
+ETC_20150317_001519	Has intentado conectarte a un servidor no disponible aún.{nl}Por favor contacta al publicador.
+ETC_20150317_001520	Por favor ingresa la ID de tu cuenta
+ETC_20150317_001521	{S18}{ol}{#ffffcc} Por favor ingresa tu contraseña
+ETC_20150317_001522	No puedes cambiar de canal aún.
+ETC_20150317_001523	No puedes construir una estructura cerca de otra estructura.
+ETC_20150317_001524	No puedes añadir un nuevo amigo porque u lista de amigos está llena.
+ETC_20150317_001525	No puedes enviar una solicitud de amistad, because the character is waiting for the friend request of another character. {nl} Try again later.
+ETC_20150317_001526	No puedes enviar una solicitud de amistad, because the other character is currently already waiting for a friend request.
+ETC_20150317_001527	No puedes enviar una solicitud de amistad, because the other player's Friends List is already full.
+ETC_20150317_001528	El otro jugador ha rechazado tu solicitud de amistad.
+ETC_20150317_001529	Este personaje ya se encuentra en tu lista de amigos. {nl}Solicitud cancelada.
+ETC_20150317_001530	Ya has enviado un mensaje de solicitud de amistad a otro personaje. {nl}Espera al menos 30 segundos para aceptar la solicitud.
+ETC_20150317_001531	El tiempo de espera de la solicitud ha expirado. Solicitud cancelada.
+ETC_20150317_001532	No puedes ingresar porque se ha alcanzado el máximo de jugadores.
+ETC_20150317_001533	Intento de reconexión número %02d ...
+ETC_20150317_001534	Tu cuenta ha sido bloqueada de entrar al juego por razones específicas.{nl} Envía un ticket a servicio al cliente para más detalles.
+ETC_20150317_001535	Tu personaje ha sido bloqueado de entrar al juego por razones específicas.{nl} Envía un ticket a servicio al cliente para más detalles.
+ETC_20150317_001536	No tienes suficientes {ItemName}.
 ETC_20150317_001537	This place, please move to the herbivorous you will not be able to use {nl} another location
-ETC_20150317_001538	{Auto_2} recovery will be completed after {Auto_1} seconds
-ETC_20150317_001539	You cannot receive basic items because your inventory is full.
-ETC_20150317_001540	Your account ID cannot contain spaces.
-ETC_20150317_001541	You are not equipped with the{nl}required weapon to use this skill.
+ETC_20150317_001538	{Auto_2} recuperación será completada en {Auto_1} segundos
+ETC_20150317_001539	No puedes recibir los objetos básicos porque tu inventario está lleno.
+ETC_20150317_001540	Tu ID de juego no puede contener espacios.
+ETC_20150317_001541	No llevas equipada el{nl}arma requerida para usar esta habilidad.
 ETC_20150317_001542	Out of the range distance of herbivorous subject
-ETC_20150317_001543	You may not use this yet
-ETC_20150317_001544	You cannot create anymore
-ETC_20150317_001545	Enchantment error (error code: {Auto_1})
-ETC_20150317_001546	Duel status activated. {nl}The squad will be withdrawn automatically.
-ETC_20150317_001547	The duel status has been canceled.
-ETC_20150317_001548	Cannot request for a duel.
-ETC_20150317_001549	Your request for a duel has been declined.
-ETC_20150317_001550	A new patch is available. {nl} Please restart the game client to download the new patch. CODE ({Auto_1})
-ETC_20150317_001551	Cannot be equipped by your class.
-ETC_20150317_001552	Cannot be used while moving
-ETC_20150317_001553	Outside of the field of view
-ETC_20150317_001554	You don't have sufficient HP
-ETC_20150317_001555	{Auto_1} Buff needed
-ETC_20150317_001556	Can only be used outside of combat. 
-ETC_20150317_001557	Cannot be used in current status
-ETC_20150317_001558	{S20}{ol}{#ffffcc}{gr gradation1} You need to get a little closer {/}
-ETC_20150317_001559	Your password exceeds the maximum length allowed
-ETC_20150317_001560	Please enter a name
-ETC_20150317_001561	{s18}{ol}{#ffffcc}Entering the world...
-ETC_20150317_001562	{Auto_1} {Auto_2} item(s) given to the other party
-ETC_20150317_001563	Used {Auto_1} {Auto_2} item(s)
-ETC_20150317_001564	Equipped with {Auto_1}
-ETC_20150317_001565	Destroyed {Auto_1} {Auto_2} items(s)
-ETC_20150317_001566	Gained {Auto_1} EXP
+ETC_20150317_001543	No puedes usar esto aún
+ETC_20150317_001544	No puedes crear más
+ETC_20150317_001545	Error al encantar (código de error: {Auto_1})
+ETC_20150317_001546	Duelo Activado. {nl}El escuadrón se replegará automaticamente.
+ETC_20150317_001547	Duelo cancelado.
+ETC_20150317_001548	No puedes enviar la solicitud de duelo.
+ETC_20150317_001549	Tu solicitud de duelo ha sido rechazada.
+ETC_20150317_001550	Nuevo parche disponible. {nl} Por favor reinicia el juego para obtener el nuevo parche. CÓDIGO ({Auto_1})
+ETC_20150317_001551	Imposible de equipar en tu clase.
+ETC_20150317_001552	Imposible de usar en movimiento
+ETC_20150317_001553	Fuera del rango de visión
+ETC_20150317_001554	No tienes suficientes PS
+ETC_20150317_001555	{Auto_1} es necesario 
+ETC_20150317_001556	Sólo puede ser usado fuera del combate. 
+ETC_20150317_001557	IMposible de usar en tu estado actual
+ETC_20150317_001558	{S20}{ol}{#ffffcc}{gr gradation1} necesitas acercarte más {/}
+ETC_20150317_001559	Tu contraseña excede el tamaño máximo
+ETC_20150317_001560	Por favor ingresa un nombre
+ETC_20150317_001561	{s18}{ol}{#ffffcc}Ingresando al Mundo...
+ETC_20150317_001562	{Auto_1} {Auto_2} objeto(s) entregados al otro grupo
+ETC_20150317_001563	Has usado {Auto_1} {Auto_2} objeto(s)
+ETC_20150317_001564	En conjunto con {Auto_1}
+ETC_20150317_001565	Destruidos {Auto_1} {Auto_2} objeto(s)
+ETC_20150317_001566	Has obtenido {Auto_1} EXP
 ETC_20150317_001567	Herbivorous has been canceled due to movement.
-ETC_20150317_001568	Your strength is insufficient
-ETC_20150317_001569	Starting map not available.
-ETC_20150317_001570	Request Failed
-ETC_20150317_001571	This character is currently a party leader and cannot be deleted.
+ETC_20150317_001568	Fuerza insuficiente
+ETC_20150317_001569	Mapa de inicio no disponible.
+ETC_20150317_001570	Solicitud Fallida
+ETC_20150317_001571	Este personaje es líder de un grupo y no puede ser borrado.
 ETC_20150317_001572	Crear Personaje
-ETC_20150317_001573	You need to learn the required attributes to use this weapon.
-ETC_20150317_001574	Item Bought
-ETC_20150317_001575	Failed to purchase item! It has already been sold out.
-ETC_20150317_001576	Failed to purchase item! Quantity is insufficient. Available quantity is {Auto_1}
-ETC_20150317_001577	Failed to purchase item! You have insufficient funds.
-ETC_20150317_001578	Failed to purchase item! Seller has canceled or has removed it from the list.
-ETC_20150317_001579	Failed to purchase item! An unknown error has occurred.
-ETC_20150317_001580	Too close
-ETC_20150317_001581	{s20}{ol}{#46ffc8} You do not have enough Stamina
-ETC_20150317_001582	Object needed for the skill is not available.
-ETC_20150317_001583	You cannot equip secondary equipment while wearing a two-handed weapon.
-ETC_20150317_001584	You cannot use 'Return' during Rest Mode.
-ETC_20150317_001585	Another character has taken the request.
-ETC_20150317_001586	The previous game did not end.
-ETC_20150317_001587	{#FFFF00}Please click on the target item.{/}
-ETC_20150317_001588	{Auto_3} - {Auto_4} Damage from {Auto_1} to {Auto_2}
-ETC_20150317_001589	{Auto_2} - {Auto_3} Damage {Auto_1}
-ETC_20150317_001590	The item required for resurrection is not available.
-ETC_20150317_001591	{#FFFF00} Select Target {/}
-ETC_20150317_001592	Invalid Target {/}
-ETC_20150317_001593	{S20}{ol}{#ffffcc}{gr gradation1}The target is out of range{/}
+ETC_20150317_001573	Necesitas aprender el atributo requerido para equiparte esta arma.
+ETC_20150317_001574	Objeto Comprado
+ETC_20150317_001575	¡Has fallado en comprar el objeto! Ya se ha vendido.
+ETC_20150317_001576	¡Has fallado en comprar el objeto! No hay suficientes unidades de este objeto. La cantidad disponible es {Auto_1}
+ETC_20150317_001577	¡Has fallado en comprar el objeto! Fondos insuficientes.
+ETC_20150317_001578	¡Has fallado en comprar el objeto! El vendedor ha cancelado o removido este objeto de la lista.
+ETC_20150317_001579	¡Has fallado en comprar el objeto! Un error desconocido ha ocurrido.
+ETC_20150317_001580	Estuvo cerca
+ETC_20150317_001581	{s20}{ol}{#46ffc8} No tienes suficientes PR
+ETC_20150317_001582	No tienes el objeto requerido para realizar la habilidad.
+ETC_20150317_001583	No peudes equiparte un arma secundaria mientras usas armas de 2 manos.
+ETC_20150317_001584	No puedes usar 'Regreso' mientras estás en Modo Descanso.
+ETC_20150317_001585	Otro personaje ha tomado la solicitud.
+ETC_20150317_001586	El juego pasado no finalizó.
+ETC_20150317_001587	{#FFFF00}Por favor dale click al objeto.{/}
+ETC_20150317_001588	{Auto_3} - {Auto_4} Daño de {Auto_1} a {Auto_2}
+ETC_20150317_001589	{Auto_2} - {Auto_3} Daño {Auto_1}
+ETC_20150317_001590	No tienes el objeto requerido para resucitar.
+ETC_20150317_001591	{#FFFF00} Selecciona Objetivo {/}
+ETC_20150317_001592	Objetivo Inválido {/}
+ETC_20150317_001593	{S20}{ol}{#ffffcc}{gr gradation1}Objetivo fuera de rango{/}
 ETC_20150317_001594	Evil spirit will regenerate after 5 seconds
-ETC_20150317_001595	You cannot ride your own carriage
-ETC_20150317_001596	Evaded boss attack. Bonus points + {Auto_1}
-ETC_20150317_001597	Please select the area
-ETC_20150317_001598	Please select the angle of rotation and click
-ETC_20150317_001599	Please select a pen and draw a picture.
+ETC_20150317_001595	No puedes subirte a tu propio carro
+ETC_20150317_001596	Esquivado ataque de monstruo jefe. Puntos adicionales + {Auto_1}
+ETC_20150317_001597	Por favor selecciona el area
+ETC_20150317_001598	Por favor selecciona el ángulo de rotación y da click
+ETC_20150317_001599	Por favor selecciona un lápiz y dibuja.
 ETC_20150317_001600	The remaining amount of spray is missing
-ETC_20150317_001601	Already Selected
+ETC_20150317_001601	Ya lo has seleccionado
 ETC_20150317_001602	¿Estas seguro de querer borrar a tu compañero {Name}?
-ETC_20150317_001603	Equipped {Auto_1} item has been destroyed
-ETC_20150317_001604	Equipped{Auto_1} item has been changed to {Auto_2}
-ETC_20150317_001605	You cannot use this while jumping
-ETC_20150317_001606	You have insufficient funds.
-ETC_20150317_001607	You cannot install or summon in invalid coordinates
-ETC_20150317_001608	Changed
-ETC_20150317_001609	It is too close to the existing Ice Barrier
-ETC_20150317_001610	You have already learned this attribute.
-ETC_20150317_001611	{S18}{ol}{#ffffcc} Do you want to learn this attribute?
-ETC_20150317_001612	Enter a number
-ETC_20150317_001613	This item is untradable
-ETC_20150317_001614	You cannot rest during combat
-ETC_20150317_001615	The other player is not logged in
-ETC_20150317_001616	The number of purchasable items is limited
-ETC_20150317_001617	24 hours has not elapsed yet since changing your name
-ETC_20150317_001618	Can not be greater than {Auto_1} bytes
-ETC_20150317_001619	Character Name
-ETC_20150317_001620	You do not have enough materials.
-ETC_20150317_001621	{S18}{ol}{#ffffcc}Connecting to the server...
-ETC_20150317_001622	This item cannot be discarded.
-ETC_20150317_001623	{@st46} Congratulations! Your character level has increased.
+ETC_20150317_001603	Tu objeto {Auto_1} equipado ha sido destruido
+ETC_20150317_001604	Objeto equipado {Auto_1} ha sido cambiado a {Auto_2}
+ETC_20150317_001605	No puedes usar esto mientras salta
+ETC_20150317_001606	Fondos insuficientes.
+ETC_20150317_001607	No puedes instalar o invocar en coordenadas invalidas
+ETC_20150317_001608	Cambiado
+ETC_20150317_001609	Muy cerca de una Barrera de Hielo existente
+ETC_20150317_001610	Ya has aprendido este atributo.
+ETC_20150317_001611	{S18}{ol}{#ffffcc} ¿Quieres aprender este atributo?
+ETC_20150317_001612	Ingresa un número
+ETC_20150317_001613	Este objeto no puede ser intercambiado
+ETC_20150317_001614	No puedes descanzar mientras peleas
+ETC_20150317_001615	El otro jugador no se encuentra dentro del juego
+ETC_20150317_001616	El número de objetos comprables es limitado
+ETC_20150317_001617	Aún no han pasado 24 horas desde tu cambio de nombre
+ETC_20150317_001618	No puede exceder {Auto_1} bytes
+ETC_20150317_001619	Nombre de PJ
+ETC_20150317_001620	Materiales Insuficientes.
+ETC_20150317_001621	{S18}{ol}{#ffffcc}Conectando al servidor...
+ETC_20150317_001622	Este objeto no puede ser descartado.
+ETC_20150317_001623	{@st46} ¡Felicidades! Has subido de nivel.
 ETC_20150317_001624	{Auto_1} Series
-ETC_20150317_001625	Right hand {Auto_1}, left hand {Auto_2} type
-ETC_20150317_001626	Or
-ETC_20150317_001627	Possible combination:
-ETC_20150317_001628	Return
+ETC_20150317_001625	Mano Der {Auto_1}, Mano Izq {Auto_2} tipo
+ETC_20150317_001626	O
+ETC_20150317_001627	Combinación Posible:
+ETC_20150317_001628	Regresar
 ETC_20150317_001629	{@st59}Lock Slots{/}
 ETC_20150317_001630	{@st59}Open Slots{/}
-ETC_20150317_001631	{@st59}Return (Backspace){/}
-ETC_20150317_001632	Are you sure you want to delete? {/}
-ETC_20150317_001633	Cannot be used while the character is dead.
-ETC_20150317_001634	{@st59}Move{/}
-ETC_20150317_001635	Do you want to continue the upgrade?
-ETC_20150317_001636	A boss monster has appeared
-ETC_20150317_001637	A boss monster has appeared in this field.
-ETC_20150317_001638	This item cannot be upgraded.
-ETC_20150317_001639	{Auto_1} Place
-ETC_20150317_001640	Unavailable in the current map.
-ETC_20150317_001641	[{The}] feature is enabled.
-ETC_20150317_001642	[{Ability}] triggered!
-ETC_20150317_001643	Remaining Time: {Auto_1}
+ETC_20150317_001631	{@st59}Regreso (Backspace){/}
+ETC_20150317_001632	¿Seguro que quieres eliminar? {/}
+ETC_20150317_001633	Imposible de usar mientras el personaje esta muerto.
+ETC_20150317_001634	{@st59}Mover a{/}
+ETC_20150317_001635	¿Quieres continuar la mejora?
+ETC_20150317_001636	Un Monstruo Jefe ha aparecido
+ETC_20150317_001637	Un Monstruo Jefe ha aparecido en esta área.
+ETC_20150317_001638	Este objeto no puede ser mejorado.
+ETC_20150317_001639	{Auto_1} Ubicación
+ETC_20150317_001640	No disponible en el mapa actual.
+ETC_20150317_001641	[{The}] característica activada.
+ETC_20150317_001642	[{Ability}] Activada!
+ETC_20150317_001643	Tiempo restante: {Auto_1}
 ETC_20150317_001644	Consejo : 
-ETC_20150317_001645	You cannot equip this equipment in this slot.
-ETC_20150317_001646	Do you really wish to quit?
-ETC_20150317_001647	{S20}{ol}{#ff1100} This attribute cannot be bought.
-ETC_20150317_001648	You cannot equip items with 0 durability.
-ETC_20150317_001649	Delete
-ETC_20150317_001650	The server has disconnected. Please try again later.
-ETC_20150317_001651	{Year}/{Month}/{Day} - {Hour} hours {Min} minutes {Sec} seconds
-ETC_20150317_001652	Read more
-ETC_20150317_001653	You cannot change your equipment before picking up a thrown item.
+ETC_20150317_001645	No puedes equipar ese objeto en esa ubicación.
+ETC_20150317_001646	¿Realmente deseas salir?
+ETC_20150317_001647	{S20}{ol}{#ff1100} Este atributo no puede ser comprado.
+ETC_20150317_001648	No puedes equiparte objetos con 0 durabilidad.
+ETC_20150317_001649	Borrar
+ETC_20150317_001650	Desconectado del servidor. Porfavor intenta más tarde.
+ETC_20150317_001651	{Year}/{Month}/{Day} - {Hour} horas {Min} minutos {Sec} segundos
+ETC_20150317_001652	Leer más
+ETC_20150317_001653	No puedes cambiar tu equipo sin antes recojer el item lanzado.
 ETC_20150317_001654	{Month} {Day}
 ETC_20150317_001655	{Day}d
 ETC_20150317_001656	{Hour}h
 ETC_20150317_001657	{Min}m
 ETC_20150317_001658	{Sec}s
-ETC_20150317_001659	Please enter a title.
-ETC_20150317_001660	Learning
-ETC_20150317_001661	You must spend all your skill points before you can advance.
-ETC_20150317_001662	Male
-ETC_20150317_001663	Female
+ETC_20150317_001659	Por favor ingresa un título.
+ETC_20150317_001660	Aprendiendo
+ETC_20150317_001661	Debes gastar todos tus puntos de habilidades antes de Ascender.
+ETC_20150317_001662	Masculino
+ETC_20150317_001663	Femenino
 ETC_20150317_001664	{Month}
 ETC_20150317_001665	{Year}
-ETC_20150317_001666	This channel is full.
-ETC_20150317_001667	This skill cannot be used whilst riding your companion.
-ETC_20150317_001668	A skill that can be used only while riding your companion.
-ETC_20150317_001669	Must be at least {LEN} characters.
-ETC_20150317_001670	Must be less than {LEN} characters.
-ETC_20150317_001671	Contains one or more character which are not allowed to be used.
-ETC_20150317_001672	You cannot ride during Rest Mode.
-ETC_20150317_001673	You cannot ride on a fainted companion.
-ETC_20150317_001674	The customer is not a CBT user.
-ETC_20150317_001675	You have been been banned by the administrator.
-ETC_20150317_001676	{Name} ({Mapname} / Ch {ChNo})
-ETC_20150317_001677	This skill cannot be crafted.
-ETC_20150317_001678	{gr gradation2}{s19}{ol}{b}{#bc952b}Right-click: sale / purchase button{/}{/}{nl}If you want to sell multiples item, please press and hold the right click.{nl}You can wholesale when you double click.{nl} {nl}{b}{#bc952b}Left click: Cancel / return button{/}{/}{nl}While if you want an item that was a multiple cancel down the left click 
-ETC_20150317_001679	You do not have enough Potential to enhance this item
-ETC_20150317_001680	This item cannot be enhanced
-ETC_20150317_001681	Can no longer be enhanced
-ETC_20150317_001682	Only items with a Potential of over 0 can be enhanced.
-ETC_20150317_001683	If the Potential falls below 0, the item will be destroyed.
-ETC_20150317_001684	{s18}{ol}If the enhancement of armor, bracelets or necklaces above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to enhance?
-ETC_20150317_001685	New Enhancement
-ETC_20150317_001686	The item was successfully enhanced
-ETC_20150317_001687	The item failed to enhance
+ETC_20150317_001666	Este canal está lleno.
+ETC_20150317_001667	Esta habilidad no puede ser usada mientras montas tu Compañero.
+ETC_20150317_001668	Habilidad que sólo puede ser usada mientras montas tu Compañero.
+ETC_20150317_001669	Debe tener al menos {LEN} carácteres.
+ETC_20150317_001670	Debe tener menos de {LEN} carácteres.
+ETC_20150317_001671	Contiene uno o más carácteres que no pueden ser empleados.
+ETC_20150317_001672	No puedes montar mientras estás en Modo Descanso.
+ETC_20150317_001673	No puedes montar un Compañero derrotado.
+ETC_20150317_001674	El comprador no es un usuario de CBT.
+ETC_20150317_001675	Has sido vetado por el administrado.
+ETC_20150317_001676	{Name} ({Mapname} / Canal {ChNo})
+ETC_20150317_001677	Está skill no puede ser creada.
+ETC_20150317_001678	{gr gradation2}{s19}{ol}{b}{#bc952b}Click derecho: botón de venta / compra{/}{/}{nl}Si quieres vender varios objetos a la vez, presiona y mantiene el click derecho.{nl}Puedes vender todo con doble click.{nl} {nl}{b}{#bc952b}Click Izquierdo: botón de Cancelar / regresar{/}{/}{nl}Puedes cancelar múltiples objetos con click izquierdo
+ETC_20150317_001679	Potencial insuficiente para mejorar
+ETC_20150317_001680	Este objeto no puede ser mejorado
+ETC_20150317_001681	Ya no puede mejorarse más
+ETC_20150317_001682	Sólo objetos con un Potencial superior a 0 pueden ser mejorados.
+ETC_20150317_001683	Si el Potencial se vuelve inferior a 0, el objeto será destruido.
+ETC_20150317_001684	{s18}{ol}Si la mejora de una armadura, brazalates o collares sobre nivel {#ffffcc}+{Auto_1} falla, su Potencial será consumido. Si el Potencial se vuelve inferior a 0, el objeto será destruido. ¿Deseas Mejorar el objeto?
+ETC_20150317_001685	Nueva mejora
+ETC_20150317_001686	El objeto ha sido mejorado con éxito
+ETC_20150317_001687	La mejora del objeto ha fallado
 ETC_20150317_001688	Add to the above slot to enhance item
-ETC_20150317_001689	Enhance
-ETC_20150317_001690	Cancel Enhancement
-ETC_20150317_001691	Deposit
-ETC_20150317_001692	Re-enhance
-ETC_20150317_001693	Click an item to enhance
-ETC_20150317_001694	Success!!!
-ETC_20150317_001695	Failed!!!
+ETC_20150317_001689	Mejorar
+ETC_20150317_001690	Cancelar Mejora
+ETC_20150317_001691	Depositar
+ETC_20150317_001692	Re-mejorar
+ETC_20150317_001693	Click en un objeto para Mejorar
+ETC_20150317_001694	¡¡¡Éxito!!!
+ETC_20150317_001695	¡¡¡Fallo!!!
 ETC_20150317_001696	There is no empty socket that matches this type.
-ETC_20150317_001697	Place the item you want to enhance.
-ETC_20150317_001698	Card Enhancement
-ETC_20150317_001699	Gem Enhancement
-ETC_20150317_001700	You can no longer equip it. 
-ETC_20150317_001701	Your equipment has been damaged as a penalty for dying.
-ETC_20150317_001702	Enhance
-ETC_20150317_001703	{s18}{ol}If the enhancement of weapons above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to enhance?
+ETC_20150317_001697	Deposita el objeto que quieras mejorar.
+ETC_20150317_001698	Mejora de Carta
+ETC_20150317_001699	Mejora de Gema
+ETC_20150317_001700	Ya no puedes equiparlo. 
+ETC_20150317_001701	Tu equipo ha sido dañado cómo penalización por morir.
+ETC_20150317_001702	Mejora
+ETC_20150317_001703	{s18}{ol}Si la mejora de armas sobre nivel {#ffffcc}+{Auto_1} falla, su Potencial será consumido. Si el Potencial se vuelve inferior a 0, el objeto será destruido. ¿Deseas Mejorar el objeto?
 ETC_20150317_001704	Use the {Auto_1} item to start crafting. Do you want to continue?
-ETC_20150317_001705	{@st42) When crafting
-ETC_20150317_001706	Your movement has canceled the crafting of the item.
-ETC_20150317_001707	Crafting Completed!
-ETC_20150317_001708	The name of the crafted item can be up to {Auto_1} characters.
-ETC_20150317_001709	The memo of the crafted item can be up to {Auto_1} characters.
-ETC_20150317_001710	Tree
+ETC_20150317_001705	{@st42) Mientras creas
+ETC_20150317_001706	Moverte ha cancelado la creación del objeto.
+ETC_20150317_001707	¡Creación Completada!
+ETC_20150317_001708	El nombre del objeto creado puede tener hasta {Auto_1} carácteres.
+ETC_20150317_001709	El memo del objeto creado puede tener hasta {Auto_1} carácteres.
+ETC_20150317_001710	Árbol
 ETC_20150317_001711	Misión
 ETC_20150317_001712	Arma
 ETC_20150317_001713	Armadura
@@ -1775,144 +1775,144 @@ ETC_20150317_001774	Casco
 ETC_20150317_001775	Enfriamiento: {Sec} segundos
 ETC_20150317_001776	Efecto del Arma
 ETC_20150317_001777	Efecto del Arma Secundaria
-ETC_20150317_001778	Top and Bottom Effect
-ETC_20150317_001779	Boots Effect
-ETC_20150317_001780	Gloves Effect
-ETC_20150317_001781	Maximum Attack
-ETC_20150317_001782	Minimum Attack
-ETC_20150317_001783	Defense Rate
-ETC_20150317_001784	Evasion Rate
-ETC_20150317_001785	Fire Attack Rate
-ETC_20150317_001786	Skill Ability
-ETC_20150317_001787	Weight: {All} / {Max}
-ETC_20150317_001788	Weight ({Rate}%)
+ETC_20150317_001778	Efecto Superior e Inferior
+ETC_20150317_001779	Efecto de las Botas
+ETC_20150317_001780	Efecto de los Guantes
+ETC_20150317_001781	Ataque Máximo
+ETC_20150317_001782	Ataque Mínimo
+ETC_20150317_001783	Ratio de Defensa
+ETC_20150317_001784	Ratio de Evasión
+ETC_20150317_001785	Ratio de Ataque de Fuego
+ETC_20150317_001786	Habilidad de Talento
+ETC_20150317_001787	Peso: {All} / {Max}
+ETC_20150317_001788	Peso ({Rate}%)
 ETC_20150317_001789	Unsocketable
 ETC_20150317_001790	Tournament Champion
 ETC_20150317_001791	Tournament Second Winner
 ETC_20150317_001792	Ranker of Tournament {Auto_1} Round
-ETC_20150317_001793	Danger HP: Use {Auto_1}% recovery item!
-ETC_20150317_001794	Used a recover item.
-ETC_20150317_001795	Max SP {Auto_2} permanently increase when using {Auto_1}
-ETC_20150317_001796	Mount
-ETC_20150317_001797	Dismount
-ETC_20150317_001798	Pet
+ETC_20150317_001793	PS bajos: ¡Usa {Auto_1}% objeto de recuperación!
+ETC_20150317_001794	Has usado un objeto de recuperación.
+ETC_20150317_001795	Max PR {Auto_2} aumenta permanente al usar {Auto_1}
+ETC_20150317_001796	Montar
+ETC_20150317_001797	Desmontar
+ETC_20150317_001798	Mascota
 ETC_20150317_001799	Info
-ETC_20150317_001800	You are too far away from your companion. 
-ETC_20150317_001801	Please select a PC to take the companion.
-ETC_20150317_001802	You are together with your companion [{Name}].
-ETC_20150317_001803	You have successfully adopted a companion.
-ETC_20150317_001804	You can't include spaces in the name.
-ETC_20150317_001805	Together
-ETC_20150317_001806	Please dismount your companion to feed it.
-ETC_20150317_001807	Physical Attack
-ETC_20150317_001808	Physical Defense
-ETC_20150317_001809	Increased defense when mounted
-ETC_20150317_001810	Increased evasion when mounted
-ETC_20150317_001811	Receive bonus HP when mounted
-ETC_20150317_001812	STR
+ETC_20150317_001800	Estas muy lejos de tu compañero. 
+ETC_20150317_001801	Selecciona un PJ para el compañero.
+ETC_20150317_001802	Estas junto a tu Compañero [{Name}].
+ETC_20150317_001803	Has adoptado éxitosamente un Compañero.
+ETC_20150317_001804	No puedes incluir espacios en el nombre.
+ETC_20150317_001805	Juntos
+ETC_20150317_001806	Desmonta tu Compañero para alimentarlo.
+ETC_20150317_001807	Ataque Físico
+ETC_20150317_001808	Defensa Física
+ETC_20150317_001809	Defensa aumentada al montar
+ETC_20150317_001810	Evasión aumentada al montar
+ETC_20150317_001811	Bono de PS al montar
+ETC_20150317_001812	FUE
 ETC_20150317_001813	CON
-ETC_20150317_001814	Bite
-ETC_20150317_001815	The Raleigh
+ETC_20150317_001814	Mordisco
+ETC_20150317_001815	El Raleigh
 ETC_20150317_001816	Fouling
-ETC_20150317_001817	Do you want to increase {Stat} for {Silver} silver?
-ETC_20150317_001818	Hit Probability
-ETC_20150317_001819	Critical
-ETC_20150317_001820	DEX
-ETC_20150317_001821	You cannot ride your companion while sitting.
-ETC_20150317_001822	This companion cannot be equipped
-ETC_20150317_001823	Increased Physical Attack when mounted
-ETC_20150317_001824	Increased Magic Attack when mounted
-ETC_20150317_001825	Increased Companions attack by {Value}
-ETC_20150317_001826	Increased Companions HP by {Value}
-ETC_20150317_001827	Increased Companions defense by {Value}
-ETC_20150317_001828	Increased Companions hit rate by {Value}
-ETC_20150317_001829	You do not have a companion to summon.
-ETC_20150317_001830	Please dismount your companion first.
-ETC_20150317_001831	Standby
-ETC_20150317_001832	Active
-ETC_20150317_001833	You do not have any food.
-ETC_20150317_001834	Feed
-ETC_20150317_001835	This companion does not eat this type of food.
-ETC_20150317_001836	Successfully adopted a companion. It is waiting in accommodation for you.
-ETC_20150317_001837	You can not use your skills while riding your companion.
-ETC_20150317_001838	Shall we light a bonfire?
-ETC_20150317_001839	There is no firewood.
+ETC_20150317_001817	¿Quieres aumentar {Stat} por {Silver} plata?
+ETC_20150317_001818	Probabilidad de Golpear
+ETC_20150317_001819	Crítico
+ETC_20150317_001820	DES
+ETC_20150317_001821	No puedes montar tu Compañero mientras estás sentado.
+ETC_20150317_001822	Este compañero no puede ser equipado
+ETC_20150317_001823	Ataque Físico aumentado al montar
+ETC_20150317_001824	Ataque Mágico aumentado al montar
+ETC_20150317_001825	Ataque del Compañero aumentado en {Value}
+ETC_20150317_001826	PS del Compañero aumentado en {Value}
+ETC_20150317_001827	Defensa del Compañero aumentado en {Value}
+ETC_20150317_001828	Ratio de Golpe del Compañero aumentado en {Value}
+ETC_20150317_001829	No tienes un Compañero para invocar.
+ETC_20150317_001830	Primero desmonta de tu Compañero.
+ETC_20150317_001831	En espera
+ETC_20150317_001832	Activo
+ETC_20150317_001833	No tienes comida.
+ETC_20150317_001834	Alimentar
+ETC_20150317_001835	Este compañero no come ese tipo de alimento.
+ETC_20150317_001836	Has adoptado un Companion con éxito. Esta esperando que le acomodes.
+ETC_20150317_001837	No puedes usar tus habilidades mientras montas.
+ETC_20150317_001838	¿Deberíamos encender una fogata?
+ETC_20150317_001839	No tienes leña.
 ETC_20150317_001840	OK
 ETC_20150317_001841	Si
 ETC_20150317_001842	No
-ETC_20150317_001843	Message
-ETC_20150317_001844	[Notice]
-ETC_20150317_001845	Full
-ETC_20150317_001846	Logout
-ETC_20150317_001847	{Ul} item! {/}
-ETC_20150317_001848	Hunting Count
-ETC_20150317_001849	Emerged Area
-ETC_20150317_001850	Times
-ETC_20150317_001851	Damage
-ETC_20150317_001852	{Ul}Maximum Attack! {/}
-ETC_20150317_001853	{Ul}Maximum Damage! {/}
-ETC_20150317_001854	 Nv
-ETC_20150317_001855	Obtained Quantity
-ETC_20150317_001856	Obtained Monsters
-ETC_20150317_001857	Buy from Shop
-ETC_20150317_001858	Sell to Shop
+ETC_20150317_001843	Mensaje
+ETC_20150317_001844	[Aviso]
+ETC_20150317_001845	Lleno
+ETC_20150317_001846	Saliendo
+ETC_20150317_001847	{Ul} ¡Objeto! {/}
+ETC_20150317_001848	Cuenta de cacería
+ETC_20150317_001849	Área Emergida
+ETC_20150317_001850	Veces
+ETC_20150317_001851	Daño
+ETC_20150317_001852	{Ul}¡Ataque Máximo! {/}
+ETC_20150317_001853	{Ul}¡Daño Máximo! {/}
+ETC_20150317_001854	Nv
+ETC_20150317_001855	Cantidad Obtenida
+ETC_20150317_001856	Monstruos Obtenidos
+ETC_20150317_001857	Comprar de la Tienda
+ETC_20150317_001858	Vender a la Tienda
 ETC_20150317_001859	Cheat key
-ETC_20150317_001860	Trade
-ETC_20150317_001861	Change Equipment
-ETC_20150317_001862	Crafting
-ETC_20150317_001863	Pocket
-ETC_20150317_001864	Package
-ETC_20150317_001865	Guild Request
-ETC_20150317_001866	Innkeeper
-ETC_20150317_001867	Roulette
-ETC_20150317_001868	Place
-ETC_20150317_001869	End Time
-ETC_20150317_001870	%v Players
-ETC_20150317_001871	Area
-ETC_20150317_001872	Obtain
-ETC_20150317_001873	Inheritance
-ETC_20150317_001874	Start
-ETC_20150317_001875	Join
-ETC_20150317_001876	Obtained item
+ETC_20150317_001860	Intercambiar
+ETC_20150317_001861	Cambiar Equipo
+ETC_20150317_001862	Creando
+ETC_20150317_001863	Bolsilla
+ETC_20150317_001864	Paquete
+ETC_20150317_001865	Solicitud de Gremio
+ETC_20150317_001866	Posadero
+ETC_20150317_001867	Ruleta
+ETC_20150317_001868	Lugar
+ETC_20150317_001869	Finaliza
+ETC_20150317_001870	%v Jugadores
+ETC_20150317_001871	Área
+ETC_20150317_001872	Obtener
+ETC_20150317_001873	Heredar
+ETC_20150317_001874	Inicio
+ETC_20150317_001875	Unirse
+ETC_20150317_001876	Objeto Obtenido
 ETC_20150317_001877	Accesorio
 ETC_20150317_001878	Set
-ETC_20150317_001879	Recipe
-ETC_20150317_001880	Active Skill
-ETC_20150317_001881	Passive Skill
-ETC_20150317_001882	1. Write a message to promote your sale.
-ETC_20150317_001883	2. Insert items for sale into the bottom slot.
-ETC_20150317_001884	1. Write a message to promote your purchase.
-ETC_20150317_001885	2. Add items to purchase.
-ETC_20150317_001886	Life
-ETC_20150317_001887	Prosecutor Event
-ETC_20150317_001888	Unexpected Event
-ETC_20150317_001889	Temporary Event
-ETC_20150317_001890	Acquired
-ETC_20150317_001891	You already have it.
-ETC_20150317_001892	A Field Boss appeared!
+ETC_20150317_001879	Receta
+ETC_20150317_001880	Habilidad Activa
+ETC_20150317_001881	Habilidad Pasiva
+ETC_20150317_001882	1. Escribe un mensaje para promover tu venta.
+ETC_20150317_001883	2. Inserta objetos para ventar en el espacio de abajo.
+ETC_20150317_001884	1. Escribe un mensaje para promover tu compra.
+ETC_20150317_001885	2. Agrega objetos a comprar.
+ETC_20150317_001886	Vida
+ETC_20150317_001887	Evento de Cacería
+ETC_20150317_001888	Evento Inesperado
+ETC_20150317_001889	Evento Temporal
+ETC_20150317_001890	Adquirido
+ETC_20150317_001891	Ya lo tienes.
+ETC_20150317_001892	Un Monstruo Jefe ha aparecido!
 ETC_20150317_001893	Botín
 ETC_20150317_001894	Mapa
 ETC_20150317_001895	Logro
 ETC_20150317_001896	Mike
 ETC_20150317_001897	Mision
-ETC_20150317_001898	Other character
-ETC_20150317_001899	Cancel Participation
-ETC_20150317_001900	{Auto_1} level
+ETC_20150317_001898	Otro Personaje
+ETC_20150317_001899	Cancelar Participación
+ETC_20150317_001900	{Auto_1} nivel
 ETC_20150317_001901	Final
-ETC_20150317_001902	PvP tournament is open.
-ETC_20150317_001903	Close
-ETC_20150317_001904	Gift Score + {Auto_1}!
-ETC_20150317_001905	Gift Score + {Auto_1}
-ETC_20150317_001906	Reward
+ETC_20150317_001902	Torneo JvJ abierto.
+ETC_20150317_001903	Cerrar
+ETC_20150317_001904	¡Puntuación de regalo + {Auto_1}!
+ETC_20150317_001905	Puntuación de regalo + {Auto_1}
+ETC_20150317_001906	Recompenza
 ETC_20150317_001907	EXP
-ETC_20150317_001908	(Attack Resistance)
-ETC_20150317_001909	Requires a record in the Adventure Journal. Press the A key to update whilst sitting.
-ETC_20150317_001910	You can now use the [{Auto_1}] title.
-ETC_20150317_001911	Attributes
-ETC_20150317_001912	{@st59} Click for more information {/}
-ETC_20150317_001913	The next skill level requires the same class advancement.
-ETC_20150317_001914	Use a Skill Point to increase a skill level.
-ETC_20150317_001915	Equipment
+ETC_20150317_001908	(Resistencia al Ataque)
+ETC_20150317_001909	Requiere registro en tu Libro de Aventuras. Presiona la tecla A mientras estás sentado para actualizar.
+ETC_20150317_001910	Ahora puedes usar [{Auto_1}] como título.
+ETC_20150317_001911	Atributos
+ETC_20150317_001912	{@st59} Click para más información {/}
+ETC_20150317_001913	El siguiente nivel de la habilidad requiere Ascender en la misma clase.
+ETC_20150317_001914	Usa 1 punto de habilidad para aumentar el nivel de esta habilidad.
+ETC_20150317_001915	Equipo
 ETC_20150317_001916	Desactivado
 ETC_20150317_001917	Activado
 ETC_20150317_001918	Individual
@@ -1922,286 +1922,286 @@ ETC_20150317_001921	Igual
 ETC_20150317_001922	Por Nivel
 ETC_20150317_001923	Ver Todo
 ETC_20150317_001924	Espadachín
-ETC_20150317_001925	Wizard
-ETC_20150317_001926	Archer
-ETC_20150317_001927	Cleric
-ETC_20150317_001928	View Information
+ETC_20150317_001925	Mago
+ETC_20150317_001926	Arquero
+ETC_20150317_001927	Clérigo
+ETC_20150317_001928	Ver Información
 ETC_20150317_001929	Canal 
 ETC_20150317_001930	¿Quieres moverte al canal {Channel}?
 ETC_20150317_001931	Precio
 ETC_20150317_001932	's Guarida
-ETC_20150317_001933	This channel is closed.
-ETC_20150317_001934	iCoin Shop
-ETC_20150317_001935	Defense
-ETC_20150317_001936	Forward shooting!
-ETC_20150317_001937	Assemble!
-ETC_20150317_001938	Rush!
-ETC_20150317_001939	Retreat!
-ETC_20150317_001940	Withdraw!
-ETC_20150317_001941	{@st45w3}{s18}{Auto_1} Silver {/}
-ETC_20150317_001942	{Auto_1} level achievement when completed {@st42b}
-ETC_20150317_001943	{@st54}{b}Reward{/}
-ETC_20150317_001944	 day(s)
-ETC_20150317_001945	 hour(s)
-ETC_20150317_001946	 minute(s)
-ETC_20150317_001947	 second(s)
-ETC_20150317_001948	Quest may start
-ETC_20150317_001949	After that, you can start
-ETC_20150317_001950	{@st41}Winning Reward {/}
-ETC_20150317_001951	{@st41}Missed Reward {/}
-ETC_20150317_001952	Opening
+ETC_20150317_001933	Este canal está cerrado.
+ETC_20150317_001934	Tienda de iCoin
+ETC_20150317_001935	Defiendan
+ETC_20150317_001936	¡Avancen!
+ETC_20150317_001937	¡Reagrupense!
+ETC_20150317_001938	¡A la carga!
+ETC_20150317_001939	¡Retirada!
+ETC_20150317_001940	¡Repliegense!
+ETC_20150317_001941	{@st45w3}{s18}{Auto_1} Plata {/}
+ETC_20150317_001942	{Auto_1} nivel de logro tras completar {@st42b}
+ETC_20150317_001943	{@st54}{b}Recompenza{/}
+ETC_20150317_001944	 día(s)
+ETC_20150317_001945	 hora(s)
+ETC_20150317_001946	 minuto(s)
+ETC_20150317_001947	 segundo(s)
+ETC_20150317_001948	Puede iniciar la misión
+ETC_20150317_001949	Después de esto, puedes iniciar
+ETC_20150317_001950	{@st41}Recompenza Ganada {/}
+ETC_20150317_001951	{@st41}Recompenza Perdida {/}
+ETC_20150317_001952	Apertura
 ETC_20150317_001953	There is no reward list of the treasure chest.
 ETC_20150317_001954	The reward setting is incorrect.
-ETC_20150317_001955	Destroying Tree Root Crystals will help recover your Stamina!
-ETC_20150317_001956	Class
-ETC_20150317_001957	{@st41b} Title {/}
-ETC_20150317_001958	{@St41b} {Auto_1} Achievement Score: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
+ETC_20150317_001955	¡Destruir cristales de raíz del árbol puede ayudarte a recuperar PR!
+ETC_20150317_001956	Clase
+ETC_20150317_001957	{@st41b} Titulo {/}
+ETC_20150317_001958	{@St41b} {Auto_1} Puntaje de Logro: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
 ETC_20150317_001959	{@st41b} NPC Adventure Score: {/}
-ETC_20150317_001960	Buy
-ETC_20150317_001961	Selling Price
-ETC_20150317_001962	SHIFT + Left-click to equip jewel
+ETC_20150317_001960	Compra
+ETC_20150317_001961	Precio de Venta
+ETC_20150317_001962	SHIFT + click izquierdo para equipar joya
 ETC_20150317_001963	Socket Bonus
 ETC_20150317_001964	Please put the jewelry into the socket
 ETC_20150317_001965	There is no space
-ETC_20150317_001966	Confirm?
-ETC_20150317_001967	Whisper
-ETC_20150317_001968	Right-click to equip
-ETC_20150317_001969	Right-click to sell
-ETC_20150317_001970	Right-click to remove
-ETC_20150317_001971	 Level or higher
-ETC_20150317_001972	Repair Cost
-ETC_20150317_001973	{Auto_2} of {Auto_1} items used
-ETC_20150317_001974	Item Rarity
-ETC_20150317_001975	Available
-ETC_20150317_001976	In progress
-ETC_20150317_001977	Complete
-ETC_20150317_001978	Success
-ETC_20150317_001979	{Auto_1}'s {Auto_2}
-ETC_20150317_001980	This belongs to another character.
-ETC_20150317_001981	Enter a quantity  ({Auto_1} ~ {Auto_2})
-ETC_20150317_001982	This combination is not possible.
-ETC_20150317_001983	Deselected
-ETC_20150317_001984	Do you want to use your points to increase the {Auto_1} ability?
-ETC_20150317_001985	Do you want to use your skill points to increase this ability?
-ETC_20150317_001986	Do you want to use your skill points to learn a new skill?
-ETC_20150317_001987	Available Skill Points
-ETC_20150317_001988	Category
-ETC_20150317_001989	Passive
-ETC_20150317_001990	Enhance Skill
-ETC_20150317_001991	Available
-ETC_20150317_001992	All
-ETC_20150317_001993	Points
-ETC_20150317_001994	You do not have enough slots.
-ETC_20150317_001995	Quest List
-ETC_20150317_001996	Adventure Journal Updated
-ETC_20150317_001997	{#000000} item is not recorded in the journal.
-ETC_20150317_001998	This monster was not recorded in the journal.
-ETC_20150317_001999	Lance Mastery
-ETC_20150317_002000	Marksmanship
-ETC_20150317_002001	Tactical Action
-ETC_20150317_002002	Physical Training
-ETC_20150317_002003	None
-ETC_20150317_002004	No increase
-ETC_20150317_002005	Lost
-ETC_20150317_002006	Gloves
-ETC_20150317_002007	Boots
-ETC_20150317_002008	Left-handed
-ETC_20150317_002009	Right-handed
-ETC_20150317_002010	Two-handed
-ETC_20150317_002011	Body
-ETC_20150317_002012	Belt
-ETC_20150317_002013	Enhance Potential
-ETC_20150317_002014	Cost: {Auto_1}
-ETC_20150317_002015	Time Required
-ETC_20150317_002016	{Auto_1} day(s)
-ETC_20150317_002017	{Auto_1} hour(s)
-ETC_20150317_002018	{Auto_1} minute(s)
-ETC_20150317_002019	{Auto_1} second(s)
-ETC_20150317_002020	{Auto_1} Year {Auto_2} Month {Auto_3} Day {Auto_4} Hr {Auto_5} min {Auto_6} sec
-ETC_20150317_002021	Completed Date
-ETC_20150317_002022	Receive Back
-ETC_20150317_002023	Refund: {Auto_1}
-ETC_20150317_002024	Time added
-ETC_20150317_002025	I want to import the items
-ETC_20150317_002026	{Auto_1} Month {Auto_2} day
-ETC_20150317_002027	Failed to break record
-ETC_20150317_002028	Mercenary Archer
-ETC_20150317_002029	{Auto_1} left
-ETC_20150317_002030	{Auto_1} has destroyed the enemy's tower. iCoins will be rewarded to the team.
-ETC_20150317_002031	{Auto_1} has destroyed the ally's tower.
-ETC_20150317_002032	{Auto_1} has appeared. Defeat it to receive rewards.
-ETC_20150317_002033	{Auto_1} defeated {Auto_2}.
-ETC_20150317_002034	Siege volunteers will be summoned.
-ETC_20150317_002035	Reduce Time
-ETC_20150317_002036	Your class level has reached {Auto_1}
-ETC_20150317_002037	You can advance to {Auto_1}
-ETC_20150317_002038	Go to {Auto_1}
+ETC_20150317_001966	¿Confirmar?
+ETC_20150317_001967	Susurrar
+ETC_20150317_001968	Click derecho para equipar
+ETC_20150317_001969	Click derecho para vender
+ETC_20150317_001970	Click derecho para remover
+ETC_20150317_001971	 Nivel o superior
+ETC_20150317_001972	Coste de reparación
+ETC_20150317_001973	{Auto_2} de {Auto_1} objetos usados
+ETC_20150317_001974	Rareza del objeto
+ETC_20150317_001975	Disponible
+ETC_20150317_001976	En progreso
+ETC_20150317_001977	Completo
+ETC_20150317_001978	Éxito
+ETC_20150317_001979	{Auto_1} de {Auto_2}
+ETC_20150317_001980	Esto pertenece a otro.
+ETC_20150317_001981	Ingresa Cantidad  ({Auto_1} ~ {Auto_2})
+ETC_20150317_001982	Esta combinacion no es posible.
+ETC_20150317_001983	Deseleccionado
+ETC_20150317_001984	¿Quieres usar tus puntos para aumentar el talento {Auto_1}?
+ETC_20150317_001985	¿Quieres usar tus puntos de Habilidad para aumentar este talento?
+ETC_20150317_001986	¿Quieres usar tus puntos de Habilidad para aprender una Habilidad Nueva?
+ETC_20150317_001987	Puntos de Habilidad Disponibles
+ETC_20150317_001988	Categoría
+ETC_20150317_001989	Pasiva
+ETC_20150317_001990	Mejorar Habilidad
+ETC_20150317_001991	Disponible
+ETC_20150317_001992	Todos
+ETC_20150317_001993	Puntos
+ETC_20150317_001994	No tienes suficientes espacios disponibles.
+ETC_20150317_001995	Lista de Misiones
+ETC_20150317_001996	Libro de Aventuras Actualizado
+ETC_20150317_001997	{#000000} objeto no registrado en el Libro de Aventuras.
+ETC_20150317_001998	Este monstruo no está registrado en el Libro de Aventuras.
+ETC_20150317_001999	Maestría de Lanza
+ETC_20150317_002000	Puntería
+ETC_20150317_002001	Acción Tactica
+ETC_20150317_002002	Entrenamiento Físico
+ETC_20150317_002003	Ninguno
+ETC_20150317_002004	Sin aumento
+ETC_20150317_002005	Perdida
+ETC_20150317_002006	Guantes
+ETC_20150317_002007	Botas
+ETC_20150317_002008	en Mano Izquierda
+ETC_20150317_002009	en Mano Derecha
+ETC_20150317_002010	de 2 Manos
+ETC_20150317_002011	Cuerpo
+ETC_20150317_002012	Cinturón
+ETC_20150317_002013	Mejorar Potencial
+ETC_20150317_002014	Coste: {Auto_1}
+ETC_20150317_002015	Tiempo Requerido
+ETC_20150317_002016	{Auto_1} día(s)
+ETC_20150317_002017	{Auto_1} hora(s)
+ETC_20150317_002018	{Auto_1} minuto(s)
+ETC_20150317_002019	{Auto_1} segundo(s)
+ETC_20150317_002020	{Auto_1} Año {Auto_2} Mes {Auto_3} Día {Auto_4} Hr {Auto_5} min {Auto_6} seg
+ETC_20150317_002021	Fecha Completa
+ETC_20150317_002022	Recibir
+ETC_20150317_002023	Re-embolso: {Auto_1}
+ETC_20150317_002024	Tiempo Añadido
+ETC_20150317_002025	Quiero importar los objetos
+ETC_20150317_002026	{Auto_1} Mes {Auto_2} día
+ETC_20150317_002027	Falló al romper grabación
+ETC_20150317_002028	Mercenario Arquero
+ETC_20150317_002029	{Auto_1} izquierda
+ETC_20150317_002030	{Auto_1} ha destruído la torre enemiga. Se premiará con iCoins al equipo.
+ETC_20150317_002031	{Auto_1} ha destruído la torre alíada.
+ETC_20150317_002032	{Auto_1} ha aparecido. Derrótalo para obtener recompenzas.
+ETC_20150317_002033	{Auto_1} ha derrotado a {Auto_2}.
+ETC_20150317_002034	Voluntarios para el Asedio serán invocados.
+ETC_20150317_002035	Reducir Tiempo
+ETC_20150317_002036	Tu nivel de clase ahora es {Auto_1}
+ETC_20150317_002037	Puedes Ascender a {Auto_1}
+ETC_20150317_002038	Ir a {Auto_1}
 ETC_20150317_002039	{Auto_2} {Auto_1}
-ETC_20150317_002040	Hit {Auto_1} time(s)
-ETC_20150317_002041	No attack
-ETC_20150317_002042	Overkill
-ETC_20150317_002043	Main
+ETC_20150317_002040	Golpea {Auto_1} vez/veces
+ETC_20150317_002041	No ataca
+ETC_20150317_002042	Sobredaño
+ETC_20150317_002043	Principal
 ETC_20150317_002044	Sub
-ETC_20150317_002045	Received reward(s)!
-ETC_20150317_002046	Gift given by {Giver} to {Target}
-ETC_20150317_002047	Number
-ETC_20150317_002048	Retrieve
-ETC_20150317_002049	Buy
-ETC_20150317_002050	View Market
+ETC_20150317_002045	¡Recompenza(s) Recibidas!
+ETC_20150317_002046	Regalo entregado por {Giver} a {Target}
+ETC_20150317_002047	Número
+ETC_20150317_002048	Retirar
+ETC_20150317_002049	Comprar
+ETC_20150317_002050	Ver Mercado
 ETC_20150317_002051	[No Disponible]
 ETC_20150317_002052	[Disponible]
 ETC_20150317_002053	[En Progreso]
 ETC_20150317_002054	[Incompleta]
 ETC_20150317_002055	[Completa]
 ETC_20150317_002056	Repetible
-ETC_20150317_002057	Collect Wood Essence
-ETC_20150317_002058	Offering blood of Black-Eyed Maize to the altar
-ETC_20150317_002059	Complete sticky dye!
-ETC_20150317_002060	Ritual Completed
-ETC_20150317_002061	Copy
-ETC_20150317_002062	Quit
-ETC_20150317_002063	You found usable Shrine Offering Tools!
-ETC_20150317_002064	This sphere would be useful if it wasn't damaged.
-ETC_20150317_002065	Purifying pollutants
-ETC_20150317_002066	Pollutants have been purified.
-ETC_20150317_002067	The boss monster will use an AOE explosion in 2 seconds!
+ETC_20150317_002057	Recolectar Escencia de Madera
+ETC_20150317_002058	Ofreciendo sangre de Maíz de Ojos Negros al altar
+ETC_20150317_002059	¡Completar Tinte Pegajozo!
+ETC_20150317_002060	Ritual Completado
+ETC_20150317_002061	Copiar
+ETC_20150317_002062	Salir
+ETC_20150317_002063	¡Has encontrado Herramientas Usables en el Santuario!
+ETC_20150317_002064	Esta esfera podría ser útil de no estar dañada.
+ETC_20150317_002065	Purificando Contaminantes
+ETC_20150317_002066	Los contaminantes han sido purificados.
+ETC_20150317_002067	¡El Monstruo Jefe usará un ataque de área en 2 segundos!
 ETC_20150317_002068	HighBube_Spear: High Vubbe: 130
 ETC_20150317_002069	arburn_pokubu_green: Green Pokuborn: 131
-ETC_20150317_002070	Meduja larvae is trying to execute a suicidal explosion!
-ETC_20150317_002071	Join Klaipeda Mission
-ETC_20150317_002072	Join Fedimian mission
-ETC_20150317_002073	Merregina is causing the contamination. {nl} Defeat it to purify the pond.
-ETC_20150317_002074	Removing the contamination
-ETC_20150317_002075	Removed the source of the contamination!
-ETC_20150317_002076	Get rid of the monsters first to reduce the contamination.
-ETC_20150317_002077	Fainted Black Maize
-ETC_20150317_002078	Can't use the containers due to strong odor of blood.
-ETC_20150317_002079	You've obtained Languid Herb!
-ETC_20150317_002080	Searching
-ETC_20150317_002081	You found a Useful Bomb!
-ETC_20150317_002082	This barrel looks suspicious!{nl} Get away from it!
-ETC_20150317_002083	Obtained the bucket
-ETC_20150317_002084	I already have a bucket
-ETC_20150317_002085	Took the long rope
-ETC_20150317_002086	You already have long ropes
-ETC_20150317_002087	There is something rotten in the well
-ETC_20150317_002088	Ask where
-ETC_20150317_002089	it's OK
-ETC_20150317_002090	You cannot see whether the monsters are near the center of the altar or not!
-ETC_20150317_002091	Sowing Seeds
-ETC_20150317_002092	You do not have enough space in your inventory!
-ETC_20150317_002093	Nothing was found.
-ETC_20150317_002094	Spring Star herb is already around the area.
-ETC_20150317_002095	You found Spring Light Grass!
-ETC_20150317_002096	Offering water to the altar
-ETC_20150317_002097	Offering wood essence to the altar
-ETC_20150317_002098	Offer blood of Black-Eyed Maize to the altar
-ETC_20150317_002099	Offer water to the altar
-ETC_20150317_002100	Offer wood essence to the altar
-ETC_20150317_002101	Finished altar ritual
-ETC_20150317_002102	The wooden essence bucket is empty.
-ETC_20150317_002103	Revelator! {nl} I will remember this!
-ETC_20150317_002104	Digging
-ETC_20150317_002105	Obtained herbs!
-ETC_20150317_002106	You did not find anything.
-ETC_20150317_002107	Worshiping the Goddess Statue
-ETC_20150317_002108	Completed worshiping the Goddess Statue
-ETC_20150317_002109	Praying for purification
-ETC_20150317_002110	Evil spirits have appeared! {nl} You must defeat them in 60 seconds!
-ETC_20150317_002111	Nothing happened
-ETC_20150317_002112	Cleaning the Goddess Statue
-ETC_20150317_002113	The Goddess Statue is clean!
-ETC_20150317_002114	The Goddess Statue needs some cleaning!
-ETC_20150317_002115	Get rid of the nearby Hallowventers.
-ETC_20150317_002116	There's a vibration that doesn't feel so good. Let's go to Cordelli.
-ETC_20150317_002117	The monster is trying to explode.
-ETC_20150317_002118	You have opened the chest
-ETC_20150317_002119	Obelisk power source
-ETC_20150317_002120	Whew that was hard!
-ETC_20150317_002121	My back hurts and I can't move!
+ETC_20150317_002070	¡Larva Meduja está tratando de ejecutar una explosión suicida!
+ETC_20150317_002071	Únete a las Misiones de Klaipeda
+ETC_20150317_002072	Únete a las Misiones de Fedimian
+ETC_20150317_002073	Merregina es la causante de la contaminación. {nl} Derrótala para purificar la fuente.
+ETC_20150317_002074	Removiendo la contaminación
+ETC_20150317_002075	¡El origen de la contaminación ha sido removido!
+ETC_20150317_002076	Deshaste de los monstruos antes de reducir la contaminación.
+ETC_20150317_002077	Maíz Negro Inconsciente
+ETC_20150317_002078	No puedes usar los contenedores porque apestan a sangre.
+ETC_20150317_002079	¡Has obtenido Hierba Languída!
+ETC_20150317_002080	Buscando
+ETC_20150317_002081	¡Has encontrado una Bomba Útil!
+ETC_20150317_002082	¡Éste barril se ve sospechoso!{nl} ¡Alejate de él!
+ETC_20150317_002083	Has obtenido el balde
+ETC_20150317_002084	Ya tienes un balde
+ETC_20150317_002085	Tomaste la cuerda larga
+ETC_20150317_002086	Ya tienes cuerdas largas
+ETC_20150317_002087	Hay algo podrido en el pozo
+ETC_20150317_002088	Pregunta donde
+ETC_20150317_002089	esta bien
+ETC_20150317_002090	¡No puedes ver si los monstruos se encuentran cerca del altar o no!
+ETC_20150317_002091	Podando Semillas
+ETC_20150317_002092	¡No tienes suficiente espacio en el inventario!
+ETC_20150317_002093	No encontraste nada.
+ETC_20150317_002094	La hierba Estrella Primaveral se encuentra por el área.
+ETC_20150317_002095	¡Has encontrado pasto de Luz Primaveral!
+ETC_20150317_002096	Ofreciendo agua al altar
+ETC_20150317_002097	Ofreciendo escencia de madera al altar
+ETC_20150317_002098	Ofreciendo sangre de Maíz de Ojos Negros al altar
+ETC_20150317_002099	Ofrece agua al altar
+ETC_20150317_002100	Ofrece escencia de madera al altar
+ETC_20150317_002101	Has finalizado el ritual del altar
+ETC_20150317_002102	El balde de escencia de madera se encuentra vacío.
+ETC_20150317_002103	¡Revelador! {nl} ¡Recordaré esto!
+ETC_20150317_002104	Excavando
+ETC_20150317_002105	¡Has obtenido hierbas!
+ETC_20150317_002106	No has encontrado nada.
+ETC_20150317_002107	Rezando a la Estatua de la Diosa
+ETC_20150317_002108	Has terminado de rezarle a la Estatua de la Diosa
+ETC_20150317_002109	Orando por purificación
+ETC_20150317_002110	¡Los Espirítus Malignos han aparecido! {nl} ¡Debes derrotarlos en 60 segundos!
+ETC_20150317_002111	Nada ha ocurrido
+ETC_20150317_002112	Limpiando la Estatua de la Diosa
+ETC_20150317_002113	¡La Estatua de la Diosa se encuentra limpia!
+ETC_20150317_002114	¡La estatua de la Diosa necesita ser limpiada!
+ETC_20150317_002115	Deshaste de los Hallowventers.
+ETC_20150317_002116	hay una vibración que no se siente muy bien. Ve donde Cordelli.
+ETC_20150317_002117	El monstruos está tratando de explotar.
+ETC_20150317_002118	Has abierto el cofre
+ETC_20150317_002119	Fuente de poder del Obelísco
+ETC_20150317_002120	¡Uff eso fue duro!
+ETC_20150317_002121	¡Mi espalda duele y no me puedo mover!
 ETC_20150317_002122	Whoa.. whoa..
-ETC_20150317_002123	The tree of my home was as strong as this one too!
-ETC_20150317_002124	Oooaah!
-ETC_20150317_002125	Oouwwh!
-ETC_20150317_002126	Who is the next shift?
-ETC_20150317_002127	Damn it! Cutting a tree while thinking of a guy is wrong!
-ETC_20150317_002128	Do not come close! You'll get hurt!
-ETC_20150317_002129	Whoa.. That was tiresome ~
-ETC_20150317_002130	Hidden Desk
+ETC_20150317_002123	¡El árbol de mi casa era tan fuerte como este!
+ETC_20150317_002124	¡Oooaah!
+ETC_20150317_002125	¡Oouwwh!
+ETC_20150317_002126	¿Quién es el siguiente reemplazo?
+ETC_20150317_002127	¡Rayos! ¡Cortar un árbol mientras piensas en un chico está mal!
+ETC_20150317_002128	¡No te acerques! ¡Resultarás herido!
+ETC_20150317_002129	Whoa.. Eso fue agotador ~
+ETC_20150317_002130	Escritorio Oculto
 ETC_20150317_002131	Zemyna
 ETC_20150317_002132	Ausrine
 ETC_20150317_002133	Vakarine
-ETC_20150317_002134	Correct! Good bye!
-ETC_20150317_002135	Wrong! Try again!
-ETC_20150317_002136	Scharffen Star
-ETC_20150317_002137	Sparkly Star
-ETC_20150317_002138	Dang, wrong. You still have plenty of chances so just try again.
+ETC_20150317_002134	¡Correcto! ¡Adios!
+ETC_20150317_002135	¡Error! ¡Prueba denuevo!
+ETC_20150317_002136	Estrella Scharffen
+ETC_20150317_002137	Estrella Brillante
+ETC_20150317_002138	Cielos, error. Aún tienes muchos intentos así que prueba nuevamente.
 ETC_20150317_002139	Uska
 ETC_20150317_002140	Cunningham
-ETC_20150317_002141	Is!
-ETC_20150317_002142	Wrong but it's too early to be disappointed.
-ETC_20150317_002143	Searching for a sheet of paper
-ETC_20150317_002144	Found a sheet in the Wizard's book!
-ETC_20150317_002145	Couldn't find a sheet in the Wizard's book
-ETC_20150317_002146	Emotional Owl Statue
-ETC_20150317_002147	The Sword Master has appeared! Try looking around
-ETC_20150317_002148	The Wizard Master has appeared! Try looking around
-ETC_20150317_002149	The Archer Master has appeared! Try looking around
-ETC_20150317_002150	The Cleric Master has appeared! Try looking around
-ETC_20150317_002151	Dandel: Dandel: 51 / Dandel: Dandel: 51 / Dandel: Dandel: 51 / zigri_purple: Black Zigri: 54
-ETC_20150317_002152	Chasm Wendigo
-ETC_20150317_002153	What kind of place is Fedimian?
-ETC_20150317_002154	Divine district and Business district
-ETC_20150317_002155	Central Statue of Goddess Zemyna
-ETC_20150317_002156	Identity of the old man
-ETC_20150317_002157	Food of Fedimian
-ETC_20150317_002158	Talk to the summoned guardian of Zachariel to unseal!
-ETC_20150317_002159	You received a Status Point!
-ETC_20150317_002160	Nothing happened!
-ETC_20150317_002161	Kicking the chest angered a Red Vubbe Fighter!
-ETC_20150317_002162	Collected Canyon Amalas!
-ETC_20150317_002163	You became confused from the Canyon Amalas' toxins!
-ETC_20150317_002164	Unsealed!
-ETC_20150317_002165	Failed to protect the seal. {nl} Try again!
-ETC_20150317_002166	You opened the treasure chest and the Hogmas are charging in!
-ETC_20150317_002167	There is no Hogma Battle Boss to use the scroll on.
-ETC_20150317_002168	You cannot use it while another quest event is in progress
-ETC_20150317_002169	Seems like it's nothing
-ETC_20150317_002170	No response
-ETC_20150317_002171	I wonder why these are here
-ETC_20150317_002172	It seems like there's no use looking around
-ETC_20150317_002173	Just continue going
-ETC_20150317_002174	Observing broken statue
-ETC_20150317_002175	Picked up an old necklace!
-ETC_20150317_002176	Threw the necklace back!
-ETC_20150317_002177	Observing
-ETC_20150317_002178	Putting it back in place
-ETC_20150317_002179	Seems like a keepsake with a story
-ETC_20150317_002180	Feels like you have to hang the necklace on the grave of the Unknown Soldier
-ETC_20150317_002181	Monsters emerged around the treasure chest!
-ETC_20150317_002182	Observing the potholes
-ETC_20150317_002183	You collected some precious truffles!
-ETC_20150317_002184	Only 50% of the ember is left!
-ETC_20150317_002185	Only 40% of the ember is left!
-ETC_20150317_002186	Only 30% of the ember is left!
-ETC_20150317_002187	Only 20% of the ember is left!
-ETC_20150317_002188	Only 10% of the ember is left!!
-ETC_20150317_002189	Obtained a Wooden Arrow! Throw them into the fire to keep it burning!
-ETC_20150317_002190	Throwing in a Wooden Arrow
-ETC_20150317_002191	Investigating the stone pillar
-ETC_20150317_002192	Looking into the Eyes of the Great King
-ETC_20150317_002193	While releasing the seal
-ETC_20150317_002194	Unseal it through the summoned subordinates of Zachariel!
-ETC_20150317_002195	It was a fake seal!
-ETC_20150317_002196	This pole has already been found!
-ETC_20150317_002197	Collecting the light stem of reed
-ETC_20150317_002198	Did collect the light steom of reed but you are slashed over the reed leaf!
-ETC_20150317_002199	The wound as the reed leaf was bleeding.
-ETC_20150317_002200	Make a grave
-ETC_20150317_002201	Making a grave for Liliya
-ETC_20150317_002202	Discarding the music box
-ETC_20150317_002203	Discarded it into the place.
-ETC_20150317_002204	Looking through the pile of grass
+ETC_20150317_002141	¡Es!
+ETC_20150317_002142	Error, pero es muy pronto para estar decepcionados.
+ETC_20150317_002143	Buscando la hoja de papel
+ETC_20150317_002144	¡Has encontrado la hoja en el libro del Mago!
+ETC_20150317_002145	No has podido encontrar la hoja en el libro del Mago
+ETC_20150317_002146	Estatua de Búho Emocional
+ETC_20150317_002147	¡El Maestro de Espadachínes ha aparecido! Trata de buscarlo
+ETC_20150317_002148	¡El Maestro de Magos ha aparecido! Trata de buscarlo
+ETC_20150317_002149	¡El Maestro de Arqueros ha aparecido! Trata de buscarlo
+ETC_20150317_002150	¡El Maestro de Clérigos ha aparecido! Trata de buscarlo
+ETC_20150317_002151	Dandel: Dandel: 51 / Dandel: Dandel: 51 / Dandel: Dandel: 51 / zigri_purple: Zigri Negro: 54
+ETC_20150317_002152	Wendigo del Cañon
+ETC_20150317_002153	¿Que clase de lugar es Fedimian?
+ETC_20150317_002154	Distrito Divino y Distrito de Negocios
+ETC_20150317_002155	Estatua Central de la Diosa Zemyna
+ETC_20150317_002156	Identidad del Anciano
+ETC_20150317_002157	Comida de Fedimian
+ETC_20150317_002158	¡Habla al guardian invocado de Zachariel para liberar!
+ETC_20150317_002159	¡Has recibido un punto de estadísticas!
+ETC_20150317_002160	¡Nada ha ocurrido!
+ETC_20150317_002161	¡Patear el cofre ha enojado a un Vubbe Rojo Luchador!
+ETC_20150317_002162	¡Has recolectado Amalas del Cañon!
+ETC_20150317_002163	¡Te has confundido con las tóxinas de las Amalas del cañon!
+ETC_20150317_002164	¡Liberado!
+ETC_20150317_002165	Has fallado en proteger el sello. {nl} ¡Intenta nuevamente!
+ETC_20150317_002166	¡Has abierto el cofre del tesoro y los Hogmas te están atacando!
+ETC_20150317_002167	No hay un Jefe de Batalla Hogma para usar el pergamino.
+ETC_20150317_002168	No puedes usarlo mientras otra misión está en progreso
+ETC_20150317_002169	Al parecer es nada
+ETC_20150317_002170	No hay respuesta
+ETC_20150317_002171	Me pregunto porqué estos están aquí
+ETC_20150317_002172	Al parecer es inutil seguir buscando
+ETC_20150317_002173	Sólo continuar el camino
+ETC_20150317_002174	Observando estatua rota
+ETC_20150317_002175	¡Has recojido un collar viejo!
+ETC_20150317_002176	¡Lanzaste el collar viejo!
+ETC_20150317_002177	Observando
+ETC_20150317_002178	Poniendolo en su lugar
+ETC_20150317_002179	Parece un recuerdo con una historia
+ETC_20150317_002180	Sientes que debes colgar el collar en la tumba del soldado desconocido
+ETC_20150317_002181	¡Monstruos han emergido alrededor del cofre!
+ETC_20150317_002182	Observando los agujeros de la olla
+ETC_20150317_002183	¡Has recolectado algunas Trufas muy valiosas!
+ETC_20150317_002184	¡Sólo queda 50% del ascua!
+ETC_20150317_002185	¡Sólo queda 40% del ascua!
+ETC_20150317_002186	¡Sólo queda 30% del ascua!
+ETC_20150317_002187	¡Sólo queda 20% del ascua!
+ETC_20150317_002188	¡¡Sólo queda 10% del ascua!!
+ETC_20150317_002189	¡Has obtenido una Flecha de Madera! ¡Lanzala al fuego para mantenerlo ardiendo!
+ETC_20150317_002190	Lanzando Flecha de Madera
+ETC_20150317_002191	Investigando el Pilar de Roca
+ETC_20150317_002192	Mirando dentro de los ojos del Gran Rey
+ETC_20150317_002193	Mientras removías el sello
+ETC_20150317_002194	¡Liberalo mediante los sirvientes invocados de Zachariel!
+ETC_20150317_002195	¡Era un sello falso!
+ETC_20150317_002196	¡Ya habías encontrado este poste!
+ETC_20150317_002197	Recolectando tallos lígeros de Caña
+ETC_20150317_002198	¡Recolectaste tallos lígeros de caña, pero te has cortado con las hojas!
+ETC_20150317_002199	La herida como la hoja de la caña están ensangrentadas.
+ETC_20150317_002200	Hacer una tumba
+ETC_20150317_002201	Haciendo una tumba para Liliya
+ETC_20150317_002202	Descartando la caja músical
+ETC_20150317_002203	La has descartado en el lugar.
+ETC_20150317_002204	Mirando a través del montón de hojas
 ETC_20150317_002205	The orgel came out from greenery!
 ETC_20150317_002206	Collecting Young Leaves
 ETC_20150317_002207	Collected the your leaf of Asellu!
