@@ -628,7 +628,7 @@ UI_20150317_000627	{@st41b}Confirmar{/}
 UI_20150317_000628	{@st59}Confirmar Transacción{/}
 UI_20150317_000629	{@st43}Tienda{/}
 UI_20150317_000630	{@st41b}Objetos a comprar{/}
-UI_20150317_000631	{@st41b}Objetos vendidos{/}
+UI_20150317_000631	{@st41b}Objetos a vender{/}
 UI_20150317_000632	{@st41b}Precio{/}
 UI_20150317_000633	{@st41b}Balance{/}
 UI_20150317_000634	{@st41b}Mis objetos vendidos{/}
@@ -1131,7 +1131,7 @@ UI_20150317_001130	Peso : %s
 UI_20150317_001131	N/A
 UI_20150317_001132	%s raza
 UI_20150317_001133	N/A
-UI_20150317_001134	No Comerciable
+UI_20150317_001134	{s14}No Intercambiable
 UI_20150317_001135	No Mejorable
 UI_20150317_001136	N/A
 UI_20150317_001137	Nombre de Objeto
@@ -1786,7 +1786,7 @@ UI_20150918_001785	{#000000}Nivel Minimo{/}
 UI_20150918_001786	{#000000}Nº de Entradas{/}
 UI_20150918_001787	{#000000}El numero de entradas se resetara a las %s.{/}
 UI_20150918_001788	{img silver 20 20} Precio
-UI_20150918_001789	Información de Grupos Cercanos
+UI_20150918_001789	{s14}Información de Grupos Cercanos
 UI_20150918_001790	Requiere Fragmentos : %s 
 UI_20150918_001791	{@st66b}Vacio
 UI_20150918_001792	{@st42}Mostrar Grupos Cercanos{/}
