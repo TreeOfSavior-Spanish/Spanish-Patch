@@ -4,12 +4,13 @@ Proyecto de traduccion ToS a Español.
 Miembros:
 - Darkloud
 - Darkelfen (elfengirox00)
+- Dhanict
 
 ## Archivos a Traducir:
 - ETC.tsv - Darkelfen (elfengirox00)
 - SKILL.tsv
 - ITEM.tsv - Darkloud
-- QUEST.tsv
+- QUEST.tsv - Dhanict
 - QUEST_JOBSTEP.tsv
 - QUEST_LV_0100.tsv
 - QUEST_LV_0200.tsv
