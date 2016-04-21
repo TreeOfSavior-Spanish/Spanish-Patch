@@ -300,7 +300,7 @@ ETC_20150317_000299	Zombie de la Infantería Pesada
 ETC_20150317_000300	Libro Mágico
 ETC_20150317_000301	Calabaza Inmadura
 ETC_20150317_000302	Cebolla bien muerta
-ETC_20150317_000303	Gran Cebolla de PS
+ETC_20150317_000303	PS de Gran Cebolla 
 ETC_20150317_000304	Blanco de Ámbar
 ETC_20150317_000305	Empalizada de Estacas
 ETC_20150317_000306	Guardian Defensivo
@@ -1893,7 +1893,7 @@ ETC_20150317_001892	Un Monstruo Jefe ha aparecido!
 ETC_20150317_001893	Botín
 ETC_20150317_001894	Mapa
 ETC_20150317_001895	Logro
-ETC_20150317_001896	Mike
+ETC_20150317_001896	Micro
 ETC_20150317_001897	Servicios
 ETC_20150317_001898	Otro Personaje
 ETC_20150317_001899	Cancelar Participación
@@ -1955,7 +1955,7 @@ ETC_20150317_001954	The reward setting is incorrect.
 ETC_20150317_001955	¡Destruir cristales raíz del árbol puede ayudarte a recuperar PM!
 ETC_20150317_001956	Clase
 ETC_20150317_001957	{@st41b} Titulo {/}
-ETC_20150317_001958	{@St41b} {Auto_1} Puntaje de Logro: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
+ETC_20150317_001958	{@St41b} {Auto_1} Puntuación de Logro: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
 ETC_20150317_001959	{@st41b} NPC Adventure Score: {/}
 ETC_20150317_001960	Compra
 ETC_20150317_001961	Precio de Venta
@@ -2622,7 +2622,7 @@ ETC_20150317_002621	{@st41b} Sólo Espadachín {/}
 ETC_20150317_002622	{@st41b} Sólo Mago {/}
 ETC_20150317_002623	{@st41b} Sólo Arquero {/}
 ETC_20150317_002624	{@st41b} Sólo Clérigo {/}
-ETC_20150317_002625	{@st41b} Sólo Invocador {/}
+ETC_20150317_002625	{@st41b} Sólo Hechicero {/}
 ETC_20150317_002626	{@st41b} Público {/}
 ETC_20150317_002627	{@st41b} Privado {/}
 ETC_20150317_002628	Mi Página
@@ -2646,7 +2646,7 @@ ETC_20150317_002645	Info del Grupo
 ETC_20150317_002646	Hacer lider de Grupo
 ETC_20150317_002647	Has rechazado la invitación a Grupo.
 ETC_20150317_002648	¿Quieres unirte a este Grupo?
-ETC_20150317_002649	El mic no puede exceder los {MaxLen} carácteres.
+ETC_20150317_002649	El micro no puede exceder los {MaxLen} carácteres.
 ETC_20150317_002650	Ya te encuentras en un grupo
 ETC_20150317_002651	No te encuentras en un grupo.
 ETC_20150317_002652	Todos
@@ -2759,35 +2759,35 @@ ETC_20150317_002758	Posible
 ETC_20150317_002759	No disponible
 ETC_20150317_002760	Ataque Crítico
 ETC_20150317_002761	Defensa Crítica
-ETC_20150317_002762	Intercambiable
-ETC_20150317_002763	Inintercambiable
+ETC_20150317_002762	Comerciable
+ETC_20150317_002763	No Comerciable
 ETC_20150317_002764	Ratio de recuperación por Pociones
 ETC_20150317_002765	Recuperación de PM
 ETC_20150317_002766	Imposible de vender
-ETC_20150317_002767	Ataque propiedad Fuego
-ETC_20150317_002768	Ataque propiedad Hielo
-ETC_20150317_002769	Ataque propiedad Veneno
-ETC_20150317_002770	Ataque propiedad Santo
-ETC_20150317_002771	Ataque propiedad Oscuridad
+ETC_20150317_002767	Ataque de Elemento Fuego
+ETC_20150317_002768	Ataque de Elemento Hielo
+ETC_20150317_002769	Ataque de Elemento Veneno
+ETC_20150317_002770	Ataque de Elemento Santo
+ETC_20150317_002771	Ataque de Elemento Oscuridad
 ETC_20150317_002772	Velocidad de Movimiento
 ETC_20150317_002773	Recuperación de PS
 ETC_20150317_002774	Ataque contra blancos tipo Planta
 ETC_20150317_002775	Ataque contra blancos tipo Bestia
 ETC_20150317_002776	Ataque contra blancos tipo Demonio
 ETC_20150317_002777	Ataque contra blancos tipo Mutante
-ETC_20150317_002778	Ataque propiedad Viento
-ETC_20150317_002779	Resistencia a propiedad Fuego
-ETC_20150317_002780	Resistencia a propiedad Hielo
-ETC_20150317_002781	Resistencia a propiedad Veneno
-ETC_20150317_002782	Resistencia a propiedad Electricidad
-ETC_20150317_002783	Resistencia a propiedad Santo 
-ETC_20150317_002784	Resistencia a propiedad Oscuridad
+ETC_20150317_002778	Ataque de Elemento Viento
+ETC_20150317_002779	Resistencia a Elemento Fuego
+ETC_20150317_002780	Resistencia a Elemento Hielo
+ETC_20150317_002781	Resistencia a Elemento Veneno
+ETC_20150317_002782	Resistencia a Elemento Electricidad
+ETC_20150317_002783	Resistencia a Elemento Santo 
+ETC_20150317_002784	Resistencia a Elemento Oscuridad
 ETC_20150317_002785	Ratio de ataque de área
 ETC_20150317_002786	Ratio de defensa de área
 ETC_20150317_002787	2% probabilidad de obtener +300 de daño adicional al atacar
 ETC_20150317_002788	3% probabilidad de recibir 20% de daño continuo igual al 20% PS cuando golpeas
 ETC_20150317_002789	4% probabilidad de obtener +100 de resistencia a todo cuando eres golpeado con magia
-ETC_20150317_002790	Ataque propiedad Electricidad
+ETC_20150317_002790	Ataque de Elemento Electricidad
 ETC_20150317_002791	Poder de Empuje
 ETC_20150317_002792	Ataque contra blancos de tipo Pequeño
 ETC_20150317_002793	Ataque contra blancos de tipo Mediano
@@ -2803,23 +2803,23 @@ ETC_20150317_002802	Objeto de EXP
 ETC_20150317_002803	Distancia de Disparo
 ETC_20150317_002804	Velocidad
 ETC_20150317_002805	Ataque contra blancos de tipo Insecto
-ETC_20150317_002806	Ataque propiedad Tierra
-ETC_20150317_002807	Resistencia propiedad Tierra
+ETC_20150317_002806	Ataque de Elemento Tierra
+ETC_20150317_002807	Resistencia a Elemento Tierra
 ETC_20150317_002808	Daño Físico al montar
 ETC_20150317_002809	Daño Mágico al montar
 ETC_20150317_002810	Defensa a Penetración
 ETC_20150317_002811	Defensa a Cortes
 ETC_20150317_002812	Defensa a Golpes
-ETC_20150317_002813	Máximo Peso Cargado
+ETC_20150317_002813	Máximo Peso de Carga
 ETC_20150317_002814	Muy Fácil
 ETC_20150317_002815	Fácil
 ETC_20150317_002816	Normal
 ETC_20150317_002817	Díficil
 ETC_20150317_002818	Muy Díficil
 ETC_20150317_002819	{S22}{ol}Siguiente Nivel de Misión: {Auto_1}
-ETC_20150317_002820	Área: 
+ETC_20150317_002820	Zona: 
 ETC_20150317_002821	{@st45w3}{s18}x{Auto_2} {Auto_1} {/}
-ETC_20150317_002822	{@st41}Recompenza Recibida:
+ETC_20150317_002822	{@st41}Recompensa Recibida:
 ETC_20150317_002823	{@st64} Acercate al PNJ y presiona 
 ETC_20150317_002824	Barra espaciadora
 ETC_20150317_002825	 para iniciar una conversación
@@ -2831,7 +2831,7 @@ ETC_20150317_002830	Tipo Luchador
 ETC_20150317_002831	Tipo Mago
 ETC_20150317_002832	Tipo Arquero
 ETC_20150317_002833	Tipo Clérigo
-ETC_20150317_002834	Tipo Invocador
+ETC_20150317_002834	Tipo Hechicero
 ETC_20150317_002835	Tipo Humanoide
 ETC_20150317_002836	Tipo Demonio
 ETC_20150317_002837	Tipo Planta
@@ -2849,7 +2849,7 @@ ETC_20150317_002848	El nivel del mercenario es superior al nivel del PJ.
 ETC_20150317_002849	El mercenario ha sido contratado.
 ETC_20150317_002850	Has dejado ir al mercenario.
 ETC_20150317_002851	Este mercenario se encuentra contratado.
-ETC_20150317_002852	La tématica de tus Barracas ha sido cambiada.
+ETC_20150317_002852	La tématica de tus Guarida ha sido cambiada.
 ETC_20150317_002853	Has cambiado con éxito{nl}el nombre de tu equipo.
 ETC_20150317_002854	Has fallado en cambiar{nl}el nombre de tu equipo.
 ETC_20150317_002855	Ingresa un nombre de equipo. Este nombre será visto por otros jugadores.
@@ -2866,7 +2866,7 @@ ETC_20150317_002865	Total Explorado
 ETC_20150317_002866	explorado
 ETC_20150317_002867	{Auto_1} misión(es) completadas
 ETC_20150317_002868	{Auto_1} PNJs encontrados
-ETC_20150317_002869	Puntaje {Category}
+ETC_20150317_002869	Puntuación {Category}
 ETC_20150317_002870	Ranking
 ETC_20150317_002871	Aventura
 ETC_20150317_002872	Exploración
@@ -2877,11 +2877,11 @@ ETC_20150317_002876	Ranking de Aventuras
 ETC_20150317_002877	{Auto_1} colección(es) completadas
 ETC_20150317_002878	Contenidos
 ETC_20150317_002879	Fijar Objetos
-ETC_20150317_002880	% de Completación:
-ETC_20150317_002881	Puntaje:
+ETC_20150317_002880	Porcentaje Completo:
+ETC_20150317_002881	Puntuación:
 ETC_20150317_002882	Jefe
 ETC_20150317_002883	Fecha
-ETC_20150317_002884	Click para ri al número de página.
+ETC_20150317_002884	Click para ir a la página del objeto.
 ETC_20150317_002885	Reciente
 ETC_20150317_002886	Ayuda
 ETC_20150317_002887	Ingresa el Nombre del Equipo de tu Amigo
@@ -2891,7 +2891,7 @@ ETC_20150317_002890	Solicitudes recibidas
 ETC_20150317_002891	Solicitudes enviadas
 ETC_20150317_002892	Solicitudes rechazadas
 ETC_20150317_002893	Amigos que se han registrado en TOS
-ETC_20150317_002894	AMigos que no juegan TOS
+ETC_20150317_002894	Amigos que no juegan TOS
 ETC_20150317_002895	Alguien que puedes conocer
 ETC_20150317_002896	estuvieron juntos
 ETC_20150317_002897	Formaron Grupo
@@ -2903,18 +2903,18 @@ ETC_20150317_002902	Intercambiaron {Count} veces
 ETC_20150317_002903	Ya se encuentra en tu lista de bloqueados.
 ETC_20150317_002904	Ingresa el Nombre del Equipo que deseas bloquear.
 ETC_20150317_002905	El nombre de tu grupo es muy largo.
-ETC_20150317_002906	Los contenidos de tu memo son muy largos.
+ETC_20150317_002906	El contenidos de tu memo son muy largos.
 ETC_20150317_002907	Ajustes de Memo 
-ETC_20150317_002908	Ajustes de Grupo ??
+ETC_20150317_002908	¿¿Ajustes de Grupo ??
 ETC_20150317_002909	Ingresar Memo
 ETC_20150317_002910	Ajustes de Grupo
 ETC_20150317_002911	Solicitud de Amistad
 ETC_20150317_002912	Tu solicitud de amistad ha sido enviada.
 ETC_20150317_002913	Nuevo Grupo
 ETC_20150317_002914	Bloquear
-ETC_20150317_002915	Remover Grupo
+ETC_20150317_002915	Borrar Grupo
 ETC_20150317_002916	Cambiar Nombre de Grupo
-ETC_20150317_002917	¿Seguro de borrar esto?
+ETC_20150317_002917	¿Estas seguro de borrar esto?
 ETC_20150317_002918	Desbloquear
 ETC_20150317_002919	La solicitud de amistad no fue enviada.
 ETC_20150317_002920	Pago Inicial
@@ -2949,7 +2949,7 @@ ETC_20150317_002948	Atributos Elementales
 ETC_20150317_002949	Puntuación
 ETC_20150317_002950	Atributos de Ataque
 ETC_20150317_002951	Activar tipo de ataque
-ETC_20150317_002952	Móvil
+ETC_20150317_002952	Tipo Móvil
 ETC_20150317_002953	Pequeño
 ETC_20150317_002954	Mediano
 ETC_20150317_002955	Grande
@@ -2965,13 +2965,13 @@ ETC_20150317_002964	Santo
 ETC_20150317_002965	Tierra
 ETC_20150317_002966	NA
 ETC_20150317_002967	Corte
-ETC_20150317_002968	Penetrante
+ETC_20150317_002968	Penetración
 ETC_20150317_002969	Golpe
 ETC_20150317_002970	Magia
 ETC_20150317_002971	Físico
 ETC_20150317_002972	A distancia
-ETC_20150317_002973	Fijo
-ETC_20150317_002974	de Piso
+ETC_20150317_002973	Fijación
+ETC_20150317_002974	Tipo Tierra
 ETC_20150317_002975	Tipo Aéreo
 ETC_20150317_002976	Élite
 ETC_20150317_002977	Último Ingreso: {Year} año(s) atrás
@@ -2979,15 +2979,15 @@ ETC_20150317_002978	Último Ingreso: {Month} mes(es) atrás
 ETC_20150317_002979	Último Ingreso: {Day} día(s) atrás
 ETC_20150317_002980	Último Ingreso: {Hour} hora(s) atrás
 ETC_20150317_002981	Último Ingreso: {Min} minuto(s) atrás
-ETC_20150317_002982	Último Ingreso: just now
+ETC_20150317_002982	Último Ingreso: ahora mismo
 ETC_20150317_002983	Espacio temporal
 ETC_20150317_002984	{Auto_1} PS fue recuperado
 ETC_20150317_002985	{Auto_1} PM fue recuperado
 ETC_20150317_002986	Unirse
 ETC_20150317_002987	...¿¡¿¡Me ha seguido!?!?
-ETC_20150317_002988	¡Cualquier tipo qeu se encuentre cerca!
+ETC_20150317_002988	¡Cualquier tipo que se encuentre cerca!
 ETC_20150317_002989	Me pregunto quien ganará ~
-ETC_20150317_002990	Juego Al Ázar, mi favorito + _ +
+ETC_20150317_002990	Juego de Ázar, mi favorito + _ +
 ETC_20150317_002991	Ahhhhhh~~
 ETC_20150317_002992	¡Genial! Se acabo
 ETC_20150317_002993	¡¡GRAN FERVOR! ¡Se aplicará Ataque y EXP adicional!
@@ -2996,7 +2996,7 @@ ETC_20150317_002995	Caja de
 ETC_20150317_002996	Sala LLena
 ETC_20150317_002997	Mejora Éxitosa.
 ETC_20150317_002998	Ha sido reiniciado porque ha fallado la mejora..
-ETC_20150317_002999	Recompenza
+ETC_20150317_002999	Recompensa
 ETC_20150317_003000	Recibido
 ETC_20150317_003001	Combinando
 ETC_20150317_003002	Escribiendo
@@ -21437,15 +21437,15 @@ ETC_20160411_021436	Press the F11 key to view your list of Collections registere
 ETC_20160411_021437	Battle League tip
 ETC_20160411_021438	The Team Battle League ranking is reset every Monday at midnight.
 ETC_20160411_021439	You can purchase EXP cards using the points earned through the Team Battle League.
-ETC_20160411_021440	Consejo sobre el gremio
+ETC_20160411_021440	Consejo sobre el Clan
 ETC_20160411_021441	Guild wars start 1 hour after war has been declared and carry on for 1 week.
 ETC_20160411_021442	Guild masters can set their guilds to
 ETC_20160411_021443	 status, which disables war declarations.
-ETC_20160411_021444	Consejo sobre el almacen del equipo
+ETC_20160411_021444	Consejo sobre el Banco de Equipo
 ETC_20160411_021445	Usando un token premium, puedes transferir objetos entre personajes en la misma cuenta a través del almacen del equipo.
 ETC_20160411_021446	You can receive EXP cards from Wings of Vibora NPCs by defeating a certain number of monsters.
 ETC_20160411_021447	You can receive EXP cards from Wings of Vibora NPCs by achieving 100% completion on a map.
-ETC_20160411_021448	Consejo sobre el nivel del equipo
+ETC_20160411_021448	Consejo sobre el Nivel del Equipo
 ETC_20160411_021449	A mayor nivel de tu equipo, mas EXP extra ganan tus personajes. Puedes subir a tu equipo hasta nivel 50.
 ETC_20160411_021450	Thrust Skill Lv +1
 ETC_20160411_021451	Bash Skill Lv +1
@@ -21728,8 +21728,8 @@ ETC_20160411_021727	Turn Undead Skill Lv +1
 ETC_20160411_021728	Conversion Skill Lv +1
 ETC_20160411_021729	Barrier Skill Lv +1
 ETC_20160411_021730	Conviction Skill Lv +1
-ETC_20160412_021731	Reportar bot
-ETC_20160412_021732	¿Reportar a {Name} cómo un bot?
+ETC_20160412_021731	Reportar Bot
+ETC_20160412_021732	¿Reportar a {Name} cómo un Bot?
 ETC_20160412_021733	{Name} ha sido reportado. Muchas Gracias.
 ETC_20160415_021734	Delay period after account creation until trading is available: (seconds)
 ETC_20160415_021735	Min Market Price: Adjust
@@ -21737,5 +21737,3 @@ ETC_20160415_021736	Los mensajes de chat no pueden exceder los {Max} bites. El u
 ETC_20150317_001460	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons está restringido pues puede consumir una gran cantidad de bites.
 ETC_20160415_021737	Esta función estará disponible en {Time}.
 ETC_20160415_021738	Este usuario no puede realizar intercambios en este momento.
-
-
