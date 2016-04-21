@@ -529,7 +529,7 @@ UI_20150317_000528	Usar objeto de misión
 UI_20150317_000529	Consejo de misión
 UI_20150317_000530	{@st41}Confirmar{/}
 UI_20150317_000531	{@st43}{s22}Misión Completada{/}
-UI_20150317_000532	{@st41b}Completa{/}
+UI_20150317_000532	{@st41b}Aceptar{/}
 UI_20150317_000533	{@st41}Aceptar{/}
 UI_20150317_000534	{@st41}Rechazar{/}
 UI_20150317_000535	{@st44}Volver Atras{/}
@@ -1729,7 +1729,7 @@ UI_20150717_001728	Observar a otro jugafor
 UI_20150717_001729	{@st41}Campor de batalla
 UI_20150717_001730	Resultados
 UI_20150717_001731	{@st41}Moverse ahora
-UI_20150717_001732	{@st41b}             Un 'Nombre de Equipo' representa todos tus personajes.{nl}                Es un nombre común usado dentreo del juego.{nl}                  (¡Cambiar el nombre de equipo te costara TP!){/}
+UI_20150717_001732	{@st41b}             Un 'Nombre de Equipo' representa todos{nl}             tus personajes.{nl}                Es un nombre común usado dentreo del juego.{nl}                  (¡Cambiar el nombre de equipo te costara TP!){/}
 UI_20150729_001733	{@st42}Mostrar solo atributos aprendidos{/}
 UI_20150729_001734	Numero de Piernas
 UI_20150729_001735	Tecla
