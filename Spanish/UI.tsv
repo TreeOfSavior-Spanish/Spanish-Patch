@@ -653,7 +653,7 @@ UI_20150317_000652	Clerigo
 UI_20150317_000653	{@st59}Cancelar{/}
 UI_20150317_000654	Aprendiendo {#ff4400}%s (Nv. %s){/}...
 UI_20150317_000655	Psychohassle
-UI_20150317_000656	%s minuto(s) restantes
+UI_20150317_000656	{s12}%s minuto(s) restantes
 UI_20150317_000657	{@st43}Pose{/}
 UI_20150317_000658	{@st59}Cerrar{/}
 UI_20150317_000659	{@st41}Tablón{/}
@@ -1192,7 +1192,7 @@ UI_20150317_001191	Distribución del Botín : {#FFFF00}%s{/}
 UI_20150317_001192	Aleatoria
 UI_20150317_001193	Cómo puedo
 UI_20150317_001194	No ves quien es
-UI_20150317_001195	{@st41b}Diario de Aventuras Actualizado
+UI_20150317_001195	{s13}{@st41b}Diario de Aventuras Actualizado
 UI_20150317_001196	Menu de Objetos para misiones
 UI_20150317_001197	Categorias de Misiones
 UI_20150317_001198	Lista de Objetos de Misiones
@@ -1958,7 +1958,7 @@ UI_20151224_001957	{@st42}%s Beneficios{/}
 UI_20151224_001958	¿Quieres usar este %s?{/}
 UI_20151224_001959	Este objeto desaparecera de tu inventario{nl}Reseteara todos tus puntos de Habilidad.
 UI_20151224_001960	{@st41}Usar
-UI_20151224_001961	{@st59b}Clases{nl}{@st59s}- Puedes aprender nuevas habilidades aumentando el circulo de tu clase. {nl} - Puedes elegir entre 3 clases en tu primer y segundo ascenso. {nl} - Puedes ascender a la misma clase 3 veces. {nl} - No puedes volver a una clase anterior una vez hayas ascendido a otra. {nl} - Tienes que consumir todos tus puntos de habilidad antes de ascender. {nl} - Puedes eleir la misma clase.{nl}{@st59b}Skills{nl}{@st59s} - Puedes incrementar el Rank de cada habilidad hasta nivel 5.{nl} - Los atributos aprendidos de los maestros se muestran abajo. {/}
+UI_20151224_001961	{@st59b}Clases{nl}{@st59s}- Puedes aprender nuevas habilidades aumentando el circulo de tu clase. {nl} - Puedes elegir entre 3 clases en tu primer y segundo ascenso. {nl} - Puedes ascender a la misma clase 3 veces. {nl} - No puedes volver a una clase anterior una vez hayas ascendido a otra. {nl} - Tienes que consumir todos tus puntos de habilidad antes de ascender. {nl} - Puedes eleir la misma clase.{nl}{@st59b}Habilidades{nl}{@st59s} - Puedes incrementar el Rank de cada habilidad hasta nivel 5.{nl} - Los atributos aprendidos de los maestros se muestran abajo. {/}
 UI_20151224_001962	{@st66b}{s14}Información{/}
 UI_20151224_001963	{@st66b}{s14}Logros{/}
 UI_20151224_001964	{@st66b}{s14}Opciones de Personaje{/}
@@ -2107,7 +2107,7 @@ UI_20160224_002106	{@st41b}Salir del Modo Espectador
 UI_20160224_002107	Equipo Azul
 UI_20160224_002108	Equipo Rojo
 UI_20160224_002109	{@59}Mostrar en una nueva ventana{/}
-UI_20160224_002110	Diario de Aventuras Actualizado
+UI_20160224_002110	{s14}Diario de Aventuras Actualizado
 UI_20160224_002111	{@st41}Intercambio
 UI_20160224_002112	Ir a el Reino Feliz
 UI_20160224_002113	Horario de Batallas por Equipo
