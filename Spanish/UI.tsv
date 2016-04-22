@@ -1272,10 +1272,10 @@ UI_20150317_001271	{@St41b}Crear
 UI_20150317_001272	{@St41b}Precio : %s{/}
 UI_20150317_001273	{@Sti5}Precio : %s{/}
 UI_20150317_001274	{@Sti9} Misión de Grupo (%s){/}
-UI_20150317_001275	{@st41_yellow} Porcentaje de Exploración: %s% {/}
+UI_20150317_001275	{@st41_yellow} {s13}Porcentaje de Exploración: %s% {/}
 UI_20150317_001276	{@st41_yellow} Puntación: %s {/}
 UI_20150317_001277	{@st42b}{b}Porcentaje de Logro{/}
-UI_20150317_001278	{@st59}Entrar a mision de party{/}
+UI_20150317_001278	{@st59}Entrar a mision de grupo{/}
 UI_20150317_001279	Ventana
 UI_20150317_001280	Estado
 UI_20150317_001281	Pestaña
