@@ -51,7 +51,7 @@
 >> Fencer: Esgrimista (NdT: El término correcto es "Tirador")
 >> Dragoon: Dragón
 >> Templar: Templario
->> Shinobi: =
+>> Shinobi: Ninja
 
 >> Wizard: Mago
 >> Pyromancer: Piromante
@@ -78,7 +78,7 @@
 >> Paladin: Paladín
 >> Monk: Monje
 >> Pardoner: Redentor
->> Chaplain: ???
+>> Chaplain: Capellán
 >> Druid: Druída
 >> Oracle: Oráculo
 >> Plague Doctor: Médico de plagas
