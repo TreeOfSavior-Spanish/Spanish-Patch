@@ -51,13 +51,13 @@ ETC_20150317_000050	Vubbe Luchador Rojo
 ETC_20150317_000051	Se desconoce si los Vubbes luchadores son entrenados o tienen una aptitud natural para el combate.
 ETC_20150317_000052	Golem
 ETC_20150317_000053	Golem Gris
-ETC_20150317_000054	Medusa
-ETC_20150317_000055	Algunos dicen que una Medusa puede ser usada para contactar con las almas de los muertos.
-ETC_20150317_000056	Medusa Azul
-ETC_20150317_000057	Medusa Verde
-ETC_20150317_000058	Medusa Verde
-ETC_20150317_000059	Investigadores han afirmado que las plantas tienen alma. Las Medusa son la forma mutada de esas almas.
-ETC_20150317_000060	Larva de Medusa
+ETC_20150317_000054	Meduja
+ETC_20150317_000055	Algunos dicen que una Meduja puede ser usada para contactar con las almas de los muertos.
+ETC_20150317_000056	Meduja Azul
+ETC_20150317_000057	Meduja Verde
+ETC_20150317_000058	Meduja Roja
+ETC_20150317_000059	Investigadores han afirmado que las plantas tienen alma. Las Meduja son la forma mutada de esas almas.
+ETC_20150317_000060	Larva de Meduja
 ETC_20150317_000061	Ellaganos
 ETC_20150317_000062	Bite
 ETC_20150317_000063	Hay gente que preferiría recibir una flecha al mordisco de un Bite.
@@ -399,181 +399,181 @@ ETC_20150317_000398	Rajarana
 ETC_20150317_000399	Ruiseñor Sombrío
 ETC_20150317_000400	Helgasercle
 ETC_20150317_000401	Necroventer
-ETC_20150317_000402	Wriggling Lutopus
+ETC_20150317_000402 Lutopus Contorneante
 ETC_20150317_000403	Linkroller
-ETC_20150317_000404	Rocktortuga
+ETC_20150317_000404	Torturoca
 ETC_20150317_000405	Yekub
-ETC_20150317_000406	Poisonous Rytaswort
-ETC_20150317_000407	Ravinepede
-ETC_20150317_000408	Netherbovine
-ETC_20150317_000409	Wild Carnivore
-ETC_20150317_000410	Tomb Lord
+ETC_20150317_000406	Hierba Rytas Venenosa
+ETC_20150317_000407	Ramblapedo
+ETC_20150317_000408	Inferbovino
+ETC_20150317_000409	Carnívoro Salvaje
+ETC_20150317_000410	Señor de la Tumba
 ETC_20150317_000411	Achat
 ETC_20150317_000412	Shnayim
-ETC_20150317_000413	Honeypin
-ETC_20150317_000414	Rajapearl
-ETC_20150317_000415	Cyclops
+ETC_20150317_000413	Mielpin
+ETC_20150317_000414	Rajaperla
+ETC_20150317_000415	Cíclope
 ETC_20150317_000416	Archon
 ETC_20150317_000417	Carapace
-ETC_20150317_000418	Werewolf
-ETC_20150317_000419	Tiny
-ETC_20150317_000420	Due to its cute appearance many people have tried to win over Tiny's heart, but none were successful.
-ETC_20150317_000421	Tree Ambulo
-ETC_20150317_000422	Tree Ambulo is different from the typical monsters that originated from the demon realm as it is not a deformity between creatures and things.
+ETC_20150317_000418	Hombre-Lobo
+ETC_20150317_000419	Peque
+ETC_20150317_000420	Debido a su linda apariencia muchos han tratado de conquistar el corazon de Peque, ninguno lo ha logrado.
+ETC_20150317_000421	Árbol Ambulo
+ETC_20150317_000422	El Árbol Ambulo es diferente a muchos monstruos originados en el reino demoníaco pues no es una deformación de un ser o cosa.
 ETC_20150317_000423	Golemlet
 ETC_20150317_000424	Vubbesqua
 ETC_20150317_000425	Spion
-ETC_20150317_000426	It's well-trained to follow its owner's every command. Unfortunately, its owner is usually a demon.
+ETC_20150317_000426	Está muy bien entrenado para obedecer todas las órdenes de su amo. Lamentablemente, su dueño usualmente es un demonio.
 ETC_20150317_000427	Mirtislampa
 ETC_20150317_000428	Spekull
 ETC_20150317_000429	Scap
-ETC_20150317_000430	Shredded
-ETC_20150317_000431	Shredded is a demon monster that was derived from the by-product that results when you transform a monster into a powerful ghost.
+ETC_20150317_000430	Despojos
+ETC_20150317_000431	Los Despojos son unos monstruos tipo demonio originados cómo un sub-producto de cuando un monstruo más poderoso es transformado en fantasma.
 ETC_20150317_000432	Yekubite
-ETC_20150317_000433	Yekub unleashes its infamous cry in the demon realm, which produces many minions and spreads them around the world. Yekubite is the name given to these minions.
-ETC_20150317_000434	Shardstatue
-ETC_20150317_000435	A possessed demonic monster obsessed with the divine Goddess Statues.
-ETC_20150317_000436	Deadborn Scap
+ETC_20150317_000433	El Yekub desata su infame grito que produce millares de secuaces. Yekubite es el nombre dado a esos secuaces.
+ETC_20150317_000434	Trozo de Estatua
+ETC_20150317_000435	Un monstruo poseído que está obsesionado con las divinas Estatuas de la Diosa.
+ETC_20150317_000436	Scap Muerto Vivo
 ETC_20150317_000437	Cire
-ETC_20150317_000438	This monster does not seem to transmute from typical plants but rather from rotten flora. However, there are no evidence to support this conclusion.
+ETC_20150317_000438	Este monstruo no parece haber sido transmutado de plantas sino que de flora podrida. Sin embargo, no hay evidencia que apoye esta conclusión.
 ETC_20150317_000439	Ritasfung
 ETC_20150317_000440	Tisfung
 ETC_20150317_000441	Mushpung
-ETC_20150317_000442	Treegool
-ETC_20150317_000443	Upon transforming into a monster with a hardened wood body and no leaves, Treegool supplants its former photosynthetic diet with hunting.
+ETC_20150317_000442	Árbgool
+ETC_20150317_000443	Luego de transformarse en un monstruo con un cuerpo de madera reforzado y sin hojas, el Árbgool ha reemplazado su dieta fotosíntetica con la caza.
 ETC_20150317_000444	Cyst
 ETC_20150317_000445	Ammon
-ETC_20150317_000446	Existing since ancient times, Ammon has harmed countless people and monsters.
-ETC_20150317_000447	Operor
-ETC_20150317_000448	While it has maintained its original form, Operor has developed severely aggressive and violent behavior.
-ETC_20150317_000449	Chafperor
-ETC_20150317_000450	A severely mutated bee and beetle hybrid with qualities of both, it operates in swarms.
-ETC_20150317_000451	Ravinelarva
-ETC_20150317_000452	Before it was revealed to be a mutated plant, it was speculated to be a monster's larva.
-ETC_20150317_000453	Nethercalf
+ETC_20150317_000446	Desde tiempos inmemoriales, Ammon ha dañado incontables personas y monstruos.
+ETC_20150317_000447	Operador
+ETC_20150317_000448	Aunque mantuvo su forma original, el Operador ha desarrollado un comportamiento extremedamente violento y peligroso.
+ETC_20150317_000449	Chafperador
+ETC_20150317_000450	Un híbrido entre Avispa y Escarabajo gravemente mutado que comparte carácteristicas de ambos, operan en enjambres.
+ETC_20150317_000451	Ramblarva
+ETC_20150317_000452	Antes de que fuese revelada cómo una planta, se especulaba que era la larva de un monstruo.
+ETC_20150317_000453	Infernovillo
 ETC_20150317_000454	Infrogalas
-ETC_20150317_000455	Carnivorefung
-ETC_20150317_000456	Vesper
-ETC_20150317_000457	Animals living in the Royal Mausoleum have been deformed in recent years by the influence of the evil energy.
+ETC_20150317_000455	Carnívofung
+ETC_20150317_000456	Avisper
+ETC_20150317_000457	Los animales que vivían en el Mausoleo Real han sido deformados por la energía maligna.
 ETC_20150317_000458	Karas
-ETC_20150317_000459	It is a magic creature whose name comes from the wishes of a golem species.
+ETC_20150317_000459	Es una criatura mágica cuyo nombre proviene de los deseos de los golems.
 ETC_20150317_000460	Echad
-ETC_20150317_000461	A magical creature created to protect the Royal Mausoleum. Despite being weak, it is strong enough to resist the goddess' powers.
+ETC_20150317_000461	Una criatura mágica creada para proteger el Mausoleo Real. A pesar de ser débil, es lo suficientemente fuerte cómo para resistir los poderes de las Diosas.
 ETC_20150317_000462	Shtayim
-ETC_20150317_000463	Despite its appearance, this magical creation has received the blessing of the goddess. Can deal critical damage to demons.
-ETC_20150317_000464	Tombsinker
-ETC_20150317_000465	Many creatures have been placed in the Royal Mausoleum, including the Tombsinker, to guard against intruding demons.
+ETC_20150317_000463	A pesar de su apariciencia, esta creación mágica ha recibido la bendición de la Diosa. Puede causarle daño crítico a los Demonios.
+ETC_20150317_000464	Undetumbas
+ETC_20150317_000465	Muchas criaturas fueron colocadas en el Mausoleo Real, incluyendo el Undetumbas, para protegerlo contra los demonios.
 ETC_20150317_000466	Graztas
 ETC_20150317_000467	Abogust
-ETC_20150317_000468	Weaver
-ETC_20150317_000469	There are rumors saying the Weaver is looking for thread made of stone.
+ETC_20150317_000468	Tejedora
+ETC_20150317_000469	Los rumores dicen que la Tejedora se encuentra buscando telas de roca.
 ETC_20150317_000470	Hallowventer
-ETC_20150317_000471	Please do not look directly into their hoods.
+ETC_20150317_000471	No mires directamente su capucha.
 ETC_20150317_000472	Meleech
 ETC_20150317_000473	Firm and toxic, their blood-sucking ability is unique.
-ETC_20150317_000474	Infro Salamander
+ETC_20150317_000474	Infro Salamandra
 ETC_20150317_000475	Zolem
-ETC_20150317_000476	Unlike traditional Golems, Zolem move by a mysterious aura, not magic.
-ETC_20150317_000477	Kepa Raider
-ETC_20150317_000478	Although a Kepa by name, it actually comes from the demon realm.
+ETC_20150317_000476	A diferencia de los Golems tradicionales; el Zolem es movido por un aura misteriosa, no magia.
+ETC_20150317_000477	Kepa Invasor
+ETC_20150317_000478	Aunque es un Kepa de nombre, realmente provino del reino demoniaco.
 ETC_20150317_000479	Mushcarfung
-ETC_20150317_000480	Wood Goblin
-ETC_20150317_000481	An evil goblin summoned by the Vubbes. It sometimes appear even in areas where Vubbes are not found.
-ETC_20150317_000482	Red Wood Goblin
-ETC_20150317_000483	Templeslave
-ETC_20150317_000484	Ringring
-ETC_20150317_000485	Woodin
-ETC_20150317_000486	Stone Orca
-ETC_20150317_000487	A mutant monster that looks like a dolphin. Its other features correspond to a small Stone Whale.
-ETC_20150317_000488	Rajapearlite
+ETC_20150317_000480	Goblin de Madera
+ETC_20150317_000481	Un goblin malvado, invocado por los Vubbes. A veces aparece en áreas donde no hay signos de Vubbes.
+ETC_20150317_000482	Goblin de Madera Rojo
+ETC_20150317_000483	Esclavo del Templo
+ETC_20150317_000484	Aroaro
+ETC_20150317_000485	Maderin
+ETC_20150317_000486	Orca de roca
+ETC_20150317_000487	Monstruo mutante que se ve cómo un delfín. Sus otras características corresponden a una Ballena de Roca pequeña.
+ETC_20150317_000488	Rajaperlita
 ETC_20150317_000489	Drape
-ETC_20150317_000490	Although a clyra type because of its sharp tail, this monster seems to have transformed from a pumpkin.
-ETC_20150317_000491	Infroholder
-ETC_20150317_000492	As demons become more populous, new varieties of them appear. Infroholder is one of these new types of demon.
-ETC_20150317_000493	Lepusbunny
-ETC_20150317_000494	In the past this animal was quite friendly towards humans, but now it's even more dangerous than a bear.
-ETC_20150317_000495	Nuwort
-ETC_20150317_000496	Beadbird
+ETC_20150317_000490	Aunque es un tipo de Clyra por su cola, est monstruo parece haber sido transmutado de una calabaza.
+ETC_20150317_000491	Infrortador
+ETC_20150317_000492	A medida que la población de demonios se expandió, nuevas especies aparecieron. El Infrortador es una de esas especies.
+ETC_20150317_000493	Lepusnejo
+ETC_20150317_000494	En el pasado este animal era muy amigable con los humanos pero ahora es más peligroso que un oso.
+ETC_20150317_000495	Hierba Nu
+ETC_20150317_000496	Aveperla
 ETC_20150317_000497	Minos
-ETC_20150317_000498	Armori
-ETC_20150317_000499	The Armori are dullahans whose armors are stained by evil energy.
-ETC_20150317_000500	Mine Lever
+ETC_20150317_000498	Armaduri
+ETC_20150317_000499	Los Armaduri son dullahans cuya armadura es mantenida por energía maligna.
+ETC_20150317_000500	Palanca de Mina
 ETC_20150317_000501	Shadowgaler_summon
-ETC_20150317_000502	Hound
-ETC_20150317_000503	Is that another tail hanging on its back?
+ETC_20150317_000502	Sabuezo
+ETC_20150317_000503	¿Será eso otra cola?
 ETC_20150317_000504	Stoulet
-ETC_20150317_000505	A demon that respects the strong and is cruel to the weak. Nonetheless, its aggression trivializes this characteristic.
-ETC_20150317_000506	Rajatadpole
-ETC_20150317_000507	Cuticle
+ETC_20150317_000505	Un demonio que respeta al fuerte y es cruel contra el débil. Aunque, su agresividad vuelve trivial esta característica.
+ETC_20150317_000506	Rajarenacuajo
+ETC_20150317_000507	Cutícula
 ETC_20150317_000508	Infroburk
-ETC_20150317_000509	It is uncertain which monster Infroburk resembles, but it certainly is ferocious.
-ETC_20150317_000510	Mandara Soldier
-ETC_20150317_000511	Night Maid
-ETC_20150317_000512	Worg
+ETC_20150317_000509	No se sabe con certeza a que monstruo se parece el Infroburk, pero ciertamente es feroz.
+ETC_20150317_000510	Soldado Mandara
+ETC_20150317_000511	Doncella Nocturna
+ETC_20150317_000512	Wargo
 ETC_20150317_000513	Saltisdaughter
-ETC_20150317_000514	Prison Fighter
-ETC_20150317_000515	They kill their fellow demons out of boredom.
+ETC_20150317_000514	Luchador de la Prisión
+ETC_20150317_000515	Ellos matan a sus camaradas demoníacos por ocio.
 ETC_20150317_000516	Greentoshell
 ETC_20150317_000517	Sparnicht
-ETC_20150317_000518	Infrorocktor
-ETC_20150317_000519	A small monster that is part turtle and part mineral. It prefers living in solitude rather than in a group.
-ETC_20150317_000520	Catacombs Maggot
-ETC_20150317_000521	Maggot Egg
-ETC_20150317_000522	Green Maggot
-ETC_20150317_000523	Yellow Maggot
-ETC_20150317_000524	Green Maggot Egg
-ETC_20150317_000525	Yellow Maggot Egg
+ETC_20150317_000518	Infrorocator
+ETC_20150317_000519	Un pequeño monstruo que es mitad tortuga, mitad mineral. Prefiere vivir solo que en grupo.
+ETC_20150317_000520	Gusano de las Catacumbas
+ETC_20150317_000521	Huevo de Gusano
+ETC_20150317_000522	Gusano Verde
+ETC_20150317_000523	Gusano Amarillo
+ETC_20150317_000524	Huevo de Gusano Verde
+ETC_20150317_000525	Huevo de Gusano Amarillo
 ETC_20150317_000526	Cactusvel
 ETC_20150317_000527	Kirmeleech
 ETC_20150317_000528	Magburk
 ETC_20150317_000529	Drapeliun
 ETC_20150317_000530	Sparnashorn
-ETC_20150317_000531	Ironbaum
-ETC_20150317_000532	Vubbe Chaser
-ETC_20150317_000533	Glass Mole
-ETC_20150317_000534	Denoptic
+ETC_20150317_000531	Hierrobaum
+ETC_20150317_000532	Persecutor Vubbe
+ETC_20150317_000533	Topo de Vidrío
+ETC_20150317_000534	Denoptíco
 ETC_20150317_000535	Sparnasman
-ETC_20150317_000536	Tomb Maiden
+ETC_20150317_000536	Doncella de la Tumba
 ETC_20150317_000537	Unknocker
-ETC_20150317_000538	Mummyghast
+ETC_20150317_000538	Momiaspectral
 ETC_20150317_000539	Kubas
 ETC_20150317_000540	Grinender
-ETC_20150317_000541	Pyroego
-ETC_20150317_000542	Gorgon
-ETC_20150317_000543	Lithorex
+ETC_20150317_000541	Piroego
+ETC_20150317_000542	Gorgona
+ETC_20150317_000543	Litorex
 ETC_20150317_000544	Moa
-ETC_20150317_000545	Scorpio
-ETC_20150317_000546	Deathweaver
-ETC_20150317_000547	Templeshooter
-ETC_20150317_000548	Chapparition
-ETC_20150317_000549	Minotaur
-ETC_20150317_000550	Cerberus
-ETC_20150317_000551	Cursed Devilglove
-ETC_20150317_000552	Giant Wood Goblin
-ETC_20150317_000553	Helgasercle's Reflection
-ETC_20150317_000554	Hori Wizard
-ETC_20150317_000555	Vubbe Warrior
-ETC_20150317_000556	Summoned Minion
-ETC_20150317_000557	Scarecrow
+ETC_20150317_000545	Escorpio
+ETC_20150317_000546	Tejedora Letal
+ETC_20150317_000547	Disparador del Templo
+ETC_20150317_000548	Chapparición
+ETC_20150317_000549	Minotauro
+ETC_20150317_000550	Cerbero
+ETC_20150317_000551	Guante Demoníaco Maldito
+ETC_20150317_000552	Goblin de Madera Gigante
+ETC_20150317_000553	Reflejo de Helgasercle
+ETC_20150317_000554	Mago Hori
+ETC_20150317_000555	Vubbe Luchador
+ETC_20150317_000556	Secuaz Invocado
+ETC_20150317_000557	Espantapájaros
 ETC_20150317_000558	Aukuras
-ETC_20150317_000559	High Vubbe
-ETC_20150317_000560	Caltrop
-ETC_20150317_000561	Torch
-ETC_20150317_000562	Crystal Spider
-ETC_20150317_000563	Because of its appearance, novice miners often try to mine the crystal on the spider's back and are attacked.
-ETC_20150317_000564	Swarm of Bees
-ETC_20150317_000565	Caltrop
+ETC_20150317_000559	Alto Vubbe
+ETC_20150317_000560	Abrojo
+ETC_20150317_000561	Antorcha
+ETC_20150317_000562	Araña Cristal
+ETC_20150317_000563	Debido a su apariencia, los mineros novatos tratan de extraer sus espaldas y son atacados.
+ETC_20150317_000564	Enjambre de Abejas
+ETC_20150317_000565	Abrojo
 ETC_20150317_000566	Filibo
-ETC_20150317_000567	Those who see Filibo as a small and cute critter will quickly be injured by it.
-ETC_20150317_000568	Holy Water Bottle
-ETC_20150317_000569	Bramble Event
-ETC_20150317_000570	Chain
+ETC_20150317_000567	Aquellos que ven al Filipo cómo un ser pequeño y adorable son rápidamente atacados por él.
+ETC_20150317_000568	Botella de Agua Bendita
+ETC_20150317_000569	Evento de Zarsas
+ETC_20150317_000570	Cadena
 ETC_20150317_000571	Hyde box
-ETC_20150317_000572	Bat
-ETC_20150317_000573	Acting as Mirtis' scout minion, these bats once lived throughout the world but have grown into a large threat despite of their small bodies.
-ETC_20150317_000574	Field Ginklas
-ETC_20150317_000575	Field Netherbovine
-ETC_20150317_000576	Fatal Biteregina
+ETC_20150317_000572	Murciélago
+ETC_20150317_000573	Actúan cómo secuaces exploradores de Mirtis, estos murciélagos solían vivir en todo el mundo, pero se han convertido en una amenaza mayor a pesar de su reducido tamaño.
+ETC_20150317_000574	Ginklas del Campo
+ETC_20150317_000575	Inferbovino del Campo
+ETC_20150317_000576	Biteregina Fatal
 ETC_20150317_000577	Nureongi
 ETC_20150317_000578	Speck
 ETC_20150317_000579	White Spots
@@ -669,7 +669,7 @@ ETC_20150317_000668	Impregnable Cyclops
 ETC_20150317_000669	Fearless Blue Sequoia
 ETC_20150317_000670	Thorned Shadowgaler
 ETC_20150317_000671	Rock Armor Rocktortuga
-ETC_20150317_000672	Cast Iron Horn Netherbovine
+ETC_20150317_000672	Cast Iron Horn Inferbovino
 ETC_20150317_000673	Ferocious Molich
 ETC_20150317_000674	Judder Yonazolem
 ETC_20150317_000675	Poisonous Throneweaver
@@ -687,7 +687,7 @@ ETC_20150317_000686	Leaping Ironbaum
 ETC_20150317_000687	Shaking Achat
 ETC_20150317_000688	Shnayim moving Again
 ETC_20150317_000689	Excited Minotaur
-ETC_20150317_000690	Fluttering Denoptic
+ETC_20150317_000690	Fluttering Denóptico
 ETC_20150317_000691	Precarious Clymen
 ETC_20150317_000692	Igniting Jack O'Lantern
 ETC_20150317_000693	Fluttering Mothstem
@@ -922,7 +922,7 @@ ETC_20150317_000921	Q2 Golem
 ETC_20150317_000922	Q3 Golem
 ETC_20150317_000923	Q4 Golem
 ETC_20150317_000924	Q1 Devilglove
-ETC_20150317_000925	Q1 Denoptic
+ETC_20150317_000925	Q1 Denóptico
 ETC_20150317_000926	Q1 Reaverpede
 ETC_20150317_000927	Mushwort
 ETC_20150317_000928	Q3 Mushcaria
@@ -976,12 +976,12 @@ ETC_20150317_000975	Simorph
 ETC_20150317_000976	Rumor Culprit Bearkaras
 ETC_20150317_000977	Devilglove
 ETC_20150317_000978	Corpse Cleaner Harpeia
-ETC_20150317_000979	[Advancement] Stone whale
-ETC_20150317_000980	[Advancement] Green Woodspirit
-ETC_20150317_000981	[Advancement] Specter Monarch
-ETC_20150317_000982	[Advancement] Rajapearl
-ETC_20150317_000983	[Advancement] Lepus
-ETC_20150317_000984	[Advancement] Denoptic
+ETC_20150317_000979	[Ascenso] Stone whale
+ETC_20150317_000980	[Ascenso] Green Woodspirit
+ETC_20150317_000981	[Ascenso] Specter Monarch
+ETC_20150317_000982	[Ascenso] Rajapearl
+ETC_20150317_000983	[Ascenso] Lepus
+ETC_20150317_000984	[Ascenso] Denóptico
 ETC_20150317_000985	Carve Owl D
 ETC_20150317_000986	Carve Owl E
 ETC_20150317_000987	Vubbe Scout
@@ -1795,7 +1795,7 @@ ETC_20150317_001794	Has usado un objeto de recuperación.
 ETC_20150317_001795	Max PM {Auto_2} aumenta permanente al usar {Auto_1}
 ETC_20150317_001796	Montar
 ETC_20150317_001797	Desmontar
-ETC_20150317_001798	Mascota
+ETC_20150317_001798	Acariciar
 ETC_20150317_001799	Info
 ETC_20150317_001800	Estas muy lejos de tu compañero. 
 ETC_20150317_001801	Selecciona un PJ para el compañero.
@@ -1862,7 +1862,7 @@ ETC_20150317_001861	Cambiar Equipo
 ETC_20150317_001862	Creación
 ETC_20150317_001863	Bolsa
 ETC_20150317_001864	Paquete
-ETC_20150317_001865	Solicitud de Gremio
+ETC_20150317_001865	Solicitud de Clan
 ETC_20150317_001866	Posadero
 ETC_20150317_001867	Ruleta
 ETC_20150317_001868	Lugar
@@ -2587,7 +2587,7 @@ ETC_20150317_002586	Golpe de Canto Rompedor
 ETC_20150317_002587	Ajustar Golpe de Canto
 ETC_20150317_002588	Penalización por disparo a quemaropa
 ETC_20150317_002589	Esculpir
-ETC_20150317_002590	Abandonar Gremio
+ETC_20150317_002590	Abandonar Clan
 ETC_20150317_002591	Solicitud de Grupo
 ETC_20150317_002592	Has fallado en Crear un Grupo
 ETC_20150317_002593	El nombre del Grupo ya existe
@@ -3006,15 +3006,15 @@ ETC_20150317_003005	Found an Archaeologist's Token!
 ETC_20150317_003006	Did not find anything.
 ETC_20150317_003007	Tombstone of Lydia Schaffen completed. {nl} Let's read the tombstone again.
 ETC_20150317_003008	You do not have enough tombstone pieces.
-ETC_20150317_003009	Quest completed!
+ETC_20150317_003009	¡Misión Completada!
 ETC_20150317_003010	Tried to open the box but couldn't.
 ETC_20150317_003011	Available during the tagging game
 ETC_20150317_003012	Cannot be used by the tagger
 ETC_20150317_003013	Current Ice status
 ETC_20150317_003014	Available in West Siauliai Woods
-ETC_20150317_003015	There are no [Beast-type] monsters nearby!
-ETC_20150317_003016	Ride on
-ETC_20150317_003017	Using
+ETC_20150317_003015	¡No hay monstruos [Tipo Bestia] alrededor!
+ETC_20150317_003016	Montarse
+ETC_20150317_003017	Usando
 ETC_20150317_003018	First reaction: Movement speed decrease
 ETC_20150317_003019	Second reaction: Addiction
 ETC_20150317_003020	Third reaction: Faint
@@ -3062,21 +3062,21 @@ ETC_20150317_003061	Death awaits you, if you don't win!
 ETC_20150317_003062	For Klaipeda!
 ETC_20150317_003063	The blessing of the goddess is with us!
 ETC_20150317_003064	{/}{#ffFFFF} Hit Me of {/}
-ETC_20150317_003065	Mejuda larvae has detected danger and is now self destructing!
-ETC_20150317_003066	Avoid me!
-ETC_20150317_003067	You do not want to commit the crime.
-ETC_20150317_003068	I do not want to attack!
-ETC_20150317_003069	A monster is controlling me!
-ETC_20150317_003070	Just kill me instead!
-ETC_20150317_003071	I want to be free...
-ETC_20150317_003072	Thank you...
-ETC_20150317_003073	I owe it to you! Thanks...
-ETC_20150317_003074	Are you leading me to the goddess?
-ETC_20150317_003075	I'm so afraid...
-ETC_20150317_003076	Where is this place?
-ETC_20150317_003077	What happened to me?
-ETC_20150317_003078	The goddess is calling from there...
-ETC_20150317_003079	You led the soul to the Owl Sculpture!
+ETC_20150317_003065	¡La larva Meduja detectó peligro e intenta autodestruirse!
+ETC_20150317_003066	¡Esquivame!
+ETC_20150317_003067	No quieres cometer un crímen.
+ETC_20150317_003068	¡No quiero atacar!
+ETC_20150317_003069	¡Un monstruo me está controlando!
+ETC_20150317_003070	¡Entonces sólo matáme!
+ETC_20150317_003071	Quiero ser libre...
+ETC_20150317_003072	Muchas gracias...
+ETC_20150317_003073	¡Te debo una! Gracias...
+ETC_20150317_003074	¿Me guíaras a la Diosa?
+ETC_20150317_003075	Tengo miedo...
+ETC_20150317_003076	¿Dónde estamos?
+ETC_20150317_003077	¿Qué me sucedió?
+ETC_20150317_003078	La Diosa está llamandome...
+ETC_20150317_003079	¡Guíaste el alma a la estatua de Búho!
 ETC_20150317_003080	Angry Soul
 ETC_20150317_003081	Revived Corpse
 ETC_20150317_003082	The soul made it to the Goddess Statue!
@@ -3580,45 +3580,45 @@ ETC_20150317_003579	{S20}{ol}{#ff1100} Received {Auto_2} EXP from {Auto_1}.{/}{/
 ETC_20150317_003580	You do not have enough EXP
 ETC_20150317_003581	Call session when there is no SessionObject XML. Call value:
 ETC_20150317_003582	Faster Movement Speed
-ETC_20150317_003583	Increase CON by +2
-ETC_20150317_003584	Increase CON by +5
-ETC_20150317_003585	Increase CON by +10
-ETC_20150317_003586	Increase CON by +20
-ETC_20150317_003587	Increase Attack by +2
-ETC_20150317_003588	Increase Attack by +5
-ETC_20150317_003589	Increase Attack by +10
-ETC_20150317_003590	Increase Attack by +20
-ETC_20150317_003591	Increase DEX by +5
-ETC_20150317_003592	Increase DEX by +10
-ETC_20150317_003593	Increase DEX by +20
-ETC_20150317_003594	Increase CON by +5. Move like a zombie
-ETC_20150317_003595	Increase SPR by +2
-ETC_20150317_003596	Increase SPR by +5
-ETC_20150317_003597	Increase SPR by +10
-ETC_20150317_003598	Increase SPR by +20
-ETC_20150317_003599	Increase Dark Attack by +10
-ETC_20150317_003600	Increase attack by +5 against Beast types, You can hear what the cat said..
-ETC_20150317_003601	Increase SP recovery by +2
+ETC_20150317_003583	Aumentar CON en +2
+ETC_20150317_003584	Aumentar CON en +5
+ETC_20150317_003585	Aumentar CON en +10
+ETC_20150317_003586	Aumentar CON en +20
+ETC_20150317_003587	Aumentar Ataque en +2
+ETC_20150317_003588	Aumentar Ataque en +5
+ETC_20150317_003589	Aumentar Ataque en +10
+ETC_20150317_003590	Aumentar Ataque en +20
+ETC_20150317_003591	Aumentar DEX en +5
+ETC_20150317_003592	Aumentar DEX en +10
+ETC_20150317_003593	Aumentar DEX en +20
+ETC_20150317_003594	Aumentar CON en +5. Moverte cómo Zombie
+ETC_20150317_003595	Aumentar SPR en +2
+ETC_20150317_003596	Aumentar SPR en +5
+ETC_20150317_003597	Aumentar SPR en +10
+ETC_20150317_003598	Aumentar SPR en +20
+ETC_20150317_003599	Aumentar ataque Oscuro en +10
+ETC_20150317_003600	Aumentar ataque en +5 contra monstruos tipo Bestia, puedes oír lo que el gato dijo..
+ETC_20150317_003601	Aumentar Recuperación de PM en +2
 ETC_20150317_003602	Feels like the chance to acquire item will increase
-ETC_20150317_003603	Increased Critical Chance
-ETC_20150317_003604	Increased Attack
-ETC_20150317_003605	Increased Defense
-ETC_20150317_003606	Attack increased significantly
-ETC_20150317_003607	Not a registered instant shop{nl}Register instant shop through the Item Merchant to use
-ETC_20150317_003608	Instant shop (O)
-ETC_20150317_003609	right away.
+ETC_20150317_003603	Aumentar Critical Chance
+ETC_20150317_003604	Aumentar Ataque
+ETC_20150317_003605	Aumentar Defensa
+ETC_20150317_003606	Ataque ha aumentado significativamente
+ETC_20150317_003607	No has registrado Insta-Tienda{nl}Debes registrar la Insta-Tienda desde el PNJ Vendedor de Objetos 
+ETC_20150317_003608	Insta-Tienda (O)
+ETC_20150317_003609	de inmediato.
 ETC_20150317_003610	Session destruction
-ETC_20150317_003611	Done
-ETC_20150317_003612	Hi
-ETC_20150317_003613	Have it
-ETC_20150317_003614	Don't have it
+ETC_20150317_003611	Hola
+ETC_20150317_003612	Hola
+ETC_20150317_003613	Lo tengo
+ETC_20150317_003614	No lo tengo
 ETC_20150317_003615	Active
 ETC_20150317_003616	Absorbing Gem
-ETC_20150317_003617	Hello? Buy some flowers
-ETC_20150317_003618	Come in
-ETC_20150317_003619	Go out
-ETC_20150317_003620	Destroy
-ETC_20150317_003621	HP ({Auto_1}/{Auto_2})
+ETC_20150317_003617	¿Hola? Compra flores
+ETC_20150317_003618	Ven
+ETC_20150317_003619	Sal
+ETC_20150317_003620	Destruír
+ETC_20150317_003621	PS ({Auto_1}/{Auto_2})
 ETC_20150317_003622	Failed to reach goal because the defense has failed
 ETC_20150317_003623	Seconds to return to previous field
 ETC_20150317_003624	Successfully defeated the Stone Whale! {nl} Yekub has weakened
@@ -6848,7 +6848,7 @@ ETC_20150317_006848	Great Cathedral 56
 ETC_20150317_006849	Please enter 123
 ETC_20150317_006850	Please enter abc
 ETC_20150317_006851	Iron Ore
-ETC_20150317_006852	Recipe - Gladius
+ETC_20150317_006852	Receta - Gladius
 ETC_20150317_006853	Earth Tower Hidden Trigger Monster
 ETC_20150317_006854	Earth Tower Hidden Trigger
 ETC_20150317_006855	Earth Tower Stone Whale
@@ -8203,428 +8203,428 @@ ETC_20150317_008203	Cherise
 ETC_20150317_008204	A low ranking soldier. Like most of the female soldiers, she fancies the Guard Captain, Roy.
 ETC_20150317_008205	Roy
 ETC_20150317_008206	Guard Captain. Many girls are fascinated with his beauty. 
-ETC_20150317_008207	Recipe - Oak Wood
+ETC_20150317_008207	Receta - Oak Wood
 ETC_20150317_008208	A recipe for making wood used for the wooden statues.
-ETC_20150317_008209	Recipe - Ash Wood
-ETC_20150317_008210	Recipe - Pine Wood
-ETC_20150317_008211	Recipe - Cedar Wood
-ETC_20150317_008212	Recipe - Drake Epaulet
+ETC_20150317_008209	Receta - Ash Wood
+ETC_20150317_008210	Receta - Pine Wood
+ETC_20150317_008211	Receta - Cedar Wood
+ETC_20150317_008212	Receta - Drake Epaulet
 ETC_20150317_008213	Recipe for crafting materials
-ETC_20150317_008214	Recipe - White Mucus
-ETC_20150317_008215	Recipe - Florr
-ETC_20150317_008216	Recipe - Rough Bone Powder
-ETC_20150317_008217	Recipe - Tendon
-ETC_20150317_008218	Recipe - Spell Device
-ETC_20150317_008219	Recipe - Pyrostone
-ETC_20150317_008220	Recipe - Cryostone
-ETC_20150317_008221	Recipe - Hardener
-ETC_20150317_008222	Recipe - Tough Tendon
-ETC_20150317_008223	Recipe - Resinate
-ETC_20150317_008224	Recipe - Bokor Doll
+ETC_20150317_008214	Receta - White Mucus
+ETC_20150317_008215	Receta - Florr
+ETC_20150317_008216	Receta - Rough Bone Powder
+ETC_20150317_008217	Receta - Tendon
+ETC_20150317_008218	Receta - Spell Device
+ETC_20150317_008219	Receta - Pyrostone
+ETC_20150317_008220	Receta - Cryostone
+ETC_20150317_008221	Receta - Hardener
+ETC_20150317_008222	Receta - Tough Tendon
+ETC_20150317_008223	Receta - Resinate
+ETC_20150317_008224	Receta - Bokor Doll
 ETC_20150317_008225	A recipe for crafting a Bokor Doll.
 ETC_20150317_008226	A recipe for crafting equipment.
-ETC_20150317_008227	Recipe - Kaskara
-ETC_20150317_008228	Recipe - Cinquedea
-ETC_20150317_008229	Recipe - Sabre
-ETC_20150317_008230	Recipe - Shamshir
-ETC_20150317_008231	Recipe - Scimitar
-ETC_20150317_008232	Recipe - Kris
-ETC_20150317_008233	Recipe - Snickersnee
-ETC_20150317_008234	Recipe - Moplah
-ETC_20150317_008235	Recipe - Spatha
-ETC_20150317_008236	Recipe - Panto Sword
-ETC_20150317_008237	Recipe - Steel Falchion
-ETC_20150317_008238	Recipe - Silver Falchion
-ETC_20150317_008239	Recipe - Golden Falchion
-ETC_20150317_008240	Recipe - Mandrapick
-ETC_20150317_008241	Recipe - Flonas Sabre
-ETC_20150317_008242	Recipe - Wizard Blade
-ETC_20150317_008243	Recipe - Miskas Sabre
-ETC_20150317_008244	Recipe - Trinity Sword
-ETC_20150317_008245	Recipe - Velniup
-ETC_20150317_008246	Recipe - Fortis
-ETC_20150317_008247	Recipe - Bendras Sword
-ETC_20150317_008248	Recipe - Illizia
-ETC_20150317_008249	Recipe - High Falchion
-ETC_20150317_008250	Recipe - Smith Sword
-ETC_20150317_008251	Recipe - Klavis Sword
-ETC_20150317_008252	Recipe - Low Bastard Rod
-ETC_20150317_008253	Recipe - Flamberge
-ETC_20150317_008254	Recipe - Nodachi
-ETC_20150317_008255	Recipe - Claymore
-ETC_20150317_008256	Recipe - Colossus
-ETC_20150317_008257	Recipe - Caliburn
-ETC_20150317_008258	Recipe - Quaddara
-ETC_20150317_008259	Recipe - Ilwoon
-ETC_20150317_008260	Recipe - Temsus Flamberge
-ETC_20150317_008261	Recipe - Potentia
-ETC_20150317_008262	Recipe - Didel Colossus
-ETC_20150317_008263	Recipe - Hogma Greatsword
-ETC_20150317_008264	Recipe - Primaluce
-ETC_20150317_008265	Recipe - Prieblanda
-ETC_20150317_008266	Recipe - Lapis Katzbalger
-ETC_20150317_008267	Recipe - Flamini
-ETC_20150317_008268	Recipe - Wizard Slayer
-ETC_20150317_008269	Recipe - Luciduce
-ETC_20150317_008270	Recipe - Hell and Heaven
-ETC_20150317_008271	Recipe - Nulis
-ETC_20150317_008272	Recipe - Smith Two-handed Sword
-ETC_20150317_008273	Recipe - Klavis Two-handed Sword
-ETC_20150317_008274	Recipe - Cane Rover
-ETC_20150317_008275	Recipe - Cane
-ETC_20150317_008276	Recipe - Crook
-ETC_20150317_008277	Recipe - Puter Rod
-ETC_20150317_008278	Recipe - Owl Rod
-ETC_20150317_008279	Recipe - Rune Rod
-ETC_20150317_008280	Recipe - Crystal Rod
-ETC_20150317_008281	Recipe - Battle Rod
-ETC_20150317_008282	Recipe - Ice Rod
-ETC_20150317_008283	Recipe - Fire Rod
-ETC_20150317_008284	Recipe - Vasia Rod
-ETC_20150317_008285	Recipe - Magic Rod
-ETC_20150317_008286	Recipe - Arch Rod
-ETC_20150317_008287	Recipe - Ignition
-ETC_20150317_008288	Recipe - Secretum
-ETC_20150317_008289	Recipe - Zaima
-ETC_20150317_008290	Recipe - High Long Rod
-ETC_20150317_008291	Recipe - Smith Rod
-ETC_20150317_008292	Recipe - Klavis Rod
-ETC_20150317_008293	Recipe - Oak Staff
-ETC_20150317_008294	Recipe - Staff
-ETC_20150317_008295	Recipe - Jus Staff
-ETC_20150317_008296	Recipe - Ubuko Staff
-ETC_20150317_008297	Recipe - Stag Staff
-ETC_20150317_008298	Recipe - Geometry Staff
-ETC_20150317_008299	Recipe - Demon Staff
-ETC_20150317_008300	Recipe - Storm Staff
-ETC_20150317_008301	Recipe - Magic Wooden Staff
-ETC_20150317_008302	Recipe - Melinas Staff
-ETC_20150317_008303	Recipe - Magi Staff
-ETC_20150317_008304	Recipe - Ludas Staff
-ETC_20150317_008305	Recipe - Saltas Staff
-ETC_20150317_008306	Recipe - Karsto Staff
-ETC_20150317_008307	Recipe - Expecta Staff
-ETC_20150317_008308	Recipe - Welsh Staff
-ETC_20150317_008309	Recipe - Candle Staff
-ETC_20150317_008310	Recipe - Audra
-ETC_20150317_008311	Recipe - Sunflower
-ETC_20150317_008312	Recipe - Maledoom
-ETC_20150317_008313	Recipe - Arca Staff
-ETC_20150317_008314	Recipe - Raganos Horn
-ETC_20150317_008315	Recipe - Smith Staff
-ETC_20150317_008316	Recipe - Klavis Staff
-ETC_20150317_008317	Recipe - Long Bow
-ETC_20150317_008318	Recipe - Composite Bow
-ETC_20150317_008319	Recipe - Self Bow
-ETC_20150317_008320	Recipe - Rokas Bow
-ETC_20150317_008321	Recipe - Goritos
-ETC_20150317_008322	Recipe - Gulail
-ETC_20150317_008323	Recipe - Kaman
-ETC_20150317_008324	Recipe - Gendawa
-ETC_20150317_008325	Recipe - Strong Bow
-ETC_20150317_008326	Recipe - Iron Bow
-ETC_20150317_008327	Recipe - Hawk Bow
-ETC_20150317_008328	Recipe - Hunting Bow
-ETC_20150317_008329	Recipe - Savage Bow
-ETC_20150317_008330	Recipe - Snake Bow
-ETC_20150317_008331	Recipe - Lethena Bow
-ETC_20150317_008332	Recipe - Wildling Bane
-ETC_20150317_008333	Recipe - Equalizer
-ETC_20150317_008334	Recipe - Heart Seeker
-ETC_20150317_008335	Recipe - Viper
-ETC_20150317_008336	Recipe - Blood Gain
-ETC_20150317_008337	Recipe - Tempest Shooter
-ETC_20150317_008338	Recipe - Short Bow
-ETC_20150317_008339	Recipe - Pulley Bow
-ETC_20150317_008340	Recipe - Smith Bow
-ETC_20150317_008341	Recipe - Klavis Bow
-ETC_20150317_008342	Recipe - Crossbow
-ETC_20150317_008343	Recipe - Dokyu
-ETC_20150317_008344	Recipe - Quarrel Bow
-ETC_20150317_008345	Recipe - Oak Crossbow
-ETC_20150317_008346	Recipe - Seal Crossbow
-ETC_20150317_008347	Recipe - Catapult
-ETC_20150317_008348	Recipe - Cranequin
-ETC_20150317_008349	Recipe - Sniper Crossbow
-ETC_20150317_008350	Recipe - Heavy Crossbow
-ETC_20150317_008351	Recipe - Wide Crossbow
-ETC_20150317_008352	Recipe - Grand Cross
-ETC_20150317_008353	Recipe - Medina Crossbow
-ETC_20150317_008354	Recipe - Grave Crossbow
-ETC_20150317_008355	Recipe - Shooting Star
-ETC_20150317_008356	Recipe - Kateen Blaster
-ETC_20150317_008357	Recipe - Grajus
-ETC_20150317_008358	Recipe - Isbality
-ETC_20150317_008359	Recipe - Morto
-ETC_20150317_008360	Recipe - Smith Crossbow
-ETC_20150317_008361	Recipe - Klavis Crossbow
-ETC_20150317_008362	Recipe - Mace
-ETC_20150317_008363	Recipe - Morning Star
-ETC_20150317_008364	Recipe - Mallet
-ETC_20150317_008365	Recipe - Goedendag
-ETC_20150317_008366	Recipe - Warpick
-ETC_20150317_008367	Recipe - Maul
-ETC_20150317_008368	Recipe - Battle Hammer
-ETC_20150317_008369	Recipe - Chekan
-ETC_20150317_008370	Recipe - Minor Hammer
-ETC_20150317_008371	Recipe - Five Hammer
-ETC_20150317_008372	Recipe - Spiked Mace
-ETC_20150317_008373	Recipe - Shield Breaker
-ETC_20150317_008374	Recipe - Skull Crusher
-ETC_20150317_008375	Recipe - Valtas Morning Star
-ETC_20150317_008376	Recipe - Suncus Maul
-ETC_20150317_008377	Recipe - Holy Smasher
-ETC_20150317_008378	Recipe - Kaloo Hammer
-ETC_20150317_008379	Recipe - Drake Tail
-ETC_20150317_008380	Recipe - Royal Mace
-ETC_20150317_008381	Recipe - Stunner
-ETC_20150317_008382	Recipe - Valia
-ETC_20150317_008383	Recipe - Iron Club
-ETC_20150317_008384	Recipe - Smith Mace
-ETC_20150317_008385	Recipe - Klavis Mace
-ETC_20150317_008386	Recipe - Short Spear
-ETC_20150317_008387	Recipe - Espontoon
-ETC_20150317_008388	Recipe - Winged Espontoon
-ETC_20150317_008389	Recipe - Spontoon
-ETC_20150317_008390	Recipe - Hasta
-ETC_20150317_008391	Recipe - Long Hasta
-ETC_20150317_008392	Recipe - Sauroter
-ETC_20150317_008393	Recipe - Dory
-ETC_20150317_008394	Recipe - Grand Spontoon
-ETC_20150317_008395	Recipe - Zega Spear
-ETC_20150317_008396	Recipe - Harl Spear
-ETC_20150317_008397	Recipe - Fedimian Spear
-ETC_20150317_008398	Recipe - Silver Spear
-ETC_20150317_008399	Recipe - Geras Spear
-ETC_20150317_008400	Recipe - Doom Spear
-ETC_20150317_008401	Recipe - Firnas
-ETC_20150317_008402	Recipe - Adatag
-ETC_20150317_008403	Recipe - Brandish
-ETC_20150317_008404	Recipe - Pike
-ETC_20150317_008405	Recipe - Partisan
-ETC_20150317_008406	Recipe - Trident
-ETC_20150317_008407	Recipe - Royal Partisan
-ETC_20150317_008408	Recipe - Cone Pike
-ETC_20150317_008409	Recipe - Fedimian Pike
-ETC_20150317_008410	Recipe - Medina Pike
-ETC_20150317_008411	Recipe - Free Partisan
-ETC_20150317_008412	Recipe - Entra Partisan
-ETC_20150317_008413	Recipe - Galin Trident
-ETC_20150317_008414	Recipe - Pine Cone Pike
-ETC_20150317_008415	Recipe - Tracksia
-ETC_20150317_008416	Recipe - Lydeka
-ETC_20150317_008417	Recipe - Flame Pike
-ETC_20150317_008418	Recipe - Wooden Wand
-ETC_20150317_008419	Recipe - Oak Wand
-ETC_20150317_008420	Recipe - Rokas Wand
-ETC_20150317_008421	Recipe - Bone Wand
-ETC_20150317_008422	Recipe - Shaman Wand
-ETC_20150317_008423	Recipe - Altaria Wand
-ETC_20150317_008424	Recipe - Antique Wand
-ETC_20150317_008425	Recipe - Dark Wand
-ETC_20150317_008426	Recipe - Grim Wand
-ETC_20150317_008427	Recipe - Skull Wand
-ETC_20150317_008428	Recipe - Didel Shaman Wand
-ETC_20150317_008429	Recipe - Party Mang Wand
-ETC_20150317_008430	Recipe - Rampa Wand
-ETC_20150317_008431	Recipe - Vestia Wand
-ETC_20150317_008432	Recipe - Serfence
-ETC_20150317_008433	Recipe - Reverse
-ETC_20150317_008434	Recipe - Hard Leather Gloves
-ETC_20150317_008435	Recipe - Hard Leather Boots
-ETC_20150317_008436	Recipe - Hard Leather Pants
-ETC_20150317_008437	Recipe - Hard Leather Armor
-ETC_20150317_008438	Recipe - Chain Gloves
-ETC_20150317_008439	Recipe - Chain Boots
-ETC_20150317_008440	Recipe - Chain Pants
-ETC_20150317_008441	Recipe - Chainmail
-ETC_20150317_008442	Recipe - Steel Chain Gloves
-ETC_20150317_008443	Recipe - Steel Chain Boots
-ETC_20150317_008444	Recipe - Steel Chain Pants
-ETC_20150317_008445	Recipe - Steel Chainmail
-ETC_20150317_008446	Recipe - Forest Pants
-ETC_20150317_008447	Recipe - Forest Robe
-ETC_20150317_008448	Recipe - Forest Leather Gloves
-ETC_20150317_008449	Recipe - Forest Leather Boots
-ETC_20150317_008450	Recipe - Forest Leather Pants
-ETC_20150317_008451	Recipe - Forest Leather Armor
-ETC_20150317_008452	Recipe - Klaida Gauntlets
-ETC_20150317_008453	Recipe - Klaida Greaves
-ETC_20150317_008454	Recipe - Klaida Skirt
-ETC_20150317_008455	Recipe - Klaida Mail
-ETC_20150317_008456	Recipe - Grima Pants
-ETC_20150317_008457	Recipe - Grima Robe
-ETC_20150317_008458	Recipe - Veris Gloves
-ETC_20150317_008459	Recipe - Veris Boots
-ETC_20150317_008460	Recipe - Veris Pants
-ETC_20150317_008461	Recipe - Veris Tunic
-ETC_20150317_008462	Recipe - Scale Gloves
-ETC_20150317_008463	Recipe - Scale Boots
-ETC_20150317_008464	Recipe - Scale Leggings
-ETC_20150317_008465	Recipe - Scale Mail
-ETC_20150317_008466	Recipe - Hard Veris Gloves
-ETC_20150317_008467	Recipe - Hard Veris Boots
-ETC_20150317_008468	Recipe - Hard Veris Pants
-ETC_20150317_008469	Recipe - Hard Veris Tunic
-ETC_20150317_008470	Recipe - Heavy Scale Gloves
-ETC_20150317_008471	Recipe - Heavy Scale Boots
-ETC_20150317_008472	Recipe - Heavy Scale Leggings
-ETC_20150317_008473	Recipe - Heavy Scale Mail
-ETC_20150317_008474	Recipe - Regal Pants
-ETC_20150317_008475	Recipe - Regal Robe
-ETC_20150317_008476	Recipe - Brigandine Gloves
-ETC_20150317_008477	Recipe - Brigandine Boots
-ETC_20150317_008478	Recipe - Brigandine Pants
-ETC_20150317_008479	Recipe - Brigandine Armor
-ETC_20150317_008480	Recipe - Plate Gauntlets
-ETC_20150317_008481	Recipe - Plate Greaves
-ETC_20150317_008482	Recipe - Plate Leggings
-ETC_20150317_008483	Recipe - Plate Armor
-ETC_20150317_008484	Recipe - Pokubu Armor
-ETC_20150317_008485	Recipe - Kabra Boots
-ETC_20150317_008486	Recipe - Crimson Leather Armor
-ETC_20150317_008487	Recipe - Carpenter Gloves
-ETC_20150317_008488	Recipe - Tenet Chain Pants
-ETC_20150317_008489	Recipe - Tenet Chainmail
-ETC_20150317_008490	Recipe - Zalia Leather Gloves
-ETC_20150317_008491	Recipe - Zalia Leather Boots
-ETC_20150317_008492	Recipe - Zalia Leather Pants
-ETC_20150317_008493	Recipe - Zalia Leather Armor
-ETC_20150317_008494	Recipe - Prova Gloves
-ETC_20150317_008495	Recipe - Prova Robe
-ETC_20150317_008496	Recipe - Studded Gloves
-ETC_20150317_008497	Recipe - Studded Boots
-ETC_20150317_008498	Recipe - Studded Pants
-ETC_20150317_008499	Recipe - Studded Armor
-ETC_20150317_008500	Recipe - Insect Gauntlets
-ETC_20150317_008501	Recipe - Insect Greaves
-ETC_20150317_008502	Recipe - Insect Skirt
-ETC_20150317_008503	Recipe - Insect Mail
-ETC_20150317_008504	Recipe - Protas Boots
-ETC_20150317_008505	Recipe - Protas Trousers
-ETC_20150317_008506	Recipe - Red Veris Gloves
-ETC_20150317_008507	Recipe - Red Veris Tunic
-ETC_20150317_008508	Recipe - Light Plate Leggings
-ETC_20150317_008509	Recipe - Light Plate Armor
-ETC_20150317_008510	Recipe - Heavy Grima Gloves
-ETC_20150317_008511	Recipe - Heavy Grima Boots
-ETC_20150317_008512	Recipe - Heavy Grima Robe
-ETC_20150317_008513	Recipe - Pokubon Leather Pants
-ETC_20150317_008514	Recipe - Pokubon Leather Armor
-ETC_20150317_008515	Recipe - Drake Leather Gloves
-ETC_20150317_008516	Recipe - Drake Leather Boots
-ETC_20150317_008517	Recipe - Drake Leather Leggings
-ETC_20150317_008518	Recipe - Drake Leather Tunic
-ETC_20150317_008519	Recipe - Silver Plate Gauntlets
-ETC_20150317_008520	Recipe - Silver Plate Greaves
-ETC_20150317_008521	Recipe - Silver Plate Leggings
-ETC_20150317_008522	Recipe - Silver Plate Armor
-ETC_20150317_008523	Recipe - Vubbe Fighter Gauntlets
-ETC_20150317_008524	Recipe - Shield Crasher
-ETC_20150317_008525	Recipe - Vine Gloves
-ETC_20150317_008526	Recipe - Vine Boots
-ETC_20150317_008527	Recipe - Vine Pants
-ETC_20150317_008528	Recipe - Vine Greaves
-ETC_20150317_008529	Recipe - Saint Robe
-ETC_20150317_008530	Recipe - Soul Chaser Gloves
-ETC_20150317_008531	Recipe - Soul Chaser Boots
-ETC_20150317_008532	Recipe - Soul Chaser Pants
-ETC_20150317_008533	Recipe - Soul Chaser Armor
-ETC_20150317_008534	Recipe - Bone Gauntlets
-ETC_20150317_008535	Recipe - Bone Greaves
-ETC_20150317_008536	Recipe - Bone Skirt
-ETC_20150317_008537	Recipe - Bone Armor
-ETC_20150317_008538	Recipe - Shade Hands
-ETC_20150317_008539	Recipe - Shade Runner
-ETC_20150317_008540	Recipe - Shade Skirt
-ETC_20150317_008541	Recipe - Shade Dancer
-ETC_20150317_008542	Recipe - Wind Runner
-ETC_20150317_008543	Recipe - Banshee Veil
-ETC_20150317_008544	Recipe - Wild Leather Gloves
-ETC_20150317_008545	Recipe - Follower Leather Armor
-ETC_20150317_008546	Recipe - Vejo Boots
-ETC_20150317_008547	Recipe - Rokas Leather Armor
-ETC_20150317_008548	Recipe - Rokas Mail
-ETC_20150317_008549	Recipe - Rokas Robe
-ETC_20150317_008550	Recipe - Nepenthes Gloves
-ETC_20150317_008551	Recipe - Formine Armor
-ETC_20150317_008552	Recipe - Riena Pants
-ETC_20150317_008553	Recipe - Riena Robe
-ETC_20150317_008554	Recipe - Riena Leather Pants
-ETC_20150317_008555	Recipe - Riena Leather Armor
-ETC_20150317_008556	Recipe - Riena Plate Leggings
-ETC_20150317_008557	Recipe - Riena Plate Armor
-ETC_20150317_008558	Recipe - Wooden Buckler
-ETC_20150317_008559	Recipe - Wooden Kite Shield
-ETC_20150317_008560	Recipe - Kite Shield
-ETC_20150317_008561	Recipe - Round Shield
-ETC_20150317_008562	Recipe - Steel Kite Shield
-ETC_20150317_008563	Recipe - Steel Buckler
-ETC_20150317_008564	Recipe - Machinery Shield
-ETC_20150317_008565	Recipe - Wooden Shield
-ETC_20150317_008566	Recipe - Oak Shield
-ETC_20150317_008567	Recipe - Savage Shield
-ETC_20150317_008568	Recipe - Zalia Kite Shield
-ETC_20150317_008569	Recipe - Heavy Kite Shield
-ETC_20150317_008570	Recipe - Bead Shield
-ETC_20150317_008571	Recipe - Circle Guard
-ETC_20150317_008572	Recipe - Ludas Shield
-ETC_20150317_008573	Recipe - Wall Guard
-ETC_20150317_008574	Recipe - Fortress
-ETC_20150317_008575	Recipe - Beetleback
-ETC_20150317_008576	Recipe - Sage Wall
-ETC_20150317_008577	Recipe - Aias
-ETC_20150317_008578	Recipe - Knife
-ETC_20150317_008579	Recipe - Dirk Dagger
-ETC_20150317_008580	Recipe - Main Gauche
-ETC_20150317_008581	Recipe - Chupacabra Necklace
-ETC_20150317_008582	Recipe - String Necklace
-ETC_20150317_008583	Recipe - Panto Talisman
-ETC_20150317_008584	Recipe - Pielight Pendant
-ETC_20150317_008585	Recipe - Kriolight Pendant
-ETC_20150317_008586	Recipe - Magic Talisman
-ETC_20150317_008587	Recipe - Strength Pendant
-ETC_20150317_008588	Recipe - Health Stone
-ETC_20150317_008589	Recipe - Warrior Pendant
-ETC_20150317_008590	Recipe - Conqueror
-ETC_20150317_008591	Recipe - Petamion
-ETC_20150317_008592	Recipe - Electus
-ETC_20150317_008593	Recipe - Animus
-ETC_20150317_008594	Recipe - Saphie Necklace
-ETC_20150317_008595	Recipe - Necklace of Fury
-ETC_20150317_008596	Recipe - Leather Bangle
-ETC_20150317_008597	Recipe - Iron Bangle
-ETC_20150317_008598	Recipe - Crystal Bangle
-ETC_20150317_008599	Recipe - Shine Bracelet
-ETC_20150317_008600	Recipe - Battle Bracelet
-ETC_20150317_008601	Recipe - Poison Bangle
-ETC_20150317_008602	Recipe - Plants Bracelet
-ETC_20150317_008603	Recipe - Control Bangle
-ETC_20150317_008604	Recipe - Hunter Bangle
-ETC_20150317_008605	Recipe - Bracer of Archer
-ETC_20150317_008606	Recipe - Wizard Bracelet
-ETC_20150317_008607	Recipe - Rapid Bangle
-ETC_20150317_008608	Recipe - Glass Bracelet
-ETC_20150317_008609	Recipe - Gladiator Band
-ETC_20150317_008610	Recipe - Bracelet of Linne
-ETC_20150317_008611	Recipe - Pora
-ETC_20150317_008612	Recipe - Pore
-ETC_20150317_008613	Recipe - Sissel Bracelet
-ETC_20150317_008614	Recipe - Zachariel Bangle
-ETC_20150317_008615	Recipe - Nesting Chick
+ETC_20150317_008227	Receta - Kaskara
+ETC_20150317_008228	Receta - Cinquedea
+ETC_20150317_008229	Receta - Sabre
+ETC_20150317_008230	Receta - Shamshir
+ETC_20150317_008231	Receta - Scimitar
+ETC_20150317_008232	Receta - Kris
+ETC_20150317_008233	Receta - Snickersnee
+ETC_20150317_008234	Receta - Moplah
+ETC_20150317_008235	Receta - Spatha
+ETC_20150317_008236	Receta - Panto Sword
+ETC_20150317_008237	Receta - Steel Falchion
+ETC_20150317_008238	Receta - Silver Falchion
+ETC_20150317_008239	Receta - Golden Falchion
+ETC_20150317_008240	Receta - Mandrapick
+ETC_20150317_008241	Receta - Flonas Sabre
+ETC_20150317_008242	Receta - Wizard Blade
+ETC_20150317_008243	Receta - Miskas Sabre
+ETC_20150317_008244	Receta - Trinity Sword
+ETC_20150317_008245	Receta - Velniup
+ETC_20150317_008246	Receta - Fortis
+ETC_20150317_008247	Receta - Bendras Sword
+ETC_20150317_008248	Receta - Illizia
+ETC_20150317_008249	Receta - High Falchion
+ETC_20150317_008250	Receta - Smith Sword
+ETC_20150317_008251	Receta - Klavis Sword
+ETC_20150317_008252	Receta - Low Bastard Rod
+ETC_20150317_008253	Receta - Flamberge
+ETC_20150317_008254	Receta - Nodachi
+ETC_20150317_008255	Receta - Claymore
+ETC_20150317_008256	Receta - Colossus
+ETC_20150317_008257	Receta - Caliburn
+ETC_20150317_008258	Receta - Quaddara
+ETC_20150317_008259	Receta - Ilwoon
+ETC_20150317_008260	Receta - Temsus Flamberge
+ETC_20150317_008261	Receta - Potentia
+ETC_20150317_008262	Receta - Didel Colossus
+ETC_20150317_008263	Receta - Hogma Greatsword
+ETC_20150317_008264	Receta - Primaluce
+ETC_20150317_008265	Receta - Prieblanda
+ETC_20150317_008266	Receta - Lapis Katzbalger
+ETC_20150317_008267	Receta - Flamini
+ETC_20150317_008268	Receta - Wizard Slayer
+ETC_20150317_008269	Receta - Luciduce
+ETC_20150317_008270	Receta - Hell and Heaven
+ETC_20150317_008271	Receta - Nulis
+ETC_20150317_008272	Receta - Smith Two-handed Sword
+ETC_20150317_008273	Receta - Klavis Two-handed Sword
+ETC_20150317_008274	Receta - Cane Rover
+ETC_20150317_008275	Receta - Cane
+ETC_20150317_008276	Receta - Crook
+ETC_20150317_008277	Receta - Puter Rod
+ETC_20150317_008278	Receta - Owl Rod
+ETC_20150317_008279	Receta - Rune Rod
+ETC_20150317_008280	Receta - Crystal Rod
+ETC_20150317_008281	Receta - Battle Rod
+ETC_20150317_008282	Receta - Ice Rod
+ETC_20150317_008283	Receta - Fire Rod
+ETC_20150317_008284	Receta - Vasia Rod
+ETC_20150317_008285	Receta - Magic Rod
+ETC_20150317_008286	Receta - Arch Rod
+ETC_20150317_008287	Receta - Ignition
+ETC_20150317_008288	Receta - Secretum
+ETC_20150317_008289	Receta - Zaima
+ETC_20150317_008290	Receta - High Long Rod
+ETC_20150317_008291	Receta - Smith Rod
+ETC_20150317_008292	Receta - Klavis Rod
+ETC_20150317_008293	Receta - Oak Staff
+ETC_20150317_008294	Receta - Staff
+ETC_20150317_008295	Receta - Jus Staff
+ETC_20150317_008296	Receta - Ubuko Staff
+ETC_20150317_008297	Receta - Stag Staff
+ETC_20150317_008298	Receta - Geometry Staff
+ETC_20150317_008299	Receta - Demon Staff
+ETC_20150317_008300	Receta - Storm Staff
+ETC_20150317_008301	Receta - Magic Wooden Staff
+ETC_20150317_008302	Receta - Melinas Staff
+ETC_20150317_008303	Receta - Magi Staff
+ETC_20150317_008304	Receta - Ludas Staff
+ETC_20150317_008305	Receta - Saltas Staff
+ETC_20150317_008306	Receta - Karsto Staff
+ETC_20150317_008307	Receta - Expecta Staff
+ETC_20150317_008308	Receta - Welsh Staff
+ETC_20150317_008309	Receta - Candle Staff
+ETC_20150317_008310	Receta - Audra
+ETC_20150317_008311	Receta - Sunflower
+ETC_20150317_008312	Receta - Maledoom
+ETC_20150317_008313	Receta - Arca Staff
+ETC_20150317_008314	Receta - Raganos Horn
+ETC_20150317_008315	Receta - Smith Staff
+ETC_20150317_008316	Receta - Klavis Staff
+ETC_20150317_008317	Receta - Long Bow
+ETC_20150317_008318	Receta - Composite Bow
+ETC_20150317_008319	Receta - Self Bow
+ETC_20150317_008320	Receta - Rokas Bow
+ETC_20150317_008321	Receta - Goritos
+ETC_20150317_008322	Receta - Gulail
+ETC_20150317_008323	Receta - Kaman
+ETC_20150317_008324	Receta - Gendawa
+ETC_20150317_008325	Receta - Strong Bow
+ETC_20150317_008326	Receta - Iron Bow
+ETC_20150317_008327	Receta - Hawk Bow
+ETC_20150317_008328	Receta - Hunting Bow
+ETC_20150317_008329	Receta - Savage Bow
+ETC_20150317_008330	Receta - Snake Bow
+ETC_20150317_008331	Receta - Lethena Bow
+ETC_20150317_008332	Receta - Wildling Bane
+ETC_20150317_008333	Receta - Equalizer
+ETC_20150317_008334	Receta - Heart Seeker
+ETC_20150317_008335	Receta - Viper
+ETC_20150317_008336	Receta - Blood Gain
+ETC_20150317_008337	Receta - Tempest Shooter
+ETC_20150317_008338	Receta - Short Bow
+ETC_20150317_008339	Receta - Pulley Bow
+ETC_20150317_008340	Receta - Smith Bow
+ETC_20150317_008341	Receta - Klavis Bow
+ETC_20150317_008342	Receta - Crossbow
+ETC_20150317_008343	Receta - Dokyu
+ETC_20150317_008344	Receta - Quarrel Bow
+ETC_20150317_008345	Receta - Oak Crossbow
+ETC_20150317_008346	Receta - Seal Crossbow
+ETC_20150317_008347	Receta - Catapult
+ETC_20150317_008348	Receta - Cranequin
+ETC_20150317_008349	Receta - Sniper Crossbow
+ETC_20150317_008350	Receta - Heavy Crossbow
+ETC_20150317_008351	Receta - Wide Crossbow
+ETC_20150317_008352	Receta - Grand Cross
+ETC_20150317_008353	Receta - Medina Crossbow
+ETC_20150317_008354	Receta - Grave Crossbow
+ETC_20150317_008355	Receta - Shooting Star
+ETC_20150317_008356	Receta - Kateen Blaster
+ETC_20150317_008357	Receta - Grajus
+ETC_20150317_008358	Receta - Isbality
+ETC_20150317_008359	Receta - Morto
+ETC_20150317_008360	Receta - Smith Crossbow
+ETC_20150317_008361	Receta - Klavis Crossbow
+ETC_20150317_008362	Receta - Mace
+ETC_20150317_008363	Receta - Morning Star
+ETC_20150317_008364	Receta - Mallet
+ETC_20150317_008365	Receta - Goedendag
+ETC_20150317_008366	Receta - Warpick
+ETC_20150317_008367	Receta - Maul
+ETC_20150317_008368	Receta - Battle Hammer
+ETC_20150317_008369	Receta - Chekan
+ETC_20150317_008370	Receta - Minor Hammer
+ETC_20150317_008371	Receta - Five Hammer
+ETC_20150317_008372	Receta - Spiked Mace
+ETC_20150317_008373	Receta - Shield Breaker
+ETC_20150317_008374	Receta - Skull Crusher
+ETC_20150317_008375	Receta - Valtas Morning Star
+ETC_20150317_008376	Receta - Suncus Maul
+ETC_20150317_008377	Receta - Holy Smasher
+ETC_20150317_008378	Receta - Kaloo Hammer
+ETC_20150317_008379	Receta - Drake Tail
+ETC_20150317_008380	Receta - Royal Mace
+ETC_20150317_008381	Receta - Stunner
+ETC_20150317_008382	Receta - Valia
+ETC_20150317_008383	Receta - Iron Club
+ETC_20150317_008384	Receta - Smith Mace
+ETC_20150317_008385	Receta - Klavis Mace
+ETC_20150317_008386	Receta - Short Spear
+ETC_20150317_008387	Receta - Espontoon
+ETC_20150317_008388	Receta - Winged Espontoon
+ETC_20150317_008389	Receta - Spontoon
+ETC_20150317_008390	Receta - Hasta
+ETC_20150317_008391	Receta - Long Hasta
+ETC_20150317_008392	Receta - Sauroter
+ETC_20150317_008393	Receta - Dory
+ETC_20150317_008394	Receta - Grand Spontoon
+ETC_20150317_008395	Receta - Zega Spear
+ETC_20150317_008396	Receta - Harl Spear
+ETC_20150317_008397	Receta - Fedimian Spear
+ETC_20150317_008398	Receta - Silver Spear
+ETC_20150317_008399	Receta - Geras Spear
+ETC_20150317_008400	Receta - Doom Spear
+ETC_20150317_008401	Receta - Firnas
+ETC_20150317_008402	Receta - Adatag
+ETC_20150317_008403	Receta - Brandish
+ETC_20150317_008404	Receta - Pike
+ETC_20150317_008405	Receta - Partisan
+ETC_20150317_008406	Receta - Trident
+ETC_20150317_008407	Receta - Royal Partisan
+ETC_20150317_008408	Receta - Cone Pike
+ETC_20150317_008409	Receta - Fedimian Pike
+ETC_20150317_008410	Receta - Medina Pike
+ETC_20150317_008411	Receta - Free Partisan
+ETC_20150317_008412	Receta - Entra Partisan
+ETC_20150317_008413	Receta - Galin Trident
+ETC_20150317_008414	Receta - Pine Cone Pike
+ETC_20150317_008415	Receta - Tracksia
+ETC_20150317_008416	Receta - Lydeka
+ETC_20150317_008417	Receta - Flame Pike
+ETC_20150317_008418	Receta - Wooden Wand
+ETC_20150317_008419	Receta - Oak Wand
+ETC_20150317_008420	Receta - Rokas Wand
+ETC_20150317_008421	Receta - Bone Wand
+ETC_20150317_008422	Receta - Shaman Wand
+ETC_20150317_008423	Receta - Altaria Wand
+ETC_20150317_008424	Receta - Antique Wand
+ETC_20150317_008425	Receta - Dark Wand
+ETC_20150317_008426	Receta - Grim Wand
+ETC_20150317_008427	Receta - Skull Wand
+ETC_20150317_008428	Receta - Didel Shaman Wand
+ETC_20150317_008429	Receta - Party Mang Wand
+ETC_20150317_008430	Receta - Rampa Wand
+ETC_20150317_008431	Receta - Vestia Wand
+ETC_20150317_008432	Receta - Serfence
+ETC_20150317_008433	Receta - Reverse
+ETC_20150317_008434	Receta - Hard Leather Gloves
+ETC_20150317_008435	Receta - Hard Leather Boots
+ETC_20150317_008436	Receta - Hard Leather Pants
+ETC_20150317_008437	Receta - Hard Leather Armor
+ETC_20150317_008438	Receta - Chain Gloves
+ETC_20150317_008439	Receta - Chain Boots
+ETC_20150317_008440	Receta - Chain Pants
+ETC_20150317_008441	Receta - Chainmail
+ETC_20150317_008442	Receta - Steel Chain Gloves
+ETC_20150317_008443	Receta - Steel Chain Boots
+ETC_20150317_008444	Receta - Steel Chain Pants
+ETC_20150317_008445	Receta - Steel Chainmail
+ETC_20150317_008446	Receta - Forest Pants
+ETC_20150317_008447	Receta - Forest Robe
+ETC_20150317_008448	Receta - Forest Leather Gloves
+ETC_20150317_008449	Receta - Forest Leather Boots
+ETC_20150317_008450	Receta - Forest Leather Pants
+ETC_20150317_008451	Receta - Forest Leather Armor
+ETC_20150317_008452	Receta - Klaida Gauntlets
+ETC_20150317_008453	Receta - Klaida Greaves
+ETC_20150317_008454	Receta - Klaida Skirt
+ETC_20150317_008455	Receta - Klaida Mail
+ETC_20150317_008456	Receta - Grima Pants
+ETC_20150317_008457	Receta - Grima Robe
+ETC_20150317_008458	Receta - Veris Gloves
+ETC_20150317_008459	Receta - Veris Boots
+ETC_20150317_008460	Receta - Veris Pants
+ETC_20150317_008461	Receta - Veris Tunic
+ETC_20150317_008462	Receta - Scale Gloves
+ETC_20150317_008463	Receta - Scale Boots
+ETC_20150317_008464	Receta - Scale Leggings
+ETC_20150317_008465	Receta - Scale Mail
+ETC_20150317_008466	Receta - Hard Veris Gloves
+ETC_20150317_008467	Receta - Hard Veris Boots
+ETC_20150317_008468	Receta - Hard Veris Pants
+ETC_20150317_008469	Receta - Hard Veris Tunic
+ETC_20150317_008470	Receta - Heavy Scale Gloves
+ETC_20150317_008471	Receta - Heavy Scale Boots
+ETC_20150317_008472	Receta - Heavy Scale Leggings
+ETC_20150317_008473	Receta - Heavy Scale Mail
+ETC_20150317_008474	Receta - Regal Pants
+ETC_20150317_008475	Receta - Regal Robe
+ETC_20150317_008476	Receta - Brigandine Gloves
+ETC_20150317_008477	Receta - Brigandine Boots
+ETC_20150317_008478	Receta - Brigandine Pants
+ETC_20150317_008479	Receta - Brigandine Armor
+ETC_20150317_008480	Receta - Plate Gauntlets
+ETC_20150317_008481	Receta - Plate Greaves
+ETC_20150317_008482	Receta - Plate Leggings
+ETC_20150317_008483	Receta - Plate Armor
+ETC_20150317_008484	Receta - Pokubu Armor
+ETC_20150317_008485	Receta - Kabra Boots
+ETC_20150317_008486	Receta - Crimson Leather Armor
+ETC_20150317_008487	Receta - Carpenter Gloves
+ETC_20150317_008488	Receta - Tenet Chain Pants
+ETC_20150317_008489	Receta - Tenet Chainmail
+ETC_20150317_008490	Receta - Zalia Leather Gloves
+ETC_20150317_008491	Receta - Zalia Leather Boots
+ETC_20150317_008492	Receta - Zalia Leather Pants
+ETC_20150317_008493	Receta - Zalia Leather Armor
+ETC_20150317_008494	Receta - Prova Gloves
+ETC_20150317_008495	Receta - Prova Robe
+ETC_20150317_008496	Receta - Studded Gloves
+ETC_20150317_008497	Receta - Studded Boots
+ETC_20150317_008498	Receta - Studded Pants
+ETC_20150317_008499	Receta - Studded Armor
+ETC_20150317_008500	Receta - Insect Gauntlets
+ETC_20150317_008501	Receta - Insect Greaves
+ETC_20150317_008502	Receta - Insect Skirt
+ETC_20150317_008503	Receta - Insect Mail
+ETC_20150317_008504	Receta - Protas Boots
+ETC_20150317_008505	Receta - Protas Trousers
+ETC_20150317_008506	Receta - Red Veris Gloves
+ETC_20150317_008507	Receta - Red Veris Tunic
+ETC_20150317_008508	Receta - Light Plate Leggings
+ETC_20150317_008509	Receta - Light Plate Armor
+ETC_20150317_008510	Receta - Heavy Grima Gloves
+ETC_20150317_008511	Receta - Heavy Grima Boots
+ETC_20150317_008512	Receta - Heavy Grima Robe
+ETC_20150317_008513	Receta - Pokubon Leather Pants
+ETC_20150317_008514	Receta - Pokubon Leather Armor
+ETC_20150317_008515	Receta - Drake Leather Gloves
+ETC_20150317_008516	Receta - Drake Leather Boots
+ETC_20150317_008517	Receta - Drake Leather Leggings
+ETC_20150317_008518	Receta - Drake Leather Tunic
+ETC_20150317_008519	Receta - Silver Plate Gauntlets
+ETC_20150317_008520	Receta - Silver Plate Greaves
+ETC_20150317_008521	Receta - Silver Plate Leggings
+ETC_20150317_008522	Receta - Silver Plate Armor
+ETC_20150317_008523	Receta - Vubbe Fighter Gauntlets
+ETC_20150317_008524	Receta - Shield Crasher
+ETC_20150317_008525	Receta - Vine Gloves
+ETC_20150317_008526	Receta - Vine Boots
+ETC_20150317_008527	Receta - Vine Pants
+ETC_20150317_008528	Receta - Vine Greaves
+ETC_20150317_008529	Receta - Saint Robe
+ETC_20150317_008530	Receta - Soul Chaser Gloves
+ETC_20150317_008531	Receta - Soul Chaser Boots
+ETC_20150317_008532	Receta - Soul Chaser Pants
+ETC_20150317_008533	Receta - Soul Chaser Armor
+ETC_20150317_008534	Receta - Bone Gauntlets
+ETC_20150317_008535	Receta - Bone Greaves
+ETC_20150317_008536	Receta - Bone Skirt
+ETC_20150317_008537	Receta - Bone Armor
+ETC_20150317_008538	Receta - Shade Hands
+ETC_20150317_008539	Receta - Shade Runner
+ETC_20150317_008540	Receta - Shade Skirt
+ETC_20150317_008541	Receta - Shade Dancer
+ETC_20150317_008542	Receta - Wind Runner
+ETC_20150317_008543	Receta - Banshee Veil
+ETC_20150317_008544	Receta - Wild Leather Gloves
+ETC_20150317_008545	Receta - Follower Leather Armor
+ETC_20150317_008546	Receta - Vejo Boots
+ETC_20150317_008547	Receta - Rokas Leather Armor
+ETC_20150317_008548	Receta - Rokas Mail
+ETC_20150317_008549	Receta - Rokas Robe
+ETC_20150317_008550	Receta - Nepenthes Gloves
+ETC_20150317_008551	Receta - Formine Armor
+ETC_20150317_008552	Receta - Riena Pants
+ETC_20150317_008553	Receta - Riena Robe
+ETC_20150317_008554	Receta - Riena Leather Pants
+ETC_20150317_008555	Receta - Riena Leather Armor
+ETC_20150317_008556	Receta - Riena Plate Leggings
+ETC_20150317_008557	Receta - Riena Plate Armor
+ETC_20150317_008558	Receta - Wooden Buckler
+ETC_20150317_008559	Receta - Wooden Kite Shield
+ETC_20150317_008560	Receta - Kite Shield
+ETC_20150317_008561	Receta - Round Shield
+ETC_20150317_008562	Receta - Steel Kite Shield
+ETC_20150317_008563	Receta - Steel Buckler
+ETC_20150317_008564	Receta - Machinery Shield
+ETC_20150317_008565	Receta - Wooden Shield
+ETC_20150317_008566	Receta - Oak Shield
+ETC_20150317_008567	Receta - Savage Shield
+ETC_20150317_008568	Receta - Zalia Kite Shield
+ETC_20150317_008569	Receta - Heavy Kite Shield
+ETC_20150317_008570	Receta - Bead Shield
+ETC_20150317_008571	Receta - Circle Guard
+ETC_20150317_008572	Receta - Ludas Shield
+ETC_20150317_008573	Receta - Wall Guard
+ETC_20150317_008574	Receta - Fortress
+ETC_20150317_008575	Receta - Beetleback
+ETC_20150317_008576	Receta - Sage Wall
+ETC_20150317_008577	Receta - Aias
+ETC_20150317_008578	Receta - Knife
+ETC_20150317_008579	Receta - Dirk Dagger
+ETC_20150317_008580	Receta - Main Gauche
+ETC_20150317_008581	Receta - Chupacabra Necklace
+ETC_20150317_008582	Receta - String Necklace
+ETC_20150317_008583	Receta - Panto Talisman
+ETC_20150317_008584	Receta - Pielight Pendant
+ETC_20150317_008585	Receta - Kriolight Pendant
+ETC_20150317_008586	Receta - Magic Talisman
+ETC_20150317_008587	Receta - Strength Pendant
+ETC_20150317_008588	Receta - Health Stone
+ETC_20150317_008589	Receta - Warrior Pendant
+ETC_20150317_008590	Receta - Conqueror
+ETC_20150317_008591	Receta - Petamion
+ETC_20150317_008592	Receta - Electus
+ETC_20150317_008593	Receta - Animus
+ETC_20150317_008594	Receta - Saphie Necklace
+ETC_20150317_008595	Receta - Necklace of Fury
+ETC_20150317_008596	Receta - Leather Bangle
+ETC_20150317_008597	Receta - Iron Bangle
+ETC_20150317_008598	Receta - Crystal Bangle
+ETC_20150317_008599	Receta - Shine Bracelet
+ETC_20150317_008600	Receta - Battle Bracelet
+ETC_20150317_008601	Receta - Poison Bangle
+ETC_20150317_008602	Receta - Plants Bracelet
+ETC_20150317_008603	Receta - Control Bangle
+ETC_20150317_008604	Receta - Hunter Bangle
+ETC_20150317_008605	Receta - Bracer of Archer
+ETC_20150317_008606	Receta - Wizard Bracelet
+ETC_20150317_008607	Receta - Rapid Bangle
+ETC_20150317_008608	Receta - Glass Bracelet
+ETC_20150317_008609	Receta - Gladiator Band
+ETC_20150317_008610	Receta - Bracelet of Linne
+ETC_20150317_008611	Receta - Pora
+ETC_20150317_008612	Receta - Pore
+ETC_20150317_008613	Receta - Sissel Bracelet
+ETC_20150317_008614	Receta - Zachariel Bangle
+ETC_20150317_008615	Receta - Nesting Chick
 ETC_20150317_008616	Recipe for crafting a costume
-ETC_20150317_008617	Recipe - Steel Helmet
-ETC_20150317_008618	Recipe - Goat Horn
-ETC_20150317_008619	Recipe - Red Horn
-ETC_20150317_008620	Recipe - Kepa Doll
-ETC_20150317_008621	Recipe - Red Devil Wings
-ETC_20150317_008622	Recipe - Feather Helmet
-ETC_20150317_008623	Recipe - Sprout
-ETC_20150317_008624	Recipe - Dead Headband
-ETC_20150317_008625	Recipe - A Fistful of Dollars
-ETC_20150317_008626	Recipe - A Fool's Cap
-ETC_20150317_008627	Recipe - Crown Headband
-ETC_20150317_008628	Recipe - Mint Chocolate Cupcake
+ETC_20150317_008617	Receta - Steel Helmet
+ETC_20150317_008618	Receta - Goat Horn
+ETC_20150317_008619	Receta - Red Horn
+ETC_20150317_008620	Receta - Kepa Doll
+ETC_20150317_008621	Receta - Red Devil Wings
+ETC_20150317_008622	Receta - Feather Helmet
+ETC_20150317_008623	Receta - Sprout
+ETC_20150317_008624	Receta - Dead Headband
+ETC_20150317_008625	Receta - A Fistful of Dollars
+ETC_20150317_008626	Receta - A Fool's Cap
+ETC_20150317_008627	Receta - Crown Headband
+ETC_20150317_008628	Receta - Mint Chocolate Cupcake
 ETC_20150317_008629	Gladiator
 ETC_20150317_008630	Only
 ETC_20150317_008631	Viking
@@ -10009,7 +10009,7 @@ ETC_20150323_010010	Throw the stones to destroy the magic circle
 ETC_20150323_010011	Collect the farmers' signatures on the Compact
 ETC_20150323_010012	Storage Use Fee
 ETC_20150323_010013	While getting on the Companion, your node height was too high to establish a link 
-ETC_20150323_010014	Recipe - Antidote
+ETC_20150323_010014	Receta - Antidote
 ETC_20150323_010015	Elementalist Advancement
 ETC_20150323_010016	Card Synthesis
 ETC_20150323_010017	Enter your personal greeting
@@ -10540,16 +10540,16 @@ ETC_20150401_010541	Check the crops
 ETC_20150401_010542	Get wood from the wooden structures nearby
 ETC_20150401_010543	Pistol Shield Stance
 ETC_20150401_010544	Pistol Support Stance
-ETC_20150401_010545	Recipe - Crude Bastard Sword
-ETC_20150401_010546	Recipe - Superior Crossbow
-ETC_20150401_010547	Recipe - Superior Scale Gloves
-ETC_20150401_010548	Recipe - Superior Scale Boots
-ETC_20150401_010549	Recipe - Superior Scale Leggings
-ETC_20150401_010550	Recipe - Superior Scale Mail
-ETC_20150401_010551	Recipe - Superior Grima Gloves
-ETC_20150401_010552	Recipe - Superior Grima Boots
-ETC_20150401_010553	Recipe - Superior Grima Robe
-ETC_20150401_010554	Recipe - Superior Kite Shield
+ETC_20150401_010545	Receta - Crude Bastard Sword
+ETC_20150401_010546	Receta - Superior Crossbow
+ETC_20150401_010547	Receta - Superior Scale Gloves
+ETC_20150401_010548	Receta - Superior Scale Boots
+ETC_20150401_010549	Receta - Superior Scale Leggings
+ETC_20150401_010550	Receta - Superior Scale Mail
+ETC_20150401_010551	Receta - Superior Grima Gloves
+ETC_20150401_010552	Receta - Superior Grima Boots
+ETC_20150401_010553	Receta - Superior Grima Robe
+ETC_20150401_010554	Receta - Superior Kite Shield
 ETC_20150401_010555	Finished cooking food
 ETC_20150401_010556	Charge amount: {Value}
 ETC_20150401_010557	Repair has been completed
@@ -10691,7 +10691,7 @@ ETC_20150406_010692	Outer World Stone Whale
 ETC_20150406_010693	Outer World Specter Monarch
 ETC_20150406_010694	Outer World Magburk
 ETC_20150406_010695	Outer World Fire Lord
-ETC_20150406_010696	Outer World Netherbovine
+ETC_20150406_010696	Outer World Inferbovino
 ETC_20150406_010697	Outer World Manticen
 ETC_20150406_010698	Outer World Mushwort
 ETC_20150406_010699	Statue of Goddess Ausrine D
@@ -10747,7 +10747,7 @@ ETC_20150406_010748	Collect Uprooted Nioles at Riaum Uphill
 ETC_20150406_010749	Make jerky in the Drying Room
 ETC_20150406_010750	Destroy the magic circle with the Magic Stone of Blessing
 ETC_20150406_010751	No!
-ETC_20150406_010752	Recipe - Dunkel Bastard Sword
+ETC_20150406_010752	Receta - Dunkel Bastard Sword
 ETC_20150406_010753	The Refreshment Table can only be set up near the Base Camp.
 ETC_20150406_010754	Only one base camp can be set up.
 ETC_20150406_010755	Rubbed and removed the nasty energy.
@@ -11002,105 +11002,105 @@ ETC_20150414_011003	Attack against Devil-type +6
 ETC_20150414_011004	Attack against Devil-type +8
 ETC_20150414_011005	1% chance of attack against Devil-type +157 for 30 seconds when using normal attack
 ETC_20150414_011006	Level limit to hide PlayEffectToGround
-ETC_20150414_011007	Recipe - Crude Kaskara
-ETC_20150414_011008	Recipe - Aras' Falchion
-ETC_20150414_011009	Recipe - Kozuka
-ETC_20150414_011010	Recipe - Badelaire
-ETC_20150414_011011	Recipe - Saif
-ETC_20150414_011012	Recipe - Greatsword
-ETC_20150414_011013	Recipe - Katzbalger
-ETC_20150414_011014	Recipe - Dress Sword
-ETC_20150414_011015	Recipe - Crude Cane Rover
-ETC_20150414_011016	Recipe - Aras' Long Rod
-ETC_20150414_011017	Recipe - Snake Rod
-ETC_20150414_011018	Recipe - Alter Rod
-ETC_20150414_011019	Recipe - Nald Rod
-ETC_20150414_011020	Recipe - Crude Oak Staff
-ETC_20150414_011021	Recipe - Steel Staff
-ETC_20150414_011022	Recipe - Superior Steel Staff
-ETC_20150414_011023	Recipe - Square Staff
-ETC_20150414_011024	Recipe - Crude Long Bow
-ETC_20150414_011025	Recipe - Aras' Short Bow
-ETC_20150414_011026	Recipe - Recurve Bow
-ETC_20150414_011027	Recipe - Seige Bow
-ETC_20150414_011028	Recipe - Sniper Bow
-ETC_20150414_011029	Recipe - Crude Crossbow
-ETC_20150414_011030	Recipe - Arbalest
-ETC_20150414_011031	Recipe - Fedimian Turret
-ETC_20150414_011032	Recipe - Crude Mace
-ETC_20150414_011033	Recipe - Aras' Iron Club
-ETC_20150414_011034	Recipe - Battle Maul
-ETC_20150414_011035	Recipe - Fedimian Club
-ETC_20150414_011036	Recipe - Rune Mace
-ETC_20150414_011037	Recipe - Long Spontoon
-ETC_20150414_011038	Recipe - Alchupiz
-ETC_20150414_011039	Recipe - Gelti Alchupiz
-ETC_20150414_011040	Recipe - Grima Gloves
-ETC_20150414_011041	Recipe - Grima Boots
-ETC_20150414_011042	Recipe - Regal Gloves
-ETC_20150414_011043	Recipe - Regal Boots
-ETC_20150414_011044	Recipe - Magnus Gloves
-ETC_20150414_011045	Recipe - Magnus Boots
-ETC_20150414_011046	Recipe - Magnus Robe
-ETC_20150414_011047	Recipe - Superior Regal Gloves
-ETC_20150414_011048	Recipe - Superior Regal Boots
-ETC_20150414_011049	Recipe - Superior Regal Pants
-ETC_20150414_011050	Recipe - Superior Regal Robe
-ETC_20150414_011051	Recipe - Superior Brigandine Gloves
-ETC_20150414_011052	Recipe - Superior Brigandine Boots
-ETC_20150414_011053	Recipe - Superior Brigandine Pants
-ETC_20150414_011054	Recipe - Superior Brigandine Armor
-ETC_20150414_011055	Recipe - Full Plate Gauntlets
-ETC_20150414_011056	Recipe - Full Plate Greaves
-ETC_20150414_011057	Recipe - Full Plate Leggings
-ETC_20150414_011058	Recipe - Full Plate Armor
-ETC_20150414_011059	Recipe - Fedimian Gloves
-ETC_20150414_011060	Recipe - Fedimian Boots
-ETC_20150414_011061	Recipe - Fedimian Pants
-ETC_20150414_011062	Recipe - Fedimian Robe
-ETC_20150414_011063	Recipe - Fedimian Leather Gloves
-ETC_20150414_011064	Recipe - Fedimian Leather Boots
-ETC_20150414_011065	Recipe - Fedimian Leather Pants
-ETC_20150414_011066	Recipe - Fedimian Leather Armor
-ETC_20150414_011067	Recipe - Fedimian Gauntlets
-ETC_20150414_011068	Recipe - Fedimian Greaves
-ETC_20150414_011069	Recipe - Fedimian Leggings
-ETC_20150414_011070	Recipe - Fedimian Armor
-ETC_20150414_011071	Recipe - Magician Gloves
-ETC_20150414_011072	Recipe - Magician Boots
-ETC_20150414_011073	Recipe - Magician Pants
-ETC_20150414_011074	Recipe - Magician Robe
-ETC_20150414_011075	Recipe - Hunting Gloves
-ETC_20150414_011076	Recipe - Hunting Boots
-ETC_20150414_011077	Recipe - Hunting Pants
-ETC_20150414_011078	Recipe - Hunting Armor
-ETC_20150414_011079	Recipe - Guard Gauntlets
-ETC_20150414_011080	Recipe - Guard Greaves
-ETC_20150414_011081	Recipe - Guard Leggings
-ETC_20150414_011082	Recipe - Guard Armor
-ETC_20150414_011083	Recipe - Mage Gloves
-ETC_20150414_011084	Recipe - Mage Boots
-ETC_20150414_011085	Recipe - Mage Pants
-ETC_20150414_011086	Recipe - Mage Robe
-ETC_20150414_011087	Recipe - Skirmisher Gloves
-ETC_20150414_011088	Recipe - Skirmisher Boots
-ETC_20150414_011089	Recipe - Skirmisher Pants
-ETC_20150414_011090	Recipe - Skirmisher Tunic
-ETC_20150414_011091	Recipe - Infantry Gauntlets
-ETC_20150414_011092	Recipe - Infantry Greaves
-ETC_20150414_011093	Recipe - Infantry Leggings
-ETC_20150414_011094	Recipe - Infantry Armor
-ETC_20150414_011095	Recipe - Superior Grima Pants
-ETC_20150414_011096	Recipe - Scallop Shield
-ETC_20150414_011097	Recipe - Pelta Shield
-ETC_20150414_011098	Recipe - Fedimian Shield
-ETC_20150414_011099	Recipe - Kalkan
-ETC_20150414_011100	Recipe - Silver Talisman
-ETC_20150414_011101	Recipe - Superior Ritual Necklace
-ETC_20150414_011102	Recipe - Key Pendant
-ETC_20150414_011103	Recipe - Silver Bracelet
-ETC_20150414_011104	Recipe - Superior Pearl Bracelet
-ETC_20150414_011105	Recipe - Rune Bracelet
+ETC_20150414_011007	Receta - Crude Kaskara
+ETC_20150414_011008	Receta - Aras' Falchion
+ETC_20150414_011009	Receta - Kozuka
+ETC_20150414_011010	Receta - Badelaire
+ETC_20150414_011011	Receta - Saif
+ETC_20150414_011012	Receta - Greatsword
+ETC_20150414_011013	Receta - Katzbalger
+ETC_20150414_011014	Receta - Dress Sword
+ETC_20150414_011015	Receta - Crude Cane Rover
+ETC_20150414_011016	Receta - Aras' Long Rod
+ETC_20150414_011017	Receta - Snake Rod
+ETC_20150414_011018	Receta - Alter Rod
+ETC_20150414_011019	Receta - Nald Rod
+ETC_20150414_011020	Receta - Crude Oak Staff
+ETC_20150414_011021	Receta - Steel Staff
+ETC_20150414_011022	Receta - Superior Steel Staff
+ETC_20150414_011023	Receta - Square Staff
+ETC_20150414_011024	Receta - Crude Long Bow
+ETC_20150414_011025	Receta - Aras' Short Bow
+ETC_20150414_011026	Receta - Recurve Bow
+ETC_20150414_011027	Receta - Seige Bow
+ETC_20150414_011028	Receta - Sniper Bow
+ETC_20150414_011029	Receta - Crude Crossbow
+ETC_20150414_011030	Receta - Arbalest
+ETC_20150414_011031	Receta - Fedimian Turret
+ETC_20150414_011032	Receta - Crude Mace
+ETC_20150414_011033	Receta - Aras' Iron Club
+ETC_20150414_011034	Receta - Battle Maul
+ETC_20150414_011035	Receta - Fedimian Club
+ETC_20150414_011036	Receta - Rune Mace
+ETC_20150414_011037	Receta - Long Spontoon
+ETC_20150414_011038	Receta - Alchupiz
+ETC_20150414_011039	Receta - Gelti Alchupiz
+ETC_20150414_011040	Receta - Grima Gloves
+ETC_20150414_011041	Receta - Grima Boots
+ETC_20150414_011042	Receta - Regal Gloves
+ETC_20150414_011043	Receta - Regal Boots
+ETC_20150414_011044	Receta - Magnus Gloves
+ETC_20150414_011045	Receta - Magnus Boots
+ETC_20150414_011046	Receta - Magnus Robe
+ETC_20150414_011047	Receta - Superior Regal Gloves
+ETC_20150414_011048	Receta - Superior Regal Boots
+ETC_20150414_011049	Receta - Superior Regal Pants
+ETC_20150414_011050	Receta - Superior Regal Robe
+ETC_20150414_011051	Receta - Superior Brigandine Gloves
+ETC_20150414_011052	Receta - Superior Brigandine Boots
+ETC_20150414_011053	Receta - Superior Brigandine Pants
+ETC_20150414_011054	Receta - Superior Brigandine Armor
+ETC_20150414_011055	Receta - Full Plate Gauntlets
+ETC_20150414_011056	Receta - Full Plate Greaves
+ETC_20150414_011057	Receta - Full Plate Leggings
+ETC_20150414_011058	Receta - Full Plate Armor
+ETC_20150414_011059	Receta - Fedimian Gloves
+ETC_20150414_011060	Receta - Fedimian Boots
+ETC_20150414_011061	Receta - Fedimian Pants
+ETC_20150414_011062	Receta - Fedimian Robe
+ETC_20150414_011063	Receta - Fedimian Leather Gloves
+ETC_20150414_011064	Receta - Fedimian Leather Boots
+ETC_20150414_011065	Receta - Fedimian Leather Pants
+ETC_20150414_011066	Receta - Fedimian Leather Armor
+ETC_20150414_011067	Receta - Fedimian Gauntlets
+ETC_20150414_011068	Receta - Fedimian Greaves
+ETC_20150414_011069	Receta - Fedimian Leggings
+ETC_20150414_011070	Receta - Fedimian Armor
+ETC_20150414_011071	Receta - Magician Gloves
+ETC_20150414_011072	Receta - Magician Boots
+ETC_20150414_011073	Receta - Magician Pants
+ETC_20150414_011074	Receta - Magician Robe
+ETC_20150414_011075	Receta - Hunting Gloves
+ETC_20150414_011076	Receta - Hunting Boots
+ETC_20150414_011077	Receta - Hunting Pants
+ETC_20150414_011078	Receta - Hunting Armor
+ETC_20150414_011079	Receta - Guard Gauntlets
+ETC_20150414_011080	Receta - Guard Greaves
+ETC_20150414_011081	Receta - Guard Leggings
+ETC_20150414_011082	Receta - Guard Armor
+ETC_20150414_011083	Receta - Mage Gloves
+ETC_20150414_011084	Receta - Mage Boots
+ETC_20150414_011085	Receta - Mage Pants
+ETC_20150414_011086	Receta - Mage Robe
+ETC_20150414_011087	Receta - Skirmisher Gloves
+ETC_20150414_011088	Receta - Skirmisher Boots
+ETC_20150414_011089	Receta - Skirmisher Pants
+ETC_20150414_011090	Receta - Skirmisher Tunic
+ETC_20150414_011091	Receta - Infantry Gauntlets
+ETC_20150414_011092	Receta - Infantry Greaves
+ETC_20150414_011093	Receta - Infantry Leggings
+ETC_20150414_011094	Receta - Infantry Armor
+ETC_20150414_011095	Receta - Superior Grima Pants
+ETC_20150414_011096	Receta - Scallop Shield
+ETC_20150414_011097	Receta - Pelta Shield
+ETC_20150414_011098	Receta - Fedimian Shield
+ETC_20150414_011099	Receta - Kalkan
+ETC_20150414_011100	Receta - Silver Talisman
+ETC_20150414_011101	Receta - Superior Ritual Necklace
+ETC_20150414_011102	Receta - Key Pendant
+ETC_20150414_011103	Receta - Silver Bracelet
+ETC_20150414_011104	Receta - Superior Pearl Bracelet
+ETC_20150414_011105	Receta - Rune Bracelet
 ETC_20150414_011106	Falconer Advancement
 ETC_20150414_011107	Dispeller Crafting attribute required
 ETC_20150414_011108	Craft Arrow
@@ -11381,56 +11381,56 @@ ETC_20150428_011382	Legwyn Family's Leather Armor Set
 ETC_20150428_011383	Legwyn Family's Plate Armor Set
 ETC_20150428_011384	Control EXP of monster job.
 ETC_20150428_011385	Small Weaver
-ETC_20150428_011386	Recipe - Colichemarde
-ETC_20150428_011387	Recipe - Firangi
-ETC_20150428_011388	Recipe - Thorn Cutter
-ETC_20150428_011389	Recipe - Zweihander
-ETC_20150428_011390	Recipe - Executioner's Sword
-ETC_20150428_011391	Recipe - Lumai Two-handed Sword
-ETC_20150428_011392	Recipe - Elder Rod
-ETC_20150428_011393	Recipe - Meteor Rod
-ETC_20150428_011394	Recipe - Ring Rod
-ETC_20150428_011395	Recipe - Superior Square Staff
-ETC_20150428_011396	Recipe - Mage Staff
-ETC_20150428_011397	Recipe - Archmage Staff
-ETC_20150428_011398	Recipe - Skull Bow
-ETC_20150428_011399	Recipe - Wood Compound Bow
-ETC_20150428_011400	Recipe - Tag Bow
-ETC_20150428_011401	Recipe - Bullet Shooter
-ETC_20150428_011402	Recipe - Black Tip Bow
-ETC_20150428_011403	Recipe - Spiked Crossbow
-ETC_20150428_011404	Recipe - Spiked Club
-ETC_20150428_011405	Recipe - Stirus Hammer
-ETC_20150428_011406	Recipe - War Hammer
-ETC_20150428_011407	Recipe - Winged Spear
-ETC_20150428_011408	Recipe - Breach Pike
-ETC_20150428_011409	Recipe - Langdebeve
-ETC_20150428_011410	Recipe - Royal Trident
-ETC_20150428_011411	Recipe - Battle Fork
-ETC_20150428_011412	Recipe - Revolver
-ETC_20150428_011413	Recipe - Snaphance
-ETC_20150428_011414	Recipe - Archmage Gloves
-ETC_20150428_011415	Recipe - Archmage Boots
-ETC_20150428_011416	Recipe - Archmage Pants
-ETC_20150428_011417	Recipe - Archmage Robe
-ETC_20150428_011418	Recipe - Superior Skirmisher Gloves
-ETC_20150428_011419	Recipe - Superior Skirmisher Boots
-ETC_20150428_011420	Recipe - Superior Skirmisher Pants
-ETC_20150428_011421	Recipe - Superior Skirmisher Tunic
-ETC_20150428_011422	Recipe - Superior Infantry Gauntlets
-ETC_20150428_011423	Recipe - Superior Infantry Greaves
-ETC_20150428_011424	Recipe - Superior Infantry Leggings
-ETC_20150428_011425	Recipe - Superior Infantry Armor
-ETC_20150428_011426	Recipe - Calvary Shield
-ETC_20150428_011427	Recipe - Knight Shield
-ETC_20150428_011428	Recipe - Tower Shield
-ETC_20150428_011429	Recipe - Superior Knife
-ETC_20150428_011430	Recipe - Superior Dirk Dagger
-ETC_20150428_011431	Recipe - Superior Main Gauche
-ETC_20150428_011432	Recipe - Superior Key Pendant
-ETC_20150428_011433	Recipe - Sage Necklace
-ETC_20150428_011434	Recipe - Superior Rune Bracelet
-ETC_20150428_011435	Recipe - Star Bracelet
+ETC_20150428_011386	Receta - Colichemarde
+ETC_20150428_011387	Receta - Firangi
+ETC_20150428_011388	Receta - Thorn Cutter
+ETC_20150428_011389	Receta - Zweihander
+ETC_20150428_011390	Receta - Executioner's Sword
+ETC_20150428_011391	Receta - Lumai Two-handed Sword
+ETC_20150428_011392	Receta - Elder Rod
+ETC_20150428_011393	Receta - Meteor Rod
+ETC_20150428_011394	Receta - Ring Rod
+ETC_20150428_011395	Receta - Superior Square Staff
+ETC_20150428_011396	Receta - Mage Staff
+ETC_20150428_011397	Receta - Archmage Staff
+ETC_20150428_011398	Receta - Skull Bow
+ETC_20150428_011399	Receta - Wood Compound Bow
+ETC_20150428_011400	Receta - Tag Bow
+ETC_20150428_011401	Receta - Bullet Shooter
+ETC_20150428_011402	Receta - Black Tip Bow
+ETC_20150428_011403	Receta - Spiked Crossbow
+ETC_20150428_011404	Receta - Spiked Club
+ETC_20150428_011405	Receta - Stirus Hammer
+ETC_20150428_011406	Receta - War Hammer
+ETC_20150428_011407	Receta - Winged Spear
+ETC_20150428_011408	Receta - Breach Pike
+ETC_20150428_011409	Receta - Langdebeve
+ETC_20150428_011410	Receta - Royal Trident
+ETC_20150428_011411	Receta - Battle Fork
+ETC_20150428_011412	Receta - Revolver
+ETC_20150428_011413	Receta - Snaphance
+ETC_20150428_011414	Receta - Archmage Gloves
+ETC_20150428_011415	Receta - Archmage Boots
+ETC_20150428_011416	Receta - Archmage Pants
+ETC_20150428_011417	Receta - Archmage Robe
+ETC_20150428_011418	Receta - Superior Skirmisher Gloves
+ETC_20150428_011419	Receta - Superior Skirmisher Boots
+ETC_20150428_011420	Receta - Superior Skirmisher Pants
+ETC_20150428_011421	Receta - Superior Skirmisher Tunic
+ETC_20150428_011422	Receta - Superior Infantry Gauntlets
+ETC_20150428_011423	Receta - Superior Infantry Greaves
+ETC_20150428_011424	Receta - Superior Infantry Leggings
+ETC_20150428_011425	Receta - Superior Infantry Armor
+ETC_20150428_011426	Receta - Calvary Shield
+ETC_20150428_011427	Receta - Knight Shield
+ETC_20150428_011428	Receta - Tower Shield
+ETC_20150428_011429	Receta - Superior Knife
+ETC_20150428_011430	Receta - Superior Dirk Dagger
+ETC_20150428_011431	Receta - Superior Main Gauche
+ETC_20150428_011432	Receta - Superior Key Pendant
+ETC_20150428_011433	Receta - Sage Necklace
+ETC_20150428_011434	Receta - Superior Rune Bracelet
+ETC_20150428_011435	Receta - Star Bracelet
 ETC_20150428_011436	FAQ : Lodge{nl}1) You can change the name of your lodge by clicking "Lodge Settings". {nl}2) You can buy Lodge skins using iCoins by clicking "Change Lodge".{nl}3) You select your desired channel from the Lodge.
 ETC_20150428_011437	FAQ : Character HP, SP, STA {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) STA: This is stamina. When your STA is 0, you can only walk and cannot run anymore. {nl} STA is also used when learning certain attributes. {nl} STA can be recovered by destroying Tree Root Crystals or by using Stamina Pills. {nl} Stamina Pills can be purchased from shops, earned by completing quests or by defeating boss monsters.
 ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15. 
@@ -11595,7 +11595,7 @@ ETC_20150511_011596	Activate the 1st sealed device
 ETC_20150511_011597	Activate the 2nd sealed device
 ETC_20150511_011598	Activate the 3rd sealed device
 ETC_20150511_011599	FAQ : Durability & Potential{nl}1) Durability : Starts to decrease slowly when you play with equipped equipment.{nl}    When an item's durability is below a certain value, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't be benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
-ETC_20150511_011600	]{nl}Quest Completed!
+ETC_20150511_011600	]{nl}¡Misión Completada!
 ETC_20150511_011601	Why now...!
 ETC_20150511_011602	Did you defeat them all?
 ETC_20150511_011603	Uh...!
@@ -12215,18 +12215,18 @@ ETC_20150714_012216	Crossbow Shield
 ETC_20150714_012217	One handed Spear Shield
 ETC_20150714_012218	Pistol Shield
 ETC_20150714_012219	Pistol Sub
-ETC_20150714_012220	Recipe - Roxona Gloves
-ETC_20150714_012221	Recipe - Roxona Boots
-ETC_20150714_012222	Recipe - Roxona Pants
-ETC_20150714_012223	Recipe - Roxona Robe
-ETC_20150714_012224	Recipe - Roxona Leather Gloves
-ETC_20150714_012225	Recipe - Roxona Leather Boots
-ETC_20150714_012226	Recipe - Roxona Leather Pants
-ETC_20150714_012227	Recipe - Roxona Leather Armor
-ETC_20150714_012228	Recipe - Roxona Plate Gauntlet
-ETC_20150714_012229	Recipe - Roxona Plate Boots
-ETC_20150714_012230	Recipe - Roxona Plate Pants
-ETC_20150714_012231	Recipe - Roxona Plate Armor
+ETC_20150714_012220	Receta - Roxona Gloves
+ETC_20150714_012221	Receta - Roxona Boots
+ETC_20150714_012222	Receta - Roxona Pants
+ETC_20150714_012223	Receta - Roxona Robe
+ETC_20150714_012224	Receta - Roxona Leather Gloves
+ETC_20150714_012225	Receta - Roxona Leather Boots
+ETC_20150714_012226	Receta - Roxona Leather Pants
+ETC_20150714_012227	Receta - Roxona Leather Armor
+ETC_20150714_012228	Receta - Roxona Plate Gauntlet
+ETC_20150714_012229	Receta - Roxona Plate Boots
+ETC_20150714_012230	Receta - Roxona Plate Pants
+ETC_20150714_012231	Receta - Roxona Plate Armor
 ETC_20150714_012232	Team (2vs2)
 ETC_20150714_012233	Team (3vs3)
 ETC_20150714_012234	Team (4vs4)
@@ -13479,16 +13479,16 @@ ETC_20150717_013480	Gytis Settlement Area Hidden Event Requirements Session
 ETC_20150717_013481	Sunset Flag Forest Hidden Event Session
 ETC_20150717_013482	Zachariel Crossroads Hidden Event Requirements Session
 ETC_20150717_013483	Vieta Valley Hidden Event Requirements Session
-ETC_20150717_013484	Recipe - Svitrigaila's Orb
-ETC_20150717_013485	Recipe - Austas
-ETC_20150717_013486	Recipe - Kindzal
-ETC_20150717_013487	Recipe - Naktis
-ETC_20150717_013488	Recipe - Grynas Rod
-ETC_20150717_013489	Recipe - Temere
-ETC_20150717_013490	Recipe - Black Staff
-ETC_20150717_013491	Recipe - Accuracy Crossbow
-ETC_20150717_013492	Recipe - Veteran Crossbow
-ETC_20150717_013493	Recipe - Handgun
+ETC_20150717_013484	Receta - Svitrigaila's Orb
+ETC_20150717_013485	Receta - Austas
+ETC_20150717_013486	Receta - Kindzal
+ETC_20150717_013487	Receta - Naktis
+ETC_20150717_013488	Receta - Grynas Rod
+ETC_20150717_013489	Receta - Temere
+ETC_20150717_013490	Receta - Black Staff
+ETC_20150717_013491	Receta - Accuracy Crossbow
+ETC_20150717_013492	Receta - Veteran Crossbow
+ETC_20150717_013493	Receta - Handgun
 ETC_20150717_013494	Veteran
 ETC_20150717_013495	Expert
 ETC_20150717_013496	Challenger
@@ -13933,14 +13933,14 @@ ETC_20150729_013934	If only the parties below the point exist, I will not make r
 ETC_20150729_013935	The average time until the next party recommendation(secs). About the person who has normal reputation points.
 ETC_20150729_013936	The maximum time until the next party recommendation(secs). About the person who has bad reputation points, but who will be recommended anyways
 ETC_20150729_013937	Already recommended player is not recommeded to the other party. (mins)
-ETC_20150729_013938	Recipe - Pyluma Chain
-ETC_20150729_013939	Recipe - Icema Chain
-ETC_20150729_013940	Recipe - Poizma Chain
-ETC_20150729_013941	Recipe - Lightna Chain
-ETC_20150729_013942	Recipe - Max Petamion
-ETC_20150729_013943	Recipe - Knotted Armband
-ETC_20150729_013944	Recipe - Feather Armband
-ETC_20150729_013945	Recipe - Tasseled Armband
+ETC_20150729_013938	Receta - Pyluma Chain
+ETC_20150729_013939	Receta - Icema Chain
+ETC_20150729_013940	Receta - Poizma Chain
+ETC_20150729_013941	Receta - Lightna Chain
+ETC_20150729_013942	Receta - Max Petamion
+ETC_20150729_013943	Receta - Knotted Armband
+ETC_20150729_013944	Receta - Feather Armband
+ETC_20150729_013945	Receta - Tasseled Armband
 ETC_20150729_013946	GM Advancement
 ETC_20150729_013947	Magic Amulet
 ETC_20150729_013948	A character equipped with a companion cannot be deleted.
@@ -14374,107 +14374,107 @@ ETC_20150918_014375	Event Scene Quest normal monster drop rate 10/1
 ETC_20150918_014376	Instanced Dungeon Reset Time 9 AM
 ETC_20150918_014377	Hey! Help me!
 ETC_20150918_014378	local buf = GetBuffByName(self, "BrambleRage");  local over = GetOver(buf);  return over + 1 .. " times summoning is starting.";
-ETC_20150918_014379	Recipe - Escanciu Sword
-ETC_20150918_014380	Recipe - Krag Sword
-ETC_20150918_014381	Recipe - Pilgrim Sword
-ETC_20150918_014382	Recipe - Istora Sword
-ETC_20150918_014383	Recipe - Escanciu Two-handed Sword
-ETC_20150918_014384	Recipe - Krag Two-handed Sword
-ETC_20150918_014385	Recipe - Pilgrim Two-handed Sword
-ETC_20150918_014386	Recipe - Istora Two-handed Sword
-ETC_20150918_014387	Recipe - Escanciu Rod
-ETC_20150918_014388	Recipe - Krag Rod
-ETC_20150918_014389	Recipe - Pilgrim Rod
-ETC_20150918_014390	Recipe - Istora Rod
-ETC_20150918_014391	Recipe - Escanciu Staff
-ETC_20150918_014392	Recipe - Krag Staff
-ETC_20150918_014393	Recipe - Pilgrim Staff
-ETC_20150918_014394	Recipe - Istora Staff
-ETC_20150918_014395	Recipe - Escanciu Bow
-ETC_20150918_014396	Recipe - Krag Bow
-ETC_20150918_014397	Recipe - Pilgrim Bow
-ETC_20150918_014398	Recipe - Istora Bow
-ETC_20150918_014399	Recipe - Escanciu Crossbow
-ETC_20150918_014400	Recipe - Krag Crossbow
-ETC_20150918_014401	Recipe - Pilgrim Crossbow
-ETC_20150918_014402	Recipe - Istora Crossbow
-ETC_20150918_014403	Recipe - Karacha Crossbow
-ETC_20150918_014404	Recipe - Escanciu Mace
-ETC_20150918_014405	Recipe - Krag Mace
-ETC_20150918_014406	Recipe - Pilgrim Mace
-ETC_20150918_014407	Recipe - Istora Mace
-ETC_20150918_014408	Recipe - Escanciu Spear
-ETC_20150918_014409	Recipe - Krag Spear
-ETC_20150918_014410	Recipe - Pilgrim Spear
-ETC_20150918_014411	Recipe - Istora Spear
-ETC_20150918_014412	Recipe - Escanciu Pike
-ETC_20150918_014413	Recipe - Krag Pike
-ETC_20150918_014414	Recipe - Pilgrim Pike
-ETC_20150918_014415	Recipe - Istora Pike
-ETC_20150918_014416	Recipe - Mana-mana
-ETC_20150918_014417	Recipe - Istora Revolver
-ETC_20150918_014418	Recipe - Arelno Gloves
-ETC_20150918_014419	Recipe - Arelno Boots
-ETC_20150918_014420	Recipe - Arelno Pants
-ETC_20150918_014421	Recipe - Arelno Robe
-ETC_20150918_014422	Recipe - Arelno Leather Gloves
-ETC_20150918_014423	Recipe - Arelno Leather Boots
-ETC_20150918_014424	Recipe - Arelno Leather Pants
-ETC_20150918_014425	Recipe - Arelno Leather Tunic
-ETC_20150918_014426	Recipe - Arelno Plate Gauntlets
-ETC_20150918_014427	Recipe - Arelno Plate Greaves
-ETC_20150918_014428	Recipe - Arelno Plate Leggings
-ETC_20150918_014429	Recipe - Arelno Plate Armor
-ETC_20150918_014430	Recipe - Perelin Gloves
-ETC_20150918_014431	Recipe - Perelin Boots
-ETC_20150918_014432	Recipe - Perelin Pants
-ETC_20150918_014433	Recipe - Perelin Robe
-ETC_20150918_014434	Recipe - Perelin Leather Gloves
-ETC_20150918_014435	Recipe - Perelin Leather Boots
-ETC_20150918_014436	Recipe - Perelin Leather Pants
-ETC_20150918_014437	Recipe - Perelin Leather Tunic
-ETC_20150918_014438	Recipe - Perelin Plate Gauntlets
-ETC_20150918_014439	Recipe - Perelin Plate Greaves
-ETC_20150918_014440	Recipe - Perelin Plate Leggings
-ETC_20150918_014441	Recipe - Perelin Plate Armor
-ETC_20150918_014442	Recipe - Turn Gloves
-ETC_20150918_014443	Recipe - Turn Boots
-ETC_20150918_014444	Recipe - Turn Pants
-ETC_20150918_014445	Recipe - Turn Robe
-ETC_20150918_014446	Recipe - Turn Leather Gloves
-ETC_20150918_014447	Recipe - Turn Leather Boots
-ETC_20150918_014448	Recipe - Turn Leather Pants
-ETC_20150918_014449	Recipe - Turn Leather Tunic
-ETC_20150918_014450	Recipe - Turn Plate Gauntlets
-ETC_20150918_014451	Recipe - Turn Plate Greaves
-ETC_20150918_014452	Recipe - Turn Plate Leggings
-ETC_20150918_014453	Recipe - Turn Plate Armor
-ETC_20150918_014454	Recipe - Shaton Gloves
-ETC_20150918_014455	Recipe - Shaton Boots
-ETC_20150918_014456	Recipe - Shaton Pants
-ETC_20150918_014457	Recipe - Shaton Robe
-ETC_20150918_014458	Recipe - Shaton Leather Gloves
-ETC_20150918_014459	Recipe - Shaton Leather Boots
-ETC_20150918_014460	Recipe - Shaton Leather Pants
-ETC_20150918_014461	Recipe - Shaton Leather Tunic
-ETC_20150918_014462	Recipe - Shaton Plate Gauntlets
-ETC_20150918_014463	Recipe - Shaton Plate Greaves
-ETC_20150918_014464	Recipe - Shaton Plate Leggings
-ETC_20150918_014465	Recipe - Shaton Plate Armor
-ETC_20150918_014466	Recipe - Tyla Gloves
-ETC_20150918_014467	Recipe - Tyla Boots
-ETC_20150918_014468	Recipe - Tyla Pants
-ETC_20150918_014469	Recipe - Tyla Robe
-ETC_20150918_014470	Recipe - Tyla Leather Gloves
-ETC_20150918_014471	Recipe - Tyla Leather Boots
-ETC_20150918_014472	Recipe - Tyla Leather Pants
-ETC_20150918_014473	Recipe - Tyla Leather Tunic
-ETC_20150918_014474	Recipe - Tyla Plate Gauntlets
-ETC_20150918_014475	Recipe - Tyla Plate Greaves
-ETC_20150918_014476	Recipe - Tyla Plate Leggings
-ETC_20150918_014477	Recipe - Tyla Plate Armor
-ETC_20150918_014478	Recipe - Karacha Dagger
-ETC_20150918_014479	Recipe - Venom
+ETC_20150918_014379	Receta - Escanciu Sword
+ETC_20150918_014380	Receta - Krag Sword
+ETC_20150918_014381	Receta - Pilgrim Sword
+ETC_20150918_014382	Receta - Istora Sword
+ETC_20150918_014383	Receta - Escanciu Two-handed Sword
+ETC_20150918_014384	Receta - Krag Two-handed Sword
+ETC_20150918_014385	Receta - Pilgrim Two-handed Sword
+ETC_20150918_014386	Receta - Istora Two-handed Sword
+ETC_20150918_014387	Receta - Escanciu Rod
+ETC_20150918_014388	Receta - Krag Rod
+ETC_20150918_014389	Receta - Pilgrim Rod
+ETC_20150918_014390	Receta - Istora Rod
+ETC_20150918_014391	Receta - Escanciu Staff
+ETC_20150918_014392	Receta - Krag Staff
+ETC_20150918_014393	Receta - Pilgrim Staff
+ETC_20150918_014394	Receta - Istora Staff
+ETC_20150918_014395	Receta - Escanciu Bow
+ETC_20150918_014396	Receta - Krag Bow
+ETC_20150918_014397	Receta - Pilgrim Bow
+ETC_20150918_014398	Receta - Istora Bow
+ETC_20150918_014399	Receta - Escanciu Crossbow
+ETC_20150918_014400	Receta - Krag Crossbow
+ETC_20150918_014401	Receta - Pilgrim Crossbow
+ETC_20150918_014402	Receta - Istora Crossbow
+ETC_20150918_014403	Receta - Karacha Crossbow
+ETC_20150918_014404	Receta - Escanciu Mace
+ETC_20150918_014405	Receta - Krag Mace
+ETC_20150918_014406	Receta - Pilgrim Mace
+ETC_20150918_014407	Receta - Istora Mace
+ETC_20150918_014408	Receta - Escanciu Spear
+ETC_20150918_014409	Receta - Krag Spear
+ETC_20150918_014410	Receta - Pilgrim Spear
+ETC_20150918_014411	Receta - Istora Spear
+ETC_20150918_014412	Receta - Escanciu Pike
+ETC_20150918_014413	Receta - Krag Pike
+ETC_20150918_014414	Receta - Pilgrim Pike
+ETC_20150918_014415	Receta - Istora Pike
+ETC_20150918_014416	Receta - Mana-mana
+ETC_20150918_014417	Receta - Istora Revolver
+ETC_20150918_014418	Receta - Arelno Gloves
+ETC_20150918_014419	Receta - Arelno Boots
+ETC_20150918_014420	Receta - Arelno Pants
+ETC_20150918_014421	Receta - Arelno Robe
+ETC_20150918_014422	Receta - Arelno Leather Gloves
+ETC_20150918_014423	Receta - Arelno Leather Boots
+ETC_20150918_014424	Receta - Arelno Leather Pants
+ETC_20150918_014425	Receta - Arelno Leather Tunic
+ETC_20150918_014426	Receta - Arelno Plate Gauntlets
+ETC_20150918_014427	Receta - Arelno Plate Greaves
+ETC_20150918_014428	Receta - Arelno Plate Leggings
+ETC_20150918_014429	Receta - Arelno Plate Armor
+ETC_20150918_014430	Receta - Perelin Gloves
+ETC_20150918_014431	Receta - Perelin Boots
+ETC_20150918_014432	Receta - Perelin Pants
+ETC_20150918_014433	Receta - Perelin Robe
+ETC_20150918_014434	Receta - Perelin Leather Gloves
+ETC_20150918_014435	Receta - Perelin Leather Boots
+ETC_20150918_014436	Receta - Perelin Leather Pants
+ETC_20150918_014437	Receta - Perelin Leather Tunic
+ETC_20150918_014438	Receta - Perelin Plate Gauntlets
+ETC_20150918_014439	Receta - Perelin Plate Greaves
+ETC_20150918_014440	Receta - Perelin Plate Leggings
+ETC_20150918_014441	Receta - Perelin Plate Armor
+ETC_20150918_014442	Receta - Turn Gloves
+ETC_20150918_014443	Receta - Turn Boots
+ETC_20150918_014444	Receta - Turn Pants
+ETC_20150918_014445	Receta - Turn Robe
+ETC_20150918_014446	Receta - Turn Leather Gloves
+ETC_20150918_014447	Receta - Turn Leather Boots
+ETC_20150918_014448	Receta - Turn Leather Pants
+ETC_20150918_014449	Receta - Turn Leather Tunic
+ETC_20150918_014450	Receta - Turn Plate Gauntlets
+ETC_20150918_014451	Receta - Turn Plate Greaves
+ETC_20150918_014452	Receta - Turn Plate Leggings
+ETC_20150918_014453	Receta - Turn Plate Armor
+ETC_20150918_014454	Receta - Shaton Gloves
+ETC_20150918_014455	Receta - Shaton Boots
+ETC_20150918_014456	Receta - Shaton Pants
+ETC_20150918_014457	Receta - Shaton Robe
+ETC_20150918_014458	Receta - Shaton Leather Gloves
+ETC_20150918_014459	Receta - Shaton Leather Boots
+ETC_20150918_014460	Receta - Shaton Leather Pants
+ETC_20150918_014461	Receta - Shaton Leather Tunic
+ETC_20150918_014462	Receta - Shaton Plate Gauntlets
+ETC_20150918_014463	Receta - Shaton Plate Greaves
+ETC_20150918_014464	Receta - Shaton Plate Leggings
+ETC_20150918_014465	Receta - Shaton Plate Armor
+ETC_20150918_014466	Receta - Tyla Gloves
+ETC_20150918_014467	Receta - Tyla Boots
+ETC_20150918_014468	Receta - Tyla Pants
+ETC_20150918_014469	Receta - Tyla Robe
+ETC_20150918_014470	Receta - Tyla Leather Gloves
+ETC_20150918_014471	Receta - Tyla Leather Boots
+ETC_20150918_014472	Receta - Tyla Leather Pants
+ETC_20150918_014473	Receta - Tyla Leather Tunic
+ETC_20150918_014474	Receta - Tyla Plate Gauntlets
+ETC_20150918_014475	Receta - Tyla Plate Greaves
+ETC_20150918_014476	Receta - Tyla Plate Leggings
+ETC_20150918_014477	Receta - Tyla Plate Armor
+ETC_20150918_014478	Receta - Karacha Dagger
+ETC_20150918_014479	Receta - Venom
 ETC_20150918_014480	You can only construct one Base Camp. Do you want to create a new one by deleting the previous one?
 ETC_20150918_014481	Please select a starting city.
 ETC_20150918_014482	equipment repaired by you
@@ -15614,7 +15614,7 @@ ETC_20151001_015615	Defeat all the servants of Hauberk!
 ETC_20151001_015616	Defeat all the servants of Hauberk!{nl}Pursue Hauberk!
 ETC_20151001_015617	Defeat all the servants of Hauberk!{nl}Find Kupole Sigita 
 ETC_20151001_015618	Track down the Demon Lord Hauberk who fled through the Zinuma Passage!
-ETC_20151001_015619	Wheelens are being corrupted by Denoptic!
+ETC_20151001_015619	Wheelens are being corrupted by Denóptico!
 ETC_20151001_015620	Bearkaras Suppressor
 ETC_20151016_015621	Blue Sakmoli
 ETC_20151016_015622	Red Colifly
@@ -15803,7 +15803,7 @@ ETC_20151016_015804	Rapier Shield
 ETC_20151016_015805	Rapier Dagger
 ETC_20151016_015806	Rapier Sub
 ETC_20151016_015807	Crossbow Cannon
-ETC_20151016_015808	Recipe - Elements
+ETC_20151016_015808	Receta - Elements
 ETC_20151016_015809	Fencer Advancement
 ETC_20151016_015810	Dragoon Advancement
 ETC_20151016_015811	Templar Advancement
@@ -16110,7 +16110,7 @@ ETC_20151022_016111	Clymen appeared to protect the Curse Totem!
 ETC_20151022_016112	Curse Totem
 ETC_20151022_016113	Defeat Fire Lord!
 ETC_20151022_016114	Kill the Revelator!
-ETC_20151022_016115	Denoptic appeared as you tried to remove the surveillance totem!
+ETC_20151022_016115	Denóptico appeared as you tried to remove the surveillance totem!
 ETC_20151022_016116	Surveillance Totem
 ETC_20151022_016117	Rescue Priest Pranas!
 ETC_20151022_016118	Defeat the Grey Golem that suddenly appeared!
@@ -16286,11 +16286,11 @@ ETC_20151022_016287	Collect the short leather strings from monsters
 ETC_20151022_016288	Ask the importance of the tombstones of Nestospa
 ETC_20151022_016289	Ask the red energies that are coming from the tombstone
 ETC_20151022_016290	Crossbow Pistol
-ETC_20151022_016291	Recipe - Rapier
-ETC_20151022_016292	Recipe - Epee
-ETC_20151022_016293	Recipe - Sharp Rapier
-ETC_20151022_016294	Recipe - Duelist
-ETC_20151022_016295	Recipe - Venier
+ETC_20151022_016291	Receta - Rapier
+ETC_20151022_016292	Receta - Epee
+ETC_20151022_016293	Receta - Sharp Rapier
+ETC_20151022_016294	Receta - Duelist
+ETC_20151022_016295	Receta - Venier
 ETC_20151022_016296	Fencer Advancement
 ETC_20151022_016297	You will soon move to the character selection.
 ETC_20151022_016298	Grimoire
@@ -17912,7 +17912,7 @@ ETC_20151224_017912	Cursed Idol
 ETC_20151224_017913	Clymen has appeared!
 ETC_20151224_017914	An unknown sacred power is bursting inside the body!
 ETC_20151224_017915	Get rid of the Revelator.
-ETC_20151224_017916	As you destroyed the Cursed Idol, Denoptic appeared and started to attack!
+ETC_20151224_017916	As you destroyed the Cursed Idol, Denóptico appeared and started to attack!
 ETC_20151224_017917	Defeat Specter Monarch and rescue Priest Pranas!
 ETC_20151224_017918	Something has fallen from the tent that the Minotaur had destroyed.{nl}Defeat Minotaur and check what has fallen down!
 ETC_20151224_017919	Unknown Diary
@@ -18244,54 +18244,54 @@ ETC_20151224_018244	NGS Debuging Log
 ETC_20151224_018245	Premium
 ETC_20151224_018246	A gem that can be found in a dungeon. It is able to enhance equipment by equipping it in a socket. Cannot be used with same effect simultaneously. Right-click to insert it to an equipment.
 ETC_20151224_018247	Colimen Magician Gem
-ETC_20151224_018248	Grants Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018248	Grants Token benefits to all your characters in the server for 1 day. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018249	Token: 5 Minutes
 ETC_20151224_018250	Token: 10 Minutes
 ETC_20151224_018251	Token: 30 Minutes
 ETC_20151224_018252	Token: 1 Hour
 ETC_20151224_018253	Using this Soul Crystal will resurrect you in the same position you died.
-ETC_20151224_018254	Use to obtain 30 TP.{nl}This item cannot be refunded or returned after use.
-ETC_20151224_018255	Use to obtain 100 TP.{nl}This item cannot be refunded or returned after use.
-ETC_20151224_018256	Use to obtain 200 TP.{nl}This item cannot be refunded or returned after use.
-ETC_20151224_018257	Use to obtain 300 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20151224_018254	Úsalo para obtener 30 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20151224_018255	Úsalo para obtener 100 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20151224_018256	Úsalo para obtener 200 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20151224_018257	Úsalo para obtener 300 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018258	Token: 7 Days [Event]
-ETC_20151224_018259	Grants Token benefits to all your characters in the server for 7 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018259	Grants Token benefits to all your characters in the server for 7 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018260	Premium Awakening Stone
 ETC_20151224_018261	Megaphone 50x Box
-ETC_20151224_018262	Contains 50 Megaphones when you open it. Right-click to use.
-ETC_20151224_018263	Applies various effects to your character for 1 hour. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
+ETC_20151224_018262	Contains 50 Megaphones when you open it. Click derecho para usar.
+ETC_20151224_018263	Applies various effects to your character for 1 hour. Click derecho para usar.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
 ETC_20151224_018264	Soul Crystal 10x Box
-ETC_20151224_018265	Contains 10 Soul Crystals when you open it. Right-click to use.
+ETC_20151224_018265	Contains 10 Soul Crystals when you open it. Click derecho para usar.
 ETC_20151224_018266	Warp Scroll 10x Box
-ETC_20151224_018267	Contains 10 Warp Scrolls when you open it. Right-click to use.
+ETC_20151224_018267	Contains 10 Warp Scrolls when you open it. Click derecho para usar.
 ETC_20151224_018268	Token: 5 Days [Event]
-ETC_20151224_018269	Grants Token benefits to all your characters in the server for 5 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018269	Grants Token benefits to all your characters in the server for 5 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018270	Premium Package A
-ETC_20151224_018271	Contains premium goodies. Right-click to use.{nl} - 600 TP (Untradable){nl} - Highly Enriched HP Potion 150x (Untradable){nl} - Highly Enriched SP Potion 150x (Untradable){nl} - Warp Scroll 10x Box 3x (Untradable){nl} - Megaphone 50x Box (Untradable){nl} - Hair Accessory: War Bonnet
+ETC_20151224_018271	Contains premium goodies. Click derecho para usar.{nl} - 600 TP (Untradable){nl} - Highly Enriched HP Potion 150x (Untradable){nl} - Highly Enriched SP Potion 150x (Untradable){nl} - Warp Scroll 10x Box 3x (Untradable){nl} - Megaphone 50x Box (Untradable){nl} - Hair Accessory: War Bonnet
 ETC_20151224_018272	Premium Package B
-ETC_20151224_018273	Contains premium goodies. Right-click to use.{nl} - 1300 TP (Untradable){nl} - Highly Enriched HP Potion 150x (Untradable){nl} - Highly Enriched SP Potion 150x (Untradable){nl} - Warp Scroll 10x Box 3x (Untradable){nl} - Megaphone 50x Box (Untradable){nl} - Hair Accessory: Cornus Helmet
-ETC_20151224_018274	Use to obtain 600 TP.{nl}This item cannot be refunded or returned after use.
-ETC_20151224_018275	Use to obtain 1300 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20151224_018273	Contains premium goodies. Click derecho para usar.{nl} - 1300 TP (Untradable){nl} - Highly Enriched HP Potion 150x (Untradable){nl} - Highly Enriched SP Potion 150x (Untradable){nl} - Warp Scroll 10x Box 3x (Untradable){nl} - Megaphone 50x Box (Untradable){nl} - Hair Accessory: Cornus Helmet
+ETC_20151224_018274	Úsalo para obtener 600 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20151224_018275	Úsalo para obtener 1300 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018276	Token: 1 Day [Event]
-ETC_20151224_018277	Grants Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018277	Grants Token benefits to all your characters in the server for 1 day. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018278	Token: 3 Hours [Event]
-ETC_20151224_018279	Grants Token benefits to all your characters in the server for 3 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018279	Grants Token benefits to all your characters in the server for 3 hours. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018280	Token: 6 Hours [Event]
-ETC_20151224_018281	Grants Token benefits to all your characters in the server for 6 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018281	Grants Token benefits to all your characters in the server for 6 hours. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018282	Token: 12 Hours [Event]
-ETC_20151224_018283	Grants Token benefits to all your characters in the server for 12 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018283	Grants Token benefits to all your characters in the server for 12 hours. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018284	Token: 3 Days [Event]
-ETC_20151224_018285	Grants Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018285	Grants Token benefits to all your characters in the server for 3 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018286	Skill Reset Potion
 ETC_20151224_018287	A very useful potion for those who just cannot get their skill build right.{nl}Use this to reset your current skill points.
 ETC_20151224_018288	Instanced Dungeon Reset Voucher
 ETC_20151224_018289	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.
 ETC_20151224_018290	10 TP [Event]
-ETC_20151224_018291	Use to obtain 10 TP.
+ETC_20151224_018291	Úsalo para obtener 10 TP.
 ETC_20151224_018292	Urgent Repair Kit
 ETC_20151224_018293	Recovers the durability of your equipment to +5.
 ETC_20151224_018294	50 TP [Event]
-ETC_20151224_018295	Use to obtain 50 TP.
+ETC_20151224_018295	Úsalo para obtener 50 TP.
 ETC_20151224_018296	Shinobis are warriors who are familiar with special tactics called Ninjutsu. Only few can overcome the long and harsh training required to become a Shinobi.
 ETC_20151224_018297	Dragoons are elite warriors who are specialized in using spears for battle. They benefit from using two-handed spears.
 ETC_20151224_018298	Templars are commanding leaders who organize guilds and lead those within their guild. Only a Templar can become a guild master and determine the outcome of his or her guild.
@@ -18979,144 +18979,144 @@ ETC_20151224_018979	Two-handed Bow
 ETC_20151224_018980	One-handed Sword Pistol
 ETC_20151224_018981	One-handed Spear Pistol
 ETC_20151224_018982	Rapier Pistol
-ETC_20151224_018983	Recipe - Protection Barrier Crystal
+ETC_20151224_018983	Receta - Protection Barrier Crystal
 ETC_20151224_018984	A recipe to create a Protection Barrier Crystal
-ETC_20151224_018985	Recipe - Scout Master's Special Medicine
+ETC_20151224_018985	Receta - Scout Master's Special Medicine
 ETC_20151224_018986	A recipe to create the Scout Master's special medicine
-ETC_20151224_018987	Recipe - Letter Scroll
+ETC_20151224_018987	Receta - Letter Scroll
 ETC_20151224_018988	A recipe to reveal the hidden letters on the empty scroll
-ETC_20151224_018989	Recipe - Demion Sword
-ETC_20151224_018990	Recipe - Koperon Sword
-ETC_20151224_018991	Recipe - Superior Koperon Sword
-ETC_20151224_018992	Recipe - Shark Cutter
-ETC_20151224_018993	Recipe - Overknife
-ETC_20151224_018994	Recipe - Twin Blade
-ETC_20151224_018995	Recipe - Superior Twin Blade
-ETC_20151224_018996	Recipe - Spell Breaker
-ETC_20151224_018997	Recipe - Servant Rod 
-ETC_20151224_018998	Recipe - Corona Rod
-ETC_20151224_018999	Recipe - Superior Corona Rod
-ETC_20151224_019000	Recipe - Circle Rod
-ETC_20151224_019001	Recipe - Drake Staff
-ETC_20151224_019002	Recipe - Superior Drake Staff
-ETC_20151224_019003	Recipe - Cross Staff
-ETC_20151224_019004	Recipe - Superior Cross Staff
-ETC_20151224_019005	Recipe - Astro Staff
-ETC_20151224_019006	Recipe - Superior Astro Staff
-ETC_20151224_019007	Recipe - Bokun Staff
-ETC_20151224_019008	Recipe - Evil Staff
-ETC_20151224_019009	Recipe - Superior Evil Staff
-ETC_20151224_019010	Recipe - Power Staff
-ETC_20151224_019011	Recipe - Rogue Bow
-ETC_20151224_019012	Recipe - Richie Bow
-ETC_20151224_019013	Recipe - Superior Richie Bow
-ETC_20151224_019014	Recipe - Marksman
-ETC_20151224_019015	Recipe - Windlass
-ETC_20151224_019016	Recipe - Kracked Shooter
-ETC_20151224_019017	Recipe - Superior Kracked Shooter
-ETC_20151224_019018	Recipe - Bandit
-ETC_20151224_019019	Recipe - Sledgehammer
-ETC_20151224_019020	Recipe - Burawa
-ETC_20151224_019021	Recipe - Superior Burawa
-ETC_20151224_019022	Recipe - Iron Fist
-ETC_20151224_019023	Recipe - Chauve-souris 
-ETC_20151224_019024	Recipe - Corsesca
-ETC_20151224_019025	Recipe - Superior Corsesca
-ETC_20151224_019026	Recipe - Halberd
-ETC_20151224_019027	Recipe - Demon Pike
-ETC_20151224_019028	Recipe - Superior Demon Pike
-ETC_20151224_019029	Recipe - Cripple
-ETC_20151224_019030	Recipe - Superior Rapier
-ETC_20151224_019031	Recipe - Dual Rapier
-ETC_20151224_019032	Recipe - Superior Dual Rapier
-ETC_20151224_019033	Recipe - Spada
-ETC_20151224_019034	Recipe - Long Pistol
-ETC_20151224_019035	Recipe - Royal Pistol
-ETC_20151224_019036	Recipe - Superior Royal Pistol
-ETC_20151224_019037	Recipe - Musket
-ETC_20151224_019038	Recipe - Superior Musket
-ETC_20151224_019039	Recipe - Finisher
-ETC_20151224_019040	Recipe - Librarian Gloves 
-ETC_20151224_019041	Recipe - Librarian Boots 
-ETC_20151224_019042	Recipe - Librarian Pants 
-ETC_20151224_019043	Recipe - Librarian Robe 
-ETC_20151224_019044	Recipe - Veteran Gloves 
-ETC_20151224_019045	Recipe - Veteran Boots 
-ETC_20151224_019046	Recipe - Veteran Pants 
-ETC_20151224_019047	Recipe - Veteran Tunic 
-ETC_20151224_019048	Recipe - Knight Gauntlets 
-ETC_20151224_019049	Recipe - Knight Greaves 
-ETC_20151224_019050	Recipe - Knight Leggings 
-ETC_20151224_019051	Recipe - Knight Armor 
-ETC_20151224_019052	Recipe - Royal Mage Gloves
-ETC_20151224_019053	Recipe - Royal Mage Boots
-ETC_20151224_019054	Recipe - Royal Mage Pants
-ETC_20151224_019055	Recipe - Royal Mage Robe
-ETC_20151224_019056	Recipe - Bandit Gloves
-ETC_20151224_019057	Recipe - Bandit Boots
-ETC_20151224_019058	Recipe - Bandit Pants
-ETC_20151224_019059	Recipe - Bandit Armor
-ETC_20151224_019060	Recipe - Royal Guard Gloves
-ETC_20151224_019061	Recipe - Royal Guard Greaves
-ETC_20151224_019062	Recipe - Royal Guard Pants
-ETC_20151224_019063	Recipe - Royal Guard Armor
-ETC_20151224_019064	Recipe - Superior Royal Mage Gauntlets
-ETC_20151224_019065	Recipe - Superior Royal Mage Boots
-ETC_20151224_019066	Recipe - Superior Royal Mage Pants
-ETC_20151224_019067	Recipe - Superior Royal Mage Robe
-ETC_20151224_019068	Recipe - Superior Bandit Gloves
-ETC_20151224_019069	Recipe - Superior Bandit Boots
-ETC_20151224_019070	Recipe - Superior Bandit Pants
-ETC_20151224_019071	Recipe - Superior Bandit Armor
-ETC_20151224_019072	Recipe - Superior Royal Guard Gauntlets
-ETC_20151224_019073	Recipe - Superior Royal Guard Greaves
-ETC_20151224_019074	Recipe - Superior Royal Guard Pants
-ETC_20151224_019075	Recipe - Superior Royal Guard Armor
-ETC_20151224_019076	Recipe - Velnia Monkey Leather Pants
-ETC_20151224_019077	Recipe - Velnia Monkey Leather Armor
-ETC_20151224_019078	Recipe - Elgos Gloves
-ETC_20151224_019079	Recipe - Elgos Boots
-ETC_20151224_019080	Recipe - Elgos Pants
-ETC_20151224_019081	Recipe - Elgos Robe
-ETC_20151224_019082	Recipe - Ibre Gloves
-ETC_20151224_019083	Recipe - Ibre Boots
-ETC_20151224_019084	Recipe - Ibre Pants
-ETC_20151224_019085	Recipe - Ibre Armor
-ETC_20151224_019086	Recipe - Grynas Gauntlets
-ETC_20151224_019087	Recipe - Grynas Greaves
-ETC_20151224_019088	Recipe - Grynas Leggings
-ETC_20151224_019089	Recipe - Grynas Armor
-ETC_20151224_019090	Recipe - Guardsman Shield
-ETC_20151224_019091	Recipe - Claria Shield
-ETC_20151224_019092	Recipe - Ferret Marauder Shield
-ETC_20151224_019093	Recipe - Alemeth Tower Shield
-ETC_20151224_019094	Recipe - Pavaisa Shield
-ETC_20151224_019095	Recipe - Chura
-ETC_20151224_019096	Recipe - Superior Chura
-ETC_20151224_019097	Recipe - Blood Dagger
-ETC_20151224_019098	Recipe - Superior Sage Necklace
-ETC_20151224_019099	Recipe - Guardian Necklace
-ETC_20151224_019100	Recipe - Superior Guardian Necklace
-ETC_20151224_019101	Recipe - Maven Necklace
-ETC_20151224_019102	Recipe - Elements Dance
-ETC_20151224_019103	Recipe - Superior Star Bracelet
-ETC_20151224_019104	Recipe - Stone Bracelet
-ETC_20151224_019105	Recipe - Superior Gem Bracelet
-ETC_20151224_019106	Recipe - Kranto Bracelet
-ETC_20151224_019107	Recipe - Gem Bracelet
-ETC_20151224_019108	Recipe - White Tiger Mask
-ETC_20151224_019109	Recipe - Winter Hat
-ETC_20151224_019110	Recipe - Boater
-ETC_20151224_019111	Recipe - Noble Hat
-ETC_20151224_019112	Recipe - Ritual Coffin
-ETC_20151224_019113	Recipe - Canine Head Decoration
-ETC_20151224_019114	Recipe - Dignity Miter
-ETC_20151224_019115	Recipe - Prestige Miter
-ETC_20151224_019116	Recipe - Imposing Miter
-ETC_20151224_019117	Recipe - Tribal Chief Head Decoration
-ETC_20151224_019118	Recipe - Cat Ears 
-ETC_20151224_019119	Recipe - Cannon
-ETC_20151224_019120	Recipe - Superior Cannon
+ETC_20151224_018989	Receta - Demion Sword
+ETC_20151224_018990	Receta - Koperon Sword
+ETC_20151224_018991	Receta - Superior Koperon Sword
+ETC_20151224_018992	Receta - Shark Cutter
+ETC_20151224_018993	Receta - Overknife
+ETC_20151224_018994	Receta - Twin Blade
+ETC_20151224_018995	Receta - Superior Twin Blade
+ETC_20151224_018996	Receta - Spell Breaker
+ETC_20151224_018997	Receta - Servant Rod 
+ETC_20151224_018998	Receta - Corona Rod
+ETC_20151224_018999	Receta - Superior Corona Rod
+ETC_20151224_019000	Receta - Circle Rod
+ETC_20151224_019001	Receta - Drake Staff
+ETC_20151224_019002	Receta - Superior Drake Staff
+ETC_20151224_019003	Receta - Cross Staff
+ETC_20151224_019004	Receta - Superior Cross Staff
+ETC_20151224_019005	Receta - Astro Staff
+ETC_20151224_019006	Receta - Superior Astro Staff
+ETC_20151224_019007	Receta - Bokun Staff
+ETC_20151224_019008	Receta - Evil Staff
+ETC_20151224_019009	Receta - Superior Evil Staff
+ETC_20151224_019010	Receta - Power Staff
+ETC_20151224_019011	Receta - Rogue Bow
+ETC_20151224_019012	Receta - Richie Bow
+ETC_20151224_019013	Receta - Superior Richie Bow
+ETC_20151224_019014	Receta - Marksman
+ETC_20151224_019015	Receta - Windlass
+ETC_20151224_019016	Receta - Kracked Shooter
+ETC_20151224_019017	Receta - Superior Kracked Shooter
+ETC_20151224_019018	Receta - Bandit
+ETC_20151224_019019	Receta - Sledgehammer
+ETC_20151224_019020	Receta - Burawa
+ETC_20151224_019021	Receta - Superior Burawa
+ETC_20151224_019022	Receta - Iron Fist
+ETC_20151224_019023	Receta - Chauve-souris 
+ETC_20151224_019024	Receta - Corsesca
+ETC_20151224_019025	Receta - Superior Corsesca
+ETC_20151224_019026	Receta - Halberd
+ETC_20151224_019027	Receta - Demon Pike
+ETC_20151224_019028	Receta - Superior Demon Pike
+ETC_20151224_019029	Receta - Cripple
+ETC_20151224_019030	Receta - Superior Rapier
+ETC_20151224_019031	Receta - Dual Rapier
+ETC_20151224_019032	Receta - Superior Dual Rapier
+ETC_20151224_019033	Receta - Spada
+ETC_20151224_019034	Receta - Long Pistol
+ETC_20151224_019035	Receta - Royal Pistol
+ETC_20151224_019036	Receta - Superior Royal Pistol
+ETC_20151224_019037	Receta - Musket
+ETC_20151224_019038	Receta - Superior Musket
+ETC_20151224_019039	Receta - Finisher
+ETC_20151224_019040	Receta - Librarian Gloves 
+ETC_20151224_019041	Receta - Librarian Boots 
+ETC_20151224_019042	Receta - Librarian Pants 
+ETC_20151224_019043	Receta - Librarian Robe 
+ETC_20151224_019044	Receta - Veteran Gloves 
+ETC_20151224_019045	Receta - Veteran Boots 
+ETC_20151224_019046	Receta - Veteran Pants 
+ETC_20151224_019047	Receta - Veteran Tunic 
+ETC_20151224_019048	Receta - Knight Gauntlets 
+ETC_20151224_019049	Receta - Knight Greaves 
+ETC_20151224_019050	Receta - Knight Leggings 
+ETC_20151224_019051	Receta - Knight Armor 
+ETC_20151224_019052	Receta - Royal Mage Gloves
+ETC_20151224_019053	Receta - Royal Mage Boots
+ETC_20151224_019054	Receta - Royal Mage Pants
+ETC_20151224_019055	Receta - Royal Mage Robe
+ETC_20151224_019056	Receta - Bandit Gloves
+ETC_20151224_019057	Receta - Bandit Boots
+ETC_20151224_019058	Receta - Bandit Pants
+ETC_20151224_019059	Receta - Bandit Armor
+ETC_20151224_019060	Receta - Royal Guard Gloves
+ETC_20151224_019061	Receta - Royal Guard Greaves
+ETC_20151224_019062	Receta - Royal Guard Pants
+ETC_20151224_019063	Receta - Royal Guard Armor
+ETC_20151224_019064	Receta - Superior Royal Mage Gauntlets
+ETC_20151224_019065	Receta - Superior Royal Mage Boots
+ETC_20151224_019066	Receta - Superior Royal Mage Pants
+ETC_20151224_019067	Receta - Superior Royal Mage Robe
+ETC_20151224_019068	Receta - Superior Bandit Gloves
+ETC_20151224_019069	Receta - Superior Bandit Boots
+ETC_20151224_019070	Receta - Superior Bandit Pants
+ETC_20151224_019071	Receta - Superior Bandit Armor
+ETC_20151224_019072	Receta - Superior Royal Guard Gauntlets
+ETC_20151224_019073	Receta - Superior Royal Guard Greaves
+ETC_20151224_019074	Receta - Superior Royal Guard Pants
+ETC_20151224_019075	Receta - Superior Royal Guard Armor
+ETC_20151224_019076	Receta - Velnia Monkey Leather Pants
+ETC_20151224_019077	Receta - Velnia Monkey Leather Armor
+ETC_20151224_019078	Receta - Elgos Gloves
+ETC_20151224_019079	Receta - Elgos Boots
+ETC_20151224_019080	Receta - Elgos Pants
+ETC_20151224_019081	Receta - Elgos Robe
+ETC_20151224_019082	Receta - Ibre Gloves
+ETC_20151224_019083	Receta - Ibre Boots
+ETC_20151224_019084	Receta - Ibre Pants
+ETC_20151224_019085	Receta - Ibre Armor
+ETC_20151224_019086	Receta - Grynas Gauntlets
+ETC_20151224_019087	Receta - Grynas Greaves
+ETC_20151224_019088	Receta - Grynas Leggings
+ETC_20151224_019089	Receta - Grynas Armor
+ETC_20151224_019090	Receta - Guardsman Shield
+ETC_20151224_019091	Receta - Claria Shield
+ETC_20151224_019092	Receta - Ferret Marauder Shield
+ETC_20151224_019093	Receta - Alemeth Tower Shield
+ETC_20151224_019094	Receta - Pavaisa Shield
+ETC_20151224_019095	Receta - Chura
+ETC_20151224_019096	Receta - Superior Chura
+ETC_20151224_019097	Receta - Blood Dagger
+ETC_20151224_019098	Receta - Superior Sage Necklace
+ETC_20151224_019099	Receta - Guardian Necklace
+ETC_20151224_019100	Receta - Superior Guardian Necklace
+ETC_20151224_019101	Receta - Maven Necklace
+ETC_20151224_019102	Receta - Elements Dance
+ETC_20151224_019103	Receta - Superior Star Bracelet
+ETC_20151224_019104	Receta - Stone Bracelet
+ETC_20151224_019105	Receta - Superior Gem Bracelet
+ETC_20151224_019106	Receta - Kranto Bracelet
+ETC_20151224_019107	Receta - Gem Bracelet
+ETC_20151224_019108	Receta - White Tiger Mask
+ETC_20151224_019109	Receta - Winter Hat
+ETC_20151224_019110	Receta - Boater
+ETC_20151224_019111	Receta - Noble Hat
+ETC_20151224_019112	Receta - Ritual Coffin
+ETC_20151224_019113	Receta - Canine Head Decoration
+ETC_20151224_019114	Receta - Dignity Miter
+ETC_20151224_019115	Receta - Prestige Miter
+ETC_20151224_019116	Receta - Imposing Miter
+ETC_20151224_019117	Receta - Tribal Chief Head Decoration
+ETC_20151224_019118	Receta - Cat Ears 
+ETC_20151224_019119	Receta - Cannon
+ETC_20151224_019120	Receta - Superior Cannon
 ETC_20151224_019121	FAQ : Lodge{nl}1) You can change the name of your lodge by clicking "Lodge Settings".{nl}2) You can purchase Lodge skins using TP by clicking "Change Lodge".{nl}3) You can select a channel from the Lodge.
 ETC_20151224_019122	Enter '/y' in the chat window to send a world message. Requires a Megaphone.
 ETC_20151224_019123	Level Reset
@@ -20004,7 +20004,7 @@ ETC_20151224_020004	Defeat all the Pantos
 ETC_20151224_020005	Defeat Panto Rex
 ETC_20151224_020006	Objective completed!{nl}Move to Tenet Church B1
 ETC_20151224_020007	Protect the Central Altar!
-ETC_20151224_020008	Denoptic is aiming for the Central Altar!
+ETC_20151224_020008	Denóptico is aiming for the Central Altar!
 ETC_20151224_020009	Objective completed!{nl}Move to the next area
 ETC_20151224_020010	You've failed to protect the Central Altar.{nl}The raid ends after 30 seconds
 ETC_20151224_020011	Destroy all the Demon Summon Stones!
@@ -20014,7 +20014,7 @@ ETC_20151224_020014	Objective completed!{nl}Move to Tenet Church F1
 ETC_20151224_020015	Defeat Lithorex!
 ETC_20151224_020016	Protect the Central Altar{nl}from the demons' attacks!
 ETC_20151224_020017	Defeat Salamander!
-ETC_20151224_020018	Defeat Denoptic!
+ETC_20151224_020018	Defeat Denóptico!
 ETC_20151224_020019	Objective completed!{nl}Move to Tenet Church F2
 ETC_20151224_020020	Objective failed{nl}The Central Altar has been destroyed
 ETC_20151224_020021	Chapparition seems to send his minions to destroy the altar!
@@ -20130,7 +20130,7 @@ ETC_20160224_020130	Morningstar Golem
 ETC_20160224_020131	Devil Lantern
 ETC_20160224_020132	Ghoul
 ETC_20160224_020133	Deathbell
-ETC_20160224_020134	Tera Netherbovine
+ETC_20160224_020134	Tera Inferbovino
 ETC_20160224_020135	Tera Necroventer
 ETC_20160224_020136	Tera Specter Monarch
 ETC_20160224_020137	Tera Glackuman
@@ -20266,7 +20266,7 @@ ETC_20160224_020266	The Salamander is becoming stronger with the power of Demon 
 ETC_20160224_020267	A powerful monster named Iltiswort has appeared in Dadan Forest due to the aftermath of the demons' plan involving the Kruvina. Defeat the Iltiswort for the safety of the herbalists and the people of the Croa Village.
 ETC_20160224_020268	A powerful monster named Devilglove is keeping people from chasing away the demons in the Novaha Monastery. Defeat the Deviglove to restore peace in the monastery.
 ETC_20160224_020269	The Colimencia in the Absenta Reservoir is drinking the red water and becoming more powerful. Defeat it before it's too late.
-ETC_20160224_020270	With all its residents missing, the Delmore Castle was invaded by a Denoptic. Defeat it and help Mage Melchioras destroy the remnants of the Kruvina experiment in Delmore Castle.
+ETC_20160224_020270	With all its residents missing, the Delmore Castle was invaded by a Denóptico. Defeat it and help Mage Melchioras destroy the remnants of the Kruvina experiment in Delmore Castle.
 ETC_20160224_020271	There are rumors of a Mothstem appearing among the pilgrims passing by the Galeed Plateau. Keep the pilgrims safe by defeating the Mothstem.
 ETC_20160224_020272	The evil energy gathered at Kateen Forest is attracting all sorts of dangerous monsters. The Blue Woodspirit in Saknis Plains is particularly threatening to the soldiers stationed there. Defeat the Blue Woodspirit and protect the soldiers.
 ETC_20160224_020273	The demons invading the Mage Tower are building up their forces. Defeat the Fire Lord that's occupying Mage Tower 2F to demoralize the demons.
@@ -20384,23 +20384,23 @@ ETC_20160224_020384	Reaction time after clicking OBB TEST
 ETC_20160224_020385	Processing overtime log
 ETC_20160224_020386	Formats with %s are not used in clientmessage.xml due to multilingual word order issues.
 ETC_20160224_020387	Convent Auto Matching
-ETC_20160224_020388	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
-ETC_20160224_020389	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nl}After a successful enhancement, the Potential of the equipment will reduce by one. Right-click to use.
+ETC_20160224_020388	Contains a variety of special benefits for all your characters in this server for 30 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20160224_020389	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nl}After a successful enhancement, the Potential of the equipment will reduce by one. Click derecho para usar.
 ETC_20160224_020390	Enchant Scroll
-ETC_20160224_020391	Adds a random option to a hair costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Right-click to use.
+ETC_20160224_020391	Adds a random option to a hair costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Click derecho para usar.
 ETC_20160224_020392	100 TP [Event]
-ETC_20160224_020393	Use to obtain 100 TP.
+ETC_20160224_020393	Úsalo para obtener 100 TP.
 ETC_20160224_020394	Enchant Scroll 20x Box
-ETC_20160224_020395	Contains 20 Enchant Scrolls. Right-click to use.
+ETC_20160224_020395	Contains 20 Enchant Scrolls. Click derecho para usar.
 ETC_20160224_020396	Stat Reset Potion
 ETC_20160224_020397	50 Days Open Commemoration Package
-ETC_20160224_020398	Right-click to obtain the following items:{nl} - 500 TP{nl} - 10x Enchant Scroll{nl} - Hairstyle Accessory - Popolion Doll{nl} - 150 TP [Event]
-ETC_20160224_020399	Use to obtain 500 TP.
+ETC_20160224_020398	Click derecho para obtener los siguientes objetos:{nl} - 500 TP{nl} - 10x Enchant Scroll{nl} - Hairstyle Accessory - Popolion Doll{nl} - 150 TP [Event]
+ETC_20160224_020399	Úsalo para obtener 500 TP.
 ETC_20160224_020400	150 TP [Event]
-ETC_20160224_020401	Use to obtain 150 TP.
+ETC_20160224_020401	Úsalo para obtener 150 TP.
 ETC_20160224_020402	Token [Event]
 ETC_20160224_020403	Token: 15 Days [Event]
-ETC_20160224_020404	Contains a variety of special benefits for all your characters in this server for 15 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20160224_020404	Contains a variety of special benefits for all your characters in this server for 15 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20160224_020405	Earth Tower Entrance
 ETC_20160224_020406	Small_Area of Ruins_Tombstone03
 ETC_20160224_020407	Goddess Zemyna
@@ -20451,88 +20451,88 @@ ETC_20160224_020451	How many messages combined in one speech bubble?
 ETC_20160224_020452	Messages added to current time in chat text
 ETC_20160224_020453	Progression
 ETC_20160224_020454	Maven
-ETC_20160224_020455	Recipe - Attack Boost Potion: Stab
+ETC_20160224_020455	Receta - Attack Boost Potion: Stab
 ETC_20160224_020456	A recipe for creating potions.
-ETC_20160224_020457	Recipe - Attack Boost Potion: Slash
-ETC_20160224_020458	Recipe - Attack Boost Potion: Strike
-ETC_20160224_020459	Recipe - Attack Boost Potion: Missile
-ETC_20160224_020460	Recipe - Attack Boost Potion: Fire
-ETC_20160224_020461	Recipe - Attack Boost Potion: Ice
-ETC_20160224_020462	Recipe - Attack Boost Potion: Poison
-ETC_20160224_020463	Recipe - Attack Boost Potion: Lightning
-ETC_20160224_020464	Recipe - Attack Boost Potion: Earth
-ETC_20160224_020465	Recipe - Attack Boost Potion: Holy
-ETC_20160224_020466	Recipe - Attack Boost Potion: Dark
-ETC_20160224_020467	Recipe - Defense Boost Potion: Stab
-ETC_20160224_020468	Recipe - Defense Boost Potion: Slash
-ETC_20160224_020469	Recipe - Defense Boost Potion: Strike
-ETC_20160224_020470	Recipe - Defense Boost Potion: Missile
-ETC_20160224_020471	Recipe - Defense Boost Potion: Fire
-ETC_20160224_020472	Recipe - Defense Boost Potion: Ice
-ETC_20160224_020473	Recipe - Defense Boost Potion: Poison
-ETC_20160224_020474	Recipe - Defense Boost Potion: Lightning
-ETC_20160224_020475	Recipe - Defense Boost Potion: Earth
-ETC_20160224_020476	Recipe - Defense Boost Potion: Holy
-ETC_20160224_020477	Recipe - Defense Boost Potion: Dark
-ETC_20160224_020478	Recipe - Academy
+ETC_20160224_020457	Receta - Attack Boost Potion: Slash
+ETC_20160224_020458	Receta - Attack Boost Potion: Strike
+ETC_20160224_020459	Receta - Attack Boost Potion: Missile
+ETC_20160224_020460	Receta - Attack Boost Potion: Fire
+ETC_20160224_020461	Receta - Attack Boost Potion: Ice
+ETC_20160224_020462	Receta - Attack Boost Potion: Poison
+ETC_20160224_020463	Receta - Attack Boost Potion: Lightning
+ETC_20160224_020464	Receta - Attack Boost Potion: Earth
+ETC_20160224_020465	Receta - Attack Boost Potion: Holy
+ETC_20160224_020466	Receta - Attack Boost Potion: Dark
+ETC_20160224_020467	Receta - Defense Boost Potion: Stab
+ETC_20160224_020468	Receta - Defense Boost Potion: Slash
+ETC_20160224_020469	Receta - Defense Boost Potion: Strike
+ETC_20160224_020470	Receta - Defense Boost Potion: Missile
+ETC_20160224_020471	Receta - Defense Boost Potion: Fire
+ETC_20160224_020472	Receta - Defense Boost Potion: Ice
+ETC_20160224_020473	Receta - Defense Boost Potion: Poison
+ETC_20160224_020474	Receta - Defense Boost Potion: Lightning
+ETC_20160224_020475	Receta - Defense Boost Potion: Earth
+ETC_20160224_020476	Receta - Defense Boost Potion: Holy
+ETC_20160224_020477	Receta - Defense Boost Potion: Dark
+ETC_20160224_020478	Receta - Academy
 ETC_20160224_020479	A recipe to create a construction for the guild.
-ETC_20160224_020480	Recipe - Forge
-ETC_20160224_020481	Recipe - Shield Charger
+ETC_20160224_020480	Receta - Forge
+ETC_20160224_020481	Receta - Shield Charger
 ETC_20160224_020482	A recipe to craft an equipment. Right-click to register this recipe to the Adventure Journal.
-ETC_20160224_020483	Recipe - Seimos Sword
-ETC_20160224_020484	Recipe - Luma Sword
-ETC_20160224_020485	Recipe - Magas Sword
-ETC_20160224_020486	Recipe - Catacombs Blade
-ETC_20160224_020487	Recipe - Seimos Two-handed Sword
-ETC_20160224_020488	Recipe - Tilly Two-handed Sword
-ETC_20160224_020489	Recipe - Khasti Two-handed Sword
-ETC_20160224_020490	Recipe - Magi Two-handed Sword
-ETC_20160224_020491	Recipe - Seimos Rod
-ETC_20160224_020492	Recipe - Tilly Rod
-ETC_20160224_020493	Recipe - Khasti Rod
-ETC_20160224_020494	Recipe - Maga Rod
-ETC_20160224_020495	Recipe - Seimos Staff
-ETC_20160224_020496	Recipe - Magas Staff
-ETC_20160224_020497	Recipe - Catacombs Staff
-ETC_20160224_020498	Recipe - Seimos Bow
-ETC_20160224_020499	Recipe - Tilly Bow
-ETC_20160224_020500	Recipe - Catacombs Bow
-ETC_20160224_020501	Recipe - Maga Bow
-ETC_20160224_020502	Recipe - Didel Grand Cross
-ETC_20160224_020503	Recipe - Seimos Crossbow
-ETC_20160224_020504	Recipe - Magas Shooter
-ETC_20160224_020505	Recipe - Catacombs Shooter
-ETC_20160224_020506	Recipe - Seimos Mace
-ETC_20160224_020507	Recipe - Magas Mace
-ETC_20160224_020508	Recipe - Catacombs Club
-ETC_20160224_020509	Recipe - Seimos Spear
-ETC_20160224_020510	Recipe - Tilly Spear
-ETC_20160224_020511	Recipe - Khasti Spear
-ETC_20160224_020512	Recipe - Maga Spear
-ETC_20160224_020513	Recipe - Seimos Pike
-ETC_20160224_020514	Recipe - Magas Pike
-ETC_20160224_020515	Recipe - Catacombs Pike
-ETC_20160224_020516	Recipe - Plunger
-ETC_20160224_020517	Recipe - Magas Rapier
-ETC_20160224_020518	Recipe - Catacombs Rapier
-ETC_20160224_020519	Recipe - Virtov Gloves
-ETC_20160224_020520	Recipe - Virtov Boots
-ETC_20160224_020521	Recipe - Virtov Pants
-ETC_20160224_020522	Recipe - Virtov Robe
-ETC_20160224_020523	Recipe - Virtov Leather Gloves
-ETC_20160224_020524	Recipe - Virtov Leather Boots
-ETC_20160224_020525	Recipe - Virtov Leather Pants
-ETC_20160224_020526	Recipe - Virtov Leather Robe
-ETC_20160224_020527	Recipe - Virtov Plate Gloves
-ETC_20160224_020528	Recipe - Virtov Plate Boots
-ETC_20160224_020529	Recipe - Virtov Plate Pants
-ETC_20160224_020530	Recipe - Virtov Plate Robe
-ETC_20160224_020531	Recipe - Otrava Shield
-ETC_20160224_020532	Recipe - Ina Shield
-ETC_20160224_020533	Recipe - Maven Necklace
-ETC_20160224_020534	Recipe - Terrallion
-ETC_20160224_020535	Recipe - Archmage Bangle
-ETC_20160224_020536	Recipe - Phada
+ETC_20160224_020483	Receta - Seimos Sword
+ETC_20160224_020484	Receta - Luma Sword
+ETC_20160224_020485	Receta - Magas Sword
+ETC_20160224_020486	Receta - Catacombs Blade
+ETC_20160224_020487	Receta - Seimos Two-handed Sword
+ETC_20160224_020488	Receta - Tilly Two-handed Sword
+ETC_20160224_020489	Receta - Khasti Two-handed Sword
+ETC_20160224_020490	Receta - Magi Two-handed Sword
+ETC_20160224_020491	Receta - Seimos Rod
+ETC_20160224_020492	Receta - Tilly Rod
+ETC_20160224_020493	Receta - Khasti Rod
+ETC_20160224_020494	Receta - Maga Rod
+ETC_20160224_020495	Receta - Seimos Staff
+ETC_20160224_020496	Receta - Magas Staff
+ETC_20160224_020497	Receta - Catacombs Staff
+ETC_20160224_020498	Receta - Seimos Bow
+ETC_20160224_020499	Receta - Tilly Bow
+ETC_20160224_020500	Receta - Catacombs Bow
+ETC_20160224_020501	Receta - Maga Bow
+ETC_20160224_020502	Receta - Didel Grand Cross
+ETC_20160224_020503	Receta - Seimos Crossbow
+ETC_20160224_020504	Receta - Magas Shooter
+ETC_20160224_020505	Receta - Catacombs Shooter
+ETC_20160224_020506	Receta - Seimos Mace
+ETC_20160224_020507	Receta - Magas Mace
+ETC_20160224_020508	Receta - Catacombs Club
+ETC_20160224_020509	Receta - Seimos Spear
+ETC_20160224_020510	Receta - Tilly Spear
+ETC_20160224_020511	Receta - Khasti Spear
+ETC_20160224_020512	Receta - Maga Spear
+ETC_20160224_020513	Receta - Seimos Pike
+ETC_20160224_020514	Receta - Magas Pike
+ETC_20160224_020515	Receta - Catacombs Pike
+ETC_20160224_020516	Receta - Plunger
+ETC_20160224_020517	Receta - Magas Rapier
+ETC_20160224_020518	Receta - Catacombs Rapier
+ETC_20160224_020519	Receta - Virtov Gloves
+ETC_20160224_020520	Receta - Virtov Boots
+ETC_20160224_020521	Receta - Virtov Pants
+ETC_20160224_020522	Receta - Virtov Robe
+ETC_20160224_020523	Receta - Virtov Leather Gloves
+ETC_20160224_020524	Receta - Virtov Leather Boots
+ETC_20160224_020525	Receta - Virtov Leather Pants
+ETC_20160224_020526	Receta - Virtov Leather Robe
+ETC_20160224_020527	Receta - Virtov Plate Gloves
+ETC_20160224_020528	Receta - Virtov Plate Boots
+ETC_20160224_020529	Receta - Virtov Plate Pants
+ETC_20160224_020530	Receta - Virtov Plate Robe
+ETC_20160224_020531	Receta - Otrava Shield
+ETC_20160224_020532	Receta - Ina Shield
+ETC_20160224_020533	Receta - Maven Necklace
+ETC_20160224_020534	Receta - Terrallion
+ETC_20160224_020535	Receta - Archmage Bangle
+ETC_20160224_020536	Receta - Phada
 ETC_20160224_020537	A recipe to craft a costume. Right-click to register this recipe to the Adventure Journal.
 ETC_20160224_020538	5v5 Auto-Match (Rank)
 ETC_20160224_020539	2v2 Auto-Match
@@ -21143,17 +21143,17 @@ ETC_20160310_021142	You are not in a party.
 ETC_20160310_021143	You cannot plant crops if you are not a guild member.
 ETC_20160310_021144	You are not participating in a guild event.
 ETC_20160310_021145	The information of the item has been changed.
-ETC_20160310_021146	The item has already been sold. Please check your Message Box.
-ETC_20160310_021147	{#550000}Remaining Trades : {COUNT}{nl}{#0f0f0f}The Potential of this item decreases{nl}after being placed in Team Storage,{nl}but will not decrease after withdrawal.{nl}Do you wish to proceed?
-ETC_20160310_021148	{#550000}Remaining Trades : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade this item{nl}after placing it in your Team Storage.{nl}Do you wish to proceed?
-ETC_20160310_021149	{#FF0000}Remaining Trades : {COUNT}{nl}{#0f0f0f}The Potential of this item decreases{nl}after being placed in Team Storage,{nl}but will not decrease after withdrawal.{nl}Do you wish to proceed?
-ETC_20160310_021150	{#FF0000}Remaining Trades : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade this item{nl}after placing it in your Team Storage.{nl}Do you wish to proceed?
+ETC_20160310_021146	Este objeto ha sido vendido. Please check your Message Box.
+ETC_20160310_021147	{#550000}Intercambios Disponibles : {COUNT}{nl}{#0f0f0f}The Potential of this item decreases{nl}after being placed in Team Storage,{nl}but will not decrease after withdrawal.{nl}Do you wish to proceed?
+ETC_20160310_021148	{#550000}Intercambios Disponibles : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade this item{nl}after placing it in your Team Storage.{nl}Do you wish to proceed?
+ETC_20160310_021149	{#FF0000}Intercambios Disponibles : {COUNT}{nl}{#0f0f0f}The Potential of this item decreases{nl}after being placed in Team Storage,{nl}but will not decrease after withdrawal.{nl}Do you wish to proceed?
+ETC_20160310_021150	{#FF0000}Intercambios Disponibles : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade this item{nl}after placing it in your Team Storage.{nl}Do you wish to proceed?
 ETC_20160310_021151	Another character is currently using the Market. Please try again later.
-ETC_20160310_021152	Kill Ranking
-ETC_20160310_021153	Damage Ranking
+ETC_20160310_021152	Ranking de Muertes
+ETC_20160310_021153	Ranking de Daño
 ETC_20160310_021154	Adventure Index Rank: {Rank}
-ETC_20160310_021155	You cannot attempt to mount while using a skill.
-ETC_20160310_021156	You cannot equip or unequip items while using this skill.
+ETC_20160310_021155	Imposible montar mientras usas una Habilidad.
+ETC_20160310_021156	Imposible equipar o desequipar objetos mientras usas esta Habilidad.
 ETC_20160310_021157	Tidying Chest
 ETC_20160310_021158	Abandoned Document Chest
 ETC_20160310_021159	Research Documents
@@ -21164,34 +21164,34 @@ ETC_20160310_021163	Sinister Idol
 ETC_20160310_021164	Magic Storing Tombstone
 ETC_20160310_021165	The event rewards have been given to the guild master
 ETC_20160310_021166	You have completed the [Demon Uprising] event
-ETC_20160315_021167	Right-click to obtain the following items:{nl} - 600 TP{nl} - Hairstyle Accessory - Popolion Doll{nl} - Hairstyle Accessory - Hanaming Doll{nl}
-ETC_20160315_021168	Use to obtain 600 TP.
-ETC_20160315_021169	Use to obtain 350 TP.
-ETC_20160315_021170	Use to obtain 200 TP.
-ETC_20160315_021171	Right-click to obtain the following items:{nl} - 350 TP{nl} - Hairstyle Accessory - Popolion Doll{nl}
-ETC_20160315_021172	Right-click to obtain the following items:{nl} - 200 TP{nl}
-ETC_20160315_021173	You can enter this server by purchasing DLC.
+ETC_20160315_021167	Click derecho para obtener los siguientes objetos:{nl} - 600 TP{nl} - Hairstyle Accessory - Popolion Doll{nl} - Hairstyle Accessory - Hanaming Doll{nl}
+ETC_20160315_021168	Úsalo para obtener 600 TP.
+ETC_20160315_021169	Úsalo para obtener 350 TP.
+ETC_20160315_021170	Úsalo para obtener 200 TP.
+ETC_20160315_021171	Click derecho para obtener los siguientes objetos:{nl} - 350 TP{nl} - Hairstyle Accessory - Popolion Doll{nl}
+ETC_20160315_021172	Click derecho para obtener los siguientes objetos:{nl} - 200 TP{nl}
+ETC_20160315_021173	Puedes ingresar a este servidor comprando DLC.
 ETC_20160317_021174	Grand Translator
 ETC_20160317_021175	An honorable title only bestowed upon those who participated in the Great Translation movement.
-ETC_20160317_021176	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with EXP Tome){nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
-ETC_20160317_021177	Right-click to obtain the following items:{nl} - 360 TP{nl} - Hairstyle Accessory - Popolion Doll
-ETC_20160317_021178	Use to obtain 360 TP.
-ETC_20160317_021179	Use to obtain 230 TP.
-ETC_20160317_021180	Use to obtain 110 TP.
-ETC_20160317_021181	Right-click to obtain the following items:{nl} - 260 TP{nl} - Hairstyle Accessory - Popolion Doll
-ETC_20160317_021182	Right-click to obtain the following items:{nl} - 110 TP
+ETC_20160317_021176	Contains a variety of special benefits for all your characters in this server for 30 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with EXP Tome){nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
+ETC_20160317_021177	Click derecho para obtener los siguientes objetos:{nl} - 360 TP{nl} - Hairstyle Accessory - Popolion Doll
+ETC_20160317_021178	Úsalo para obtener 360 TP.
+ETC_20160317_021179	Úsalo para obtener 230 TP.
+ETC_20160317_021180	Úsalo para obtener 110 TP.
+ETC_20160317_021181	Click derecho para obtener los siguientes objetos:{nl} - 260 TP{nl} - Hairstyle Accessory - Popolion Doll
+ETC_20160317_021182	Click derecho para obtener los siguientes objetos:{nl} - 110 TP
 ETC_20160317_021183	2 additional Dungeon and Mission entries
-ETC_20160317_021184	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with EXP Tome){nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - 2 extra instance entries for missions and dungeons
-ETC_20160320_021185	Right-click to obtain the following items:{nl} - 650 TP{nl} - Token (60 Days){nl} - Hair Accessory - Popolion Doll{nl} - Hair Accessory - Hanaming Doll{nl} - Hoglan Companion Voucher{nl} - Stat Reset Potion{nl} - Skill Reset Potion{nl}
-ETC_20160320_021186	Use to obtain 650 TP.
-ETC_20160320_021187	Use to obtain 380 TP.
-ETC_20160320_021188	Use to obtain 160 TP.
-ETC_20160320_021189	Right-click to obtain the following items:{nl} - 380 TP{nl} - Token (60 Days){nl} - Hair Accessory - Popolion Doll{nl}
-ETC_20160320_021190	Right-click to obtain the following items:{nl} - 160 TP{nl}
-ETC_20160320_021191	Use to obtain 50 TP. This item cannot be refunded or returned after use.
-ETC_20160320_021192	Grants Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
+ETC_20160317_021184	Contains a variety of special benefits for all your characters in this server for 30 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with EXP Tome){nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - 2 extra instance entries for missions and dungeons
+ETC_20160320_021185	Click derecho para obtener los siguientes objetos:{nl} - 650 TP{nl} - Token (60 Days){nl} - Hair Accessory - Popolion Doll{nl} - Hair Accessory - Hanaming Doll{nl} - Hoglan Companion Voucher{nl} - Stat Reset Potion{nl} - Skill Reset Potion{nl}
+ETC_20160320_021186	Úsalo para obtener 650 TP.
+ETC_20160320_021187	Úsalo para obtener 380 TP.
+ETC_20160320_021188	Úsalo para obtener 160 TP.
+ETC_20160320_021189	Click derecho para obtener los siguientes objetos:{nl} - 380 TP{nl} - Token (60 Days){nl} - Hair Accessory - Popolion Doll{nl}
+ETC_20160320_021190	Click derecho para obtener los siguientes objetos:{nl} - 160 TP{nl}
+ETC_20160320_021191	Úsalo para obtener 50 TP. This item cannot be refunded or returned after use.
+ETC_20160320_021192	Grants Token benefits to all your characters in the server for 30 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
 ETC_20160320_021193	Token: 60 Days
-ETC_20160320_021194	Grants Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 60 times{nl} - 1 extra instance entry for missions and dungeons
+ETC_20160320_021194	Grants Token benefits to all your characters in the server for 30 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 60 times{nl} - 1 extra instance entry for missions and dungeons
 ETC_20160320_021195	1 extra instance entry for missions and dungeons
 ETC_20160323_021196	Mage Tower Instanced Dungeon
 ETC_20160323_021197	Guild Mission 2
@@ -21210,20 +21210,20 @@ ETC_20160323_021209	Different types of equipment allow for different maximum num
 ETC_20160323_021210	Logic Error
 ETC_20160323_021211	Wrong Translation Data
 ETC_20160323_021212	The .tsv file must be encoded in UTF-8 without BOM.
-ETC_20160323_021213	Grants Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times
-ETC_20160323_021214	Grants Token benefits to all your characters in the server for 7 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
-ETC_20160323_021215	Grants Token benefits to all your characters in the server for 5 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
-ETC_20160323_021216	Grants Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
-ETC_20160323_021217	Grants Token benefits to all your characters in the server for 3 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
-ETC_20160323_021218	Grants Token benefits to all your characters in the server for 6 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
-ETC_20160323_021219	Grants Token benefits to all your characters in the server for 12 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
-ETC_20160323_021220	Grants Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
-ETC_20160323_021221	Grants Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times
-ETC_20160323_021222	Grants Token benefits to all your characters in the server for 15 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20160323_021213	Grants Token benefits to all your characters in the server for 30 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times
+ETC_20160323_021214	Grants Token benefits to all your characters in the server for 7 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20160323_021215	Grants Token benefits to all your characters in the server for 5 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20160323_021216	Grants Token benefits to all your characters in the server for 1 day. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20160323_021217	Grants Token benefits to all your characters in the server for 3 hours. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20160323_021218	Grants Token benefits to all your characters in the server for 6 hours. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20160323_021219	Grants Token benefits to all your characters in the server for 12 hours. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20160323_021220	Grants Token benefits to all your characters in the server for 3 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20160323_021221	Grants Token benefits to all your characters in the server for 30 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times
+ETC_20160323_021222	Grants Token benefits to all your characters in the server for 15 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20160323_021223	90 TP [Event]
-ETC_20160323_021224	Use to obtain 90 TP.
+ETC_20160323_021224	Úsalo para obtener 90 TP.
 ETC_20160323_021225	Lucky 100 Package
-ETC_20160323_021226	Right-click to obtain the following items:{nl} - Party Horn{nl} - 100 TP{nl} - 100 TP
+ETC_20160323_021226	Click derecho para obtener los siguientes objetos:{nl} - Party Horn{nl} - 100 TP{nl} - 100 TP
 ETC_20160323_021227	Dellam Sandbank
 ETC_20160323_021228	Polybba Marshlands
 ETC_20160323_021229	Kranta Skerries
@@ -21276,39 +21276,39 @@ ETC_20160323_021275	Magic Defense {img green_up_arrow 16 16} 18
 ETC_20160323_021276	Platina Set
 ETC_20160323_021277	Magic Defense {img green_up_arrow 16 16} 22
 ETC_20160323_021278	1 day=overall instanced dungeons. 0=instanced dungeons per server
-ETC_20160323_021279	Recipe - Old Cane Restoration Tome
+ETC_20160323_021279	Receta - Old Cane Restoration Tome
 ETC_20160323_021280	A tome used to restore old canes.
-ETC_20160323_021281	Recipe - Vienie Koperon Sword
-ETC_20160323_021282	Recipe - Duris Twin Blade
-ETC_20160323_021283	Recipe - Vitt Corona Rod
-ETC_20160323_021284	Recipe - Dellis Evil Staff
-ETC_20160323_021285	Recipe - Light Kracked Shooter
-ETC_20160323_021286	Recipe - Dark Burawa
-ETC_20160323_021287	Recipe - Duris Demon Pike
-ETC_20160323_021288	Recipe - Coro Epee
-ETC_20160323_021289	Recipe - Fire Musket
-ETC_20160323_021290	Recipe - Critti Cannon
-ETC_20160323_021291	Recipe - Vista Cannon
-ETC_20160323_021292	Recipe - Erera Cannon
-ETC_20160323_021293	Recipe - Stropy Cannon
-ETC_20160323_021294	Recipe - Agvara Cannon
-ETC_20160323_021295	Recipe - Demono Amulet
-ETC_20160323_021296	Recipe - Augalo Amulet
-ETC_20160323_021297	Recipe - Perejimo Amulet
-ETC_20160323_021298	Recipe - Zveries Amulet
-ETC_20160323_021299	Recipe - Vabalo Amulet
-ETC_20160323_021300	Recipe - Magijos Amulet
-ETC_20160323_021301	Recipe - Vinies Amulet
-ETC_20160323_021302	Recipe - Palemidas Amulet
-ETC_20160323_021303	Recipe - Pertraukos Amulet
-ETC_20160323_021304	Rank: {Number}
-ETC_20160323_021305	You can't move to the instanced dungeon.
+ETC_20160323_021281	Receta - Vienie Koperon Sword
+ETC_20160323_021282	Receta - Duris Twin Blade
+ETC_20160323_021283	Receta - Vitt Corona Rod
+ETC_20160323_021284	Receta - Dellis Evil Staff
+ETC_20160323_021285	Receta - Light Kracked Shooter
+ETC_20160323_021286	Receta - Dark Burawa
+ETC_20160323_021287	Receta - Duris Demon Pike
+ETC_20160323_021288	Receta - Coro Epee
+ETC_20160323_021289	Receta - Fire Musket
+ETC_20160323_021290	Receta - Critti Cannon
+ETC_20160323_021291	Receta - Vista Cannon
+ETC_20160323_021292	Receta - Erera Cannon
+ETC_20160323_021293	Receta - Stropy Cannon
+ETC_20160323_021294	Receta - Agvara Cannon
+ETC_20160323_021295	Receta - Demono Amulet
+ETC_20160323_021296	Receta - Augalo Amulet
+ETC_20160323_021297	Receta - Perejimo Amulet
+ETC_20160323_021298	Receta - Zveries Amulet
+ETC_20160323_021299	Receta - Vabalo Amulet
+ETC_20160323_021300	Receta - Magijos Amulet
+ETC_20160323_021301	Receta - Vinies Amulet
+ETC_20160323_021302	Receta - Palemidas Amulet
+ETC_20160323_021303	Receta - Pertraukos Amulet
+ETC_20160323_021304	Rango: {Number}
+ETC_20160323_021305	Imposible de ingresar a la Instancia.
 ETC_20160323_021306	Bonus de EXP
-ETC_20160323_021307	You can't use it at the max level.
-ETC_20160323_021308	Physical Damage Decrease
-ETC_20160323_021309	Magic Damage Decrease
-ETC_20160323_021310	Count:
-ETC_20160323_021311	Receive all rewards (Count: {COUNT})
+ETC_20160323_021307	No puedes usarlo a su máximo nivel.
+ETC_20160323_021308	Defensa Física Reducida
+ETC_20160323_021309	Defensa Mágica Reducida
+ETC_20160323_021310	Contador:
+ETC_20160323_021311	Recibir todas las recompensas (Contador: {COUNT})
 ETC_20160323_021312	Collecting magical energy
 ETC_20160323_021313	You've collected all magical power in the crystal
 ETC_20160323_021314	You've stopped collecting
@@ -21350,41 +21350,41 @@ ETC_20160323_021349	You couldn't find the dangerous Binding Magic Circle
 ETC_20160323_021350	The magic circle has already disappeared
 ETC_20160323_021351	The magic circle has already been created here
 ETC_20160323_021352	Using the Magic Searching Stone
-ETC_20160323_021353	You can't transform while doing a quest in this region.
-ETC_20160323_021354	Guild member {Name} received {Item} (x{Count}) from the Guild Storage. 
-ETC_20160323_021355	You've received an item from the Guild Storage. Retrieve the item in your Lodge.
+ETC_20160323_021353	No puedes transformarte mientras realizas una misión en esta región.
+ETC_20160323_021354	Miembro del Clan {Name} ha recibido {Item} (x{Count}) del Almacén del Clan. 
+ETC_20160323_021355	Has recibido un objeto del Almacén del Clan. Retrieve the item in your Lodge.
 ETC_20160323_021356	You can't use this item in other Guild Hangouts.
-ETC_20160323_021357	You can only place one bonfire.{nl}The previous bonfire has been removed.
-ETC_20160323_021358	You cannot sell this.
-ETC_20160323_021359	You are not in the condition to do this action.
-ETC_20160323_021360	Per Enhancement Tier
-ETC_20160323_021361	Only {Job} (Circle {Grade}) can purchase this.
-ETC_20160323_021362	You will resurrect in a moment
-ETC_20160323_021363	{Name} who possessed {MonName} until the last obtained {Point}
-ETC_20160323_021364	Remaining time before the game starts
-ETC_20160323_021365	Remaining time before the game ends
-ETC_20160323_021366	The game has already started.
-ETC_20160323_021367	The number of participants allowed has been exceeded.
-ETC_20160323_021368	Rank {Value}
-ETC_20160323_021369	{Win} Win {Lose} Lose
-ETC_20160323_021370	The weekly standings will refresh after {Time}
-ETC_20160323_021371	{Point} Points
-ETC_20160323_021372	Rank {Rank}
+ETC_20160323_021357	Sólo puedes hacer 1 fogata.{nl}La fogata anterior ha sido removida.
+ETC_20160323_021358	No puedes vender esto.
+ETC_20160323_021359	No estas en condiciones de realizar esta acción.
+ETC_20160323_021360	Por Rango de Mejora
+ETC_20160323_021361	Sólo {Job} (Círculo {Grade}) puede comprar esto.
+ETC_20160323_021362	Resucitarás en unos instantes
+ETC_20160323_021363	{Name} que mantuvo {MonName} hasta el final obtuvo {Point}
+ETC_20160323_021364	Tiempo restante para que inicie el juego
+ETC_20160323_021365	Tiempo restante para que finalice el juego
+ETC_20160323_021366	El juego se encuentra en progreso.
+ETC_20160323_021367	Se ha excedido el número de participantes permitidos.
+ETC_20160323_021368	Rango {Value}
+ETC_20160323_021369	{Win} Ganadas {Lose} Perdidas
+ETC_20160323_021370	Las posiciones semanales se re-establecerán en {Time}
+ETC_20160323_021371	{Point} Puntos
+ETC_20160323_021372	Rango {Rank}
 ETC_20160323_021373	TP Exchange Ticket
-ETC_20160323_021374	Guild Reward
-ETC_20160323_021375	1st Standing Server Reward
-ETC_20160323_021376	Free TP + {Value} until the next refresh of the weekly standings
+ETC_20160323_021374	Recompensa de Clan
+ETC_20160323_021375	Recompensa por 1er lugar del servidor
+ETC_20160323_021376	TP gratuito + {Value} hasta el próximo reinicio semanal de posiciones
 ETC_20160323_021377	Re-enter auto party matching
-ETC_20160323_021378	You already have the Token benefits.{nl}Using another Token will stack:{nl}- Total duration time;{nl}- Number of personal trades;{nl}All other benefits will be{nl}maintained at the same value.{nl}Do you still want to use it?
-ETC_20160323_021379	[Alchemist Master]{nl}
-ETC_20160323_021380	Collector
+ETC_20160323_021378	Ya tienes beneficios de Token.{nl}Usar otro Token acumulará:{nl}- Duración total;{nl}- Número de intercambios;{nl}Todos los otros beneficios{nl}se mantendrán sin cambios.{nl}¿Aún quieres emplearlo?
+ETC_20160323_021379	[Maestro Alquimista]{nl}
+ETC_20160323_021380	Recolector
 ETC_20160323_021381	Plateau Sugar Beet Stems
-ETC_20160323_021382	[Hoplite Master]{nl}    Aidas Valor
+ETC_20160323_021382	[Maestro Hoplita]{nl}    Aidas Valor
 ETC_20160323_021383	3F Purifier
-ETC_20160323_021384	[Barbarian Master]{nl}      Walder Junnot
-ETC_20160323_021385	Catch the Hanaming before the other players!
-ETC_20160323_021386	The battle has begun!{nl}Destroy you opponent's Guild Tower.
-ETC_20160329_021387	{nl}Reduces item potential when equipped.{nl}{nl}Number of Magic Amulets that can be equipped: {Remain}
+ETC_20160323_021384	[Maestro Bárbaro]{nl}      Walder Junnot
+ETC_20160323_021385	¡Captura al Hanaming antes que los otros jugadores!
+ETC_20160323_021386	¡La batalla ha iniciado!{nl}Destruye la Torre del Clan oponente.
+ETC_20160329_021387	{nl}Reduce el potencial del objeto cuando es equipado.{nl}{nl}Número de amuletos mágicos que pueden ser equipados: {Remain}
 ETC_20160329_021388	Acquired Orb Crystal.
 ETC_20160329_021389	Acquired Lapasape wand fragment.
 ETC_20160329_021390	Found dry Dadania leaves.
@@ -21399,35 +21399,35 @@ ETC_20160329_021398	Finished purifying.
 ETC_20160329_021399	Shoveling…
 ETC_20160329_021400	There is nothing more to shovel.
 ETC_20160329_021401	You have found the ancient materials.
-ETC_20160329_021402	You can't change to neutral status yet.
-ETC_20160329_021403	Do you want to change your guild to neutral status?{nl}Neutral guilds cannot participate in field wars.{nl}The neutral status will be maintained for {DAY}.
-ETC_20160329_021404	You have changed your guild to neutral status. You may change this status again after {DAY}.
-ETC_20160329_021405	You have disabled your guild's neutral status. You may change its status again after {DAY}.
-ETC_20160329_021406	You can't change your guild to neutral status during a war.
-ETC_20160329_021407	{@st42}[Status change available after {TIME}]
-ETC_20160329_021408	This guild is set to neutral status; you cannot declare war on it.
-ETC_20160329_021409	Your guild is set to neutral status; you cannot declare war on other guilds.
-ETC_20160329_021410	You may only declare war to up to 3 different guilds.
-ETC_20160329_021411	You can't declare a war without a guild tower.
-ETC_20160405_021412	Megaphone level restriction
+ETC_20160329_021402	Aún no puedes cambiar a neutral el estado de tu Clan.
+ETC_20160329_021403	¿Deseas cambiar el estado de tu Clan a neutral?{nl}Los Clans neutrales no pueden participar en guerras por una zona.{nl}El estado neutral se mantendrá por {DAY} día(s).
+ETC_20160329_021404	Has cambiado el estado de tu Clan a neutral. Puedes cambiar este estado en {DAY} día(s).
+ETC_20160329_021405	Tu Clan ya no es neutral. Puedes cambiar su estado en {DAY} día(s).
+ETC_20160329_021406	No puedes cambiar el estado a neutral de tu Clan durante una guerra.
+ETC_20160329_021407	{@st42}[Cambio de estado disponible en {TIME}]
+ETC_20160329_021408	Esta guild se encuentra en estado neutral; no le puedes declarar la guerra.
+ETC_20160329_021409	Tu Clan se encuentra en estado neutral; no puedes declararle la guerra a otros Clans.
+ETC_20160329_021410	Sólo le puedes declarar la guerra a 3 Clans distintos.
+ETC_20160329_021411	No puedes declarar una guerra sin una Torre del Clan.
+ETC_20160405_021412	Nivel de restricción del Megafóno
 ETC_20160405_021413	Amount queried in one time when reading chat contents from the chat server
-ETC_20160405_021414	Must be at least {Level} to use.
-ETC_20160411_021415	Incorrect argument no. Please check function call for errors.
-ETC_20160411_021416	DB connection failed
-ETC_20160411_021417	Token tip
-ETC_20160411_021418	Using a Token increases your EXP earned from monsters by 30%.
-ETC_20160411_021419	Using a Token allows you to learn two different attributes simultaneously.
-ETC_20160411_021420	Using a Token reduces your market selling tax to 10%.
-ETC_20160411_021421	Using a Token speeds up your movement by 3.
-ETC_20160411_021422	Using a Token increases your allowed number of items registered on the market to 5.
-ETC_20160411_021423	Using a Token increases the number of buffs your character can receive.
-ETC_20160411_021424	Using a Token allows you to make use of premium gestures.
-ETC_20160411_021425	Characters using a Token can perform 1:1 transactions with other Token-using characters.
-ETC_20160411_021426	Use a new Token when another Token is already in use to increase your Token effect time and allowed number of transactions.
-ETC_20160411_021427	You can complete daily quests up to 5 times a day. The daily quest count is reset every day at 6AM.
-ETC_20160411_021428	Daily quests have different content and give different rewards depending on your character's level.
-ETC_20160411_021429	Instanced Dungeon tip
-ETC_20160411_021430	Your instanced dungeon count is reset every day at 6AM.
+ETC_20160405_021414	Debes ser al menos nivel {Level} para usarlo.
+ETC_20160411_021415	Número de argumentos incorrecto. Revisa la función para detectar errores.
+ETC_20160411_021416	Connexión a la DB fallida
+ETC_20160411_021417	Consejo de Token
+ETC_20160411_021418	Usar un Token aumenta la EXP obtenida de monstruos en 30%.
+ETC_20160411_021419	Usar un Token te permite aprender 2 atributos simultáneamente.
+ETC_20160411_021420	Usar un Token reduce el impuesto del mercado a 10%.
+ETC_20160411_021421	Usar un Token aumenta tu velocidad de movimiento en +3.
+ETC_20160411_021422	Usar un Token aumenta el número de objetos que puedes listar en el mercado a 5.
+ETC_20160411_021423	Usar un Token aumenta el número de Buff que tu personaje puede recibir.
+ETC_20160411_021424	Usar un Token te permite usar gestos premium.
+ETC_20160411_021425	Los personajes que usan Token pueden realizar intercambios 1:1 con otros personajes que usen Token.
+ETC_20160411_021426	Usa un nuevo Token cuando otro Token sigue activo para aumentar el tiempo de efecto del Token y el número permitido de intercambios.
+ETC_20160411_021427	Puedes completar hasta 5 misiones diarias por día. El contador de misiones diarias se reinicia a las 6AM.
+ETC_20160411_021428	Las misiones diarias tienen diferente contenido y dan distintas recompensas de acuerdo al nivel de tu PJ.
+ETC_20160411_021429	Consejo para Instancias
+ETC_20160411_021430	El contador de Instancias se reinicia a las 6AM.
 ETC_20160411_021431	Instanced dungeons and missions not completed within one hour are automatically terminated.
 ETC_20160411_021432	Level differences among members arise during automatic instanced dungeon party matching depending on the matching time.
 ETC_20160411_021433	Entering instanced dungeons or missions through the auto party matching system earns you bonus EXP.
@@ -21438,9 +21438,9 @@ ETC_20160411_021437	Battle League tip
 ETC_20160411_021438	The Team Battle League ranking is reset every Monday at midnight.
 ETC_20160411_021439	You can purchase EXP cards using the points earned through the Team Battle League.
 ETC_20160411_021440	Consejo sobre el Clan
-ETC_20160411_021441	Guild wars start 1 hour after war has been declared and carry on for 1 week.
-ETC_20160411_021442	Guild masters can set their guilds to
-ETC_20160411_021443	 status, which disables war declarations.
+ETC_20160411_021441	Las guerras de Clan comienzan 1 hora despues de declarada y duran 1 semana.
+ETC_20160411_021442	Los líderes de clan pueden fijar a
+ETC_20160411_021443	 el estado de su clan, que desactiva las declaraciones de guerra.
 ETC_20160411_021444	Consejo sobre el Banco de Equipo
 ETC_20160411_021445	Usando un token premium, puedes transferir objetos entre personajes en la misma cuenta a través del almacen del equipo.
 ETC_20160411_021446	You can receive EXP cards from Wings of Vibora NPCs by defeating a certain number of monsters.
@@ -21732,7 +21732,7 @@ ETC_20160412_021731	Reportar Bot
 ETC_20160412_021732	¿Reportar a {Name} cómo un Bot?
 ETC_20160412_021733	{Name} ha sido reportado. Muchas Gracias.
 ETC_20160415_021734	Delay period after account creation until trading is available: (seconds)
-ETC_20160415_021735	Min Market Price: Adjust
+ETC_20160415_021735	Precio Mín del Mercado: Ajustar
 ETC_20160415_021736	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons y enlaces está restringido pues puede consumir una gran cantidad de bites.
 ETC_20150317_001460	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons está restringido pues puede consumir una gran cantidad de bites.
 ETC_20160415_021737	Esta función estará disponible en {Time}.
