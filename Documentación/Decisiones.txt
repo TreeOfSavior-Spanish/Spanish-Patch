@@ -23,31 +23,31 @@
 - CON -> Consistencia
 - SPR -> Espiritu
 
-[ Nombres de Clases ]
+[ Nombres de Clases ] - Ayuda para normbres(http://tosdatabase.com.br/classes)
 >> Archer: Arquero
 >> Quarrel Shooter: Ballestero (NdT: Quarrel es un tipo de Saeta con punta cuadrada).
 >> Ranger: Guardabosque
 >> Sapper: Zapador
 >> Hunter: Cazador
->> Wugushi: =
+>> Wugushi:  Arquero de Jade
 >> Scout: Explorador
->> Fletcher: ¿¿¿Remerador???
->> Rogue: ¿¿¿Truhán??? o ¿¿¿Pícaro???
+>> Fletcher: ¿¿¿Remerador??? ¿¿Flechero??
+>> Rogue: Pícaro
 >> Falconer: Halconero
->> Schwarzer Reiter: =
+>> Schwarzer Reiter: = Caballero Negro
 >> Cannoneer: Cañonero
 >> Musketeer: Mosquetero
 
 >> Swordman: Espadachín
->> Highlander: ???
+>> Highlander: Montañero
 >> Peltasta: =
 >> Hoplite: Hoplita
 >> Barbarian: Bárbaro
 >> Rodelero: =
 >> Cataphrac: Catafracto
->> Squire: ¿¿¿Escudero???
+>> Squire: Escudero
 >> Corsair: Corsario
->> Doppelsoeldner: =
+>> Doppelsoeldner: Mercenario
 >> Fencer: Esgrimista (NdT: El término correcto es "Tirador")
 >> Dragoon: Dragón
 >> Templar: Templario
@@ -56,7 +56,7 @@
 >> Wizard: Mago
 >> Pyromancer: Piromante
 >> Cryomancer: Criomante
->> Psychokino: Psicoquino
+>> Psychokino: Mentalista
 >> Linker: ???
 >> Thaumaturge: Taumaturgo
 >> Elementalist: Elementalista
@@ -64,24 +64,24 @@
 >> Chronomancer: Cronomante
 >> Necromancer: Nigromante
 >> Alchemist: Alquimista
->> Rune Caster: ¿¿¿Recitador de Runas???
+>> Rune Caster: Conjurador Rúnico
 >> Warlock: Brujo
->> Featherfoot: ???
->> Mimic: ¿¿¿ Mimico ???
+>> Featherfoot: Chamán
+>> Mimic:Mimico
 
 >> Cleric: Clérigo
 >> Krivis: =
 >> Priest: Sacerdote
 >> Bokor: =
->> Dievdirbys: =
+>> Dievdirbys: Escultor Santo
 >> Sadhu: =
 >> Paladin: Paladín
 >> Monk: Monje
->> Pardoner: ???
+>> Pardoner: Redentor
 >> Chaplain: ???
 >> Druid: Druída
 >> Oracle: Oráculo
->> Plague Doctor: ¿¿¿Doctor de la Plaga???
+>> Plague Doctor: Médico de plagas
 >> Kabbalist: Cabalista
 
 [ Nombres de monstruos ]
