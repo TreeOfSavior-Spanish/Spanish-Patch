@@ -57,7 +57,7 @@
 >> Pyromancer: Piromante
 >> Cryomancer: Criomante
 >> Psychokino: Mentalista
->> Linker: ???
+>> Linker: Vinculador
 >> Thaumaturge: Taumaturgo
 >> Elementalist: Elementalista
 >> Sorcerer: Hechicero
