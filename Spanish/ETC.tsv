@@ -1148,7 +1148,7 @@ ETC_20150317_001147	Pyromancer Master's Lab
 ETC_20150317_001148	Mercenary Post 
 ETC_20150317_001149	Royal Territory
 ETC_20150317_001150	Orsha
-ETC_20150317_001151	West Siauliai Woods
+ETC_20150317_001151	Bosque Siauliai Oeste
 ETC_20150317_001152	Siauliai
 ETC_20150317_001153	Miners' Village
 ETC_20150317_001154	Crystal Mine 1F
@@ -1180,7 +1180,7 @@ ETC_20150317_001179	Rainbow Pond
 ETC_20150317_001180	Great Woodlands
 ETC_20150317_001181	Top Grip Peak
 ETC_20150317_001182	Gate Route
-ETC_20150317_001183	Thorn Forest
+ETC_20150317_001183	Bosque Espinoso
 ETC_20150317_001184	Spineheart Dale
 ETC_20150317_001185	Soul Peak
 ETC_20150317_001186	Sunset Flag Forest
@@ -1312,9 +1312,9 @@ ETC_20150317_001311	Mullers Passage
 ETC_20150317_001312	Underground Passage 4
 ETC_20150317_001313	Catacombs 33_1
 ETC_20150317_001314	Catacombs 33_2
-ETC_20150317_001315	Thorn forest 39_1
-ETC_20150317_001316	Thorn forest 39_2
-ETC_20150317_001317	Thorn forest 39_3
+ETC_20150317_001315	Bosque Espinoso 39_1
+ETC_20150317_001316	Bosque Espinoso 39_2
+ETC_20150317_001317	Bosque Espinoso 39_3
 ETC_20150317_001318	Monastery 39_4
 ETC_20150317_001319	Canyon Area 36_1
 ETC_20150317_001320	Pilgrim's Way 36_2
@@ -1354,7 +1354,7 @@ ETC_20150317_001353	Capture the Flag
 ETC_20150317_001354	Siauliai Raid
 ETC_20150317_001355	Crystal Mine Raid
 ETC_20150317_001356	Catacombs Raid
-ETC_20150317_001357	Thorn Forest Raid
+ETC_20150317_001357	Bosque Espinoso Raid
 ETC_20150317_001358	Canyon Area Mission
 ETC_20150317_001359	Royal Mausoleum Mission
 ETC_20150317_001360	Area of Ruins Mission
@@ -3001,66 +3001,66 @@ ETC_20150317_003000	Recibido
 ETC_20150317_003001	Combinando
 ETC_20150317_003002	Escribiendo
 ETC_20150317_003003	Ya has obtenido:
-ETC_20150317_003004	You must complete the West Siauliai Woods quest in order to progress
-ETC_20150317_003005	Found an Archaeologist's Token!
-ETC_20150317_003006	Did not find anything.
-ETC_20150317_003007	Tombstone of Lydia Schaffen completed. {nl} Let's read the tombstone again.
-ETC_20150317_003008	You do not have enough tombstone pieces.
+ETC_20150317_003004	Para avanzar debes haber terminado las misiones de Bosque Siauliai Oeste
+ETC_20150317_003005	¡Has encontrado un símbolo de Arqueológo!
+ETC_20150317_003006	No encontraste nada.
+ETC_20150317_003007	Has completado la tumba de Lydia Schaffen. {nl} Vamos a leer nuevamente la Tumba.
+ETC_20150317_003008	No tienes suficientes partes de la tumba.
 ETC_20150317_003009	¡Misión Completada!
-ETC_20150317_003010	Tried to open the box but couldn't.
+ETC_20150317_003010	Trataste de abrir la caja pero no lo lograste.
 ETC_20150317_003011	Available during the tagging game
 ETC_20150317_003012	Cannot be used by the tagger
 ETC_20150317_003013	Current Ice status
-ETC_20150317_003014	Available in West Siauliai Woods
+ETC_20150317_003014	Disponible en Bosque Siauliai Oeste
 ETC_20150317_003015	¡No hay monstruos [Tipo Bestia] alrededor!
 ETC_20150317_003016	Montarse
 ETC_20150317_003017	Usando
-ETC_20150317_003018	First reaction: Movement speed decrease
-ETC_20150317_003019	Second reaction: Addiction
-ETC_20150317_003020	Third reaction: Faint
-ETC_20150317_003021	No special reaction
-ETC_20150317_003022	Placing
-ETC_20150317_003023	No effects
+ETC_20150317_003018	Primera reacción: Reducción de velocidad de movimiento
+ETC_20150317_003019	Segunda reacción: Adicción
+ETC_20150317_003020	Tercera reacción: Desmayo
+ETC_20150317_003021	Sin reacción especial
+ETC_20150317_003022	Ubicando
+ETC_20150317_003023	Sin efectos
 ETC_20150317_003024	Available only in opened, closed Crystal Mine
-ETC_20150317_003025	:Fainted! Defeat.
+ETC_20150317_003025	:¡se ha desmayado! Derrota.
 ETC_20150317_003026	Lantern_mushroom: Jibiew Griba: 50 / Lantern_mushroom: Jibiew Griba: 50 / Lantern_mushroom: Jibiew Griba: 50 / Lantern_mushroom_Big: Big Draw Bar: 51
-ETC_20150317_003027	Get rid of the Matsums charging in!
-ETC_20150317_003028	You have completed placing the Sun Essence!
-ETC_20150317_003029	Offering
-ETC_20150317_003030	You have already made an offering!
-ETC_20150317_003031	This area already uses a shield.
-ETC_20150317_003032	Exploring...
-ETC_20150317_003033	Distance from the target:
-ETC_20150317_003034	Releasing
-ETC_20150317_003035	This anvil does not match this type of equipment.
-ETC_20150317_003036	The rating of the anvil is low.
+ETC_20150317_003027	¡Deshaste de los Matsums atacando!
+ETC_20150317_003028	¡Has finalizado de poner la Escencia del Sol!
+ETC_20150317_003029	Ofreciendo
+ETC_20150317_003030	¡Has hecho una ofrenda!
+ETC_20150317_003031	Esta área ya tiene un escudo.
+ETC_20150317_003032	Explorando...
+ETC_20150317_003033	Distancia del blanco:
+ETC_20150317_003034	Liberando
+ETC_20150317_003035	Este Yunque no concuerda con el tipo de equipo.
+ETC_20150317_003036	El ratio de este Yunque es bajo.
 ETC_20150317_003037	[
-ETC_20150317_003038	} has it!
-ETC_20150317_003039	You cannot pass through this area yet!
-ETC_20150317_003040	Collect bomb flower
-ETC_20150317_003041	Obtained Bomb Flowers!
-ETC_20150317_003042	You already have obtained the Bomb Flowers!
-ETC_20150317_003043	Collect Oil-Stained Fuse
-ETC_20150317_003044	Obtained!
-ETC_20150317_003045	You have already have the Fuse!
-ETC_20150317_003046	Delivering ingredients
-ETC_20150317_003047	Collecting Bombs
-ETC_20150317_003048	Obtained Canyon Bomb (disposable)!
-ETC_20150317_003049	You already have that item
-ETC_20150317_003050	Obtained Canyon Bomb!
-ETC_20150317_003051	The box is locked!
+ETC_20150317_003038	} Lo tiene!
+ETC_20150317_003039	¡No puedes atravesar esta área aún!
+ETC_20150317_003040	Recolectar Flores Bomba
+ETC_20150317_003041	¡Has obtenido Flores Bomba!
+ETC_20150317_003042	¡Ya has obtenido las Flores Bomba!
+ETC_20150317_003043	Recolecta fúsible cubierto de Aceite
+ETC_20150317_003044	¡Obtenido!
+ETC_20150317_003045	¡Ya tienes el fúsible!
+ETC_20150317_003046	Entregando ingredientes
+ETC_20150317_003047	Recolectando Bombas
+ETC_20150317_003048	¡Has obtenido Balas de Cañón (desechables)!
+ETC_20150317_003049	Ya tienes ese objeto
+ETC_20150317_003050	¡Has obtenido Bala de Cañón!
+ETC_20150317_003051	¡La caja está cerrada!
 ETC_20150317_003052	's
-ETC_20150317_003053	Silver
+ETC_20150317_003053	Plata
 ETC_20150317_003054	Trying to drop item without monster
-ETC_20150317_003055	Skill is not available
-ETC_20150317_003056	Remove
-ETC_20150317_003057	Defeat the surrounding monsters to proceed
+ETC_20150317_003055	Habilidad no disponible
+ETC_20150317_003056	Remover
+ETC_20150317_003057	Derrota a los monstruos de los alrededores para continuar
 ETC_20150317_003058	NPCState no. 1 should be used in ArgStr1
 ETC_20150317_003059	Quest ClassName is not in ArgStr1.
-ETC_20150317_003060	Troubadour
-ETC_20150317_003061	Death awaits you, if you don't win!
-ETC_20150317_003062	For Klaipeda!
-ETC_20150317_003063	The blessing of the goddess is with us!
+ETC_20150317_003060	Trovador
+ETC_20150317_003061	¡La muerte te espera sino ganas!
+ETC_20150317_003062	¡Por Klaipeda!
+ETC_20150317_003063	¡La bendición de la Diosa esta con nosotros!
 ETC_20150317_003064	{/}{#ffFFFF} Hit Me of {/}
 ETC_20150317_003065	¡La larva Meduja detectó peligro e intenta autodestruirse!
 ETC_20150317_003066	¡Esquivame!
@@ -3077,334 +3077,334 @@ ETC_20150317_003076	¿Dónde estamos?
 ETC_20150317_003077	¿Qué me sucedió?
 ETC_20150317_003078	La Diosa está llamandome...
 ETC_20150317_003079	¡Guíaste el alma a la estatua de Búho!
-ETC_20150317_003080	Angry Soul
-ETC_20150317_003081	Revived Corpse
-ETC_20150317_003082	The soul made it to the Goddess Statue!
-ETC_20150317_003083	Successfully crafted.
-ETC_20150317_003084	{Auto_1} minutes {Auto_2} seconds remaining to craft the item
-ETC_20150317_003085	{Auto_1} seconds remaining to craft the item
-ETC_20150317_003086	Item successfully crafted
-ETC_20150317_003087	{Auto_1} times left to create item
-ETC_20150317_003088	Is already generated
-ETC_20150317_003089	No session
+ETC_20150317_003080	Alma Enojada
+ETC_20150317_003081	Cadaver Reanimado
+ETC_20150317_003082	¡El alma logró llegar a la Estatua de la Diosa!
+ETC_20150317_003083	Creado con éxito.
+ETC_20150317_003084	{Auto_1} minutos {Auto_2} segundos restantes para crear el objeto
+ETC_20150317_003085	{Auto_1} segundos restantes para crear el objeto
+ETC_20150317_003086	Objeto creado con éxito
+ETC_20150317_003087	{Auto_1} veces restantes para crear el objeto
+ETC_20150317_003088	Ya ha sido generado
+ETC_20150317_003089	Sin sesión
 ETC_20150317_003090	Created Friend session 01
-ETC_20150317_003091	It is such a relief to have met you!
-ETC_20150317_003092	Where did you meet that guy?
-ETC_20150317_003093	Is that one going together?
-ETC_20150317_003094	I shall join the Vacenin troops!
-ETC_20150317_003095	I will accomplish it!
-ETC_20150317_003096	Where were you born?
+ETC_20150317_003091	¡Es un alivio haberte encontrado!
+ETC_20150317_003092	¿Dónde conociste a ese sujeto?
+ETC_20150317_003093	¿Se nos unirá?
+ETC_20150317_003094	¡Debo unirme a las tropas de Vacenin!
+ETC_20150317_003095	¡Lo lograré!
+ETC_20150317_003096	¿Dónde naciste?
 ETC_20150317_003097	Yekub
-ETC_20150317_003098	That's a strange connection
-ETC_20150317_003099	There can be no one left behind!
-ETC_20150317_003100	Let's accomplish it!
-ETC_20150317_003101	You're funny!
-ETC_20150317_003102	Wont that guy also need a name?
-ETC_20150317_003103	Blessing of the Goddess!
-ETC_20150317_003104	Vacenin troop is a top notch troop
-ETC_20150317_003105	I'll watch out from behind!
-ETC_20150317_003106	And we have devoted our help!
-ETC_20150317_003107	I have to go now
+ETC_20150317_003098	Es una conexión extraña
+ETC_20150317_003099	¡No puede quedar ninguno atrás!
+ETC_20150317_003100	¡Vamos a lograrlo!
+ETC_20150317_003101	¡Eres divertido!
+ETC_20150317_003102	¿Acáso ese tipo no necesita un nombre?
+ETC_20150317_003103	¡Bendición del la Diosa!
+ETC_20150317_003104	Las tropas de Vacenin son una tropa de lo mejor
+ETC_20150317_003105	¡Los vigilaré desde la retaguardia!
+ETC_20150317_003106	¡Y hemos encomendado nuestra ayuda!
+ETC_20150317_003107	Debo irme ahora
 ETC_20150317_003108	It tag repeated!
 ETC_20150317_003109	It tag already in progress
 ETC_20150317_003110	Insufficient It tag participants
 ETC_20150317_003111	Give session to PC participant
 ETC_20150317_003112	End It tag
-ETC_20150317_003113	A Treasure Vubbe has appeared!
-ETC_20150317_003114	The inhibiting group has been destroyed. Please start the quest again!
-ETC_20150317_003115	Close
-ETC_20150317_003116	Monument leading to the  second floor appeared
-ETC_20150317_003117	Monument leading to the  second floor appeared {nl}
-ETC_20150317_003118	Protect the group leader!
-ETC_20150317_003119	Stop them!
-ETC_20150317_003120	Help!
-ETC_20150317_003121	Where did they come from??
-ETC_20150317_003122	Ugh!
-ETC_20150317_003123	Watch out for the monsters.
-ETC_20150317_003124	Aggressive plants appear in this area
-ETC_20150317_003125	Monsters will attack you so avoid them when they approach
-ETC_20150317_003126	Wish me good luck
-ETC_20150317_003127	I'm not afraid of monsters
-ETC_20150317_003128	I want to finish it all and just rest
-ETC_20150317_003129	I have a bad feeling about today.
-ETC_20150317_003130	I won't lose to those guys
-ETC_20150317_003131	I want to go to his hometown.
-ETC_20150317_003132	Need to concentrate on them
+ETC_20150317_003113	¡Un Vubbe del tesoro ha aparecido!
+ETC_20150317_003114	El grupo inhibidor ha sido destruido. ¡Por favor inicia la misión nuevamente!
+ETC_20150317_003115	Cerrar
+ETC_20150317_003116	El Monumento guíando al segundo piso ha aparecido
+ETC_20150317_003117	El Monumento guíando al segundo piso ha aparecido {nl}
+ETC_20150317_003118	¡Protejan al líder!
+ETC_20150317_003119	¡Deténganlos!
+ETC_20150317_003120	¡Ayuda!
+ETC_20150317_003121	¿¿De dónde vinieron??
+ETC_20150317_003122	¡Ugh!
+ETC_20150317_003123	Cuidado con los monstruos.
+ETC_20150317_003124	Plantas agresivas aparecen en esta zona
+ETC_20150317_003125	Los monstruos te atacarán así que esquivalos a medida que van apareciendo
+ETC_20150317_003126	Deséame buena suerte
+ETC_20150317_003127	No le temo a los monstruos
+ETC_20150317_003128	Sólo quiero acabar con todo esto y descansar
+ETC_20150317_003129	Tengo un mal presagio sobre hoy.
+ETC_20150317_003130	No quiero perder ante esos
+ETC_20150317_003131	Quiero ir a su ciudad natal.
+ETC_20150317_003132	Nesecitamos concentrarnos en ellos
 ETC_20150317_003133	Initialization function
 ETC_20150317_003134	on loop
 ETC_20150317_003135	owner_ssn not available
 ETC_20150317_003136	no parent PC available
 ETC_20150317_003137	SSN_OBJECT_STORAGE session not given
-ETC_20150317_003138	Accept Mission
-ETC_20150317_003139	Cancel
-ETC_20150317_003140	Can be traded right away through instant shop
-ETC_20150317_003141	Opening lock
-ETC_20150317_003142	Empty box
-ETC_20150317_003143	Need to get rid of /3
-ETC_20150317_003144	The Guardian of the Contract has emerged!
-ETC_20150317_003145	Guardian of the Contract
-ETC_20150317_003146	Box
-ETC_20150317_003147	Ask what's going on
-ETC_20150317_003148	Leave
-ETC_20150317_003149	I can't you grow something like a garden
-ETC_20150317_003150	Leave
-ETC_20150317_003151	Ask if it wasn't a crush
-ETC_20150317_003152	Give a pat on the shoulder
+ETC_20150317_003138	Aceptar Misión
+ETC_20150317_003139	Cancelar
+ETC_20150317_003140	Puede ser comprado enseguida a través de la Insta-Tienda
+ETC_20150317_003141	Abriendo Candado
+ETC_20150317_003142	Caja Vacía
+ETC_20150317_003143	Necesitas deshacerte de /3
+ETC_20150317_003144	¡El Guardían del Contrato ha emergido!
+ETC_20150317_003145	Guardían del Contrato
+ETC_20150317_003146	Caja
+ETC_20150317_003147	Preguntar que sucede
+ETC_20150317_003148	Irse
+ETC_20150317_003149	No puedo cultivar algo cómo un jardín
+ETC_20150317_003150	Irse
+ETC_20150317_003151	Preguntar si no fue amor 
+ETC_20150317_003152	Darle una palmadita en el hombro
 ETC_20150317_003153	No
-ETC_20150317_003154	Show copy of the memorial stone
-ETC_20150317_003155	Tell the story about meeting the soul of a lost lady
-ETC_20150317_003156	Say 'OK' and just leave
-ETC_20150317_003157	How dare you? Let go you human!
-ETC_20150317_003158	Kyaoow!
-ETC_20150317_003159	Groowwl...!!
-ETC_20150317_003160	Real cuteness is in the gates of the Great King
-ETC_20150317_003161	] should be completed before passing through
-ETC_20150317_003162	Someone might own it so just copy it
-ETC_20150317_003163	Defeat the horde of Vubbes!
-ETC_20150317_003164	You need to place the crystal in district 9 in order to go down
-ETC_20150317_003165	You can go down the rejected Specter
-ETC_20150317_003166	You need the Vubbe Holystone
-ETC_20150317_003167	Dungeon Vubbe Holystone
-ETC_20150317_003168	Offer
-ETC_20150317_003169	Dungeon Vubbe Holystone required
-ETC_20150317_003170	I'll give
-ETC_20150317_003171	Yes
+ETC_20150317_003154	Mostrarle copia de la piedra del memorial
+ETC_20150317_003155	Contarle la historia de haber encontrado el alma de una chica
+ETC_20150317_003156	Decir 'OK' y solo irse
+ETC_20150317_003157	¿Cómo te atreves? ¡No te dejaré irte humano!
+ETC_20150317_003158	¡Kyaoow!
+ETC_20150317_003159	¡¡Groowwl...!!
+ETC_20150317_003160	Real hermosura hay en las puertas del Gran Rey
+ETC_20150317_003161	] debe ser completada antes de proseguir
+ETC_20150317_003162	Alguien debe poseerlo, sólo es copiarlo
+ETC_20150317_003163	¡Derrota la horda de Vubbes!
+ETC_20150317_003164	Necesitas dejar el cristal en el distrito 9 para proseguir
+ETC_20150317_003165	Ya puedes alcanzar al Espectro rechazado
+ETC_20150317_003166	Necesitas la Piedrasanta Vubbe
+ETC_20150317_003167	Piedrasanta Vubbe de la Mazmorra
+ETC_20150317_003168	Ofrecer
+ETC_20150317_003169	Piedrasanta Vubbe de la Mazmorra es requerida
+ETC_20150317_003170	Se lo daré
+ETC_20150317_003171	Sí
 ETC_20150317_003172	No
 ETC_20150317_003173	Feels leery so just copy it
-ETC_20150317_003174	Let's search
-ETC_20150317_003175	Stop. Doesn't seem like there's anything here.
-ETC_20150317_003176	Let's take a look at it
-ETC_20150317_003177	Let me put your hands in it
-ETC_20150317_003178	Let's put only one hand again
-ETC_20150317_003179	Stop. It hurts.
-ETC_20150317_003180	Stop. It's scary.
-ETC_20150317_003181	Take it
-ETC_20150317_003182	Eat it
-ETC_20150317_003183	Try eating it
-ETC_20150317_003184	Cannot resist... Must... Try... It...
-ETC_20150317_003185	Wonders of Kateen Forest
-ETC_20150317_003186	The power of just six stones is not enough
-ETC_20150317_003187	Rock Vubbe Miner
-ETC_20150317_003188	Pickaxe Vubbet Miner
-ETC_20150317_003189	Smells like some petty humans
-ETC_20150317_003190	Knight Uska
-ETC_20150317_003191	Soldier
-ETC_20150317_003192	Detailed description is skipped
-ETC_20150317_003193	Good work!
+ETC_20150317_003174	A buscar
+ETC_20150317_003175	Detenerse. Al parecer no hay nada aquí.
+ETC_20150317_003176	Mirarlo
+ETC_20150317_003177	Dejame poner tus manos en el
+ETC_20150317_003178	Poner sólo 1 mano
+ETC_20150317_003179	Alto. Duele.
+ETC_20150317_003180	Alto. Me asusta.
+ETC_20150317_003181	Tomarlo
+ETC_20150317_003182	Comerlo
+ETC_20150317_003183	Intentar comerlo
+ETC_20150317_003184	No puedo aguantarme... Debo... darle... una probada...
+ETC_20150317_003185	Maravillas del Bosque Kateen
+ETC_20150317_003186	El poder de sólo 6 piedras no es suficiente
+ETC_20150317_003187	Vubbe Minero de Rocas
+ETC_20150317_003188	Vubbet Minero con Pico
+ETC_20150317_003189	Huele cómo a débiles Humanos
+ETC_20150317_003190	Caballero Uska
+ETC_20150317_003191	Soldado
+ETC_20150317_003192	Saltando descripción detallada
+ETC_20150317_003193	¡Buen trabajo!
 ETC_20150317_003194	Move to Crystal Mine Lot 2 - 2F
-ETC_20150317_003195	Investigating
-ETC_20150317_003196	Collecting
-ETC_20150317_003197	Vubbe Tribe Flag
-ETC_20150317_003198	Destroy the Flag of the Vubbe tribe!
-ETC_20150317_003199	Placing the Bomb
-ETC_20150317_003200	Secret passage of Vubbes
-ETC_20150317_003201	Fight back the Vubbes and install a bomb in the secret passage
-ETC_20150317_003202	Monsters are trying to get rid of the seal! Get rid of them!
-ETC_20150317_003203	Vubbe Archer Soldier
-ETC_20150317_003204	Vubbe Soldier
-ETC_20150317_003205	You need to go to the goddess quickly
-ETC_20150317_003206	Why are there so many monsters suddenly?
-ETC_20150317_003207	Help!
-ETC_20150317_003208	I can't get out!
-ETC_20150317_003209	Please destroy this!
-ETC_20150317_003210	Collecting Flame Vapor
-ETC_20150317_003211	Grita's Reflection
-ETC_20150317_003212	Be careful!
-ETC_20150317_003213	You're in danger!
-ETC_20150317_003214	What's that?
-ETC_20150317_003215	There's no time to chat!
-ETC_20150317_003216	You need to go fast
-ETC_20150317_003217	You..
-ETC_20150317_003218	Received damage
-ETC_20150317_003219	Dead
+ETC_20150317_003195	Investigando
+ETC_20150317_003196	Recolectando
+ETC_20150317_003197	Bandera Tribal Vubbe
+ETC_20150317_003198	¡Destruye la bandera de la tribu Vubbe!
+ETC_20150317_003199	Instalando la Bomba
+ETC_20150317_003200	Pasaje secreto de los Vubbes
+ETC_20150317_003201	Lucha contra los Vubbes e instala una bomba en el pasaje secreto
+ETC_20150317_003202	¡Los monstruos están intentando acabar con el sello! ¡Deshaste de ellos!
+ETC_20150317_003203	Arquero Vubbe Soldado
+ETC_20150317_003204	Vubbe Soldado
+ETC_20150317_003205	necesitas regresar a la diosa rápidamente
+ETC_20150317_003206	¿Porqué aparecieron tantos monstruos de la nada?
+ETC_20150317_003207	¡Ayuda!
+ETC_20150317_003208	¡No puedo salir!
+ETC_20150317_003209	¡Por favor destruye esto!
+ETC_20150317_003210	Recolectando Vapor de Flamas
+ETC_20150317_003211	Reflejo de Grita
+ETC_20150317_003212	¡Ten cuidado!
+ETC_20150317_003213	¡Estas en peligro!
+ETC_20150317_003214	¿Qué es eso?
+ETC_20150317_003215	¡No hay tiempo para charlar!
+ETC_20150317_003216	Debes apresurarte
+ETC_20150317_003217	Tú...
+ETC_20150317_003218	Recibido daño
+ETC_20150317_003219	Muerto
 ETC_20150317_003220	Click NPC
-ETC_20150317_003221	Within trigger range
-ETC_20150317_003222	Outside trigger range
-ETC_20150317_003223	I got the item
-ETC_20150317_003224	Item was discarded or stolen
-ETC_20150317_003225	Used item
-ETC_20150317_003226	Equipped item
-ETC_20150317_003227	Removed item
-ETC_20150317_003228	Used skill
-ETC_20150317_003229	Entered zone
-ETC_20150317_003230	Left the zone
-ETC_20150317_003231	Received buff
-ETC_20150317_003232	Removed buff
-ETC_20150317_003233	Removed all buffs
+ETC_20150317_003221	Dentro del rango de activación
+ETC_20150317_003222	Fuera del rango de activación
+ETC_20150317_003223	Obtuve el objeto
+ETC_20150317_003224	Objeto descartado o robado
+ETC_20150317_003225	Objeto usado
+ETC_20150317_003226	Objeto equipado
+ETC_20150317_003227	Objeto removido
+ETC_20150317_003228	Habilidad usada
+ETC_20150317_003229	Entrado a zona
+ETC_20150317_003230	Dejado la zona
+ETC_20150317_003231	Buff recibido
+ETC_20150317_003232	Buff removido
+ETC_20150317_003233	Todos los buffs removidos
 ETC_20150317_003234	BroadMSG reception
 ETC_20150317_003235	Receive UI events
 ETC_20150317_003236	Cast
-ETC_20150317_003237	Ritual of Blessing
-ETC_20150317_003238	You do not have enough sacrifices for the ceremony
-ETC_20150317_003239	In front of [Forgotten Sanctuary]
-ETC_20150317_003240	Press to proceed with the blessing ceremony
-ETC_20150317_003241	Required! {nl} can be obtained from the Carved Owl nearby
+ETC_20150317_003237	Ritual de Bendición
+ETC_20150317_003238	No tienes suficientes sacrificios para la ceremonia
+ETC_20150317_003239	Frente a [Santuario Olvidado]
+ETC_20150317_003240	Presiona para proceder con la ceremonia de bendición
+ETC_20150317_003241	¡es Requerido! {nl} puedes obtenerlo cerca del Búho Esculpido
 ETC_20150317_003242	You can safely pass through the barrier if you have a bowl
-ETC_20150317_003243	These gates are blocked {nl} You need the help of the Carved Owl to pass through
-ETC_20150317_003244	Collecting
-ETC_20150317_003245	I found the trail of scout troops
-ETC_20150317_003246	Altar of Magic
-ETC_20150317_003247	Obedient Owl Image
-ETC_20150317_003248	Jalias Truffle
-ETC_20150317_003249	The monster was attacked while comforting the souls!
-ETC_20150317_003250	Owl Statue
-ETC_20150317_003251	Fallen Carved Owl
-ETC_20150317_003252	Fierce Spirit
+ETC_20150317_003243	Estás puertas se encuentran cerradas {nl} Necesitas la ayuda del Búho Esculpido para pasar
+ETC_20150317_003244	Recolectando
+ETC_20150317_003245	Encontré el rastro de las tropas exploradoras
+ETC_20150317_003246	Altar de la Magia
+ETC_20150317_003247	Imagen de Búho obediente
+ETC_20150317_003248	Trufa Jalias
+ETC_20150317_003249	¡El monstruo comenzó a atacar mientras les dabas descanso a las almas!
+ETC_20150317_003250	Estatua de Búho
+ETC_20150317_003251	Búho Esculpido Caído
+ETC_20150317_003252	Espíritu Feroz
 ETC_20150317_003253	Grrrr... Grrrr...
-ETC_20150317_003254	Looking for Dry Twigs...
-ETC_20150317_003255	Obtained Dry Twigs of Thorn Forest!
-ETC_20150317_003256	No more Dry Twigs left in Thorn Forest
-ETC_20150317_003257	Ball shot
-ETC_20150317_003258	Gathering trails
-ETC_20150317_003259	While awake in the debris of memory.
+ETC_20150317_003254	Búscando ramas secas...
+ETC_20150317_003255	Obtained Dry Twigs of Bosque Espinoso!
+ETC_20150317_003256	No quedan más ramas secas en Bosque Espinoso
+ETC_20150317_003257	Bola disparada
+ETC_20150317_003258	Juntando rastros
+ETC_20150317_003259	Mientras despierta en los fragmentos de la memoria.
 ETC_20150317_003260	Matsum v13
-ETC_20150317_003261	Kill monsters!
-ETC_20150317_003262	The effect of active stones is disabled!
-ETC_20150317_003263	The effect of active stones is disabled!{nl} You can receive the active buff again if you return to Mausoleum suppressor manual
-ETC_20150317_003264	Absorbing energy
-ETC_20150317_003265	Removing
-ETC_20150317_003266	Awakened Boowook
-ETC_20150317_003267	Waking up
-ETC_20150317_003268	Releasing
-ETC_20150317_003269	Key of local troop is missing
-ETC_20150317_003270	Offered the local troops!
-ETC_20150317_003271	Consecrating the power source
-ETC_20150317_003272	Consecrated the power source!
-ETC_20150317_003273	The power source is not enough
-ETC_20150317_003274	Get rid of the Ominous Souls
-ETC_20150317_003275	Turning off guardian device
-ETC_20150317_003276	Turned off local guardian device
-ETC_20150317_003277	This local guardian device is turned off
-ETC_20150317_003278	Start lever
-ETC_20150317_003279	Defeat the boss on the 2nd Piso of the Royal Mausoleum.
-ETC_20150317_003280	Restarting
-ETC_20150317_003281	Collecting the condensed magic source
-ETC_20150317_003282	You need to get rid of the phantom
-ETC_20150317_003283	Faithful Vassal
-ETC_20150317_003284	Released the loyal servants
-ETC_20150317_003285	Defeat the Bear General!
-ETC_20150317_003286	Lure the Tomb Warriors into the trap and kill them!
-ETC_20150317_003287	This path is not allowed for you
-ETC_20150317_003288	Defeat the summoned monsters!
-ETC_20150317_003289	Defeat the monsters!
-ETC_20150317_003290	Defeat Medakia!
-ETC_20150317_003291	Charging soul
-ETC_20150317_003292	Pouring magic source
-ETC_20150317_003293	The jar has been filled!
-ETC_20150317_003294	Royal Mausoleum Warriors
-ETC_20150317_003295	High-level taser
-ETC_20150317_003296	Recovery Device
-ETC_20150317_003297	Low-level taser
-ETC_20150317_003298	Suppressor
-ETC_20150317_003299	Defeat Madakia by using the magic device!
-ETC_20150317_003300	Do not destroy the inhibiting group!
-ETC_20150317_003301	Defeat the Royal Mausoleum Warriors!
-ETC_20150317_003302	Defeat the monsters!
-ETC_20150317_003303	Defeat Rexipher and the monsters!
-ETC_20150317_003304	] should be completed to pass through
-ETC_20150317_003305	The song seems to touch the heart so let's copy it
-ETC_20150317_003306	Found the lighted fountain
-ETC_20150317_003307	Building
-ETC_20150317_003308	You cannot pass because the monster is blocking the way. {nl}
-ETC_20150317_003309	Go back!
-ETC_20150317_003310	Piece of wood with diving power
-ETC_20150317_003311	ea obtained
-ETC_20150317_003312	Obtained the essence of soul
-ETC_20150317_003313	Are you telling me to die again?!
-ETC_20150317_003314	That's nonsense!
-ETC_20150317_003315	You cold-blooded fool!
-ETC_20150317_003316	You're no different from the one who killed me!
-ETC_20150317_003317	I see... Please use it well...
-ETC_20150317_003318	I've been waiting for you...
-ETC_20150317_003319	Persuading
-ETC_20150317_003320	The soul has turned hostile! {nl} You have to get the essence of the soul forcibly!
-ETC_20150317_003321	You obtained the Meduja larvae
-ETC_20150317_003322	You obtained the lost package
-ETC_20150317_003323	Thank you... You are so kind...
-ETC_20150317_003324	Taking memo.
-ETC_20150317_003325	You copied the writings on the memorial stone of pilgrims
-ETC_20150317_003326	Jibyu Banshee
-ETC_20150317_003327	Gryna Bushspider
-ETC_20150317_003328	Ludas Bushspider
-ETC_20150317_003329	You must to complete the Owl Chief's request to pass through
-ETC_20150317_003330	Sounds like a good song so let's copy it
+ETC_20150317_003261	¡Mata a los monstruos!
+ETC_20150317_003262	¡El efecto de las piedras activas ha sido deshabilitado!
+ETC_20150317_003263	¡El efecto de las piedras activas ha sido deshabilitado!{nl} Puedes recibir el Buff activado nuevamente si regresas al manual de Supresor del Mausoleo 
+ETC_20150317_003264	Absorviendo Energía
+ETC_20150317_003265	Removiendo
+ETC_20150317_003266	Liuburo Despierto
+ETC_20150317_003267	Despertando
+ETC_20150317_003268	Liberando
+ETC_20150317_003269	Llave de la tropa local faltante
+ETC_20150317_003270	¡Ofrecido a la tropa local!
+ETC_20150317_003271	Consagrando la fuente de poder
+ETC_20150317_003272	¡Fuente de poder consagrada!
+ETC_20150317_003273	La fuente de poder no es suficiente
+ETC_20150317_003274	Deshaste de las Almas Ominosas
+ETC_20150317_003275	Apagando dispositivo guardían
+ETC_20150317_003276	Apagado dispositivo guardían local
+ETC_20150317_003277	Este dispositivo guardían local se encuentra apagado
+ETC_20150317_003278	Palanca de Inicio
+ETC_20150317_003279	Derrota al jefe del 2do Piso del Mausoleo Real.
+ETC_20150317_003280	Reinciando
+ETC_20150317_003281	Recolectando energía mágica condensada
+ETC_20150317_003282	Debes deshacerte del fantasma
+ETC_20150317_003283	Vasallo Fiel
+ETC_20150317_003284	Has liberado a los leales sirvientes
+ETC_20150317_003285	¡Derrota al General Oso!
+ETC_20150317_003286	¡Atrae a los Guerreros de la Tumba a la trampa y matalos!
+ETC_20150317_003287	Este camino no esta permitido para ti
+ETC_20150317_003288	¡Derrota a los monstruos invocados!
+ETC_20150317_003289	¡Derrota a los mosntruos!
+ETC_20150317_003290	¡Derrota a Medakia!
+ETC_20150317_003291	Cargando alma
+ETC_20150317_003292	Vertiendo fuente mágica
+ETC_20150317_003293	¡La jarra se ha llenado!
+ETC_20150317_003294	Guerreros del Mausoleo Real
+ETC_20150317_003295	Paralizador de Alto Nivel
+ETC_20150317_003296	Dispositivo de Recuperación
+ETC_20150317_003297	Paralizador de Bajo Nivel
+ETC_20150317_003298	Supresor
+ETC_20150317_003299	¡Derrota a Madakia usando el dispositivo mágico!
+ETC_20150317_003300	¡No destruyas al grupo inhibidor!
+ETC_20150317_003301	¡Derrota a los Guerreros del Mausoleo Real!
+ETC_20150317_003302	¡Derrota a los monstruos!
+ETC_20150317_003303	¡Derrota a Rexipher y a los monstruos!
+ETC_20150317_003304	] debe ser completada para continuar
+ETC_20150317_003305	Al parecer está canción te llega al alma, a copiarla
+ETC_20150317_003306	Encontradaste la fuente iluminada
+ETC_20150317_003307	Construyendo
+ETC_20150317_003308	No puedes pasar porque el monstruo se encuentra bloqueando el camino. {nl}
+ETC_20150317_003309	¡Regresa!
+ETC_20150317_003310	Trozo de madra con poder nadatorio
+ETC_20150317_003311	u Obtenidas
+ETC_20150317_003312	Obtenida Escencia del Alma
+ETC_20150317_003313	¡¿Estas pidiendome morir otra vez?!
+ETC_20150317_003314	¡Es ilógico!
+ETC_20150317_003315	¡Tú, idiota de sangre fría!
+ETC_20150317_003316	¡No te diferencias en nada al ímbecil que me mató!
+ETC_20150317_003317	Ya veo... Por favor dale buen uso...
+ETC_20150317_003318	Te he estado esperando...
+ETC_20150317_003319	Persuadiendo
+ETC_20150317_003320	¡El alma se ha vuelto hostíl! {nl} ¡Tendrás que obtener la Escencia del Alma por la fuerza!
+ETC_20150317_003321	Has obtenido Larva de Meduja
+ETC_20150317_003322	Obtuviste el paquete perdido
+ETC_20150317_003323	Gracias... Eres tan amable...
+ETC_20150317_003324	Tomando el memo.
+ETC_20150317_003325	Copiaste las escrituras de la piedra memorial de los peregrinos
+ETC_20150317_003326	Banshee Jibyu 
+ETC_20150317_003327	Araña Arbustera Gryna
+ETC_20150317_003328	Araña Arbustera Ludas
+ETC_20150317_003329	Debes completar la petición del Jefe Búho para pasar
+ETC_20150317_003330	Suena a una buena canción, a copiarla
 ETC_20150317_003331	Senior Melinas Pokubu
-ETC_20150317_003332	Large Ludas Mini Griba
-ETC_20150317_003333	Get rid of Specter
-ETC_20150317_003334	[Defeat Mushwort] must be completed in order to pass through
-ETC_20150317_003335	Delivering Supplies
-ETC_20150317_003336	Received Supplies
-ETC_20150317_003337	Retrieving Supplies
-ETC_20150317_003338	Recovering Body
-ETC_20150317_003339	Collecting provocative fragrance
-ETC_20150317_003340	Session available
-ETC_20150317_003341	H-Help...!
-ETC_20150317_003342	Scout Danus
-ETC_20150317_003343	Releasing trap
-ETC_20150317_003344	This is all because of you!
-ETC_20150317_003345	And to do now!
-ETC_20150317_003346	Scary...
-ETC_20150317_003347	I want to run away but I can't...
-ETC_20150317_003348	Help me, you fools!
-ETC_20150317_003349	Collecting
-ETC_20150317_003350	Empty Owl Sculpture
-ETC_20150317_003351	You took to gather the people!
-ETC_20150317_003352	Found the demonic monsters! {nl} Tell the Weak Owl Sculpture about it.
-ETC_20150317_003353	I want to learn
-ETC_20150317_003354	Experiment on laboratory bait successful!
-ETC_20150317_003355	Set up the decoy first, then defeat the monster!
-ETC_20150317_003356	Quest completed. Go to the information officer!
-ETC_20150317_003357	There is a hostile monster in that location.
-ETC_20150317_003358	Collecting Butterfly Fragrance
-ETC_20150317_003359	Please.. Help!
-ETC_20150317_003360	I... I can't stand it anymore!
-ETC_20150317_003361	Releasing Shackles
-ETC_20150317_003362	Thank you so much...
-ETC_20150317_003363	You're... too.. late...
-ETC_20150317_003364	Ooh... Ahhhh!
-ETC_20150317_003365	I must return...
-ETC_20150317_003366	I will follow you...!
-ETC_20150317_003367	You are already guiding a soul.
-ETC_20150317_003368	Purifying
-ETC_20150317_003369	Mother Pokubu
-ETC_20150317_003370	Failed to protect the Goddess Statue!
-ETC_20150317_003371	Making disguise cover
-ETC_20150317_003372	Installed the disguise cover
-ETC_20150317_003373	You do not have enough short tree leaves
-ETC_20150317_003374	Checking the Contents
-ETC_20150317_003375	 is not sufficient!
-ETC_20150317_003376	Wiping with scaffold
-ETC_20150317_003377	Hook charcoal
-ETC_20150317_003378	It's not enough!
-ETC_20150317_003379	Amount charged is not enough!
-ETC_20150317_003380	Checking the Box
-ETC_20150317_003381	Found Brother's Diary!
-ETC_20150317_003382	It was an empty box.
+ETC_20150317_003332	Gran Ludas Mini Griba
+ETC_20150317_003333	Deshaste de Espectro
+ETC_20150317_003334	[Derrota al Líquen] debe ser completada para proseguir
+ETC_20150317_003335	Entregando sumistros
+ETC_20150317_003336	Sumistros recibidos
+ETC_20150317_003337	Regresando suministros
+ETC_20150317_003338	Recuperando cuerpo
+ETC_20150317_003339	Recolectando fragancia provocativa
+ETC_20150317_003340	Sesión disponible
+ETC_20150317_003341	¡A-Ayuda...!
+ETC_20150317_003342	Explorador Danus
+ETC_20150317_003343	Soltando trampa
+ETC_20150317_003344	¡Esto es por tu culpa!
+ETC_20150317_003345	¡Qué haré ahora!
+ETC_20150317_003346	Aterrador...
+ETC_20150317_003347	Quiero huir pero no puedo...
+ETC_20150317_003348	¡Ayudenme ímbeciles!
+ETC_20150317_003349	Recolectando
+ETC_20150317_003350	Escultura de Búho vacía
+ETC_20150317_003351	¡Lo tomaste para reunir a las personas!
+ETC_20150317_003352	¡Encontraste a los demonios! {nl} Cuéntale a la Escultura de Búho Débil al respecto.
+ETC_20150317_003353	Quiero aprender
+ETC_20150317_003354	¡Experimento con el señuelo experimental éxitoso!
+ETC_20150317_003355	Instala el señuelo primero, luego ¡derrota a los monstruos!
+ETC_20150317_003356	Misión Completa. ¡Ve con el oficial de informaciones!
+ETC_20150317_003357	hay un monstruo hostíl en esa ubicación.
+ETC_20150317_003358	Recolectando escencia de mariposa
+ETC_20150317_003359	Por favor... ¡Ayuda!
+ETC_20150317_003360	Yo... ¡No puedo tolerarlo más!
+ETC_20150317_003361	Liberando grilletes
+ETC_20150317_003362	Muchas gracias...
+ETC_20150317_003363	Tú... has llegado.. tarde...
+ETC_20150317_003364	Ooh... ¡Ahhhh!
+ETC_20150317_003365	Debo regresar...
+ETC_20150317_003366	¡Te seguiré...!
+ETC_20150317_003367	Ya estás guíando un alma.
+ETC_20150317_003368	Purificando
+ETC_20150317_003369	Madre Pokubu
+ETC_20150317_003370	¡Has fallado en proteger la Estatua de la Diosa!
+ETC_20150317_003371	Creando camuflaje
+ETC_20150317_003372	Camuflage instalado
+ETC_20150317_003373	No tienes suficientes hojas de árbol cortas
+ETC_20150317_003374	Revisando los contenidos
+ETC_20150317_003375	 ¡es insuficiente!
+ETC_20150317_003376	Limpiando con Andamio
+ETC_20150317_003377	Gancho carbón
+ETC_20150317_003378	¡No es suficiente!
+ETC_20150317_003379	¡La cantidad cargada es insuficiente!
+ETC_20150317_003380	Revisando la Caja
+ETC_20150317_003381	¡Encontrado Diario del Hermano!
+ETC_20150317_003382	Era una caja vacía.
 ETC_20150317_003383	Zeppetiker
 ETC_20150317_003384	Pino v4
 ETC_20150317_003385	Dandel v2
-ETC_20150317_003386	Zone Boss no. 24
-ETC_20150317_003387	Crystal of Evil
-ETC_20150317_003388	Search hidden recorded
-ETC_20150317_003389	Search hidden recorded
-ETC_20150317_003390	Defeat monsters first around the beacon!
-ETC_20150317_003391	You need to get rid of the monsters around the artifact!
-ETC_20150317_003392	Obtained Canyon Metos
-ETC_20150317_003393	Obtained Research Aid Supplies
-ETC_20150317_003394	Obtained Canyon Zone flowers
-ETC_20150317_003395	Collecting Tree Sap
-ETC_20150317_003396	Tree sap is not fully collected
-ETC_20150317_003397	Operating
-ETC_20150317_003398	You need to enter a number!
-ETC_20150317_003399	The password does not match
-ETC_20150317_003400	Activate device
+ETC_20150317_003386	Jefe de Área no. 24
+ETC_20150317_003387	Cristal de Maldad
+ETC_20150317_003388	Busca grabado oculto
+ETC_20150317_003389	Busca grabado oculto
+ETC_20150317_003390	¡Derrota a los monstruos alrededor del marcador!
+ETC_20150317_003391	¡Debes derrotar los monstruos alrededor del artefacto!
+ETC_20150317_003392	Has obtenido Cañon Metos
+ETC_20150317_003393	Has obtenido suplementos para ayudar a la investigación
+ETC_20150317_003394	Has obtenido flores del área del cañon
+ETC_20150317_003395	Recolectando savia de árbol
+ETC_20150317_003396	No has recolectado suficiente savia de árbol
+ETC_20150317_003397	Operando
+ETC_20150317_003398	¡Debes ingresar un número!
+ETC_20150317_003399	La contraseña no coincide
+ETC_20150317_003400	Activando Dispositivo
 ETC_20150317_003401	NA
-ETC_20150317_003402	Get rid of the monsters around the device
-ETC_20150317_003403	Remember the efforts of the goddess to keep the world in order. And remember sufferings and hardships she has gone through amongst humans for that distant goal. Besides me, no one in thy past nor future era will know the full account of the hard works and efforts made for the world.
-ETC_20150317_003404	Collected firewood
-ETC_20150317_003405	Extracting from the Molding Pot
-ETC_20150317_003406	Looks like a pillar that Sculptor Hilda would like
-ETC_20150317_003407	Looks ugly
+ETC_20150317_003402	Deshaste de los monstruos rodeando el dispositivo
+ETC_20150317_003403	Recordad las esfuerzos de la diosa para mantener el mundo en orden. Y recordad todo el sufrimiento y ardúas labores que debió afrontar entre los humanos para cumplir tal distante menester. Aparte de mi, nadie en vuestro pasado ni futuro sabrá el esfuerzo requerido para la creación del mundo.
+ETC_20150317_003404	Recolectando leña
+ETC_20150317_003405	Extrayendo del Molde
+ETC_20150317_003406	Se ve  cómo un pilar que a Hilda la escultora le habría gustado
+ETC_20150317_003407	Se ve horrible
 ETC_20150317_003408	Obtained Suspicious Graverobbing Equipment
 ETC_20150317_003409	Geppetto v2
 ETC_20150317_003410	] Complete standby can be passed
@@ -3431,7 +3431,7 @@ ETC_20150317_003430	Saurman Spearman
 ETC_20150317_003431	Boss of Zone no.28
 ETC_20150317_003432	Large Saurman Axeman
 ETC_20150317_003433	Defeat the servants of Rexipher!
-ETC_20150317_003434	Get rid of the monsters and get the clue!
+ETC_20150317_003434	¡Deshaste de los monstruos y obten la pista!
 ETC_20150317_003435	Guardian Stone
 ETC_20150317_003436	Destroy the three guardian systems!
 ETC_20150317_003437	NA Guardian officer
@@ -3522,19 +3522,19 @@ ETC_20150317_003521	You need to start [The Alchemist of the Mine] to pass throug
 ETC_20150317_003522	[Revelation of the Goddess] must be completed to pass through
 ETC_20150317_003523	Stone Golem
 ETC_20150317_003524	View
-ETC_20150317_003525	Press the ????keys together to move upward diagonally
+ETC_20150317_003525	Presiona las ????teclas al mismo tiempo para moverte en dirección diagonal superior derecha
 ETC_20150317_003526	Move to next target point with the left mouse click
 ETC_20150317_003527	Cowardly Alchemist
 ETC_20150317_003528	Dream of the Revelation
-ETC_20150317_003529	Even here, there are Large Kepas!
-ETC_20150317_003530	Get rid of the charging Kepas!
-ETC_20150317_003531	Get rid of the Chinencys!
-ETC_20150317_003532	Defeat the Chinencys!
-ETC_20150317_003533	Get rid of the Hanamings!
-ETC_20150317_003534	Chase the Hamming!
-ETC_20150317_003535	Defeat the Large Kepa!
-ETC_20150317_003536	Defeat the sealed Golem!
-ETC_20150317_003537	Get rid of the Kepa blocking the road!
+ETC_20150317_003529	incluso aquí, ¡Hay Grandes Kepas!
+ETC_20150317_003530	¡Deshaste de los Kepas!
+ETC_20150317_003531	¡Deshaste de los Chinencys!
+ETC_20150317_003532	¡Derrota los Chinencys!
+ETC_20150317_003533	¡Deshaste de los Hanamings!
+ETC_20150317_003534	¡Persigue al Hamming!
+ETC_20150317_003535	¡Derrota al Gran Kepa!
+ETC_20150317_003536	¡Derrota al Golem sellado!
+ETC_20150317_003537	¡Deshaste de los Kepa bloqueando el paso!
 ETC_20150317_003538	Ask about the dream
 ETC_20150317_003539	Ask about the story
 ETC_20150317_003540	Pester and ask about the story
@@ -3543,7 +3543,7 @@ ETC_20150317_003542	Road on Left: Chinency field (Caution) {nl} Road on right: T
 ETC_20150317_003543	Danger!{nl} Return to Klaipeda!
 ETC_20150317_003544	Seems like there is something below the cliff.
 ETC_20150317_003545	Keep out!{nl}Incinerating Kepas!
-ETC_20150317_003546	West Siauliai Woods Camp
+ETC_20150317_003546	Bosque Siauliai Oeste Camp
 ETC_20150317_003547	Note! Hamin infested area
 ETC_20150317_003548	CAUTION! Large scale battles in progress
 ETC_20150317_003549	It seems like someone has fallen under the cliff
@@ -3814,7 +3814,7 @@ ETC_20150317_003813	 Use this to warp anywhere!
 ETC_20150317_003814	You have not activated any other Goddess Statue, so you cannot teleport yet.
 ETC_20150317_003815	The rest of the area
 ETC_20150317_003816	Rest of the camp
-ETC_20150317_003817	2. Select Siauliai ??Select West Siauliai Woods
+ETC_20150317_003817	2. Select Siauliai ??Select Bosque Siauliai Oeste
 ETC_20150317_003818	Basic Quest Information
 ETC_20150317_003819	Home
 ETC_20150317_003820	Sub
@@ -3983,14 +3983,14 @@ ETC_20150317_003982	Available in front of the burning bush!
 ETC_20150317_003983	Purified the body fluid of Matsum
 ETC_20150317_003984	Can be used in front of the weak thorns!
 ETC_20150317_003985	This can be used in front of the barrier to jump over it!
-ETC_20150317_003986	Magic powder of thorn forest of owl
+ETC_20150317_003986	Magic powder of Bosque Espinoso of owl
 ETC_20150317_003987	Need monster to respond to!
 ETC_20150317_003988	Wise Crave Owl Statue
 ETC_20150317_003989	Available within the blocks!
 ETC_20150317_003990	Ludas Ridimed
 ETC_20150317_003991	Possible use!
-ETC_20150317_003992	Available in Thorn Forest!
-ETC_20150317_003993	React material of monster on Thorn forest
+ETC_20150317_003992	Available in Bosque Espinoso!
+ETC_20150317_003993	React material of monster on Bosque Espinoso
 ETC_20150317_003994	This can only be used on a monster!
 ETC_20150317_003995	Monsters that are confused
 ETC_20150317_003996	Matsum Magic Piece
@@ -4004,7 +4004,7 @@ ETC_20150317_004003	Can only be used in Mage Tower 1F
 ETC_20150317_004004	You may not use this yet
 ETC_20150317_004005	There is no Goddess Statue nearby!
 ETC_20150317_004006	There are no monsters around to use the bomb on!
-ETC_20150317_004007	Available only in the West Siauliai Woods
+ETC_20150317_004007	Sólo disponible en Bosque Siauliai Oeste
 ETC_20150317_004008	It cannot be used while directing!
 ETC_20150317_004009	The piece of the monument is not enough.
 ETC_20150317_004010	The effect of the magic jar has weakened.
@@ -4456,7 +4456,7 @@ ETC_20150317_004455	Tree looters
 ETC_20150317_004456	Wood Robber
 ETC_20150317_004457	Mini Griba
 ETC_20150317_004458	Sinister Soul
-ETC_20150317_004459	Hallucination of Bear General
+ETC_20150317_004459	Hallucination of General Oso
 ETC_20150317_004460	Aggressor Saureumaen
 ETC_20150317_004461	Treasures of the Soul
 ETC_20150317_004462	Fallen Soul
@@ -5365,8 +5365,8 @@ ETC_20150317_005364	Why are there Golem remains here?
 ETC_20150317_005365	Hey!!! It's dangerous!! Run!!
 ETC_20150317_005366	Is it dead?
 ETC_20150317_005367	Huh...!!
-ETC_20150317_005368	Defeat the Large Kepa!
-ETC_20150317_005369	It's a Large Kepa!
+ETC_20150317_005368	Defeat the Gran Kepa!
+ETC_20150317_005369	It's a Gran Kepa!
 ETC_20150317_005370	Alchemist Vaidotas
 ETC_20150317_005371	Lot 2 Closure Notice
 ETC_20150317_005372	Evacuate the residents!
@@ -5381,7 +5381,7 @@ ETC_20150317_005380	Where are you!!!
 ETC_20150317_005381	Come out!
 ETC_20150317_005382	Thorn Gate
 ETC_20150317_005383	Pocket Containing Something
-ETC_20150317_005384	Get rid of the monsters attacking while the magic stone is being refined.
+ETC_20150317_005384	Deshaste de los monstruos atacantes mientras la piedra mágica esta siendo refinada.
 ETC_20150317_005385	Follower of Goddess Saule
 ETC_20150317_005386	Change Summon
 ETC_20150317_005387	Destroy the barrier summoned by the demon
@@ -5864,8 +5864,8 @@ ETC_20150317_005863	HP Restricted
 ETC_20150317_005864	Poison Bleeding
 ETC_20150317_005865	Create Poison Field
 ETC_20150317_005866	Paereomyun Collection
-ETC_20150317_005867	Get rid of the Vubbe tribe!
-ETC_20150317_005868	Get rid of the Vubbe tribe for test!
+ETC_20150317_005867	¡Deshaste de la tribu Vubbe!
+ETC_20150317_005868	¡Deshaste de la tribu Vubbe para el test!
 ETC_20150317_005869	Short Cut
 ETC_20150317_005870	Asymmetrical Short Cut
 ETC_20150317_005871	Long Shaggy
@@ -6510,7 +6510,7 @@ ETC_20150317_006510	Malkos Felled Area
 ETC_20150317_006511	Fourth Supply Room
 ETC_20150317_006512	Third Supply Room
 ETC_20150317_006513	Central Plaza
-ETC_20150317_006514	Kateen Forest Camp
+ETC_20150317_006514	Bosque Kateen Camp
 ETC_20150317_006515	Peledos Crossroads
 ETC_20150317_006516	Uzesy Hill
 ETC_20150317_006517	Purple Fountain
@@ -7058,12 +7058,12 @@ ETC_20150317_007058	Blue Crystal
 ETC_20150317_007059	Navy Crystal
 ETC_20150317_007060	Purple Crystal
 ETC_20150317_007061	Confirm
-ETC_20150317_007062	Thorn Forest Gate 1
-ETC_20150317_007063	Thorn Forest Gate 2
-ETC_20150317_007064	Thorn Forest Gate 3
-ETC_20150317_007065	Thorn Forest Gate 4
-ETC_20150317_007066	Thorn Forest Gate 5
-ETC_20150317_007067	Thorn Forest Gate 6
+ETC_20150317_007062	Bosque Espinoso Gate 1
+ETC_20150317_007063	Bosque Espinoso Gate 2
+ETC_20150317_007064	Bosque Espinoso Gate 3
+ETC_20150317_007065	Bosque Espinoso Gate 4
+ETC_20150317_007066	Bosque Espinoso Gate 5
+ETC_20150317_007067	Bosque Espinoso Gate 6
 ETC_20150317_007068	Royal Mausoleum Entrance
 ETC_20150317_007069	Canyon Area Device 1
 ETC_20150317_007070	Canyon Area Device 2
@@ -7072,7 +7072,7 @@ ETC_20150317_007072	Canyon Area Device 4
 ETC_20150317_007073	Canyon Area Device 5
 ETC_20150317_007074	Canyon Area Device 6
 ETC_20150317_007075	Canyon Area Device 7
-ETC_20150317_007076	Magic Square of Thorn Forest
+ETC_20150317_007076	Magic Square of Bosque Espinoso
 ETC_20150317_007077	Magic Square of Petrified Town
 ETC_20150317_007078	Magic Square of Underground Base
 ETC_20150317_007079	Ruined Statue set by Boroko
@@ -7104,8 +7104,8 @@ ETC_20150317_007104	Revelation Slate
 ETC_20150317_007105	Stack of Skulls
 ETC_20150317_007106	Gray Golem Rock
 ETC_20150317_007107	Stack of Furniture
-ETC_20150317_007108	Block the Thorn Forest Raid 1 
-ETC_20150317_007109	Block the Thorn Forest Raid 2
+ETC_20150317_007108	Block the Bosque Espinoso Raid 1 
+ETC_20150317_007109	Block the Bosque Espinoso Raid 2
 ETC_20150317_007110	Bouquet 1
 ETC_20150317_007111	Bouquet 2
 ETC_20150317_007112	Cat
@@ -7639,7 +7639,7 @@ ETC_20150317_007639	Crazy but Faithful Archivist
 ETC_20150317_007640	Request of the Archivist (2)
 ETC_20150317_007641	Historian sacrificed
 ETC_20150317_007642	Archive the Relic of the Royal Mausoleum
-ETC_20150317_007643	Collect Dry Thorn Forest Wood
+ETC_20150317_007643	Collect Dry Bosque Espinoso Wood
 ETC_20150317_007644	Place to fire
 ETC_20150317_007645	Guard Citizen
 ETC_20150317_007646	Story of an Old Owl Statue
@@ -9153,7 +9153,7 @@ ETC_20150317_009153	Laimonas 2 Trigger
 ETC_20150317_009154	Chase Trigger of Hanaming
 ETC_20150317_009155	Unexpected Accident 1
 ETC_20150317_009156	Golem track
-ETC_20150317_009157	Large Kepa Trigger
+ETC_20150317_009157	Gran Kepa Trigger
 ETC_20150317_009158	Wagon Manager
 ETC_20150317_009159	Leaf Bugv2
 ETC_20150317_009160	Candle Spiderv2
@@ -9608,7 +9608,7 @@ ETC_20150323_009608	Fallen City Dungeon
 ETC_20150323_009609	White Tree Forest
 ETC_20150323_009610	Maple Forest
 ETC_20150323_009611	Grynas Trails
-ETC_20150323_009612	Kateen Forest
+ETC_20150323_009612	Bosque Kateen
 ETC_20150323_009613	Grynas Training Camp
 ETC_20150323_009614	Grynas Hills
 ETC_20150323_009615	Greene Manor
@@ -9904,7 +9904,7 @@ ETC_20150323_009905	According to rumors around Fedimian, when the pilgrims passe
 ETC_20150323_009906	According to the survivors, survivors of the Fallen City lost their belongings or their lives in the Altar Way while going to Fedimian.
 ETC_20150323_009907	Revelators are exploring the different fallen parts of the world to find assignments of the goddess. What seems to be a sanctuary was found in the Altar Way. If you can find something restore and use it again, you will be a hero to those who travel this area. 
 ETC_20150323_009908	According to the scout's reports, there were spell devices found in the Forest of Prayer. They tried to activate it but there were too many monsters around so they had to run for their lives. Someone has to activate the spell device and check what powers it has.
-ETC_20150323_009909	Pass through Tenet Garden and move to the Entrance of Kateen Forest
+ETC_20150323_009909	Pass through Tenet Garden and move to the Entrance of Bosque Kateen
 ETC_20150323_009910	Place the Sun Essence in Ramstis Ridge
 ETC_20150323_009911	Find reference related to Naktis
 ETC_20150323_009912	Get Asellu Leaf Buds
@@ -10472,7 +10472,7 @@ ETC_20150401_010473	Let's use the black hair
 ETC_20150401_010474	Icon Image + Black Hair Open
 ETC_20150401_010475	Detect the Astral Body's force
 ETC_20150401_010476	Eyes to see the Astral Body
-ETC_20150401_010477	Get rid of the Bleak Shadow
+ETC_20150401_010477	Get rid of de the Bleak Shadow
 ETC_20150401_010478	The monsters weaken along with the Bleak Shadow. 
 ETC_20150401_010479	Effect of antigravity
 ETC_20150401_010480	Feels lighter.
@@ -10527,12 +10527,12 @@ ETC_20150401_010528	DoTimeAction:Extracting Nioles:2:None
 ETC_20150401_010529	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!:5/NPCDead
 ETC_20150401_010530	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
 ETC_20150401_010531	IvnItem:FARM47_1_SQ_060_ITEM_1:1:0/DoTimeAction:Drying after the putting the meats of the monsters:3:MAKING:None
-ETC_20150401_010532	Get rid of the monster by hitting it with a flare
+ETC_20150401_010532	Deshaste del monstruo golpeandólo con una bengala
 ETC_20150401_010533	Get Maven's Fourth Key from Apgaule Altar
 ETC_20150401_010534	Use the creed bead of Medeina
 ETC_20150401_010535	Demon Prison zone exit event
 ETC_20150401_010536	Deliver without spoiling the bread
-ETC_20150401_010537	Get rid of the strange energy
+ETC_20150401_010537	Deshaste de la extraña energía
 ETC_20150401_010538	Pull out some crops and check if it is growing well
 ETC_20150401_010539	Defeat Orange Dandells and retrieve the kindling
 ETC_20150401_010540	Put the retrieved kindling into the burning magic circle to maintain the flame
@@ -10878,7 +10878,7 @@ ETC_20150414_010879	Shaton Family Mercenary Chief
 ETC_20150414_010880	Guardian stone of Tree Root Crystal of Laziness appeared! {nl}Destroy all of it.
 ETC_20150414_010881	Guardian Stone of Tree Root Crystal
 ETC_20150414_010882	Are you trying to interfere with my plans?
-ETC_20150414_010883	Get rid of that one.
+ETC_20150414_010883	Deshaste de ese.
 ETC_20150414_010884	Looks like I'm just in time. {nl}First, the cure...
 ETC_20150414_010885	You've touched the altars' magic pieces, right?{nl}I warned you not to...
 ETC_20150414_010886	Then we have no choice, Revelator. {nl}I have something to tell you so please find me at Uskis Arable Land.
@@ -11162,7 +11162,7 @@ ETC_20150414_011163	The candle is lit
 ETC_20150414_011164	It's a monster with the mark of purification
 ETC_20150414_011165	Nothing happened
 ETC_20150414_011166	All candles are lit
-ETC_20150414_011167	Help!
+ETC_20150414_011167	¡Ayuda!
 ETC_20150414_011168	Please save me!
 ETC_20150414_011169	Summon monster
 ETC_20150414_011170	Enter party description
@@ -12205,7 +12205,7 @@ ETC_20150714_012206	The basic penalty points when joining a party
 ETC_20150714_012207	Delete a friend (developing)
 ETC_20150714_012208	Reject Friend Request (developing)
 ETC_20150714_012209	Use Forbidden words
-ETC_20150714_012210	Help!/What is this all about/Someone bring the guys up here!
+ETC_20150714_012210	¡Ayuda!/What is this all about/Someone bring the guys up here!
 ETC_20150714_012211	One handed Sword Shield
 ETC_20150714_012212	Blunt Weapon Shield
 ETC_20150714_012213	Archer Does not have a bow
@@ -12684,7 +12684,7 @@ ETC_20150714_012685	You discovered nothing
 ETC_20150714_012686	You've matched Lydia Schaffen's tombstone fragments{nl}Let's read the tombstone again
 ETC_20150714_012687	Not enough tombstone fragments
 ETC_20150714_012688	You've tried to open the box, but it did not open
-ETC_20150714_012689	Looking for Dry Thorn Forest Wood
+ETC_20150714_012689	Looking for Dry Bosque Espinoso Wood
 ETC_20150714_012690	Waking it up with the Memory Fragment
 ETC_20150714_012691	The activating stone is in deactivated status!{nl}Go back to the manual of the Mausoleum suppressor and activate it again!
 ETC_20150714_012692	You don't have enough power sources
@@ -13923,9 +13923,9 @@ ETC_20150729_013924	Necromancer Master's story
 ETC_20150729_013925	Chronomancer Master's story
 ETC_20150729_013926	Cremate the revived body
 ETC_20150729_013927	Cross Srautas Gorge to go to Gele Plateau
-ETC_20150729_013928	Get rid of the strange aura (1)
-ETC_20150729_013929	Get rid of the strange aura (2)
-ETC_20150729_013930	Get rid of the strange aura (3)
+ETC_20150729_013928	Deshaste del aura extraña (1)
+ETC_20150729_013929	Deshaste del aura extraña (2)
+ETC_20150729_013930	Deshaste del aura extraña (3)
 ETC_20150729_013931	The minimum time until the next player recommendation after a recommendation(secs)
 ETC_20150729_013932	The time that will not take until the first party recommendation after log in (secs)
 ETC_20150729_013933	The penalty points for the person who has been already recommended
@@ -14248,7 +14248,7 @@ ETC_20150918_014249	The monsters that led the soldiers to death has appeared!{nl
 ETC_20150918_014250	Euahhh!!
 ETC_20150918_014251	As you opened the chest, a Red Vubbe Warrior yells at you!
 ETC_20150918_014252	Yes, understood!!
-ETC_20150918_014253	Many are injured... We need help!
+ETC_20150918_014253	Many are injured... We need ¡Ayuda!
 ETC_20150918_014254	Cross here after drinking the Enhanced Thorn Flower Powder!
 ETC_20150918_014255	Protect the Royal Mausoleum's Stone Lanterns from the guardians!
 ETC_20150918_014256	Defeat Echad that can't identify friends from foes
@@ -14617,7 +14617,7 @@ ETC_20150918_014618	Defeat the monsters nearby!
 ETC_20150918_014619	The Guardians of the Contract have appeared!
 ETC_20150918_014620	While defeating Vubbes, set the bombs on the secret hallway
 ETC_20150918_014621	Stop the monsters that are trying to ruin the seal ceremony!
-ETC_20150918_014622	You have found Dry Thorn Forest Wood!
+ETC_20150918_014622	You have found Dry Bosque Espinoso Wood!
 ETC_20150918_014623	Defeat the ominous spirit!
 ETC_20150918_014624	Defeat the boss monster on the 2nd Piso of the Royal Mausoleum!
 ETC_20150918_014625	You have successfully tested the decoy!
@@ -14679,7 +14679,7 @@ ETC_20151001_014680	Ashaq Underground Prison 1F
 ETC_20151001_014681	Ashaq Underground Prison 2F
 ETC_20151001_014682	Ashaq Underground Prison 3F
 ETC_20151001_014683	Vine Forest Dungeon
-ETC_20151001_014684	Thorn Forest Dungeon
+ETC_20151001_014684	Bosque Espinoso Dungeon
 ETC_20151001_014685	Zemyna, Goddess of the Earth...
 ETC_20151001_014686	Did you really think you could take me!
 ETC_20151001_014687	Goddess, please give me strength...
@@ -16093,7 +16093,7 @@ ETC_20151022_016094	Surveillance Crystal
 ETC_20151022_016095	Surveillance Crystal Magic Circle
 ETC_20151022_016096	Demons that are carrying a gigantic axe
 ETC_20151022_016097	Move fast. So lazy!
-ETC_20151022_016098	Help!!
+ETC_20151022_016098	¡Ayuda!!
 ETC_20151022_016099	Ferrets! Ferrets appeared near the village!
 ETC_20151022_016100	You worthless human!!
 ETC_20151022_016101	Run away! Zaura will come soon!
@@ -16555,7 +16555,7 @@ ETC_20151102_016556	Step away.
 ETC_20151102_016557	Now, let's return to Melchioras.
 ETC_20151102_016558	Wh-what is this...
 ETC_20151102_016559	Quick! Run!!
-ETC_20151102_016560	Please help!
+ETC_20151102_016560	Please ¡Ayuda!
 ETC_20151102_016561	H-Help...!
 ETC_20151102_016562	Are you alright?
 ETC_20151102_016563	The real Hydra appeared!
@@ -17348,7 +17348,7 @@ ETC_20151102_017349	Nothing happened
 ETC_20151102_017350	Monsters have gathered
 ETC_20151102_017351	Insufficient tribute
 ETC_20151102_017352	To investigate, defeat the monsters in the vicinity
-ETC_20151102_017353	Somebody please help! A Hydra appeared! I think it is attacking people!
+ETC_20151102_017353	Somebody please ¡Ayuda! A Hydra appeared! I think it is attacking people!
 ETC_20151102_017354	Hurry and face the Hydra!
 ETC_20151102_017355	Found the Test Victim's rucksack
 ETC_20151102_017356	Did not find the Test Victim's rucksack
@@ -17825,7 +17825,7 @@ ETC_20151224_017825	Underground Catacombs Dungeon2
 ETC_20151224_017826	Deep Underground Prison Dungeon
 ETC_20151224_017827	Mage Tower Guild Mission
 ETC_20151224_017828	Guild Event
-ETC_20151224_017829	Thorn Forest Guild Mission
+ETC_20151224_017829	Bosque Espinoso Guild Mission
 ETC_20151224_017830	Royal Mausoleum Guild Mission
 ETC_20151224_017831	Canyon Belt Guild Mission
 ETC_20151224_017832	Demon Prison Guild Mission
@@ -17868,7 +17868,7 @@ ETC_20151224_017868	Okay. Let's go!
 ETC_20151224_017869	A hidden Demonic Power Supply Device has shown up!
 ETC_20151224_017870	Succ... success...
 ETC_20151224_017871	Darn it! It's a barrier!
-ETC_20151224_017872	I will look for a way so please get rid of the demons!
+ETC_20151224_017872	I will look for a way so please get rid of de the demons!
 ETC_20151224_017873	Melchioras!
 ETC_20151224_017874	I hope we succeed...
 ETC_20151224_017875	It's done!
@@ -17895,7 +17895,7 @@ ETC_20151224_017895	Avoid the magic dissolving pole and move the magic condensed
 ETC_20151224_017896	Magic Sensing Region
 ETC_20151224_017897	Attack the practice pole when it shines!
 ETC_20151224_017898	It seems that the monsters are using the{nl}Owl Sculptures to send light beads to somewhere else.
-ETC_20151224_017899	The Owl Sculpture is asking for help!
+ETC_20151224_017899	The Owl Sculpture is asking for ¡Ayuda!
 ETC_20151224_017900	S-Someone... help me, please!
 ETC_20151224_017901	Avoid the surveillance sphere and eliminate{nl}the Surveillance Sphere Magic Circle across!
 ETC_20151224_017902	Surveillance Sphere Magic Circle
@@ -17911,7 +17911,7 @@ ETC_20151224_017911	The demons that sensed someone's presence are coming!
 ETC_20151224_017912	Cursed Idol
 ETC_20151224_017913	Clymen has appeared!
 ETC_20151224_017914	An unknown sacred power is bursting inside the body!
-ETC_20151224_017915	Get rid of the Revelator.
+ETC_20151224_017915	Deshaste del Revelador.
 ETC_20151224_017916	As you destroyed the Cursed Idol, Denóptico appeared and started to attack!
 ETC_20151224_017917	Defeat Specter Monarch and rescue Priest Pranas!
 ETC_20151224_017918	Something has fallen from the tent that the Minotaur had destroyed.{nl}Defeat Minotaur and check what has fallen down!
@@ -19302,7 +19302,7 @@ ETC_20151224_019302	You've retrieved Priest Gelija's Medicine Pouch
 ETC_20151224_019303	You've purified the Destroyed Idol Fragment!
 ETC_20151224_019304	You've not weakened the power of the idol yet
 ETC_20151224_019305	You've obtained the old oil pocket
-ETC_20151224_019306	Thanks for help!
+ETC_20151224_019306	Thanks for ¡Ayuda!
 ETC_20151224_019307	The trap is killing me!
 ETC_20151224_019308	You've brought the crystal's power into the Orb of Return
 ETC_20151224_019309	You've released the blessing spirit bestowed on the altar
@@ -19321,7 +19321,7 @@ ETC_20151224_019321	About the information
 ETC_20151224_019322	It is first text information of the guild instance mission sample in the Mage Tower
 ETC_20151224_019323	It is first text information of the guild instance mission sample in the Royal Mausoleum
 ETC_20151224_019324	It is first text information of the guild instance mission sample in the Canyon Area
-ETC_20151224_019325	It is first text information of the guild instance mission sample in the Thorn Forest
+ETC_20151224_019325	It is first text information of the guild instance mission sample in the Bosque Espinoso
 ETC_20151224_019326	You cannot find the mission
 ETC_20151224_019327	The Star Stone has been finished charging
 ETC_20151224_019328	Pushing the Wagon
@@ -19544,7 +19544,7 @@ ETC_20151224_019544	SP is increasing
 ETC_20151224_019545	Use
 ETC_20151224_019546	Do not use
 ETC_20151224_019547	Do not enter here!
-ETC_20151224_019548	Get rid of the intruders!
+ETC_20151224_019548	¡Deshaste de los intrusos!
 ETC_20151224_019549	Give a Basic Small Stamina Pill
 ETC_20151224_019550	Give a Basic Stamina Pill
 ETC_20151224_019551	Give a Basic Big Stamina Pill
@@ -20146,7 +20146,7 @@ ETC_20160224_020146	Sadly, many strong-spirited people have sided with the demon
 ETC_20160224_020147	Saalus Convent
 ETC_20160224_020148	Earth Tower Lolopanther Area
 ETC_20160224_020149	Earth Tower Solmiki Area
-ETC_20160224_020150	Hollow Thorn Forest
+ETC_20160224_020150	Hollow Bosque Espinoso
 ETC_20160224_020151	1st Alphabet Event Conqueror
 ETC_20160224_020152	You successfully completed the alphabet collecting event.
 ETC_20160224_020153	Moving Device
@@ -20268,7 +20268,7 @@ ETC_20160224_020268	A powerful monster named Devilglove is keeping people from c
 ETC_20160224_020269	The Colimencia in the Absenta Reservoir is drinking the red water and becoming more powerful. Defeat it before it's too late.
 ETC_20160224_020270	With all its residents missing, the Delmore Castle was invaded by a Denóptico. Defeat it and help Mage Melchioras destroy the remnants of the Kruvina experiment in Delmore Castle.
 ETC_20160224_020271	There are rumors of a Mothstem appearing among the pilgrims passing by the Galeed Plateau. Keep the pilgrims safe by defeating the Mothstem.
-ETC_20160224_020272	The evil energy gathered at Kateen Forest is attracting all sorts of dangerous monsters. The Blue Woodspirit in Saknis Plains is particularly threatening to the soldiers stationed there. Defeat the Blue Woodspirit and protect the soldiers.
+ETC_20160224_020272	The evil energy gathered at Bosque Kateen is attracting all sorts of dangerous monsters. The Blue Woodspirit in Saknis Plains is particularly threatening to the soldiers stationed there. Defeat the Blue Woodspirit and protect the soldiers.
 ETC_20160224_020273	The demons invading the Mage Tower are building up their forces. Defeat the Fire Lord that's occupying Mage Tower 2F to demoralize the demons.
 ETC_20160224_020274	Creation Turned Askew
 ETC_20160224_020275	The Dievdirbys Master received a letter from Tesla.{nl}Tesla created several Spirit Guide Owl Sculptures and the Sequoia to protect them. However, the Sequoia was corrupted by the demons' evil energy and is destroying the statues and setting fire to the forest. Tesla is now looking for a brave adventurer to defeat the Sequoia.
@@ -20732,7 +20732,7 @@ ETC_20160224_020731	Defeat the boss monster
 ETC_20160224_020732	Returning to the entrance in 30 seconds!
 ETC_20160224_020733	Open
 ETC_20160224_020734	The Bramble Bush has disappeared!
-ETC_20160224_020735	Thorn Forest Gate
+ETC_20160224_020735	Bosque Espinoso Gate
 ETC_20160224_020736	The final gate is open!
 ETC_20160224_020737	Thorn Gate
 ETC_20160224_020738	Open
@@ -20942,7 +20942,7 @@ ETC_20160310_020941	Lucienne seems to be in trouble!
 ETC_20160310_020942	Carnivore seems to be suffering from the Vaidotas' Neutralizer you've sprayed.{nl}Defeat Carnivore and save Lucienne!
 ETC_20160310_020943	Someone seems to be in danger!
 ETC_20160310_020944	Drive the monster away{nl}and save the person in danger!
-ETC_20160310_020945	Help!
+ETC_20160310_020945	¡Ayuda!
 ETC_20160310_020946	Protect Lucienne until the reaction reagent is finished.
 ETC_20160310_020947	The frozen soldiers suddenly begin to move!
 ETC_20160310_020948	They do not seem to be friendly towards you{nl}Avoid the soldiers and find Necromancer Lemija!
