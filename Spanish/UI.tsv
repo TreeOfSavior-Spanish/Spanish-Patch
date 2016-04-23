@@ -1797,7 +1797,7 @@ UI_20150918_001796	{@st66b}¡{s20}Te has quedado {/}{s20}{#cc6600}{ol}Incapacita
 UI_20150918_001797	{@st66b}Revivir en el punto mas cercano{/}
 UI_20150918_001798	{@st66b}Revivir aqui (requiere %s iCoins){/}
 UI_20150918_001799	{@st66b}Volver al campo{/}
-UI_20150918_001800	{@st66b}Abandonar misión y intentarlo de nuevo{/}
+UI_20150918_001800	{@st66b}Abandonar misión e intentarlo de nuevo{/}
 UI_20150918_001801	{@st66b}Intentar de nuevo{/}
 UI_20150918_001802	{@st66b}Objetos Vendidos{/}
 UI_20150918_001803	{@st53}Puntos de Ranking : %s
