@@ -771,7 +771,7 @@ UI_20150317_000770	Por favor introduce una cantidad
 UI_20150317_000771	{@st53b}%s Ganadas %s Perdidas
 UI_20150317_000772	{@st42}Programación dehoy
 UI_20150317_000773	{@st53}Hasta el incio :
-UI_20150317_000774	{@st53b}Regalos recividos : ×%s
+UI_20150317_000774	{@st53b}Regalos recibidos : ×%s
 UI_20150317_000775	{@st43b}Enviar regalo a %s{/}
 UI_20150317_000776	{@st55_a}Siguiente juego
 UI_20150317_000777	{@st53}- Click en el nombre apra observar{nl}- Click derecho para enviar un regalo
@@ -1716,7 +1716,7 @@ UI_20150717_001715	{@st42}Nombre de grupo y descripción{/}
 UI_20150717_001716	{@st42}Insertar etiqueta de grupo
 UI_20150717_001717	{@st41b}Lista de Grupos Públicos{/}
 UI_20150717_001718	{@st41b}Jugadores Recomendados{/}
-UI_20150717_001719	{@st41b}Recivir Recomendaciones
+UI_20150717_001719	{@st41b}Recibir Recomendaciones
 UI_20150717_001720	Solo los lideres de grupo pueden usar esto.
 UI_20150717_001721	Debes usar la función de miembros de grupo recomendados.
 UI_20150717_001722	{@st66b}Misión de Clase Nombre{/}
