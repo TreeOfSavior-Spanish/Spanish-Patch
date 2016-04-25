@@ -120,6 +120,7 @@ Shoes --> Zapatos
 bracelet --> Pulser
 Costume --> Ropa
 
+Aras --> Nivelado
 Crook --> Báculo
 Cane --> Cayado
 Dunkel -->Misterioso
