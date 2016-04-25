@@ -120,6 +120,8 @@ Shoes --> Zapatos
 bracelet --> Pulser
 Costume --> Ropa
 
+Crook --> Báculo
+Cane --> Cayado
 Dunkel -->Misterioso
 Crude --> Vulgar
 DeathWeaver --> Tejedora Mortal
