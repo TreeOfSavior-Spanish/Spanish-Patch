@@ -114,6 +114,7 @@ etc.
 Strike --> Golpe
 Slash --> Corte
 Pierce --> Penetración
+Missile --> Proyectil
 
 [ Objetos ]
 Scroll --> Pergamino
