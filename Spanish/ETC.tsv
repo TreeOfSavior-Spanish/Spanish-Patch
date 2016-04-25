@@ -566,7 +566,7 @@ ETC_20150317_000565	Abrojo
 ETC_20150317_000566	Filibo
 ETC_20150317_000567	Aquellos que ven al Filipo cómo un ser pequeño y adorable son rápidamente atacados por él.
 ETC_20150317_000568	Botella de Agua Bendita
-ETC_20150317_000569	Evento de Zarsas
+ETC_20150317_000569	Evento de Bramble
 ETC_20150317_000570	Cadena
 ETC_20150317_000571	Hyde box
 ETC_20150317_000572	Murciélago
@@ -851,7 +851,7 @@ ETC_20150317_000850	Blue Ogouveve Flag
 ETC_20150317_000851	Udumbara
 ETC_20150317_000852	Alchemist Briquette
 ETC_20150317_000853	Alchemist Tincture
-ETC_20150317_000854	Nepenthes
+ETC_20150317_000854	Nepente
 ETC_20150317_000855	Seedmia
 ETC_20150317_000856	The Seedmia are very troublesome as they are able to shoot seeds over exceptionally long distances.
 ETC_20150317_000857	Firent
@@ -1929,7 +1929,7 @@ ETC_20150317_001928	Ver Información
 ETC_20150317_001929	Canal 
 ETC_20150317_001930	¿Quieres moverte al canal {Channel}?
 ETC_20150317_001931	Precio
-ETC_20150317_001932	's Guarida
+ETC_20150317_001932	 Guarida
 ETC_20150317_001933	Este canal está cerrado.
 ETC_20150317_001934	Tienda de iCoin
 ETC_20150317_001935	Defiendan
@@ -2406,10 +2406,10 @@ ETC_20150317_002405	Has destruído el invocador de demonios
 ETC_20150317_002406	Destruye el purificador de hechizos
 ETC_20150317_002407	Panto Loco
 ETC_20150317_002408	Has fallado en proteger el altar
-ETC_20150317_002409	¡Has derrotado a Gaigalas! {nl} Corta la raíz de Zarsa.
-ETC_20150317_002410	¡Has derrotado a Molich! {nl} Corta la raíz de Zarsa.
-ETC_20150317_002411	¡Has derrotado a raíz de Zarsa. Derrota a Gaigalas.
-ETC_20150317_002412	¡Has derrotado a raíz de Zarsa. Derrota a Molich.
+ETC_20150317_002409	¡Has derrotado a Gaigalas! {nl} Corta la raíz de Bramble.
+ETC_20150317_002410	¡Has derrotado a Molich! {nl} Corta la raíz de Bramble.
+ETC_20150317_002411	¡Has derrotado a raíz de Bramble. Derrota a Gaigalas.
+ETC_20150317_002412	¡Has derrotado a raíz de Bramble. Derrota a Molich.
 ETC_20150317_002413	Has purificado energía lóbrega
 ETC_20150317_002414	¡Has fallado en proteger la linterna de la Tumba Real!
 ETC_20150317_002415	¡El Vikaras corrupto explotó!
@@ -2849,7 +2849,7 @@ ETC_20150317_002848	El nivel del mercenario es superior al nivel del PJ.
 ETC_20150317_002849	El mercenario ha sido contratado.
 ETC_20150317_002850	Has dejado ir al mercenario.
 ETC_20150317_002851	Este mercenario se encuentra contratado.
-ETC_20150317_002852	La tématica de tus Guarida ha sido cambiada.
+ETC_20150317_002852	La tématica de tu Guarida ha sido cambiada.
 ETC_20150317_002853	Has cambiado con éxito{nl}el nombre de tu equipo.
 ETC_20150317_002854	Has fallado en cambiar{nl}el nombre de tu equipo.
 ETC_20150317_002855	Ingresa un nombre de equipo. Este nombre será visto por otros jugadores.
@@ -3561,7 +3561,7 @@ ETC_20150317_003560	Mostrar indicaciones hacia Campamento Oeste en el Bosque
 ETC_20150317_003561	Guerrero de la Compañia Ullman
 ETC_20150317_003562	Dionia
 ETC_20150317_003563	Bola de púas
-ETC_20150317_003564	Moviendo al campamento : 
+ETC_20150317_003564	Volver al campamento : 
 ETC_20150317_003565	 activado
 ETC_20150317_003566	Index UI
 ETC_20150317_003567	Mantención de Objetos
@@ -4379,7 +4379,7 @@ ETC_20150317_004378	Menú
 ETC_20150317_004379	Cambiar el número
 ETC_20150317_004380	Daño MIN
 ETC_20150317_004381	Daño MAX
-ETC_20150317_004382	El número ha aprendido habilidades
+ETC_20150317_004382	Número actual de habilidades aprendidas
 ETC_20150317_004383	Has fallado al recolectar.
 ETC_20150317_004384	Recolectado con éxito.
 ETC_20150317_004385	Te has recuperado por la bendición de los objetos empleados por los usuarios.
@@ -4393,173 +4393,173 @@ ETC_20150317_004392	Advancement Quest of job.xml is not set up(None)
 ETC_20150317_004393	There's no socket or it's currently being used
 ETC_20150317_004394	Missing rank.
 ETC_20150317_004395	N/A
-ETC_20150317_004396	Obtained Attribute Point
-ETC_20150317_004397	The Golem was weakened by the effect of storm magic.
-ETC_20150317_004398	Nothing happened.
-ETC_20150317_004399	Processed Purification Stones
-ETC_20150317_004400	Took the Pino.
-ETC_20150317_004401	Pino missed as the resistance.
+ETC_20150317_004396	Punto de atributo obtenido
+ETC_20150317_004397	El Golem ha sido debilitado por el efecto de la Tormenta Mágica.
+ETC_20150317_004398	Nada ha Ocurrido.
+ETC_20150317_004399	Has procesado las Piedras de Purificación
+ETC_20150317_004400	Toca al Pino.
+ETC_20150317_004401	Pino fallo cómo resistencia.
 ETC_20150317_004402	Ruina
-ETC_20150317_004403	Drop Type
-ETC_20150317_004404	/ Standard
-ETC_20150317_004405	/ Final Chance
-ETC_20150317_004406	/ Set Probability
-ETC_20150317_004407	/ Correction applied probability
-ETC_20150317_004408	Once: at a time ~
-ETC_20150317_004409	Separate: N/A
-ETC_20150317_004410	Current time of start setting (in minutes):
-ETC_20150317_004411	Settings of NPC appearance (in minutes):
+ETC_20150317_004403	Tipo de Obtención
+ETC_20150317_004404	/ Estándar
+ETC_20150317_004405	/ Última Oportunidad
+ETC_20150317_004406	/ Probabilidad Fija
+ETC_20150317_004407	/ Probabilidad Correjida
+ETC_20150317_004408	Uno: por vez ~
+ETC_20150317_004409	Separar: N/A
+ETC_20150317_004410	Tiempo de comenzada la configuración (en minutos):
+ETC_20150317_004411	Configuraciones de la apariencia de los PNJ (en minutos):
 ETC_20150317_004412	Next Gen time of setting the current time:
-ETC_20150317_004413	Delay:
-ETC_20150317_004414	Stand by NPC creation
-ETC_20150317_004415	It disappear after 120 segundos of NPC creation
-ETC_20150317_004416	Coordinates:
-ETC_20150317_004417	Dangerous Soul
-ETC_20150317_004418	You cannot rest Sequoio to be damaged!
-ETC_20150317_004419	I am not gonna let you mess this up!
-ETC_20150317_004420	Thanks for your help...
-ETC_20150317_004421	Guards of Vacenin
-ETC_20150317_004422	Captured Souls
-ETC_20150317_004423	Please lead me to the goddess!
-ETC_20150317_004424	Wake up!
-ETC_20150317_004425	We didn't know that the demon had returned!
-ETC_20150317_004426	Why do you not help us?
-ETC_20150317_004427	How can we wake this guy up?
-ETC_20150317_004428	Soldier's Soul
-ETC_20150317_004429	Must.. go back...
-ETC_20150317_004430	Thank you for guiding me...
-ETC_20150317_004431	For MOD_AI check
-ETC_20150317_004432	Demon Angel Statue
-ETC_20150317_004433	Tracking trigger
-ETC_20150317_004434	Spion of
+ETC_20150317_004413	Retardo:
+ETC_20150317_004414	Detener creación de PNJ
+ETC_20150317_004415	Desaparecerá luego de 120 segundos de la creación del PNJ
+ETC_20150317_004416	Coordenadas:
+ETC_20150317_004417	Alma Peligrosa
+ETC_20150317_004418	¡No permitas que el Sequoio sea dañado!
+ETC_20150317_004419	¡No permitiré que lo arruines!
+ETC_20150317_004420	Gracias por la ayuda...
+ETC_20150317_004421	Guardías de Vacenin
+ETC_20150317_004422	Almas Capturadas
+ETC_20150317_004423	¡Por favor guíame a la Diosa!
+ETC_20150317_004424	¡Despierta!
+ETC_20150317_004425	¡No sabíamos que el deminio había regresado!
+ETC_20150317_004426	¿Por qué no nos ayudas?
+ETC_20150317_004427	¿Cómo podemos despertar a este sujeto?
+ETC_20150317_004428	Alma del Soldado
+ETC_20150317_004429	Debo.. regresar...
+ETC_20150317_004430	Gracias por guiarme...
+ETC_20150317_004431	Para check de MOD_AI 
+ETC_20150317_004432	Estatua de Ángle Demoníaco
+ETC_20150317_004433	Activador de rastreo
+ETC_20150317_004434	Spion de
 ETC_20150317_004435	Fined Malt of
-ETC_20150317_004436	Nobble Vekarabe 1
-ETC_20150317_004437	Nobble Vekarabe 2
-ETC_20150317_004438	Nobble Vekarabe 3
-ETC_20150317_004439	Nobble Vekarabe 4
-ETC_20150317_004440	Unlucky Sculptures
-ETC_20150317_004441	Suspicious Solider
-ETC_20150317_004442	Recover PS
-ETC_20150317_004443	Weapons
-ETC_20150317_004444	Armor
+ETC_20150317_004436	Vekarabe Sublime 1
+ETC_20150317_004437	Vekarabe Sublime 2
+ETC_20150317_004438	Vekarabe Sublime 3
+ETC_20150317_004439	Vekarabe Sublime 4
+ETC_20150317_004440	Esculturas Desafortunadas
+ETC_20150317_004441	Soldado Sospechoso
+ETC_20150317_004442	Recuperar PS
+ETC_20150317_004443	Armas
+ETC_20150317_004444	Armadura
 ETC_20150317_004445	N/A
 ETC_20150317_004446	Goblin_Spear_red: Vubber Attacker: 24
 ETC_20150317_004447	Goblin_Spear: Vubber Attacker: 15 / Goblin_Spear: Vubber Attacker: 15 / Goblin_Spear: Vubber Attacker: 15 / Goblin_Archer_red: Vubber Attacker: 15
 ETC_20150317_004448	Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Archer_red: Vubber Attacker: 25
-ETC_20150317_004449	Seal Ceremony
+ETC_20150317_004449	Sello Ceremonial
 ETC_20150317_004450	Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Archer_red: Vubber Attacker: 25
 ETC_20150317_004451	Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Archer_red: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / GoblinWarrior_red: Ludas Vubber Fighter: 26
 ETC_20150317_004452	Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Archer_red: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / GoblinWarrior_red:: Ludas Vubber Fighter: 26
-ETC_20150317_004453	Flame Vapor
-ETC_20150317_004454	Feeble Flame Vapor
-ETC_20150317_004455	Tree looters
-ETC_20150317_004456	Wood Robber
+ETC_20150317_004453	Vapor Ígneo
+ETC_20150317_004454	Vapor Ígneo Tenue
+ETC_20150317_004455	Arboles Recolectores
+ETC_20150317_004456	Ladrón de Madera
 ETC_20150317_004457	Mini Griba
-ETC_20150317_004458	Sinister Soul
-ETC_20150317_004459	Hallucination of General Oso
-ETC_20150317_004460	Aggressor Saureumaen
-ETC_20150317_004461	Treasures of the Soul
-ETC_20150317_004462	Fallen Soul
-ETC_20150317_004463	Unidentified Monster
-ETC_20150317_004464	bushspider_white: Grynas Bushspider: 33
-ETC_20150317_004465	banshee_purple_event: Jibyu Banshee: 34
+ETC_20150317_004458	Alma Siniestra
+ETC_20150317_004459	Alucinación del General Oso
+ETC_20150317_004460	Saureumaen Agresor
+ETC_20150317_004461	Tesoros del Alma
+ETC_20150317_004462	Alma Caída
+ETC_20150317_004463	Monstruo sin Identificar
+ETC_20150317_004464	bushspider_white: Araña Arbustera de Grynas: 33
+ETC_20150317_004465	banshee_purple_event: Banshee Jibyu: 34
 ETC_20150317_004466	Bube_Goblin_Spear: High Vubbe Spearman: 37 / Bube_Goblin_Spear: High Vubbe Spearman: 37 / HighBube_Spear: High Vubbe Spearman: 37 / HighBube_Archer: High Vubbe Archers: 37
 ETC_20150317_004467	Mushroom_boy_red: Ludas Mini Griba: 33
 ETC_20150317_004468	Mushroom_boy_red: Ludas Mini Griba: 35
-ETC_20150317_004469	Supplies has arrived!
-ETC_20150317_004470	The hunger is killing me!
-ETC_20150317_004471	I'm still good...
+ETC_20150317_004469	¡Los suplementos han arrivado!
+ETC_20150317_004470	¡El hambre me está matando!
+ETC_20150317_004471	Sigo bien...
 ETC_20150317_004472	The third argument UnHideNPC EX>
-ETC_20150317_004473	Parasitic Griba
-ETC_20150317_004474	Guards of Vacenin
-ETC_20150317_004475	Goddess Statue of Test
-ETC_20150317_004476	Sequoia of Test
-ETC_20150317_004477	Deadborn of Test
-ETC_20150317_004478	Hiding Soul
-ETC_20150317_004479	You cannot escape!
-ETC_20150317_004480	Angry Pokubu
-ETC_20150317_004481	Soldier that was steeped in evil
-ETC_20150317_004482	Where are my followers?
-ETC_20150317_004483	Disguised Tent
-ETC_20150317_004484	You go first.
-ETC_20150317_004485	Fair is fair. {nl} Don't you agree?
-ETC_20150317_004486	It's nice to have friends.
-ETC_20150317_004487	Dead men tell no tales
-ETC_20150317_004488	Christina's Soul
+ETC_20150317_004473	Griba Parásito
+ETC_20150317_004474	Guardías de Vacenin
+ETC_20150317_004475	Estatua de la Diosa de Prueba
+ETC_20150317_004476	Secoya de Prueba
+ETC_20150317_004477	Muertovivo de Prueba
+ETC_20150317_004478	Alma Oculta
+ETC_20150317_004479	¡No puedes Huir!
+ETC_20150317_004480	Pokubu Colerico
+ETC_20150317_004481	Soldado que está empapado en maldad
+ETC_20150317_004482	¿Dónde se encuentran mis seguidores?
+ETC_20150317_004483	Tienda Encubierta
+ETC_20150317_004484	Vas primero.
+ETC_20150317_004485	Lo que es justo es justo. {nl} ¿No estás de acuerdo?
+ETC_20150317_004486	Es genial tener amigos.
+ETC_20150317_004487	Los muertos no hablan
+ETC_20150317_004488	Alma de Christina
 ETC_20150317_004489	jellyfish: Rich Ghost of Space: 64 / banshee_purple: Rich Ghost of Space: 64
-ETC_20150317_004490	Equipment has been activated.
+ETC_20150317_004490	Equipo activado.
 ETC_20150317_004491	Saurman_spearman: Saurman Spearman: 68 / Saurman_Axeman: Saurman Axeman: 68 / Saurman_Warrior: Saurman Warrior: 68
 ETC_20150317_004492	Dandel-3: Dandel v3: 69 / Dandel-3: Dandel v3: 69 / Sauga_s-3: Dandel v3: 69 / Dandel-3: Dandel v3: 69
 ETC_20150317_004493	Dandel-3: Ghost Guardian: 69 / Dandel-3: Ghost Guardian: 69 / Sauga_s-3: Ghost Guardian: 69 / Zinute-3: Ghost Guardian: 69
-ETC_20150317_004494	Hope
-ETC_20150317_004495	Avarice
-ETC_20150317_004496	Right
-ETC_20150317_004497	Wrong
-ETC_20150317_004498	Call the brave Gedulah of jakariel by reactivating of altar of gedulah.
-ETC_20150317_004499	Wisdom
-ETC_20150317_004500	Gold
-ETC_20150317_004501	Food
-ETC_20150317_004502	The Great King is waiting for you.
-ETC_20150317_004503	Call the faithful Sviesa of jakariel by reactivating of altar of Sviesa
-ETC_20150317_004504	Device Canyon
+ETC_20150317_004494	Esperanza
+ETC_20150317_004495	Avaricia
+ETC_20150317_004496	Bien
+ETC_20150317_004497	Mal
+ETC_20150317_004498	Llama al bravo Gedulah de jakariel para reactivar el altar de gedulah.
+ETC_20150317_004499	Sabiduría
+ETC_20150317_004500	Oro
+ETC_20150317_004501	Comida
+ETC_20150317_004502	El Gran Rey te aguarda.
+ETC_20150317_004503	Llama al fiel Sviesa de jakariel para reactivar el altar de Sviesa
+ETC_20150317_004504	Dispositivo del Cañón
 ETC_20150317_004505	Zinute-2: attracted Zinute to the extraordinary power: 32 / Zinute-2: attracted Zinute to the extraordinary power: 32 / Zinute-2: attracted Zinute to the extraordinary power: 32 / Sauga_s: attracted Sauga to the extraordinary power: 32 / Sauga_s: attracted Sauga to the extraordinary power: 32
-ETC_20150317_004506	Yo! Heave! ho!
-ETC_20150317_004507	The tree is too hard!
-ETC_20150317_004508	What can we do if a monster appears?
-ETC_20150317_004509	Don't complain and cheer up!
-ETC_20150317_004510	Yo-ho!
-ETC_20150317_004511	Huh! It will never end!
-ETC_20150317_004512	Hey! Get out of the way!
-ETC_20150317_004513	You can get hurt there!
+ETC_20150317_004506	¡Yo! ¡Tiren! ¡ho!
+ETC_20150317_004507	¿El árbol no cede!
+ETC_20150317_004508	¿Qué haremos si viene un monstruo?
+ETC_20150317_004509	¡Sin quejas y a animarse!
+ETC_20150317_004510	¡Yo-ho!
+ETC_20150317_004511	¡Huh! ¡Nunca acaba!
+ETC_20150317_004512	¡Hey! ¡Fuera del camino!
+ETC_20150317_004513	¡Te puedes lastimar!
 ETC_20150317_004514	Spector_Gh: Ghost: 31 / HighBube_Spear: High Vubbe Spearman: 31 / Bube_Goblin_Spear: High Vubbe Spearman: 31 / HighBube_Archer: High Vubbe Archers: 31
 ETC_20150317_004515	Spector_Gh: Ghost: 31 / HighBube_Spear: High Vubbe Spearman: 31 / HighBube_Archer: High Vubbe Spearman: 31 / high_Bube_Archer: High Vubbe Archers: 31
 ETC_20150317_004516	Spector_Gh: Ghost: 32 / Spector_Gh: Ghost: 32 / HighBube_Spear: High Vubbe Spearman: 32 / HighBube_Archer: High Vubbe Spearman: 32 / high_Bube_Archer: High Vubbe Archers: 32
 ETC_20150317_004517	HighBube_Spear: High Vubbe Spearman: 29 / high_bube_spear: High Vubbe Spearman: 29 / HighBube_Archer: High Vubbe Archers: 29
 ETC_20150317_004518	Spector_Gh: Ghost: 31 / HighBube_Spear: High Vubbe Spearman: 31 / high_bube_spear: High Vubbe Spearman: 31 / HighBube_Archer: High Vubbe Archers: 31
-ETC_20150317_004519	Direct Soldiers of Vacenin
-ETC_20150317_004520	Rough Hamin
-ETC_20150317_004521	Volunteer Bran
-ETC_20150317_004522	Volunteers Feet
-ETC_20150317_004523	Volunteers Malt
-ETC_20150317_004524	That guy... Help him...
+ETC_20150317_004519	Dirijir Soldados de Vacenin
+ETC_20150317_004520	Duro Hamin
+ETC_20150317_004521	Voluntario Bran
+ETC_20150317_004522	Pies de los Voluntarios
+ETC_20150317_004523	Malta de los Voluntarios
+ETC_20150317_004524	Ese tipo... Ayudenlo...
 ETC_20150317_004525	Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Archer: Vubbe Robber: 43
-ETC_20150317_004526	Monsters!
-ETC_20150317_004527	He's persistent!
-ETC_20150317_004528	Hello?
-ETC_20150317_004529	Welcome to Klaipeda.
+ETC_20150317_004526	¡Monstruos!
+ETC_20150317_004527	¡Que persistente!
+ETC_20150317_004528	¿Hola?
+ETC_20150317_004529	Bienvenido a Klaipeda.
 ETC_20150317_004530	Knox Su~an
 ETC_20150317_004531	Yanpan
-ETC_20150317_004532	Alpha object
-ETC_20150317_004533	Beans
-ETC_20150317_004534	Mountain
+ETC_20150317_004532	Objeto Alfa
+ETC_20150317_004533	Frijoles
+ETC_20150317_004534	Montaña
 ETC_20150317_004535	N/A
 ETC_20150317_004536	Flying_Flog: Attack: 86 / stub_tree: Attack: 87
 ETC_20150317_004537	Flying_Flog: Attack: 86 / Flying_Flog_green: Attack: 87 / stub_tree: Attack: 87 / Long_Arm: Attack: 88
 ETC_20150317_004538	Flying_Flog_green: Attack: 87 / hook: Attack: 88
 ETC_20150317_004539	Flying_Flog_green: Attack: 87 / Flying_Flog_white: Attack: 88 / Long_Arm: Attack: 88 / Cockatries: Attack: 89
-ETC_20150317_004540	Make the Camouflage Tent by helping Raymond of epigraphist.
+ETC_20150317_004540	Hacer la tienda encubierta al ayudar a Raymond el epigrafista.
 ETC_20150317_004541	Pino-2:Pinov2:62/Geppetto-2:Geppettov2:62/Pino-2:Pinov2:62/Geppetto-2:Geppettov2:62/Pino-2:Pinov2:62/Geppetto-2:Geppettov2:62/Pino-2:Pinov2:62/Geppetto-2:Geppettov2:62/Saurman_spearman_Big:Big Use Ur Man Spearman: 62
 ETC_20150317_004542	Geppetto-2:Geppetto v2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62
 ETC_20150317_004543	Tontulia:Tontulia:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62
 ETC_20150317_004544	hogma_warrior: Hogma Warrior: 62 / hogma_warrior: No. Dagmar Warrior:62/Geppetto-2:Geppettov2:62/Geppetto-2:Geppetto v2:62/Geppetto-2:Geppettov2:62/Geppetto-2:Geppetto v2:62
 ETC_20150317_004545	hogma_archer: Hogma Archer: 62 / hogma_archer: Hogma archer:62/Tontulia:Tontulia:62/Tontulia:Tontulia:62/Tontulia:Tonturia:62/Tontulia:Tontulia:62
 ETC_20150317_004546	zinutekas: Zinutekas: 68 / zinutekas: Zinutekas: 68 / zinutekas: Zinutekas: 68
-ETC_20150317_004547	NPC suicide (in segundos)
+ETC_20150317_004547	Suicidio de PNJ (en segundos)
 ETC_20150317_004548	pappus_kepa_red: Old Kepa: 30
 ETC_20150317_004549	Lantern_mushroom_Big:Gribaru:47/Lantern_mushroom:Griba:47/Lantern_mushroom:Griba:47/Lantern_mushroom:Griba:47/Lantern_mushroom:Griba:47/Lantern_mushroom:Griba:47
 ETC_20150317_004550	truffle_Big:Truffle:47/truffle:Truffle:47/truffle:Truffle:47/Lantern_mushroom:Griba:47/Lantern_mushroom:Griba:47/Lantern_mushroom:Griba:47
 ETC_20150317_004551	truffle_Big:Truffle:47/truffle:Truffle:47/truffle:truffle:47/truffle:Truffle:47/truffle:Truffle:47/truffle:Truffle:47
 ETC_20150317_004552	Lantern_mushroom_Big:Gribaru:48/Lantern_mushroom:Griba:48/Lantern_mushroom:Griba:48/Lantern_mushroom:Griba:48/Lantern_mushroom_Big:Gribaru:48
-ETC_20150317_004553	This is the last chance
+ETC_20150317_004553	Última Oportunidad
 ETC_20150317_004554	TxGiveItem function
 ETC_20150317_004555	TxTakeItem function
-ETC_20150317_004556	Completed Quests
+ETC_20150317_004556	Misión Completada
 ETC_20150317_004557	Activation of script of the first play
-ETC_20150317_004558	You do not have enough iCoins...
-ETC_20150317_004559	Change Hairstyle
-ETC_20150317_004560	Failed to change hairstyle
-ETC_20150317_004561	Name/
-ETC_20150317_004562	Disuse
+ETC_20150317_004558	No tienes suficientes iCoins...
+ETC_20150317_004559	Cambiar Peinado
+ETC_20150317_004560	Has fallado en cambiar tu peinado
+ETC_20150317_004561	Nombre/
+ETC_20150317_004562	Desusar
 ETC_20150317_004563	Quest Name = "
 ETC_20150317_004564	Quest Type = ScpArgMsg ("Auto__Mein_")
 ETC_20150317_004565	Quest Type = ScpArgMsg ("Auto__SeoBeu_")
@@ -4585,9 +4585,9 @@ ETC_20150317_004584	Complete NPC = ScpArgMsg ("Auto_
 ETC_20150317_004585	Complete NPC Coordinates MZ
 ETC_20150317_004586	Complete NPC Coordinates SETPOS
 ETC_20150317_004587	Complete NPC = ScpArgMsg ("Auto__eopeum_")
-ETC_20150317_004588	Recommended Level = "
-ETC_20150317_004589	Level higher than = "
-ETC_20150317_004590	Level below = "
+ETC_20150317_004588	Nivel Recomendado = "
+ETC_20150317_004589	Nivel más alto que = "
+ETC_20150317_004590	Nivel bajo = "
 ETC_20150317_004591	Peripheral check 1 = ScpArgMsg ("Auto_
 ETC_20150317_004592	Job 1 = "
 ETC_20150317_004593	Job 2 = "
@@ -4597,7 +4597,7 @@ ETC_20150317_004596	Gender = ScpArgMsg ("Auto_NamSeong")
 ETC_20150317_004597	Gender = ScpArgMsg ("Auto_yeoSeong")
 ETC_20150317_004598	Setting of Quest Conditions = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
 ETC_20150317_004599	Setting of Quest Conditions = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
-ETC_20150317_004600	/ Progress Rate:
+ETC_20150317_004600	/ Porcentaje Progresado:
 ETC_20150317_004601	Error ?? "
 ETC_20150317_004602	Setting of Buff Conditions = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
 ETC_20150317_004603	Setting of Buff Conditions = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
@@ -4621,8 +4621,8 @@ ETC_20150317_004620	Check Method of Period = Every particular day is only possib
 ETC_20150317_004621	The Main Period = ScpArgMsg ("Auto_
 ETC_20150317_004622	Check Method of Period = Every particular day and time is only possible to proceed (Or condition) "
 ETC_20150317_004623	Check Method of Period = Every hour is only possible to proceed (Or condition) "
-ETC_20150317_004624	Content = "
-ETC_20150317_004625	Level = "
+ETC_20150317_004624	Contenido = "
+ETC_20150317_004625	Nivel = "
 ETC_20150317_004626	Setting of Item Conditions = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
 ETC_20150317_004627	Setting of Item Conditions = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
 ETC_20150317_004628	The ClassName of = "
@@ -4643,36 +4643,36 @@ ETC_20150317_004642	InvItem4 Probability of monster = ScpArgMsg ("Auto_
 ETC_20150317_004643	Setting of kill monsters conditions = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
 ETC_20150317_004644	Setting of kill monsters conditions = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
 ETC_20150317_004645	MonKill1 = "Monster Name:
-ETC_20150317_004646	/ Target Kill Count:
+ETC_20150317_004646	/ Contador de muerte de Objetivo:
 ETC_20150317_004647	MonKill2 = "Monster Name:
 ETC_20150317_004648	MonKill3 = "Monster Name:
 ETC_20150317_004649	MonKill4 = "Monster Name:
 ETC_20150317_004650	MonKill5 = "Monster Name:
 ETC_20150317_004651	MonKill6 = "Monster Name:
-ETC_20150317_004652	Objective 1 = "
-ETC_20150317_004653	Objective 2 = "
-ETC_20150317_004654	Objective 3 = "
-ETC_20150317_004655	Objective 4 = "
-ETC_20150317_004656	Objective 5 = "
-ETC_20150317_004657	Objective 6 = "
+ETC_20150317_004652	Objetivo 1 = "
+ETC_20150317_004653	Objetivo 2 = "
+ETC_20150317_004654	Objetivo 3 = "
+ETC_20150317_004655	Objetivo 4 = "
+ETC_20150317_004656	Objetivo 5 = "
+ETC_20150317_004657	Objectivo 6 = "
 ETC_20150317_004658	Quest Progress = ScpArgMsg ("Auto_NPCwa_DaeHwa_Si_wanLyoDaeKi_SangTaeLo_ByeonKyeong")
 ETC_20150317_004659	Quest Progress = ScpArgMsg("Auto_KweSeuTeu_wanLyo_CheoLiKkaJi_Han_Beone_SiKim(KweSeuTeu_BoSangeul_BatKo_KweSeuTeu_wanLyo)")
 ETC_20150317_004660	All Possession "
-ETC_20150317_004661	ea "
+ETC_20150317_004661	u "
 ETC_20150317_004662	EXP = "
 ETC_20150317_004663	N/A
-ETC_20150317_004664	He
-ETC_20150317_004665	and the {Auto_1} statement is linked 2 Itodan
-ETC_20150317_004666	There is a new argument, make two groups!
-ETC_20150317_004667	I do not have a new argument!
+ETC_20150317_004664	El
+ETC_20150317_004665	y el {Auto_1} frase está unida a Itodan
+ETC_20150317_004666	Nuevo argumento, ¡Crea 2 grupos!
+ETC_20150317_004667	¡No tengo un nuevo argumento!
 ETC_20150317_004668	Seedmaiung
-ETC_20150317_004669	Number of monsters killed in level:
-ETC_20150317_004670	Killed
-ETC_20150317_004671	Number of Level Monster:
+ETC_20150317_004669	Número de monstruos muertos en nivel:
+ETC_20150317_004670	Muertos
+ETC_20150317_004671	Monstruos de nivel:
 ETC_20150317_004672	The average consumption of time when one animal level:
-ETC_20150317_004673	(In segundos)
-ETC_20150317_004674	Time it took to level up:
-ETC_20150317_004675	Simple_AI has not been applied!
+ETC_20150317_004673	(En segundos)
+ETC_20150317_004674	Tiempo para subir de nivel:
+ETC_20150317_004675	Simple_AI no ha sido aplicada!
 ETC_20150317_004676	Basic data ClassID:
 ETC_20150317_004677	ClassID:
 ETC_20150317_004678	/ Application site:
@@ -4681,163 +4681,163 @@ ETC_20150317_004680	Red color values:
 ETC_20150317_004681	/ Value of Green:
 ETC_20150317_004682	/ Blue values ??of
 ETC_20150317_004683	I want to change the color. The values ??of the arguments ClassID:
-ETC_20150317_004684	 then
-ETC_20150317_004685	You will not be able to proceed any further...!
-ETC_20150317_004686	Please say Te:
-ETC_20150317_004687	Please enter accurately:
-ETC_20150317_004688	while you pull out
-ETC_20150317_004689	Knocking
-ETC_20150317_004690	{S16}{#f0dcaa} Level {nl}
-ETC_20150317_004691	Sorcerer
-ETC_20150317_004692	Number of selected items
-ETC_20150317_004693	Default
-ETC_20150317_004694	{nl}{#ff0000} The code is not supported. Please check the Datatree_tooltipset {nl}
+ETC_20150317_004684	 entonces
+ETC_20150317_004685	¡No serás capaz de avanzar...!
+ETC_20150317_004686	Por favor dí Te:
+ETC_20150317_004687	Por favor ingresa exactamente:
+ETC_20150317_004688	mientras lo tiras
+ETC_20150317_004689	Golpeando
+ETC_20150317_004690	{S16}{#f0dcaa} Nivel {nl}
+ETC_20150317_004691	Hechicero
+ETC_20150317_004692	Número de objetos seleccionados
+ETC_20150317_004693	Por Defecto
+ETC_20150317_004694	{nl}{#ff0000} Código no soportado. Por favor revisa Datatree_tooltipset {nl}
 ETC_20150317_004695	{#050505}{s18}{b} Socket Effect :
-ETC_20150317_004696	{#050505}{s22}{b} Item Effect :
-ETC_20150317_004697	{@st42} Use
-ETC_20150317_004698	Shop for sale
-ETC_20150317_004699	Shop not for sale
-ETC_20150317_004700	Individual tradable
-ETC_20150317_004701	Individual transaction impossible
+ETC_20150317_004696	{#050505}{s22}{b} Efecto del Objeto :
+ETC_20150317_004697	{@st42} Usar
+ETC_20150317_004698	A la venta
+ETC_20150317_004699	No a la venta
+ETC_20150317_004700	Intercambiamble 1:1
+ETC_20150317_004701	Imposible de Intercambiar 1:1
 ETC_20150317_004702	And when attached to the card socket,
-ETC_20150317_004703	This anvil does not match this type of equipment
-ETC_20150317_004704	Event
-ETC_20150317_004705	Devils
-ETC_20150317_004706	Where are you???
-ETC_20150317_004707	Unconfirmed
+ETC_20150317_004703	Este yunque no coincide con el tipo de equipo
+ETC_20150317_004704	Evento
+ETC_20150317_004705	Demonios
+ETC_20150317_004706	¿¿Dónde estás???
+ETC_20150317_004707	No confirmado
 ETC_20150317_004708	{@st42b} full risk index
-ETC_20150317_004709	{@st42b} My Adventure
-ETC_20150317_004710	Special compensation
-ETC_20150317_004711	{S20}{#050505} Attack:
-ETC_20150317_004712	{S20}{#050505} Defense:
-ETC_20150317_004713	You do not have enough silver.
-ETC_20150317_004714	This advancement quest has not been implemented yet.
+ETC_20150317_004709	{@st42b} Mi Aventura
+ETC_20150317_004710	Compensación Especial
+ETC_20150317_004711	{S20}{#050505} Ataque:
+ETC_20150317_004712	{S20}{#050505} Defensa:
+ETC_20150317_004713	No tienes suficiente plata.
+ETC_20150317_004714	Esta misión de Ascenso no ha sido implementada aún.
 ETC_20150317_004715	Chat
-ETC_20150317_004716	{@st61} Normal Chat
+ETC_20150317_004716	{@st61} Chat Normal
 ETC_20150317_004717	And conversation
-ETC_20150317_004718	Normal Chat
-ETC_20150317_004719	Party Chat
-ETC_20150317_004720	Group
-ETC_20150317_004721	Invite to chat
-ETC_20150317_004722	System
-ETC_20150317_004723	{@st61} A new chat message has arrived! {/}
-ETC_20150317_004724	Minimum:
-ETC_20150317_004725	Maximum:
-ETC_20150317_004726	{@st43} Silver 0
-ETC_20150317_004727	{@st43} Silver
-ETC_20150317_004728	Discarded
-ETC_20150317_004729	(Warp Scroll)
-ETC_20150317_004730	Silver
-ETC_20150317_004731	{@st41b}Confirm{/}
-ETC_20150317_004732	{@st59} consumes silver to move to the area. {/}
-ETC_20150317_004733	{@st59} to move to the\ area. {/}
-ETC_20150317_004734	Maps
-ETC_20150317_004735	Maps Explored
-ETC_20150317_004736	{S20}{#00f00F} My Ranking:
-ETC_20150317_004737	Acquisition
-ETC_20150317_004738	No order
-ETC_20150317_004739	Acquisition
-ETC_20150317_004740	{S20}{ol}{#00f00F} My Ranking:
-ETC_20150317_004741	No data
-ETC_20150317_004742	No rank last week
-ETC_20150317_004743	Hunting
-ETC_20150317_004744	{@st64} Let's apply that approach to the NPC dialogue with \ ScpArgMsg ("Auto_SeuPeiSeuBa \")!
-ETC_20150317_004745	{@st43} Learn the basic controls of the game!
-ETC_20150317_004746	(In the block)
-ETC_20150317_004747	Select your {@st41b} reward: {/}
-ETC_20150317_004748	No items
-ETC_20150317_004749	{@st41} Monster Kill Top 100
-ETC_20150317_004750	{@st41} Damage Top 100
-ETC_20150317_004751	{@st41} Money Top 100
-ETC_20150317_004752	{@st41} Level-up Top 100
-ETC_20150317_004753	{@st48}{s20} Adventure Journal Top 100
-ETC_20150317_004754	{@st41}{#f0dcaa} Average damage
+ETC_20150317_004718	Chat Normal
+ETC_20150317_004719	Chat de Grupo
+ETC_20150317_004720	Grupo
+ETC_20150317_004721	Invitar a charlar
+ETC_20150317_004722	Sistema
+ETC_20150317_004723	{@st61} ¡Te ha llegado un nuevo mensaje de chat! {/}
+ETC_20150317_004724	Mínimo:
+ETC_20150317_004725	Máximo:
+ETC_20150317_004726	{@st43} Plata 0
+ETC_20150317_004727	{@st43} Plata
+ETC_20150317_004728	Descartado
+ETC_20150317_004729	(Pergamino de Teletransportación)
+ETC_20150317_004730	Plata
+ETC_20150317_004731	{@st41b}Confirmar{/}
+ETC_20150317_004732	{@st59} moverte a esa área consume plata. {/}
+ETC_20150317_004733	{@st59} para moverse al aréa de\ . {/}
+ETC_20150317_004734	Mapas
+ETC_20150317_004735	Mapas Explorados
+ETC_20150317_004736	{S20}{#00f00F} Mi Ranking:
+ETC_20150317_004737	Adquisición
+ETC_20150317_004738	Sin Orden
+ETC_20150317_004739	Adquisición
+ETC_20150317_004740	{S20}{ol}{#00f00F} Mi Ranking:
+ETC_20150317_004741	Sin datos
+ETC_20150317_004742	Sin ranking la semana pasada
+ETC_20150317_004743	Cazando
+ETC_20150317_004744	{@st64} Usémos lo aprendido para hablar con un PNJ \ ScpArgMsg ("Auto_SeuPeiSeuBa \")!
+ETC_20150317_004745	{@st43} ¡Aprendamos los controles básicos del juego!
+ETC_20150317_004746	(dentro del bloque)
+ETC_20150317_004747	Elige tu {@st41b} recompensa: {/}
+ETC_20150317_004748	No hay objetos
+ETC_20150317_004749	{@st41} Top 100 Monstruos Asesinados
+ETC_20150317_004750	{@st41} Top 100 Daño
+ETC_20150317_004751	{@st41} Top 100 Dinero
+ETC_20150317_004752	{@st41} Top 100 Nivel
+ETC_20150317_004753	{@st48}{s20} Top 100 Diario de Aventuras
+ETC_20150317_004754	{@st41}{#f0dcaa} Daño promedio
 ETC_20150317_004755	{@st41b} Ranking
-ETC_20150317_004756	{@st41}{#f0dcaa} Average kills
-ETC_20150317_004757	{@st41}{#f0dcaa} Average level
-ETC_20150317_004758	{@st41}{#f0dcaa} Average silver
-ETC_20150317_004759	 obtained
-ETC_20150317_004760	 (using)
-ETC_20150317_004761	Ice
-ETC_20150317_004762	{@st41} icon
-ETC_20150317_004763	{@st41}List
-ETC_20150317_004764	{@st54}{b}Select Reward{/}
+ETC_20150317_004756	{@st41}{#f0dcaa} Muertes promedio
+ETC_20150317_004757	{@st41}{#f0dcaa} Nivel promedio
+ETC_20150317_004758	{@st41}{#f0dcaa} Plata Promedio
+ETC_20150317_004759	 obtenido
+ETC_20150317_004760	 (en uso)
+ETC_20150317_004761	Hielo
+ETC_20150317_004762	{@st41} icono
+ETC_20150317_004763	{@st41}Lista
+ETC_20150317_004764	{@st54}{b}Selecciona Recompensa{/}
 ETC_20150317_004765	Nudoku I was mounting the Son Bol pocket in Kochi.
-ETC_20150317_004766	Can only be used on Bagworms!
-ETC_20150317_004767	Can only be used on Truffles!
-ETC_20150317_004768	Magic Crystal charged (
-ETC_20150317_004769	Charging
-ETC_20150317_004770	Pocket
-ETC_20150317_004771	A Varv came out of Truffle's body!
-ETC_20150317_004772	The pocket was covered by Bagworm
-ETC_20150317_004773	The effect activates nearby activated demon summoning magic circles!
-ETC_20150317_004774	Visible flower powder in collection
-ETC_20150317_004775	There is no PJ
-ETC_20150317_004776	I drink a visible pollen stimulants
-ETC_20150317_004777	Matsum appeared from the thorn flowers!
+ETC_20150317_004766	¡Sólo puede ser usado en Gusanos Saco!
+ETC_20150317_004767	¡Sólo puede ser usado en Trufas!
+ETC_20150317_004768	Cristal Mágico Cargado (
+ETC_20150317_004769	Cargando
+ETC_20150317_004770	Bolso
+ETC_20150317_004771	¡Un Varv a salido del cuerpo de la Trufa!
+ETC_20150317_004772	El bolso estaba cubierto de Gusanos Saco
+ETC_20150317_004773	¡El efecto se activa cerca de circulos de invocación demoníacos activos!
+ETC_20150317_004774	Polvo de flores visible en colección
+ETC_20150317_004775	No hay PJ
+ETC_20150317_004776	Tomé estimulantes de polen visible
+ETC_20150317_004777	¡Un Matsum ha aparecido desde las flores espinosas!
 ETC_20150317_004778	Matsum: Meshumu: 50 / Matsum: Meshumu: 50 / Matsum: Meshumu: 50 / Matsum_Big: Meshumuma: 51
-ETC_20150317_004779	Regarding the five goddesses
-ETC_20150317_004780	About Goddess Ausrine
-ETC_20150317_004781	About Goddess Laima
-ETC_20150317_004782	About Goddess Gabija
-ETC_20150317_004783	About Goddess Zemyna
-ETC_20150317_004784	About Goddess Vakarine
-ETC_20150317_004785	Ask about Medzio Diena
-ETC_20150317_004786	Ask what happened next
-ETC_20150317_004787	You've found a lever handle latch!
-ETC_20150317_004788	I found the information about the flow of horsepower.
-ETC_20150317_004789	Special information cannot be found.
-ETC_20150317_004790	Please remove the trap which attracts the monster!
-ETC_20150317_004791	More monsters are approaching, it is dangerous.
-ETC_20150317_004792	Purifying corrupted land
-ETC_20150317_004793	Purified the demon corrupted land!
-ETC_20150317_004794	I failed to strengthen the doll
-ETC_20150317_004795	and summoned Panto Wizard
-ETC_20150317_004796	Shaman Doll for Destruction
-ETC_20150317_004797	Great eyes have whispered you to the right person is a Watono.
-ETC_20150317_004798	Part of the fragmentation barrier is insufficient!
-ETC_20150317_004799	Junior Spirit
-ETC_20150317_004800	The work was fully collected!
-ETC_20150317_004801	Goddess Saule. Please protect me.
-ETC_20150317_004802	Goddess Saule. Please lend me your power to overcome my crisis
-ETC_20150317_004803	that the miracle happens...
-ETC_20150317_004804	Enhancing the Thorn Flower Powder Stimulant
-ETC_20150317_004805	Drank the stimulant
-ETC_20150317_004806	The muddy aura by Bramble disappeared.
-ETC_20150317_004807	Retrieving the relevation
-ETC_20150317_004808	Repair
-ETC_20150317_004809	Secondary Equipment
-ETC_20150317_004810	One-handed Sword
-ETC_20150317_004811	Two-handed Sword
-ETC_20150317_004812	Rod
-ETC_20150317_004813	Staff
-ETC_20150317_004814	Bow
-ETC_20150317_004815	Crossbow
-ETC_20150317_004816	Blunt
-ETC_20150317_004817	Wand
-ETC_20150317_004818	One-handed Spear
-ETC_20150317_004819	Two-handed Spear
-ETC_20150317_004820	Shield
-ETC_20150317_004821	Dagger
-ETC_20150317_004822	Woah, what's this taste?
-ETC_20150317_004823	It's so good!
-ETC_20150317_004824	*munch munch gulp gulp*
-ETC_20150317_004825	You must learn the necessary attribute to equip this item.
-ETC_20150317_004826	Learn immediately
-ETC_20150317_004827	Buy items for Companion
-ETC_20150317_004828	Adopt Companion
-ETC_20150317_004829	Train Companion
-ETC_20150317_004830	Not available in Klaipeda.
-ETC_20150317_004831	Tool Shop
-ETC_20150317_004832	Benefits of having a Companion
-ETC_20150317_004833	Defeat the monsters guarding the Demon magic circle.
-ETC_20150317_004834	Barrier of Pompra Hill activated!{nl}
-ETC_20150317_004835	Collecting Spiritually Enchanted Sap
-ETC_20150317_004836	Nepenthes fell into a confusion state. Collect freshwater now!
-ETC_20150317_004837	Incapacitate Nepenthes and collect freshwater.
-ETC_20150317_004838	Collecting Quality Grindstone
-ETC_20150317_004839	Obtained Whistling Wood!
-ETC_20150317_004840	It wasn't a Sounding Tree.
+ETC_20150317_004779	Acerca de las 5 Diosas
+ETC_20150317_004780	Acerca de la Diosa Ausrine
+ETC_20150317_004781	Acerca de la Diosa Laima
+ETC_20150317_004782	Acerca de la Diosa Gabija
+ETC_20150317_004783	Acerca de la Diosa Zemyna
+ETC_20150317_004784	Acerca de la Diosa Vakarine
+ETC_20150317_004785	Preguntar acerca de Medzio Diena
+ETC_20150317_004786	Preguntar que sucedio luego
+ETC_20150317_004787	¡Has encontrado una palanca de cerrojo!
+ETC_20150317_004788	Encontre información acerca del flujo de caballos de fuerza.
+ETC_20150317_004789	Información especial no pudo ser encontrada.
+ETC_20150317_004790	¡Por favor remueve la trampa que atrae mosntruos!
+ETC_20150317_004791	Más monstruos se acercan, es peligroso.
+ETC_20150317_004792	Purificando tierra corrupta
+ETC_20150317_004793	¡Has purificado la tierra corrupta por demonios!
+ETC_20150317_004794	He fallado en fortalecer la muñeca
+ETC_20150317_004795	e invocado un Mago Panto
+ETC_20150317_004796	Muñeca Chamán para la Destrucción
+ETC_20150317_004797	Grandes ojos ha susurrado que la persona correcta es un Watono.
+ETC_20150317_004798	¡Insuficientes partes de barrera de fragmentación!
+ETC_20150317_004799	Espíritu Junior
+ETC_20150317_004800	¡El trabajo fue recolectado por completo!
+ETC_20150317_004801	Diosa Saule. Por favor protegeme.
+ETC_20150317_004802	Diosa Saule. Prestame tus poderes para superar está crisis
+ETC_20150317_004803	que el milagro ocurra...
+ETC_20150317_004804	Potenciando el estímulante de Flor Espinosa
+ETC_20150317_004805	Beber el estimulante
+ETC_20150317_004806	El aura pútrida de Bramble ha desaparecido.
+ETC_20150317_004807	Recuperando la revelación
+ETC_20150317_004808	Reparar
+ETC_20150317_004809	Equipo Secundario
+ETC_20150317_004810	Espada de 1 Mano
+ETC_20150317_004811	Espada de 2 Manos
+ETC_20150317_004812	Vara
+ETC_20150317_004813	Bastón
+ETC_20150317_004814	Arco
+ETC_20150317_004815	Ballesta
+ETC_20150317_004816	Maza
+ETC_20150317_004817	Varita
+ETC_20150317_004818	Lanza de 1 Mano
+ETC_20150317_004819	Lanza de 2 Manos
+ETC_20150317_004820	Escudo
+ETC_20150317_004821	Daga
+ETC_20150317_004822	Woah, ¿Qué es este sabor?
+ETC_20150317_004823	¡Está muy bueno!
+ETC_20150317_004824	*ñam ñam gulp gulp*
+ETC_20150317_004825	Debes aprender el atributo necesario para equiparte este equipo.
+ETC_20150317_004826	Aprender enseguida
+ETC_20150317_004827	Comprar objetos para Compañero
+ETC_20150317_004828	Adoptar Compañero
+ETC_20150317_004829	Entrenar Compañero
+ETC_20150317_004830	No disponible en Klaipeda.
+ETC_20150317_004831	Tienda de Herramientas
+ETC_20150317_004832	Beneficios de tener un Compañero
+ETC_20150317_004833	Derrota a los monstruos protegiendo el sello demoníaco.
+ETC_20150317_004834	¡Barrera de Cerro Pompra activada!{nl}
+ETC_20150317_004835	Recolectando Savia Espiritualmente Cargada
+ETC_20150317_004836	Nepente ha caído en un estado de confusión. ¡Recolecta el Agua Fresca ahora!
+ETC_20150317_004837	Incapacita a la Nepente y recolecta Agua Fresca.
+ETC_20150317_004838	Recolectando Esmoladera de Calidad
+ETC_20150317_004839	¡Has Obtenido Madera Síbilante!
+ETC_20150317_004840	No es un árbol sonoro.
 ETC_20150317_004841	Distinguishing
 ETC_20150317_004842	Mother
 ETC_20150317_004843	Obtained a synthetic poison!
@@ -7201,7 +7201,7 @@ ETC_20150317_007201	Elementalist Master
 ETC_20150317_007202	Doppelsoeldner Master
 ETC_20150317_007203	Baby Panto
 ETC_20150317_007204	Crystal Basket
-ETC_20150317_007205	Sleeping Nepenthes
+ETC_20150317_007205	Sleeping Nepente
 ETC_20150317_007206	Central Pillar
 ETC_20150317_007207	Drums
 ETC_20150317_007208	Small Drums
@@ -8546,7 +8546,7 @@ ETC_20150317_008546	Receta - Vejo Boots
 ETC_20150317_008547	Receta - Rokas Leather Armor
 ETC_20150317_008548	Receta - Rokas Mail
 ETC_20150317_008549	Receta - Rokas Robe
-ETC_20150317_008550	Receta - Nepenthes Gloves
+ETC_20150317_008550	Receta - Nepente Gloves
 ETC_20150317_008551	Receta - Formine Armor
 ETC_20150317_008552	Receta - Riena Pants
 ETC_20150317_008553	Receta - Riena Robe
@@ -11431,11 +11431,11 @@ ETC_20150428_011432	Receta - Superior Key Pendant
 ETC_20150428_011433	Receta - Sage Necklace
 ETC_20150428_011434	Receta - Superior Rune Bracelet
 ETC_20150428_011435	Receta - Star Bracelet
-ETC_20150428_011436	FAQ : Lodge{nl}1) You can change the name of your lodge by clicking "Lodge Settings". {nl}2) You can buy Lodge skins using iCoins by clicking "Change Lodge".{nl}3) You select your desired channel from the Lodge.
+ETC_20150428_011436	FAQ : Guarida{nl}1) Puedes cambiar el nombre de tu Guarida dandole click a "Configuración de Guarida". {nl}2) Puedes comprar aspectos para tu Guarida usando iCoins al darle click a "Cambiar Guarida".{nl}3) Puedes elegir el canal al que deseas ingresar desde tu Guarida.
 ETC_20150428_011437	FAQ : Character PS, PM, STA {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) STA: This is stamina. When your STA is 0, you can only walk and cannot run anymore. {nl} STA is also used when learning certain attributes. {nl} STA can be recovered by destroying Tree Root Crystals or by using Stamina Pills. {nl} Stamina Pills can be purchased from shops, earned by completing quests or by defeating boss monsters.
 ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15. 
 ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3) You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
-ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Lodge before entering the world.
+ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Guarida before entering the world.
 ETC_20150428_011441	FAQ : Rest Mode{nl}1) Press the INSERT key to switch to Rest Mode. {nl}2) PS, PM, STA will be restored. {nl}3) You can light up a bonfire, craft items, enhance gems or combine cards in Rest Mode.{nl} You need "Firewood" to create a bonfire. {nl} PS, PM, STA is restored quicker when you use a bonfire.{nl}4) Other functions will be added in the near future.
 ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Decreases a little bit when you play with the equipment on.{nl}    When an item's durability decreases below a certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
 ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Item Merchant in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
@@ -11462,8 +11462,8 @@ ETC_20150428_011463	Move Base Camp
 ETC_20150428_011464	Available
 ETC_20150428_011465	Unavailable
 ETC_20150428_011466	Quit Game.
-ETC_20150428_011467	Return to the Lodge.
-ETC_20150428_011468	Returning to the Login Screen...
+ETC_20150428_011467	Regresando a la Guarida.
+ETC_20150428_011468	Regresando a la pantalla de inicio...
 ETC_20150428_011469	Period: {day 1} ~ {day 2} {nl} the first rank:
 ETC_20150428_011470	Area {count1} times move{nl} the second rank:
 ETC_20150428_011471	Area {count2} times move{nl} the third rank:
@@ -12259,7 +12259,7 @@ ETC_20150714_012260	Maximum Magic Attack
 ETC_20150714_012261	Add {Value} Critical Rate to your Companion
 ETC_20150714_012262	Add {Value} Evasion to your Companion
 ETC_20150714_012263	You don't have the attribute to mount this Companion.
-ETC_20150714_012264	Return to Lodge.
+ETC_20150714_012264	Regresar a la Guarida.
 ETC_20150714_012265	Normal Attack
 ETC_20150714_012266	{Name} likes me!
 ETC_20150714_012267	You can only put Card items.
@@ -12662,18 +12662,18 @@ ETC_20150714_012663	Earth Property
 ETC_20150714_012664	Ice Property
 ETC_20150714_012665	Dark Property
 ETC_20150714_012666	Gender Property
-ETC_20150714_012667	Lodge theme changed.
-ETC_20150714_012668	Like!
-ETC_20150714_012669	Cancel Like
-ETC_20150714_012670	The other party rejected 
-ETC_20150714_012671	Not enough party members (%d/%d)
-ETC_20150714_012672	{Name} invited you to {PVPName}. Would you like to join? 
+ETC_20150714_012667	Ha cambiado la apariencia de la Guarida.
+ETC_20150714_012668	¡Me Gusta!
+ETC_20150714_012669	Cancelar Me Gusta
+ETC_20150714_012670	El otro grupo ha rechazado 
+ETC_20150714_012671	No hay suficientes miembros en el grupo (%d/%d)
+ETC_20150714_012672	{Name} te ha invitado a {PVPName}. ¿Deseas unirte? 
 ETC_20150714_012673	You've invited the party members. Wait for their responses.
-ETC_20150714_012674	{Killer} defeated {Killee}
-ETC_20150714_012675	{Killee} was defeated by {Killer}
-ETC_20150714_012676	Spectate ({PJ})
-ETC_20150714_012677	Are you going to watch this game?
-ETC_20150714_012678	Buy Point
+ETC_20150714_012674	{Killer} derrotó a {Killee}
+ETC_20150714_012675	{Killee} fue derrotado por {Killer}
+ETC_20150714_012676	Viendo a ({PJ})
+ETC_20150714_012677	¿Estás seguro que quieres ver este juego?
+ETC_20150714_012678	Comprar puntos
 ETC_20150714_012679	The name of the party is either too long or too short.
 ETC_20150714_012680	The party of {FamilyName}
 ETC_20150714_012681	Party#
@@ -12734,8 +12734,8 @@ ETC_20150714_012735	It will be dangerous if you go near
 ETC_20150714_012736	The Eyes of the Great King is whispering to you that the right person has come
 ETC_20150714_012737	You can only use it in the Lot 2 of the Mina de Cristal
 ETC_20150714_012738	Defeat the monsters protecting the Demon Summoning Circle first!
-ETC_20150714_012739	Nepenthes is confused! Collect the Spiritually Enchanted Sap now!
-ETC_20150714_012740	Neutralize Nepenthes and collect the Spiritually Enchanted Sap!
+ETC_20150714_012739	Nepente is confused! Collect the Spiritually Enchanted Sap now!
+ETC_20150714_012740	Neutralize Nepente and collect the Spiritually Enchanted Sap!
 ETC_20150714_012741	The wood didn't make the right sound.
 ETC_20150714_012742	Less than 3 of them were caught!
 ETC_20150714_012743	More than 3 of them were caught!
@@ -14084,19 +14084,19 @@ ETC_20150803_014085	The curse of the magical device
 ETC_20150803_014086	{nl} {nl}The name of an item you input and the memo can be checked from Item Tooltip.
 ETC_20150803_014087	Klaipeda's 
 ETC_20150803_014088	 enables you to warp to other locations.
-ETC_20150803_014089	You can set various settings for the team which your character belongs to at the Lodge.
-ETC_20150803_014090	When you select Lodge Settings, you can change your Team Name.
-ETC_20150803_014091	When you select Change Lodge, the list of Lodges will appear. When you click on a Lodge, you can preview it.
-ETC_20150803_014092	You can create up to 5 characters with the basic Lodge. The number of characters you can create depends on which Lodge you have.
-ETC_20150803_014093	{nl} {nl}There is a Messages Box at the lower right side of your Lodge. You can check messages by selecting it.
-ETC_20150803_014094	Any items or money that are attached in a message can be received by {img mouseclick_right 40 40}.
-ETC_20150803_014095	{nl} {nl}With {img mouseclick_right 40 40}, you can visit the Lodge of other users who you met in the game.
-ETC_20150803_014096	Screen Capture
-ETC_20150803_014097	Tree of Savior provides a Screen Capture function.
-ETC_20150803_014098	You can take a screenshot using PrintScreen key.
-ETC_20150803_014099	Screenshots taken will be stored in the screenshot folder located in the 'TreeOfSavior\release\screenshot' directory.
-ETC_20150803_014100	{nl} {nl}With {img F12 40 40}, you can use the Video Capture function.
-ETC_20150803_014101	When you press {img F12 40 40} again, the captured video will be stored.{nl}The captured video will be stored in the 'TreeOfSavior\release\avicapture' directory.
+ETC_20150803_014089	Puedes ajustar varias configuraciones del Equipo al que pertenece tu PJ desde tu Guarida.
+ETC_20150803_014090	Cuando seleccionas Configuraciones de Guarida, puedes cambiar el Nombre de tu Equipo.
+ETC_20150803_014091	Cuando seleccionar Cambiar Guarida, una lista de Guaridas aparecerá. Seleccionando una Guarida, puedes previsualizarla.
+ETC_20150803_014092	Puedes crear hasta 5 personajes en la Guarida básica. El número de personajes depende de la Guarida que tengas.
+ETC_20150803_014093	{nl} {nl}Hay un correo en la esquina inferior derecha de tu Guarida. Puedes revisar tus mensajes al seleccionarla.
+ETC_20150803_014094	Cualquier objeto o dinero incluída en un mensaje puede ser retirada con {img mouseclick_right 40 40}.
+ETC_20150803_014095	{nl} {nl}Con {img mouseclick_right 40 40}, puedes visitar la Guarida de otros jugadores que has conocido en el juego.
+ETC_20150803_014096	Captura de Pantalla
+ETC_20150803_014097	Tree of Savior provee una función de captura de pantalla.
+ETC_20150803_014098	Puedes tomar una captura de pantalla al presionar la tecla ImprPant.
+ETC_20150803_014099	Las capturas de pantalla serán almacenadas en la carpeta 'TreeOfSavior\release\screenshot'.
+ETC_20150803_014100	{nl} {nl}Con {img F12 40 40}, puedes usar la función para grabar vídeo.
+ETC_20150803_014101	Si presionas {img F12 40 40} nuevamente, el vídeo grabado será guardado.{nl}El vídeo grabado será almacenado en la carpeta 'TreeOfSavior\release\avicapture'.
 ETC_20150803_014102	DoTimeAction:Collectign:2:SITGROPE:None
 ETC_20150803_014103	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:Collected the copses and saved the keepsakes!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_2:1
 ETC_20150803_014104	Notice:NOTICE_Dm_GetItem:You've collected the corpses!:5/NPCDead
@@ -15668,7 +15668,7 @@ ETC_20151016_015669	Ugh! They again...!
 ETC_20151016_015670	What! Demons!
 ETC_20151016_015671	There they are!
 ETC_20151016_015672	You check it with Monocle.
-ETC_20151016_015673	Cozy Lodge
+ETC_20151016_015673	Guarida Cómoda
 ETC_20151016_015674	Kedoran Merchant Alliance Benefit
 ETC_20151016_015675	PM Notice : Join the Kedoran Merchant Alliance!{nl}Benefit Effect : Temporary increase in attack and magic attack!
 ETC_20151016_015676	Drowsy Ferret
@@ -17810,7 +17810,7 @@ ETC_20151224_017810	Sekta Forest
 ETC_20151224_017811	Oasseu Memorial
 ETC_20151224_017812	Maven Abby
 ETC_20151224_017813	Unused-Siauliai
-ETC_20151224_017814	Lodge
+ETC_20151224_017814	Guarida
 ETC_20151224_017815	Opening Zone
 ETC_20151224_017816	Laima Directing
 ETC_20151224_017817	Guild Mission
@@ -18107,11 +18107,11 @@ ETC_20151224_018107	{nl} {nl}When both sides completed selecting their cards, th
 ETC_20151224_018108	The win conditions are as follow: number of legs, height, weight and the number of stars.
 ETC_20151224_018109	{nl} {nl}When the conditions are decided, the win/loss will be revealed based on the information on the cards that were presented.
 ETC_20151224_018110	With the cards obtained like this, you are able to use them as materials to enhance other cards and increase the number of stars.
-ETC_20151224_018111	You can change the settings of your team in the Lodge.
-ETC_20151224_018112	When you select Change Lodge, a list of Lodges will appear. You are able to preview Lodges by clicking on them.
-ETC_20151224_018113	You can create up to 5 characters with the basic Lodge, but when you exceed the maximum amount of characters, you can purchase a character slot with TP.
-ETC_20151224_018114	{nl} {nl}There is a Messages Box at the lower right side of your Lodge. You can check messages by selecting it.
-ETC_20151224_018115	{nl} {nl}With {img mouseclick_right 40 40}, you can visit the Lodge of other users from the game.
+ETC_20151224_018111	Puedes cambiar los ajustes de tu Equipo en tu Guarida.
+ETC_20151224_018112	Cuando seleccionar Cambiar Guarida, una lista de Guaridas aparecerá. Seleccionando una Guarida, puedes previsualizarla.
+ETC_20151224_018113	Puedes crear hasta 5 personajes en la Guarida Básica, pero cuando alcanzas el límite de personajes, puedes compar un espacio adicional por TP.
+ETC_20151224_018114	{nl} {nl}Hay un correo en la esquina inferior izquierda de tu Guarida. Puedes revisar tus mensajes seleccionandola.
+ETC_20151224_018115	{nl} {nl}Con {img mouseclick_right 40 40}, puedes visitar la Guarida de otros jugadores.
 ETC_20151224_018116	A Centurion gathers characters together that come within its formation to control them.{nl} {nl}A Centurion will be able to control the characters until they go out of the formation, and characters can always step out of the formation if they want to. 
 ETC_20151224_018117	You can go on missions with your party members through the Mercenary Post in Fedimian.
 ETC_20151224_018118	is located on the left of the merchant.
@@ -19117,7 +19117,7 @@ ETC_20151224_019117	Receta - Tribal Chief Head Decoration
 ETC_20151224_019118	Receta - Cat Ears 
 ETC_20151224_019119	Receta - Cannon
 ETC_20151224_019120	Receta - Superior Cannon
-ETC_20151224_019121	FAQ : Lodge{nl}1) You can change the name of your lodge by clicking "Lodge Settings".{nl}2) You can purchase Lodge skins using TP by clicking "Change Lodge".{nl}3) You can select a channel from the Lodge.
+ETC_20150428_019121	FAQ : Guarida{nl}1) Puedes cambiar el nombre de tu Guarida dandole click a "Configuración de Guarida". {nl}2) Puedes comprar aspectos para tu Guarida usando iCoins al darle click a "Cambiar Guarida".{nl}3) Puedes elegir el canal al que deseas ingresar desde tu Guarida.
 ETC_20151224_019122	Enter '/y' in the chat window to send a world message. Requires a Megaphone.
 ETC_20151224_019123	Level Reset
 ETC_20151224_019124	/guildinvite
@@ -19133,7 +19133,7 @@ ETC_20151224_019133	You cannot use the word {Word}.
 ETC_20151224_019134	The character name must be at least %s bytes.
 ETC_20151224_019135	The character name must be less than %s bytes.
 ETC_20151224_019136	The current amount of players joined has been exceeded.
-ETC_20151224_019137	You have reached the maximum amount{nl}of characters in this Lodge{nl}Do you want to purchase a character slot?
+ETC_20151224_019137	Has alcanzado el límite{nl}de PJs en esta Guarida{nl}¿Deseas comprar un espacio adicional?
 ETC_20151224_019138	You cannot dismount your companion while using a skill.
 ETC_20151224_019139	The name must be less than {LEN} bytes.
 ETC_20151224_019140	This item's price can't be estimated until there is more on the Market.
@@ -19150,7 +19150,7 @@ ETC_20151224_019150	You can only use this while in Rest Mode.
 ETC_20151224_019151	You cannot delete this character{nl}because it has items equipped.
 ETC_20151224_019152	Do you want to use {TP} TP{nl}to expand {SLOT} slots?
 ETC_20151224_019153	Your skill level is not high enough.
-ETC_20151224_019154	You have reached the maximum amount of characters in this Lodge{nl}Please try again after deleting an existing character.
+ETC_20151224_019154	Has alcanzado el límite{nl}de PJs en esta Guarida{nl}Por favor intenta nuevamente luego de borrar un personaje.
 ETC_20151224_019155	Loading the intro...
 ETC_20151224_019156	Do you want to see the intro again?
 ETC_20151224_019157	Current Location
@@ -19839,9 +19839,9 @@ ETC_20151224_019839	Increased Market listing to {COUNT}
 ETC_20151224_019840	Train {COUNT} attributes simultaneously
 ETC_20151224_019841	Increased movement speed by {COUNT}
 ETC_20151224_019842	Your Token has already been activated.
-ETC_20151224_019843	Premium goodies have arrived in your Lodge.{nl}Please retrieve them at your Lodge.
+ETC_20151224_019843	Han llegado objetos Premium a tu Guarida.{nl}Retíralos en tu Guarida.
 ETC_20151224_019844	 the item
-ETC_20151224_019845	Character
+ETC_20151224_019845	Personaje
 ETC_20151224_019846	Server Team
 ETC_20151224_019847	This item will be bound to you upon purchase.{nl}Are you sure you want to buy?
 ETC_20151224_019848	Are you sure you want to{nl}add the following item to the Market?
@@ -19870,7 +19870,7 @@ ETC_20151224_019870	Character Name Change
 ETC_20151224_019871	Random Box
 ETC_20151224_019872	Stat Reset
 ETC_20151224_019873	Storage Expansion
-ETC_20151224_019874	Lodge Skin Purchase
+ETC_20151224_019874	Guarida Skin Purchase
 ETC_20151224_019875	Change Team Name
 ETC_20151224_019876	Undo Skill
 ETC_20151224_019877	Team Slot Purchase
@@ -19884,30 +19884,30 @@ ETC_20151224_019884	Hairstyle17
 ETC_20151224_019885	Hairstyle18
 ETC_20151224_019886	Underground Catacombs Dungeon Entrance
 ETC_20151224_019887	[TP Trader]{nl}   Leticia
-ETC_20151224_019888	[Maestro Templario]{nl}Uska Comandante de los Caballeros
-ETC_20151224_019889	[Maestro Criomante]{nl}  Aleister Crowley
+ETC_20151224_019888	[Maestre Templario]{nl}Uska Comandante de los Caballeros
+ETC_20151224_019889	[Maestre Criomante]{nl}  Aleister Crowley
 ETC_20151224_019890	[Herrería]{nl}   Ilanai
 ETC_20151224_019891	[Vendedor de Equipo]{nl}      Jura
-ETC_20151224_019892	  [Señor de Orsha]{nl}    Inesa Hamondale
+ETC_20151224_019892	  [Dama de Orsha]{nl}    Inesa Hamondale
 ETC_20151224_019893	[Sacerdote de Orsha]{nl}        Urbonas
 ETC_20151224_019894	[Vendedor de Objetos]{nl}        Alf
 ETC_20151224_019895	[Vendedor de Accesorios]{nl}        Jurus
-ETC_20151224_019896	[Maestro Hoplita]{nl}        Aidas Valor
-ETC_20151224_019897	[Sub-maestro Paladín]{nl}        Silvia Naimon
-ETC_20151224_019898	[Sub-maestro Mago]{nl}          Dejamis
-ETC_20151224_019899	[Sub-maestro Piromante]{nl}        Cathy Naimos
-ETC_20151224_019900	[Sub-maestro Criomante]{nl}       Octavia Ifflyn
-ETC_20151224_019901	[Maestro Psicoquino]{nl}       Ili Terid
+ETC_20151224_019896	[Maestre Hoplita]{nl}        Aidas Valor
+ETC_20151224_019897	[Vice-maestre Paladín]{nl}        Silvia Naimon
+ETC_20151224_019898	[Vice-maestre Mago]{nl}          Dejamis
+ETC_20151224_019899	[Vice-maestre Piromante]{nl}        Cathy Naimos
+ETC_20151224_019900	[Vice-maestre Criomante]{nl}       Octavia Ifflyn
+ETC_20151224_019901	[Maestre Psicoquino]{nl}       Ili Terid
 ETC_20151224_019902	[Linker Master]{nl}    Winona Ende
-ETC_20151224_019903	[Sub-maestro Taumaturgo]{nl}          Diemer Fallon
-ETC_20151224_019904	[Maestro Elementalista]{nl}         Wican Celestic
-ETC_20151224_019905	[Sub-maestro Arquero]{nl}         Gunnison
-ETC_20151224_019906	[Sub-maestro Guardabosques]{nl}            Sheba
-ETC_20151224_019907	[Sub-maestro Ballestero]{nl}            Shorris
-ETC_20151224_019908	[Sub-maestro Zapador]{nl}     Zubin Katal
-ETC_20151224_019909	[Sub-maestro Cazador]{nl}       Belkin Vellon
-ETC_20151224_019910	[Maestro Wugushi]{nl}          Wor Pat
-ETC_20151224_019911	[Sub-maestro Explorador]{nl}          Suina
+ETC_20151224_019903	[Vice-maestre Taumaturgo]{nl}          Diemer Fallon
+ETC_20151224_019904	[Maestre Elementalista]{nl}         Wican Celestic
+ETC_20151224_019905	[Vice-maestre Arquero]{nl}         Gunnison
+ETC_20151224_019906	[Vice-maestre Guardabosques]{nl}            Sheba
+ETC_20151224_019907	[Vice-maestre Ballestero]{nl}            Shorris
+ETC_20151224_019908	[Vice-maestre Zapador]{nl}     Zubin Katal
+ETC_20151224_019909	[Vice-maestre Cazador]{nl}       Belkin Vellon
+ETC_20151224_019910	[Maestre Wugushi]{nl}          Wor Pat
+ETC_20151224_019911	[Vice-maestre Explorador]{nl}          Suina
 ETC_20151224_019912	[Vendedor de Compañeros]{nl}            Taurus
 ETC_20151224_019913	[Manager del Mercado]{nl}     Tilliana
 ETC_20151224_019914	[Guarda de Almacen]{nl}      Aisa
@@ -20023,7 +20023,7 @@ ETC_20151224_020023	Protech Malda Altar from the monsters
 ETC_20151224_020024	The Chapparition who failed to destroy the altar is escaping{nl}Defeat Chapparition before it reaches the portal!
 ETC_20151224_020025	Completed [Returning Crisis] Event
 ETC_20151224_020026	Failed [Returning Crisis]{nl}The Chapparition managed to escaped.
-ETC_20151224_020027	Select Reward
+ETC_20151224_020027	Selecciona Recompensa
 ETC_20151224_020028	Objective completed!{nl}Move to Royal Mausoleum Workers Lodge
 ETC_20151224_020029	There are monsters coming out from the Royal Mausoleum Workers Lodge
 ETC_20151224_020030	Gorgon is coming out from the Royal Mausoleum Workers Lodge
@@ -20044,7 +20044,7 @@ ETC_20151224_020044	The Royal Mausoleum Lighting Device has been activated{nl}Co
 ETC_20151224_020045	Light Essence
 ETC_20151224_020046	Destroy all Demon Summon Stones
 ETC_20151224_020047	Petrified Deathweaver
-ETC_20151224_020048	Select Reward
+ETC_20151224_020048	Selecciona Recompensa
 ETC_20151224_020049	The first objective will start soon.
 ETC_20151224_020050	Attack the petrified Deathweaver by using the abandoned wagon
 ETC_20151224_020051	Use the abandoned wagon to inflict maximum damage to the petrified Deathweaver!{nl}The abandoned wagon will be created in 3 points.
@@ -21352,7 +21352,7 @@ ETC_20160323_021351	The magic circle has already been created here
 ETC_20160323_021352	Using the Magic Searching Stone
 ETC_20160323_021353	No puedes transformarte mientras realizas una misión en esta región.
 ETC_20160323_021354	Miembro del Clan {Name} ha recibido {Item} (x{Count}) del Almacén del Clan. 
-ETC_20160323_021355	Has recibido un objeto del Almacén del Clan. Retrieve the item in your Lodge.
+ETC_20160323_021355	Has recibido un objeto del Almacén del Clan. Retira el objeto en tu Guarida.
 ETC_20160323_021356	You can't use this item in other Guild Hangouts.
 ETC_20160323_021357	Sólo puedes hacer 1 fogata.{nl}La fogata anterior ha sido removida.
 ETC_20160323_021358	No puedes vender esto.
@@ -21376,12 +21376,12 @@ ETC_20160323_021375	Recompensa por 1er lugar del servidor
 ETC_20160323_021376	TP gratuito + {Value} hasta el próximo reinicio semanal de posiciones
 ETC_20160323_021377	Re-enter auto party matching
 ETC_20160323_021378	Ya tienes beneficios de Token.{nl}Usar otro Token acumulará:{nl}- Duración total;{nl}- Número de intercambios;{nl}Todos los otros beneficios{nl}se mantendrán sin cambios.{nl}¿Aún quieres emplearlo?
-ETC_20160323_021379	[Maestro Alquimista]{nl}
+ETC_20160323_021379	[Maestre Alquimista]{nl}
 ETC_20160323_021380	Recolector
 ETC_20160323_021381	Plateau Sugar Beet Stems
-ETC_20160323_021382	[Maestro Hoplita]{nl}    Aidas Valor
+ETC_20160323_021382	[Maestre Hoplita]{nl}    Aidas Valor
 ETC_20160323_021383	3F Purifier
-ETC_20160323_021384	[Maestro Bárbaro]{nl}      Walder Junnot
+ETC_20160323_021384	[Maestre Bárbaro]{nl}      Walder Junnot
 ETC_20160323_021385	¡Captura al Hanaming antes que los otros jugadores!
 ETC_20160323_021386	¡La batalla ha iniciado!{nl}Destruye la Torre del Clan oponente.
 ETC_20160329_021387	{nl}Reduce el potencial del objeto cuando es equipado.{nl}{nl}Número de amuletos mágicos que pueden ser equipados: {Remain}
@@ -21438,7 +21438,7 @@ ETC_20160411_021437	Consejo sobre Liga de Batalla
 ETC_20160411_021438	The Team Battle League ranking is reset every Monday at midnight.
 ETC_20160411_021439	You can purchase EXP cards using the points earned through the Team Battle League.
 ETC_20160411_021440	Consejo sobre el Clan
-ETC_20160411_021441	Las guerras de Clan comienzan 1 hora despues de declarada y duran 1 semana.
+ETC_20160411_021441	Las guerras de Clan comienzan 1 hora despues de declaradas y duran 1 semana.
 ETC_20160411_021442	Los líderes de clan pueden fijar a
 ETC_20160411_021443	 el estado de su clan, que desactiva las declaraciones de guerra.
 ETC_20160411_021444	Consejo sobre el Banco de Equipo
