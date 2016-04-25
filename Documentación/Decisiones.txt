@@ -101,7 +101,29 @@ Big Red Kepa (nivel 7)
 El prefijo "High" se ha traducido cómo "Alto" para evitar usar "Gran" que está siendo empleado.
 
 [ Nombres del Equipamiento ]
+Sword --> Espada
+Two Handed Sword --> Espada de dos manos
+Staff --> Bastón
+Rod --> Vara
+Wand --> Varita
+Pistol --> Pistola
+Cannon --> Cañon
+Bow --> Arco
+Crossbow --> Ballesta
+Blunt --> Maza
+Two Handed Blunt --> maza de dos manos
+Shield --> Escudo
+Top --> Pecho
+Botton --> Pantalon
+Gloves --> Guantes
+Shoes --> Zapatos
+bracelet --> Pulser
+Costume --> Ropa
+
+Dunkel -->Misterioso
 Crude --> Vulgar
+DeathWeaver --> Tejedora Mortal
+
 
 Los nombres del equipamiento seran modificados, pero no los nombres propios.
 Ejemplos: 
