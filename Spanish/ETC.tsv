@@ -606,7 +606,7 @@ ETC_20150317_000605	Groll
 ETC_20150317_000606	Amphibians that have branched out and evolved to be able to hunt in arid areas, travelers should be wary of them.
 ETC_20150317_000607	Wendigo
 ETC_20150317_000608	A monster with a habit of baiting and attacking humans.
-ETC_20150317_000609	Lizardman
+ETC_20150317_000609	Hombre Lagarto
 ETC_20150317_000610	You can tell the origin of this beast just by its name or appearance.
 ETC_20150317_000611	Tama
 ETC_20150317_000612	Tama is a monster originating from the spores of some plants. It is unclear whether it will still grow from its current form.
@@ -860,8 +860,8 @@ ETC_20150317_000859	Galok
 ETC_20150317_000860	Galok is a monster who command workers in the demon realm.
 ETC_20150317_000861	Upent
 ETC_20150317_000862	Upent rapidly appeared from what once were flora with magical powers.
-ETC_20150317_000863	Glizardon
-ETC_20150317_000864	When the demons found glizardons, they immediately subjugated them into minions. Glizardons that aren't minions are still dangerous to humans.
+ETC_20150317_000863	Glagarton
+ETC_20150317_000864	When the demons found Glagartons, they immediately subjugated them into minions. Glagartons that aren't minions are still dangerous to humans.
 ETC_20150317_000865	Corylus
 ETC_20150317_000866	The Corylus is a mutant hybrid between plants, animals and minerals.
 ETC_20150317_000867	Red Loxodon
@@ -921,7 +921,7 @@ ETC_20150317_000920	Gesti
 ETC_20150317_000921	Q2 Golem
 ETC_20150317_000922	Q3 Golem
 ETC_20150317_000923	Q4 Golem
-ETC_20150317_000924	Q1 Devilglove
+ETC_20150317_000924	Q1 Guante Demoníaco
 ETC_20150317_000925	Q1 Denóptico
 ETC_20150317_000926	Q1 Reaverpede
 ETC_20150317_000927	Mushwort
@@ -954,7 +954,7 @@ ETC_20150317_000953	Romuva E
 ETC_20150317_000954	Mission Gazing Golem
 ETC_20150317_000955	Mission Gorgon
 ETC_20150317_000956	Mission Necroventer
-ETC_20150317_000957	Mission Devilglove
+ETC_20150317_000957	Mission Guante Demoníaco
 ETC_20150317_000958	Mission Dionia
 ETC_20150317_000959	Mission Drapeliun
 ETC_20150317_000960	Mission Rutopus
@@ -972,9 +972,9 @@ ETC_20150317_000971	Mission Ironbaum
 ETC_20150317_000972	Mission Archon
 ETC_20150317_000973	Mission Yonazolem
 ETC_20150317_000974	Mission Clymen
-ETC_20150317_000975	Simorph
+ETC_20150317_000975	Simorfo
 ETC_20150317_000976	Rumor Culprit Bearkaras
-ETC_20150317_000977	Devilglove
+ETC_20150317_000977	Guante Demoníaco
 ETC_20150317_000978	Corpse Cleaner Harpeia
 ETC_20150317_000979	[Ascenso] Stone whale
 ETC_20150317_000980	[Ascenso] Green Woodspirit
@@ -1047,7 +1047,7 @@ ETC_20150317_001046	Red Tree Ambulo
 ETC_20150317_001047	Red Rondo
 ETC_20150317_001048	Red Rubabos
 ETC_20150317_001049	Rusty Old Hook
-ETC_20150317_001050	Carnivore
+ETC_20150317_001050	Carnívoro
 ETC_20150317_001051	Jolly Roger Black
 ETC_20150317_001052	Stonefroster
 ETC_20150317_001053	Addled Krivis
@@ -1094,7 +1094,7 @@ ETC_20150317_001093	Green Merog Poison Stinger
 ETC_20150317_001094	Orange Hamming
 ETC_20150317_001095	Orange Mushcaria
 ETC_20150317_001096	Orange Stone Whale
-ETC_20150317_001097	Orange Lizardman
+ETC_20150317_001097	Orange Hombre Lagarto
 ETC_20150317_001098	Orange Tama
 ETC_20150317_001099	Pink Chupaluka
 ETC_20150317_001100	Pink Chupacabra
@@ -2054,7 +2054,7 @@ ETC_20150317_002053	[En Progreso]
 ETC_20150317_002054	[Incompleta]
 ETC_20150317_002055	[Completa]
 ETC_20150317_002056	Repetible
-ETC_20150317_002057	Recolectar Escencia de Madera
+ETC_20150317_002057	Recolectar Esencia de Madera
 ETC_20150317_002058	Ofreciendo sangre de Maíz de Ojos Negros al altar
 ETC_20150317_002059	¡Completar Tinte Pegajozo!
 ETC_20150317_002060	Ritual Completado
@@ -2094,12 +2094,12 @@ ETC_20150317_002093	No encontraste nada.
 ETC_20150317_002094	La hierba Estrella Primaveral se encuentra por el área.
 ETC_20150317_002095	¡Has encontrado pasto de Luz Primaveral!
 ETC_20150317_002096	Ofreciendo agua al altar
-ETC_20150317_002097	Ofreciendo escencia de madera al altar
+ETC_20150317_002097	Ofreciendo Esencia de madera al altar
 ETC_20150317_002098	Ofreciendo sangre de Maíz de Ojos Negros al altar
 ETC_20150317_002099	Ofrece agua al altar
-ETC_20150317_002100	Ofrece escencia de madera al altar
+ETC_20150317_002100	Ofrece Esencia de madera al altar
 ETC_20150317_002101	Has finalizado el ritual del altar
-ETC_20150317_002102	El balde de escencia de madera se encuentra vacío.
+ETC_20150317_002102	El balde de Esencia de madera se encuentra vacío.
 ETC_20150317_002103	¡Revelador! {nl} ¡Recordaré esto!
 ETC_20150317_002104	Excavando
 ETC_20150317_002105	¡Has obtenido hierbas!
@@ -2281,7 +2281,7 @@ ETC_20150317_002280	Ambulo de Árbol Rojo
 ETC_20150317_002281	Ambulo de Árbol Rojo ha aparecido de las raíz de las cañas.
 ETC_20150317_002282	¡Te has desmayado por el veneno de las raíces!
 ETC_20150317_002283	Has obtenido las células de la piel del monstruo meurto
-ETC_20150317_002284	Preparando la jarra
+ETC_20150317_002284	Preparando la vasija
 ETC_20150317_002285	Recolectando savia
 ETC_20150317_002286	¡Una piedra con patrones se cayó desde una pilar desconocido!
 ETC_20150317_002287	Has obtenido 5u de basura nuevamente.
@@ -2419,14 +2419,14 @@ ETC_20150317_002418	Acerca de cuando se construyó la catedral
 ETC_20150317_002419	Acerca de Naktis
 ETC_20150317_002420	¡Obtuviste alma íntegra!
 ETC_20150317_002421	Son almas trasformadas.
-ETC_20150317_002422	La escencia de las almas está esparcida en el aire cómo polvo.
+ETC_20150317_002422	La Esencia de las almas está esparcida en el aire cómo polvo.
 ETC_20150317_002423	Encender 1
 ETC_20150317_002424	Encender 2
 ETC_20150317_002425	Encender 3
 ETC_20150317_002426	Encender 4
 ETC_20150317_002427	Encender 5
 ETC_20150317_002428	Encender 6
-ETC_20150317_002429	Revisando la Escencia
+ETC_20150317_002429	Revisando la Esencia
 ETC_20150317_002430	Revisando la Escritura
 ETC_20150317_002431	¡Has obtenido Escritua
 ETC_20150317_002432	Es una Biblia muy vieja y sucia.
@@ -2516,7 +2516,7 @@ ETC_20150317_002515	haré una donación
 ETC_20150317_002516	Ví el pedido
 ETC_20150317_002517	Otro jugador se encuentra cosechando.
 ETC_20150317_002518	Usando Pergamino..
-ETC_20150317_002519	Preparando Jarra de Fuego...
+ETC_20150317_002519	Preparando Vasija de Fuego...
 ETC_20150317_002520	Abriendo Caja...
 ETC_20150317_002521	Ya encontraste la Joya de Prominencia
 ETC_20150317_002522	Has encontrado la Joya de Prominencia
@@ -2782,8 +2782,8 @@ ETC_20150317_002781	Resistencia a Elemento Veneno
 ETC_20150317_002782	Resistencia a Elemento Electricidad
 ETC_20150317_002783	Resistencia a Elemento Santo 
 ETC_20150317_002784	Resistencia a Elemento Oscuridad
-ETC_20150317_002785	Ratio de ataque de área
-ETC_20150317_002786	Ratio de defensa de área
+ETC_20150317_002785	Ataque de área
+ETC_20150317_002786	Defensa de área
 ETC_20150317_002787	2% probabilidad de obtener +300 de daño adicional al atacar
 ETC_20150317_002788	3% probabilidad de recibir 20% de daño continuo igual al 20% PS cuando golpeas
 ETC_20150317_002789	4% probabilidad de obtener +100 de resistencia a todo cuando eres golpeado con magia
@@ -3025,7 +3025,7 @@ ETC_20150317_003024	Available only in opened, closed Mina de Cristal
 ETC_20150317_003025	:¡se ha desmayado! Derrota.
 ETC_20150317_003026	Lantern_mushroom: Jibiew Griba: 50 / Lantern_mushroom: Jibiew Griba: 50 / Lantern_mushroom: Jibiew Griba: 50 / Lantern_mushroom_Big: Big Draw Bar: 51
 ETC_20150317_003027	¡Deshaste de los Matsums atacando!
-ETC_20150317_003028	¡Has finalizado de poner la Escencia del Sol!
+ETC_20150317_003028	¡Has finalizado de poner la Esencia del Sol!
 ETC_20150317_003029	Ofreciendo
 ETC_20150317_003030	¡Has hecho una ofrenda!
 ETC_20150317_003031	Esta área ya tiene un escudo.
@@ -3309,7 +3309,7 @@ ETC_20150317_003308	No puedes pasar porque el monstruo se encuentra bloqueando e
 ETC_20150317_003309	¡Regresa!
 ETC_20150317_003310	Trozo de madra con poder nadatorio
 ETC_20150317_003311	u Obtenidas
-ETC_20150317_003312	Obtenida Escencia del Alma
+ETC_20150317_003312	Obtenida Esencia del Alma
 ETC_20150317_003313	¡¿Estas pidiendome morir otra vez?!
 ETC_20150317_003314	¡Es ilógico!
 ETC_20150317_003315	¡Tú, idiota de sangre fría!
@@ -3317,7 +3317,7 @@ ETC_20150317_003316	¡No te diferencias en nada al ímbecil que me mató!
 ETC_20150317_003317	Ya veo... Por favor dale buen uso...
 ETC_20150317_003318	Te he estado esperando...
 ETC_20150317_003319	Persuadiendo
-ETC_20150317_003320	¡El alma se ha vuelto hostíl! {nl} ¡Tendrás que obtener la Escencia del Alma por la fuerza!
+ETC_20150317_003320	¡El alma se ha vuelto hostíl! {nl} ¡Tendrás que obtener la Esencia del Alma por la fuerza!
 ETC_20150317_003321	Has obtenido Larva de Meduja
 ETC_20150317_003322	Obtuviste el paquete perdido
 ETC_20150317_003323	Gracias... Eres tan amable...
@@ -3355,7 +3355,7 @@ ETC_20150317_003354	¡Experimento con el señuelo experimental éxitoso!
 ETC_20150317_003355	Instala el señuelo primero, luego ¡derrota a los monstruos!
 ETC_20150317_003356	Misión Completa. ¡Ve con el oficial de informaciones!
 ETC_20150317_003357	hay un monstruo hostíl en esa ubicación.
-ETC_20150317_003358	Recolectando escencia de mariposa
+ETC_20150317_003358	Recolectando Esencia de mariposa
 ETC_20150317_003359	Por favor... ¡Ayuda!
 ETC_20150317_003360	Yo... ¡No puedo tolerarlo más!
 ETC_20150317_003361	Liberando grilletes
@@ -4007,7 +4007,7 @@ ETC_20150317_004006	¡No hay monstruos cerca a los cuáles ponerles la bomba!
 ETC_20150317_004007	Sólo disponible en Bosque Siauliai Oeste
 ETC_20150317_004008	¡No puede ser úsado mientra diriges!
 ETC_20150317_004009	El trozo de monumento no es suficiente.
-ETC_20150317_004010	El efecto de la jarra mágica se ha debilitado.
+ETC_20150317_004010	El efecto de la vasija mágica se ha debilitado.
 ETC_20150317_004011	El poderoso dispositivo de absorción mágica está cargándose 
 ETC_20150317_004012	Mientras se checaba la misión de {Auto_1}, la información del actor en {Auto_2} no proviene de un PJ.
 ETC_20150317_004013	a PJ
@@ -4019,7 +4019,7 @@ ETC_20150317_004018	The column of quest Succ_QuestName4 should be not None
 ETC_20150317_004019	The column of quest of Succ_QuestName3 should be not None
 ETC_20150317_004020	The column of quest of Succ_QuestName2 should be not None
 ETC_20150317_004021	The column of quest of Succ_QuestName1 should be not None
-ETC_20150317_004022	Quest Succ_QuestName
+ETC_20150317_004022	Misión Succ_QuestName
 ETC_20150317_004023	The column should not be None
 ETC_20150317_004024	The column value of quest of Succ_EqItemName4 should be set up.
 ETC_20150317_004025	The column value of quest of Succ_EqItemName3 should be set up.
@@ -4838,183 +4838,183 @@ ETC_20150317_004837	Incapacita a la Nepente y recolecta Agua Fresca.
 ETC_20150317_004838	Recolectando Esmoladera de Calidad
 ETC_20150317_004839	¡Has Obtenido Madera Síbilante!
 ETC_20150317_004840	No es un árbol sonoro.
-ETC_20150317_004841	Distinguishing
-ETC_20150317_004842	Mother
-ETC_20150317_004843	Obtained a synthetic poison!
-ETC_20150317_004844	Hidden Monsters
-ETC_20150317_004845	The monster has been released
-ETC_20150317_004846	Rubbing
-ETC_20150317_004847	You can use the smoke bombs
-ETC_20150317_004848	Did not take more than five!
-ETC_20150317_004849	Caught more than five!
-ETC_20150317_004850	Monster [
-ETC_20150317_004851	] was provoked!
-ETC_20150317_004852	Successful Phalanx field training!
-ETC_20150317_004853	This information has already been collected
-ETC_20150317_004854	Gathering stone rubbings
-ETC_20150317_004855	Gathered stone rubbings.{nl}Return to the Epigraph Smith!
-ETC_20150317_004856	Defeated all interfering InfroBark{nl}Start the stone rubbings!
-ETC_20150317_004857	You are too far away from the soul jar.{nl}In order to collect more souls, you have to come closer and kill them.
-ETC_20150317_004858	Forest of Thorns
-ETC_20150317_004859	Defeated Devilglove who interfered with the monument. {nl}Please check the contents of the monument.
-ETC_20150317_004860	1 Stat raised from using Zubeck's Secret Moves.
-ETC_20150317_004861	What happened?
-ETC_20150317_004862	What should we do?
-ETC_20150317_004863	Request magic support
-ETC_20150317_004864	You've removed the Demon Summoning Circle!
-ETC_20150317_004865	Hurry up! Activate the barrier!
+ETC_20150317_004841	Distinguiendo
+ETC_20150317_004842	Madre
+ETC_20150317_004843	¡Has obtenido veneno síntetico!
+ETC_20150317_004844	Monstruos Ocultos
+ETC_20150317_004845	El monstruo ha sido liberado
+ETC_20150317_004846	Calcando
+ETC_20150317_004847	Ya puedes usar las bombas de humo
+ETC_20150317_004848	¡No tomes más de 5!
+ETC_20150317_004849	¡Has capturado más de 5!
+ETC_20150317_004850	¡Monstruo [
+ETC_20150317_004851	] fue provocado!
+ETC_20150317_004852	¡Entrenamiento de Falange en campo éxitoso!
+ETC_20150317_004853	Esta información ya ha sido recolectada
+ETC_20150317_004854	Recolectando Calcos de Piedra
+ETC_20150317_004855	Has recolectado Calcos de Piedra.{nl}¡Regresa donde el Epigrafista!
+ETC_20150317_004856	Has derrotado a todos los InfroBark que estaban interrumpiendo{nl}¡Comienza a calcar piedras!
+ETC_20150317_004857	Estás muy lejos del Jarrón de Almas.{nl}Para recolectar más almas, debes acercarte y matarlas.
+ETC_20150317_004858	Bosque de Espinas
+ETC_20150317_004859	Has derrotado al Guante Demoníaco que interrumpía el monumento. {nl}Por favor revisa los contenidos del monumento.
+ETC_20150317_004860	1 Estadistica Aumentada por usar los Movimientos Secretos de Zubeck.
+ETC_20150317_004861	¿Qué ocurre?
+ETC_20150317_004862	¿Qué debemos hacer?
+ETC_20150317_004863	Solicitar soporte mágico
+ETC_20150317_004864	¡Has removido el Círculo de Invocación Demoníaco!
+ETC_20150317_004865	¡De prisa! ¡Activa la barrera!
 ETC_20150317_004866	*huff huff*
-ETC_20150317_004867	Collected Spiritually Enchanted Sap!
-ETC_20150317_004868	This request has already been accepted
-ETC_20150317_004869	You have already finished this daily request
-ETC_20150317_004870	Request accepted
-ETC_20150317_004871	You have exceeded the maximum amount of active requests
-ETC_20150317_004872	You have exceeded the maximum amount of active daily requests
-ETC_20150317_004873	Start request
-ETC_20150317_004874	In order to start request
-ETC_20150317_004875	Please use the item
-ETC_20150317_004876	You do not have enough silver
-ETC_20150317_004877	Insufficient iCoins
-ETC_20150317_004878	This item is not enough
-ETC_20150317_004879	Start the next step
-ETC_20150317_004880	On hold
-ETC_20150317_004881	Default session:
-ETC_20150317_004882	Other sessions:
+ETC_20150317_004867	¡Has recolectado Savia Espiritualmente Cargada!
+ETC_20150317_004868	Está petición ya ha sido aceptada
+ETC_20150317_004869	Ya has finalizado esta petición diaria
+ETC_20150317_004870	Petición Aceptada
+ETC_20150317_004871	Has excedido el número máximo de peticiones activas
+ETC_20150317_004872	Has excedido el número máximo de peticiones diarias activas
+ETC_20150317_004873	Iniciar Petición
+ETC_20150317_004874	Para iniciar petición
+ETC_20150317_004875	Por favor usa el objeto
+ETC_20150317_004876	Plata insuficiente
+ETC_20150317_004877	iCoins insuficientes
+ETC_20150317_004878	Este objeto no es suficiente
+ETC_20150317_004879	Comenzar siguiente paso
+ETC_20150317_004880	Manteniendo
+ETC_20150317_004881	Sesión por Defecto:
+ETC_20150317_004882	Otras sesiones:
 ETC_20150317_004883	Session List by made NPC creation without basic session
-ETC_20150317_004884	Please check the details of quest by pressing the key{nl}{@st50}Detailed information can be found through the help
-ETC_20150317_004885	  allows you to teleport back to the Quest NPC.{nl}{@st50}You may also click on the {img questinfo_return 40 40}  button.{/}
-ETC_20150317_004886	{@st50}Key of the Quest Information{/}
-ETC_20150317_004887	The Shaman Doll destroyed the Panto Totem!
-ETC_20150317_004888	The holy beads have been charged by attacking the Demon forces.
-ETC_20150317_004889	Status Point Distribution
-ETC_20150317_004890	Skill Point Distribution
-ETC_20150317_004891	Move to Klaipeda Entrance
-ETC_20150317_004892	Complete[300]
-ETC_20150317_004893	The Gesti is near.{nl}Try to not get detected!
-ETC_20150317_004894	Acquired a piece of barrier.{nl}Put into the central pillar
-ETC_20150317_004895	HIDE
-ETC_20150317_004896	UNHIDE
-ETC_20150317_004897	Luring Baby Panto
-ETC_20150317_004898	It looks like the Baby Panto remembered{nl}something and started running somewhere!
-ETC_20150317_004899	Please send your commander my regards.
-ETC_20150317_004900	Shaman Doll of Purification
-ETC_20150317_004901	Demon Corrupted Land
-ETC_20150317_004902	The Panto Totem can not be destroyed as it is surrounded by Demon forces.
-ETC_20150317_004903	Defeated Simorph!
-ETC_20150317_004904	The Shaman Doll of Purification defeated Carnivore!
-ETC_20150317_004905	The Shaman Doll of Purification found corrupted land!
-ETC_20150317_004906	Thank you, my old friend.
-ETC_20150317_004907	About the Holy Relic
-ETC_20150317_004908	About the First Paladin
-ETC_20150317_004909	About the next course of action
-ETC_20150317_004910	Quit
-ETC_20150317_004911	Demons Soul has extinguished.
-ETC_20150317_004912	The barrier's power is being recharged since it depleted!
-ETC_20150317_004913	Demon Souls were severed by holy powers.{nl}Defeat the severed souls!
-ETC_20150317_004914	Activating Barrier
-ETC_20150317_004915	Severed Demon's Soul
-ETC_20150317_004916	The barrier powers will be activated{nl}when weakened monsters are nearby.
-ETC_20150317_004917	Obtained a Broken Barrier fragment.
-ETC_20150317_004918	The forests barrier was recharged using the Demon Souls.
-ETC_20150317_004919	The barrier can be recharged by killing Demons nearby.
-ETC_20150317_004920	Finished recharging weakened barrier.
-ETC_20150317_004921	Scribbling
-ETC_20150317_004922	Finished scribbling on summoning circle.
-ETC_20150317_004923	Brainwashed Panto
-ETC_20150317_004924	Red Panto Spearman is cursed and brainwashed! {nl} Defeat it!
-ETC_20150317_004925	Large Panto Spearman was defeated!
-ETC_20150317_004926	Not enough Evil Essence.
-ETC_20150317_004927	Obtained Purified Essence.
-ETC_20150317_004928	Obtained Evil Essence.
-ETC_20150317_004929	Gathered enough Purified Essence.
-ETC_20150317_004930	Attaching
-ETC_20150317_004931	You've attached the Holy Bomb onto Glizardon!
-ETC_20150317_004932	Drank the Holy Water of Romuva.{nl}You will become invisible for a while!
-ETC_20150317_004933	Placed Spirit Stone.{nl}Recharge it by luring demons near it!
-ETC_20150317_004934	Inserting the fragment
-ETC_20150317_004935	Fragments placed.
-ETC_20150317_004936	Already placed fragments.
-ETC_20150317_004937	Not enough fragments!
-ETC_20150317_004938	So, the Revelator has come here to die.
-ETC_20150317_004939	 Defeat{nl}You gained a feeling of confidence.
-ETC_20150317_004940	Gesti is looking for you
-ETC_20150317_004941	I found something interesting
-ETC_20150317_004942	There's a place we need to go to
-ETC_20150317_004943	Hurry or you'll be late
-ETC_20150317_004944	It's nothing
-ETC_20150317_004945	If you do not want to, just tell me
-ETC_20150317_004946	Alright... Let's go
-ETC_20150317_004947	You are a little strange...
-ETC_20150317_004948	 persusaded!{nl}Take it to Apsaw Altar
-ETC_20150317_004949	 is being followed by it
-ETC_20150317_004950	How far do I have to go?
-ETC_20150317_004951	Approach closer to the the altar's orb
-ETC_20150317_004952	Goodbye
-ETC_20150317_004953	Wait a second
-ETC_20150317_004954	Do I have to wait here?
-ETC_20150317_004955	Talk to the monster again{nl}Come closer to the Apsauga Altar
-ETC_20150317_004956	A Corylus found you!{nl}Your identity has been revealed.
-ETC_20150317_004957	Converted into a demon monster!
-ETC_20150317_004958	The power of Globejas is already in effect!
-ETC_20150317_004959	You have transformed!{nl}Lure Pawndel and Pawnd to the Apsauga Altar!
-ETC_20150317_004960	You created the Crude Dowsing Rod
-ETC_20150317_004961	Exploration Site
-ETC_20150317_004962	Searching
-ETC_20150317_004963	You found the Exploration site.
-ETC_20150317_004964	You found the first tombstone fragment!
-ETC_20150317_004965	Collecting the fragment
-ETC_20150317_004966	You obtained Dusty Fragment!
-ETC_20150317_004967	Igniting
-ETC_20150317_004968	 x TreeAmbulo sap obtained!
-ETC_20150317_004969	Attached the sap collector!
-ETC_20150317_004970	Read Ruklys' memorial tombstone.
-ETC_20150317_004971	Console him
-ETC_20150317_004972	You've dispelled the Demon Summoning Circle.{nl}Report back to Follower Kayetonas!
-ETC_20150317_004973	Obtained Long-Branched Tree Charcoal!
-ETC_20150317_004974	Not enough Long-Branched Tree Charcoal.
-ETC_20150317_004975	Obtained the third stone rubbing.
-ETC_20150317_004976	Working
-ETC_20150317_004977	Infroburk has found you!
-ETC_20150317_004978	Crafted a heated arrowhead!
-ETC_20150317_004979	Obtained materials for experiment!
-ETC_20150317_004980	The Lizardman was successfully mind-controlled!
-ETC_20150317_004981	The Infroburk was successfully mind-controlled!
-ETC_20150317_004982	Mind-controlled Infroburk
-ETC_20150317_004983	Mind-controlled Lizardman
-ETC_20150317_004984	Obtained a waterweed
-ETC_20150317_004985	Using the Mind Control Stone
-ETC_20150317_004986	Hey you! And you interested?
-ETC_20150317_004987	Measuring
-ETC_20150317_004988	The response of mineral detector is unusual!
-ETC_20150317_004989	There is no response .
-ETC_20150317_004990	You acquired stolen flint.
-ETC_20150317_004991	Delivering
-ETC_20150317_004992	Delivered the jug with a engraved passcode.
-ETC_20150317_004993	Where did you find such clean water?
-ETC_20150317_004994	I will drink this after work. Thank you!
-ETC_20150317_004995	We helped you. It's no problem...
-ETC_20150317_004996	I've have never seen that jug. Let me take a sip.
-ETC_20150317_004997	Long live Premier Eminent!
-ETC_20150317_004998	The goddess quenched my thirst.
-ETC_20150317_004999	Applying
-ETC_20150317_005000	Applied the Scented Stone Powder!
-ETC_20150317_005001	Scented Stone Powder has already been applied!
-ETC_20150317_005002	Checking records...
-ETC_20150317_005003	Checking memento...
-ETC_20150317_005004	Rubbing stone onto paper...
-ETC_20150317_005005	Crafted the rubbings of petrified book!
-ETC_20150317_005006	Threw anti-petrification potion!
-ETC_20150317_005007	Diagnosing
-ETC_20150317_005008	She already seems unconscious.
-ETC_20150317_005009	Consoled the guards.
-ETC_20150317_005010	Thank you.
-ETC_20150317_005011	I can't see anything.
-ETC_20150317_005012	I can't move!
-ETC_20150317_005013	I want to see my mother.
-ETC_20150317_005014	Why do I have to die?!
-ETC_20150317_005015	Take me, goddess...
-ETC_20150317_005016	Anyone there? Help me!
-ETC_20150317_005017	Using the Liberation Elixir
+ETC_20150317_004884	Por favor revisa los detalles de la misión presionando la tecla{nl}{@st50}Información detallada puede ser encontrada en la Ayuda
+ETC_20150317_004885	  te permite regresar al PNJ de la misión.{nl}{@st50}También puedes pulsar el botón {img questinfo_return 40 40} .{/}
+ETC_20150317_004886	{@st50}Tecla de Info de Misiones{/}
+ETC_20150317_004887	¡La Muñeca Chamán ha destruído el tótem Panto!
+ETC_20150317_004888	Las perlas sagradas han sido cargadas al atacar las fuerzas demoníacas.
+ETC_20150317_004889	Distribución de pts de Estadístisticas
+ETC_20150317_004890	Distribución de pts de Habilidades
+ETC_20150317_004891	Ir a la entrada de Klaipeda
+ETC_20150317_004892	Completa[300]
+ETC_20150317_004893	Gesti está cerca.{nl}¡Intenta no ser detectado!
+ETC_20150317_004894	Has adquirido una pieza de la barrera.{nl}Insertala en el pilar central
+ETC_20150317_004895	ESCONDERSE
+ETC_20150317_004896	APARECER
+ETC_20150317_004897	Tentando Bebé Panto
+ETC_20150317_004898	Parece que el bebé Panto{nl}¡ha recordado algo y comenzó a correr!
+ETC_20150317_004899	Envíale mis saludos a tu comandante.
+ETC_20150317_004900	Muñeca Chamán Purificadora
+ETC_20150317_004901	Tierra Corrompida por Demonios
+ETC_20150317_004902	El Tótem Panto no puede ser destruído porque está rodeado por fuerzas demoníacas.
+ETC_20150317_004903	¡Has derrotado a Simorfo!
+ETC_20150317_004904	¡La Muñeca Chamán Purificadora ha derrotado a Carnívoro!
+ETC_20150317_004905	¡La Muñeca Chamán Purificadora ha encontrado Tierra Corrupta!
+ETC_20150317_004906	Gracias, mi viejo amigo.
+ETC_20150317_004907	Acerca de la Reliquia Santa
+ETC_20150317_004908	Acerca del Primer Paladín
+ETC_20150317_004909	Acerca del Siguiente Curso de Acción
+ETC_20150317_004910	Salir
+ETC_20150317_004911	Las Almas de los Demonios se han extinguido.
+ETC_20150317_004912	¡El poder de la barrera está siendo recargado porque se agotó!
+ETC_20150317_004913	Las almas de los demonios han sido cercenadas por poderes divinos.{nl}¡Derrota las Almas Cercenadas!
+ETC_20150317_004914	Activando Barrera
+ETC_20150317_004915	Alma de Demonio Cercenada
+ETC_20150317_004916	Los poderes de la barrera se activarán{nl}cuando los demonios debilitados se acerquen.
+ETC_20150317_004917	Has obtenido un fragmento de la barrera rota.
+ETC_20150317_004918	Las barreras del bosque han sido reactivadas usando las Almas de Demonios.
+ETC_20150317_004919	La barrera puede ser recargada matando demonios cerca de ella.
+ETC_20150317_004920	Has finalizado de recargar la barrera.
+ETC_20150317_004921	Sobreescribiendo
+ETC_20150317_004922	has finalizado de sobreescribir el círculo de invocación.
+ETC_20150317_004923	Panto con el Cerebro Lavado
+ETC_20150317_004924	¡Panto Lancero Rojo está maldito y con el cerebro lavado! {nl} ¡Derrotalo!
+ETC_20150317_004925	¡Gran Panto Lancero fue derrotado!
+ETC_20150317_004926	No hay suficiente Esencia Maligna.
+ETC_20150317_004927	Has obtenido Esencia Purificada.
+ETC_20150317_004928	Has obtenido Esencia Maligna.
+ETC_20150317_004929	Has recolectado suficiente Esencia Purificada.
+ETC_20150317_004930	Colocando
+ETC_20150317_004931	¡Le has colocado la bomba santa al Glagarton!
+ETC_20150317_004932	Has bebido el Agua Bendita de Romuva.{nl}¡Serás invisible por un momento!
+ETC_20150317_004933	Has puesto la Piedra Espiritual.{nl}¡Recargala atrayendo demonios hacia ella!
+ETC_20150317_004934	Insertando Fragmentos
+ETC_20150317_004935	Fragmentos insertados.
+ETC_20150317_004936	Ya has insertado los fragmentos.
+ETC_20150317_004937	¡Fragmentos Insuficientes!
+ETC_20150317_004938	Así que, el revelador ha venido a morir.
+ETC_20150317_004939	 Derrotada{nl}Has ganado un poco de confianza.
+ETC_20150317_004940	Gesti te está buscando
+ETC_20150317_004941	Encontré algo interesante
+ETC_20150317_004942	Hay un lugar al que debemos ir
+ETC_20150317_004943	Apresuremonos o llegaremos tarde
+ETC_20150317_004944	Es nada
+ETC_20150317_004945	Si no quieres ir, sólo dímelo
+ETC_20150317_004946	Bien... Vamos
+ETC_20150317_004947	Hay algo extraño...
+ETC_20150317_004948	 ¡Ha sido persuadido!{nl}Llevalo al Altar Apsaw
+ETC_20150317_004949	 está siendo seguido.
+ETC_20150317_004950	¿Qué tan lejos debemos ir?
+ETC_20150317_004951	Acercate más al orbe del Altar
+ETC_20150317_004952	Adios
+ETC_20150317_004953	Espera un segundo
+ETC_20150317_004954	¿Debo esperar aquí?
+ETC_20150317_004955	Habla nuevamente con el monstruo{nl}Acercate al Altar Apsauga
+ETC_20150317_004956	¡Un Corylus te ha descubierto!{nl}Tu identidad ha sido revelada.
+ETC_20150317_004957	¡Te has convertido en un Demonio!
+ETC_20150317_004958	¡El poder de Globejas sigue teniendo efecto!
+ETC_20150317_004959	¡Te has transformado!{nl}Atrae Pawndel y Pawnd al Altar Apsauga!
+ETC_20150317_004960	Has creado la Vara Somnolienta Vulgar
+ETC_20150317_004961	Sitio de Exploración
+ETC_20150317_004962	Buscando
+ETC_20150317_004963	Has encontrado el sitio de exploración.
+ETC_20150317_004964	¡Has encontrado el primer fragmento de tumba!
+ETC_20150317_004965	Recolectando fragmento
+ETC_20150317_004966	¡Has obtenido Fragmento Polvoriento!
+ETC_20150317_004967	Incendiando
+ETC_20150317_004968	 x savia de árbol Ambulo ¡Obtenida!
+ETC_20150317_004969	¡Has ubicado el recolector de savia!
+ETC_20150317_004970	Lee el memorial de Ruklys.
+ETC_20150317_004971	Consolar
+ETC_20150317_004972	Has deshecho el circulo de invocación demoníaco.{nl}¡Reportalo al Seguidor Kayetonas!
+ETC_20150317_004973	¡Has obtenido carbón de árbol con ramas largas!
+ETC_20150317_004974	Insuficiente carbón de árbol con ramas largas.
+ETC_20150317_004975	Obtenido el tercer calco de piedra.
+ETC_20150317_004976	Trabajando
+ETC_20150317_004977	¡El Infroburk te ha encontrado!
+ETC_20150317_004978	¡Has creado punta de flecha incandescente!
+ETC_20150317_004979	¡Has obtenido materiales para el experimento!
+ETC_20150317_004980	¡El Hombre Lagarto ha sido controlado mentalmente de forma éxitosa!
+ETC_20150317_004981	¡El Infroburk ha sido controlado mentalmente de forma éxitosa!
+ETC_20150317_004982	Infroburk Mentalmente Controlado
+ETC_20150317_004983	Hombre Lagarto Mentalmente Controlado
+ETC_20150317_004984	Has obtenido Alga
+ETC_20150317_004985	Usando Piedra para Controlar Mentes
+ETC_20150317_004986	¡Oye tú! ¿y te interesa?
+ETC_20150317_004987	Midiendo
+ETC_20150317_004988	¡Respuesta del detector de minerales anormal!
+ETC_20150317_004989	No hay respuesta.
+ETC_20150317_004990	Has adquirido pedernal robado.
+ETC_20150317_004991	Entregando
+ETC_20150317_004992	Has entregado la jarra con la contraseña grabada.
+ETC_20150317_004993	¿Dónde encontraste un agua tan pura y cristalina?
+ETC_20150317_004994	La beberé luego del trabajo. ¡Gracias!
+ETC_20150317_004995	Te ayudamos. No hay problema...
+ETC_20150317_004996	Nunca antes había visto esa jarra. Dejame beber un trago.
+ETC_20150317_004997	¡Larga vida al Premier Eminente!
+ETC_20150317_004998	La Diosa ha apagado mi sed.
+ETC_20150317_004999	Aplicando
+ETC_20150317_005000	¡Aplicado el polvo de piedra aromatica!
+ETC_20150317_005001	¡Polvo de piedra aromatica ya aplicado!
+ETC_20150317_005002	Revisando grabaciones...
+ETC_20150317_005003	Revisando memorias...
+ETC_20150317_005004	Calcando la piedra en el papel...
+ETC_20150317_005005	¡Has creado un calco del libro petrificado!
+ETC_20150317_005006	¡Has lanzado poción anti-petrificación!
+ETC_20150317_005007	Diagnosticando
+ETC_20150317_005008	Al parecer ella está inconsciente.
+ETC_20150317_005009	Consolado a los guardías.
+ETC_20150317_005010	Gracias.
+ETC_20150317_005011	No puedo ver nada.
+ETC_20150317_005012	¡No puedo moverme!
+ETC_20150317_005013	Quiero ver a mi madre.
+ETC_20150317_005014	¡¿Por qué debo morir?!
+ETC_20150317_005015	Llevame, Diosa...
+ETC_20150317_005016	¿Alguien allí? ¡Ayudenme!
+ETC_20150317_005017	Usando el Elixir Liberaor
 ETC_20150317_005018	Making fire
 ETC_20150317_005019	Lit the hearth!
 ETC_20150317_005020	You've obtained the record from the Ruklys Era!
@@ -5129,7 +5129,7 @@ ETC_20150317_005128	Defeat Stone Froster and obtain Nuclear Frost!
 ETC_20150317_005129	What?!
 ETC_20150317_005130	What is that sound?
 ETC_20150317_005131	Defeat Gargoyle!
-ETC_20150317_005132	Defeat Devilglove!
+ETC_20150317_005132	Defeat Guante Demoníaco!
 ETC_20150317_005133	Northern Guards
 ETC_20150317_005134	Pile of Books
 ETC_20150317_005135	1st Transport Magic Circle
@@ -5149,8 +5149,8 @@ ETC_20150317_005148	Defeat Poata!
 ETC_20150317_005149	Poata's Nest
 ETC_20150317_005150	The Baby Pantos are returning to Capria
 ETC_20150317_005151	Capria looks very angry.{nl}Abandon the plan and defeat it!
-ETC_20150317_005152	Destroying the totem made Simorph angry
-ETC_20150317_005153	Defeat Wild Carnivore!
+ETC_20150317_005152	Destroying the totem made Simorfo angry
+ETC_20150317_005153	Defeat Wild Carnívoro!
 ETC_20150317_005154	Defeat Mushcaria and obtain its mane filled with spirits!
 ETC_20150317_005155	Defeat Minotaur{nl}with the help of Follower Kayetonas!
 ETC_20150317_005156	Let's go!
@@ -5227,8 +5227,8 @@ ETC_20150317_005226	Give us peace and salvation...
 ETC_20150317_005227	Please listen to our prayers...
 ETC_20150317_005228	For peace and happiness...
 ETC_20150317_005229	Look over there! The spiders are coming!
-ETC_20150317_005230	Liliya suddenly turned into a Carnivore!
-ETC_20150317_005231	Carnivore Liliya
+ETC_20150317_005230	Liliya suddenly turned into a Carnívoro!
+ETC_20150317_005231	Carnívoro Liliya
 ETC_20150317_005232	Pilgrim Julius turned into a Drapeliun!
 ETC_20150317_005233	Touch the food pile to make Reaverpede appear!
 ETC_20150317_005234	Pile of Rotting Meat
@@ -5670,8 +5670,8 @@ ETC_20150317_005669	Leaked Sap
 ETC_20150317_005670	Getting its sap extracted
 ETC_20150317_005671	Burning
 ETC_20150317_005672	It's burning!
-ETC_20150317_005673	Mind Control (Lizardman)
-ETC_20150317_005674	This Lizardman is being mind controlled.
+ETC_20150317_005673	Mind Control (Hombre Lagarto)
+ETC_20150317_005674	This Hombre Lagarto is being mind controlled.
 ETC_20150317_005675	Mind Control (Infroburk)
 ETC_20150317_005676	This Infroburk is being mind controlled.
 ETC_20150317_005677	Has scented stone powder on it.
@@ -10682,7 +10682,7 @@ ETC_20150406_010683	Outer World Vubbe Fighter
 ETC_20150406_010684	Outer World Rodelin
 ETC_20150406_010685	Outer World Cronewt
 ETC_20150406_010686	Outer World Large Panto Spearman
-ETC_20150406_010687	Outer World Glizardon
+ETC_20150406_010687	Outer World Glagarton
 ETC_20150406_010688	Outer World Moya
 ETC_20150406_010689	Outer World White Operor
 ETC_20150406_010690	Outer World Loftlem
@@ -11645,7 +11645,7 @@ ETC_20150714_011646	Socket Mage
 ETC_20150714_011647	Socket Archer
 ETC_20150714_011648	Coliflower Mage
 ETC_20150714_011649	Coliflower Archer
-ETC_20150714_011650	Lizardman Magician
+ETC_20150714_011650	Hombre Lagarto Magician
 ETC_20150714_011651	Saltisdaughter Magician
 ETC_20150714_011652	Saltisdaughter Archer
 ETC_20150714_011653	Goblin Wizard
@@ -12742,7 +12742,7 @@ ETC_20150714_012743	More than 3 of them were caught!
 ETC_20150714_012744	You've collected the rubber copies.{nl}Go back to the Epigraphist Smid!
 ETC_20150714_012745	You defeated all the Infroburks that were interfering!{nl}Start the process of making rubbings!
 ETC_20150714_012746	You are too far away from the spiritual pots{nl}To collect the spirits, defeat them from more near distance
-ETC_20150714_012747	You defeated Devilglove that kept you from checking the Commanding Monument{nl}Check what's written on the Commanding Monument
+ETC_20150714_012747	You defeated Guante Demoníaco that kept you from checking the Commanding Monument{nl}Check what's written on the Commanding Monument
 ETC_20150714_012748	Using Zubeck's Secret Moves has given you a Status Point!
 ETC_20150714_012749	You've charged Holy Bead by attacking the demons
 ETC_20150714_012750	Gesti is nearby{nl}Be careful not to get caught!
@@ -16624,7 +16624,7 @@ ETC_20151102_016625	Puragi Gem
 ETC_20151102_016626	Vubbe Fighter Gem
 ETC_20151102_016627	Mallardu Gem
 ETC_20151102_016628	Brown Rodelin Gem
-ETC_20151102_016629	Glizardon Gem
+ETC_20151102_016629	Glagarton Gem
 ETC_20151102_016630	Lauzinutena Gem
 ETC_20151102_016631	Loftlem Gem
 ETC_20151102_016632	Deadborn Scap Gem
@@ -16854,7 +16854,7 @@ ETC_20151102_016855	Honeybean Gem
 ETC_20151102_016856	Wendigo Shaman Gem
 ETC_20151102_016857	Tontulia Gem
 ETC_20151102_016858	Ashrong Gem
-ETC_20151102_016859	Lizardman Gem
+ETC_20151102_016859	Hombre Lagarto Gem
 ETC_20151102_016860	Shaman Doll Gem
 ETC_20151102_016861	Confined Long-Branched Tree Gem
 ETC_20151102_016862	Spasti Shelter
@@ -17615,7 +17615,7 @@ ETC_20151224_017616	They consume either small animals or insects. Nevertheless, 
 ETC_20151224_017617	Although they are small, they are already hosts. Of course, they will keep growing.
 ETC_20151224_017618	It is uncertain which roles Belegg is responsible for and whether they are just moving magical creatures.
 ETC_20151224_017619	Gesti is the Demon Queen among the other two Demon Kings who are all under Giltine's control, she is the only female. Under Gesti's control, many Demon Lords are following her instructions to attack humans.
-ETC_20151224_017620	Simorph was reported as the first case that obtained the status of a demon as a monster due to its cooperation. Some masters don't want this to be the example of future unpleasant outcomes.
+ETC_20151224_017620	Simorfo was reported as the first case that obtained the status of a demon as a monster due to its cooperation. Some masters don't want this to be the example of future unpleasant outcomes.
 ETC_20151224_017621	It is certain that Siaulamb is a species that existed before Medzio Diena. However, it is strange that it wasn't discovered by humans within the thousand years of the kingdom history. And when the strange things occurred, they too apppeared under that influence and unfortunately they are against the humans.
 ETC_20151224_017622	It is certain that they existed before Medzio Diena. However, it is strange that they were never discovered by humans in the 1,000 years of the kingdom's history. And when strange things occured in the world after Medzio Diena, they appeared as a result of the influences and unfortunately they are against the humans.
 ETC_20151224_017623	Since the Pantos turned their backs on humans, the species that were never seen before appeared. Maybe... the demons are the culprit.
@@ -20264,7 +20264,7 @@ ETC_20160224_020264	Baron Allerno deployed all of his soldiers to experiments, h
 ETC_20160224_020265	The Sequoia was created to protect the Owl Sculptures, but recently it became uncontrollable and corrupted by evil energy. If the Owl Sculptures are destroyed, not a single soul will be able to return to the goddess. Defeat the Sequoia and protect the Owl Sculptures.
 ETC_20160224_020266	The Salamander is becoming stronger with the power of Demon Lord Marnox's cursed idol. Defeat the Salamander before it becomes too powerful.
 ETC_20160224_020267	A powerful monster named Iltiswort has appeared in Dadan Forest due to the aftermath of the demons' plan involving the Kruvina. Defeat the Iltiswort for the safety of the herbalists and the people of the Croa Village.
-ETC_20160224_020268	A powerful monster named Devilglove is keeping people from chasing away the demons in the Novaha Monastery. Defeat the Deviglove to restore peace in the monastery.
+ETC_20160224_020268	A powerful monster named Guante Demoníaco is keeping people from chasing away the demons in the Novaha Monastery. Defeat the Deviglove to restore peace in the monastery.
 ETC_20160224_020269	The Colimencia in the Absenta Reservoir is drinking the red water and becoming more powerful. Defeat it before it's too late.
 ETC_20160224_020270	With all its residents missing, the Delmore Castle was invaded by a Denóptico. Defeat it and help Mage Melchioras destroy the remnants of the Kruvina experiment in Delmore Castle.
 ETC_20160224_020271	There are rumors of a Mothstem appearing among the pilgrims passing by the Galeed Plateau. Keep the pilgrims safe by defeating the Mothstem.
@@ -20939,7 +20939,7 @@ ETC_20160310_020938	Now, nobody can stop me!
 ETC_20160310_020939	Attack that person!
 ETC_20160310_020940	Oh dear! Did Sarma's experiment actually succeed?
 ETC_20160310_020941	Lucienne seems to be in trouble!
-ETC_20160310_020942	Carnivore seems to be suffering from the Vaidotas' Neutralizer you've sprayed.{nl}Defeat Carnivore and save Lucienne!
+ETC_20160310_020942	Carnívoro seems to be suffering from the Vaidotas' Neutralizer you've sprayed.{nl}Defeat Carnívoro and save Lucienne!
 ETC_20160310_020943	Someone seems to be in danger!
 ETC_20160310_020944	Drive the monster away{nl}and save the person in danger!
 ETC_20160310_020945	¡Ayuda!
@@ -21024,7 +21024,7 @@ ETC_20160310_021023	Coral Reef
 ETC_20160310_021024	Blue Coral
 ETC_20160310_021025	Coral Wagon
 ETC_20160310_021026	Red Coral
-ETC_20160310_021027	Fallen Carnivore
+ETC_20160310_021027	Fallen Carnívoro
 ETC_20160310_021028	Fedimian Storage Keeper
 ETC_20160310_021029	Lump of Vines
 ETC_20160310_021030	Crumbling Vines
@@ -21067,8 +21067,8 @@ ETC_20160310_021066	Protect the Villagers
 ETC_20160310_021067	Search the Annex Laboratory
 ETC_20160310_021068	Search for surviving Monks
 ETC_20160310_021069	PS Recovery {img green_up_arrow 16 16} 190
-ETC_20160310_021070	Buyable
-ETC_20160310_021071	{ol}{@st45w3}{s18}Increased by {Auto_1} {Auto_2}
+ETC_20160310_021070	Comprable
+ETC_20160310_021071	{ol}{@st45w3}{s18}Aumentado en {Auto_1} {Auto_2}
 ETC_20160310_021072	Letas' Sacred Tree is nowhere to be seen {nl}Monsters reacting to the forest's energy start to attack!
 ETC_20160310_021073	There is a call for help from Gatre on the instruction manual!{nl}Return to Gatre after tidying up the chest
 ETC_20160310_021074	Tidying Research Equipment
@@ -21737,3 +21737,4 @@ ETC_20160415_021736	Los mensajes de chat no pueden exceder los {Max} bites. El u
 ETC_20150317_001460	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons está restringido pues puede consumir una gran cantidad de bites.
 ETC_20160415_021737	Esta función estará disponible en {Time}.
 ETC_20160415_021738	Este usuario no puede realizar intercambios en este momento.
+
