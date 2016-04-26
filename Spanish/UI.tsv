@@ -2049,7 +2049,7 @@ UI_20151224_002048	{@st42}%s Benefits{/}
 UI_20151224_002049	Benefits
 UI_20160224_002050	Team Storage
 UI_20160224_002051	{@st59}Close{/}
-UI_20160224_002052	You can store tradable items but at the cost of 1 Potential.{nl}Withdrawing from Team Storage will deduct your remaining{nl}trades by 1 regardless of the number of items you take out.
+UI_20160224_002052	You can store only tradable items, but at the cost of 1 Potential.{nl}Withdrawing from Team Storage will deduct your remaining{nl}trades by 1 regardless of the number of items you take out.
 UI_20160224_002053	Retrieve Item
 UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Name (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
 UI_20160224_002055	{@59}Close{/}
@@ -2174,3 +2174,13 @@ UI_20160323_002173	[Server] Guild Name
 UI_20160323_002174	Record / Score
 UI_20160323_002175	[Created: %s ago]
 UI_20160411_002176	{@st66b}Use Camera Vibration{/}
+UI_20160425_002177	{@st42}If both sides are using Tokens,{nl}the trade properties of weapon items{nl}will not be changed.{/}
+UI_20160425_002178	{@st66b} Apply Background Effect
+UI_20160425_002179	{@st66b} Apply Dead Parts
+UI_20160425_002180	{@st66b} Apply Character Silhouettes
+UI_20160426_002181	{/}Do you want to delete your {b}{s20}Companion{/}{s43}{@st43}%s{/}{/}{b}{s20}?{/}
+UI_20160426_002182	{/}{b}{s20}It cannot be recovered after being deleted.{/}
+UI_20160426_002183	{/}{b}{s20}Companion{/}{s43}{@st43}%s{/}
+UI_20160426_002184	{/}Deleting in {b}{s20}%s seconds.{/}
+UI_20160426_002185	{s18}{ol}{#ffffcc}No{/}
+UI_20160426_002186	{s18}{ol}{#ffffcc}Cancel{/}

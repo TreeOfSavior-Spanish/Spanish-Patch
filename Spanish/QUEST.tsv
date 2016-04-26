@@ -18,7 +18,7 @@ QUEST_20150317_000017	The demons have started the first of the cataclysms, and t
 QUEST_20150317_000018	Instead, I wandered through far-seeing dreams for an answer. {nl}You were at the end of them... a Savior.
 QUEST_20150317_000019	Unfortunately, the demons could not stay still, knowing that I possess strength in clairvoyance. {nl}I was forced to hide until the time of your appearance.
 QUEST_20150317_000020	I decided to divide my being and remain within many revelations. {nl} Revelations that I continued to create secretly over a millennium.
-QUEST_20150317_000021	Savior, if you can help me regain my form, we can stop the demons' sinister plans.{nl}You must recover the revelations that I have hidden throughout every axes of time.
+QUEST_20150317_000021	Savior, if you can help me regain my form, we can stop the demons' sinister plans.{nl}You must recover the revelations that I have hidden throughout every axis of time.
 QUEST_20150317_000022	This divine task may be a heavy burden, but it is something you must bear. {nl}Perhaps in the muddy midst of your trials and tribulations, something may come about.
 QUEST_20150317_000023	Nevertheless, only we can save this world.
 QUEST_20150317_000024	I have passed the next revelation to the first Paladin. {nl}He will be waiting for you at the highest flower garden.
@@ -151,7 +151,7 @@ QUEST_20150317_000150	Corsair Master
 QUEST_20150317_000151	I won't help anyone in trouble if there isn't anything in it for me.
 QUEST_20150317_000152	Boulder
 QUEST_20150317_000153	A large boulder is blocking the way.
-QUEST_20150317_000154	It needs to be repaired.
+QUEST_20150317_000154	(This needs to be repaired.)
 QUEST_20150317_000155	A boulder blocks the way.
 QUEST_20150317_000156	Magical Research Material
 QUEST_20150317_000157	It appears to be someone's research notes from Mage Tower. {nl}Should it be copied?
@@ -1284,7 +1284,7 @@ QUEST_20150317_001284	Destroyer of the Main Purifier
 QUEST_20150317_001285	Secret of the Tree Bark
 QUEST_20150317_001286	Wing Fragment
 QUEST_20150317_001287	Seal of the Royal Family
-QUEST_20150317_001288	Soldier Recruitment
+QUEST_20150317_001288	Recruiting Mercenaries
 QUEST_20150317_001289	Unfinished Commission
 QUEST_20150317_001290	Information about Saugas
 QUEST_20150317_001291	Investigate the Miners' Village
@@ -1956,7 +1956,7 @@ QUEST_20150428_001959	The minister said, {nl}'We already heard the words of His 
 QUEST_20150428_001960	Warning Sign for Unauthorized Entrants
 QUEST_20150428_001961	To protect the sacred secret of King Zachariel, no one may enter this facility.
 QUEST_20150428_001962	Anyone entering here unauthorized will be punished for their sin.
-QUEST_20150428_001963	The Order to Move Out
+QUEST_20150428_001963	Eviction Order
 QUEST_20150428_001964	This facility will soon be shut down. {nl}I ask all construction workers and related people of the Royal Mausoleum to move out.
 QUEST_20150428_001965	Baron Soldier Chagos' Diary
 QUEST_20150428_001966	The magician, who appeared from somewhere, told the ignorant baron that the object is located here.
@@ -1979,9 +1979,9 @@ QUEST_20150428_001982	Dina Bee Farm is in danger of monster attacks. {nl}They ca
 QUEST_20150511_001983	It's better to use the cable car than to fight through the monsters.
 QUEST_20150511_001984	Just don't believe everything he says. {nl}He was known for being quite the show-off back at home.
 QUEST_20150511_001985	It would be nice if all these Revelators being here meant that the goddesses are back.
-QUEST_20150511_001986	Strength is the most important stat for swordsmen. {nl}You could also train yourself to be agile and possess strong stamina. {nl}You should take a moment to decide on what to prioritize from now on.
+QUEST_20150511_001986	Strength is the most important stat for swordsmen. {nl}You could also train yourself to be agile and possess strong Stamina. {nl}You should take a moment to decide on what to prioritize from now on.
 QUEST_20150511_001987	Strength is the most important stat for archers. {nl}But, of course you can't ignore agile movement. {nl}You should take a moment to decide on what to prioritize from now on.
-QUEST_20150511_001988	Intelligence is the most important stat for clerics. {nl}But sometimes you may need more strength or a stronger spirit. {nl}You should take a moment to decide what to prioritize from now on.
+QUEST_20150511_001988	Intelligence is the most important stat for clerics. {nl}But sometimes you may need more stronger Strength or Spirit. {nl}You should take a moment to decide what to prioritize from now on.
 QUEST_20150511_001989	Helping reconstruct Fedimian may be more meaningful than pottery. {nl}But people need something to soothe their hearts.
 QUEST_20150511_001990	If I had the journal, I could continue my adventure, but I wasn't chosen... {nl}But for you things might be different...
 QUEST_20150511_001991	If you cleverly use the dry air that forms around areas of severe cold, you'd be able to freeze any object even in a desert. {nl}However, if you can't receive the blessing from the goddess, it won't be possible to make that kind of air.
@@ -1997,7 +1997,7 @@ QUEST_20150511_002000	We never know when they'll release spores. If we don't sto
 QUEST_20150511_002001	The training officer completed the training at the camp in the Woods of the Linked Bridges, in accordance with the order to prepare for future disasters. {nl}I hereby grant this certificate. 
 QUEST_20150511_002002	The Mausoleum of Zachariel has never allowed anyone entry. {nl}If the object was not for the world to know of, then we could've hidden it so that none could find it, but instead we just built a giant tomb to protect it.{nl}Is this the great king's conceit or does it hold a different meaning?
 QUEST_20150511_002003	For the first step: recharge the magical essence I gave to you. Look for where magic is condensed at Pavydo Mixed Forest. {nl}You won't be able to use the magical essence right away, however, since it has also absorbed some malign energy. {nl}For that, you'll need to collect Operor saliva and purify it at the altar of purification at the Wasteland of Renistu.
-QUEST_20150511_002004	Name: High Raven{nl}Sex: Male{nl}Occupation: Merchant{nl}List of items: luxurious goods, weapons {nl}{nl}In accordance with kingdom laws, you may enter.
+QUEST_20150511_002004	Name: Hayraven{nl}Sex: Male{nl}Occupation: Merchant{nl}List of items: luxurious goods, weapons {nl}{nl}In accordance with kingdom laws, you may enter.
 QUEST_20150511_002005	If you're seeing this you either didn't pay me in full or did something I told you not to do. {nl}I have cursed this letter. {nl}I've no idea what's gonna happen to you from now on, but know that my curse is absolute.
 QUEST_20150511_002006	The one who fell while researching. {nl}Return to the goddess by becoming a part of the canyon. {nl}The saddened mind breaks the gold stones of the canyon and the poured alcohol soaks into the ground on behalf of the tears.
 QUEST_20150511_002007	Eventually, Ruklys had failed. {nl}He was destroyed and broken by those who were jealous of him. {nl}He left the goddess in my hands. {nl}
@@ -2005,7 +2005,7 @@ QUEST_20150511_002008	Every object possess the inner strength of its possessor. 
 QUEST_20150511_002009	But that's still just a theory despite the efforts of many frontiers. {nl}The possessor's inner strength and interpretations can never be fully understood if it were not for the possessor himself. {nl}That's why we hope for the blessing from the goddess or the wisdom from the possessor for the knowledge we lack.
 QUEST_20150511_002010	I shall name you Revelator, my representative sent out to seek help from others. {nl}We can't be deceived any more. {nl}We have to protest against the violence behind the mask that claims to protect us.
 QUEST_20150511_002011	We believe your help is the main factor to our success so that our efforts will not have been in vain.
-QUEST_20150511_002012	We've finally arrived in front of the Zachariel's Mausoleum. {nl}He was the first king of this kingdom and used an enormous number of people to build it. {nl}I believe only this place can answer the question I've had in my mind for a long time.
+QUEST_20150511_002012	We've finally arrived in front of the Zachariel's Royal Mausoleum. {nl}He was the first king of this kingdom and used an enormous number of people to build it. {nl}I believe only this place can answer the question I've had in my mind for a long time.
 QUEST_20150511_002013	What was he trying to protect with this gigantic Royal Mausoleum? {nl}The answer must be inside, but the bleak atmosphere the interior exudes makes me hesitate to enter.
 QUEST_20150511_002014	There's something inside the dark tomb.{nl}As I advanced inside, the large stone statues all turned to look down at me and then chased me out. {nl}I guess the great king in the past is still the great king in the present. {nl}I better investigate from the pillar outside of the Royal Mausoleum.
 QUEST_20150511_002015	With the help from a young, kind historian, I was able to find a big clue. {nl}Yes. The best place to hide a tree is in a forest. {nl}Ruko Plateau and the King's Plateau... I'm so close I can almost touch it. {nl}I'm confident the goddess sent him to me. May the blessing of the goddess always be with us!
@@ -2293,7 +2293,7 @@ QUEST_20150729_002300	Many tried to reveal the identity of the Statue by challen
 QUEST_20150729_002301	I thank you again in the name of all fate. {nl}From here on, I will follow the stars to find Goddess Ausrine.{nl}
 QUEST_20150729_002302	About the Goddess Statue
 QUEST_20150729_002303	You can move to your desired location with the blessings of Goddess Ausrine. 
-QUEST_20150729_002304	Order's Holy Relic
+QUEST_20150729_002304	Holy Relic of the Order
 QUEST_20150729_002305	When greed and pride of men reaches its end, a Divine Tree will emerge from the ground to punish the greedy.
 QUEST_20150729_002306	Coffin destroyed
 QUEST_20150729_002307	Coffin has been destroyed!
@@ -2390,7 +2390,7 @@ QUEST_20150803_002397	Monocle detected the special power. It's that way.
 QUEST_20150803_002398	There is a manager that manages the Fortress of the Land and you need a verification ticket in order to go to the next region.
 QUEST_20150803_002399	Leave me a note so I can also make a verification ticket.
 QUEST_20150803_002400	When the greed and arrogance of people reach the end,{nl}the sacred tree that sleeps underground will awaken.{nl}It will punish the arrogant and take away everything they've achieved.
-QUEST_20150804_002401	Nothing is written on it.
+QUEST_20150804_002401	(Nothing is written on it.)
 QUEST_20150908_002402	Obtained the wood
 QUEST_20150918_002403	There are no missions for today.
 QUEST_20150918_002404	There are only missions that seem difficult to you.{nl}Please come again another time.
@@ -2552,7 +2552,7 @@ QUEST_20151001_002559	Unfortunately, we don't have any goods to sell at the mome
 QUEST_20151001_002560	Be careful on your way back.
 QUEST_20151001_002561	I'll never forgive the monsters that killed my family. {nl}Though my body returns to the ground, my soul still burns with anger. {nl}Oh, goddess. Only the cold blood of the monsters can cool my rage.
 QUEST_20151001_002562	King Kadumel finally dies.
-QUEST_20151001_002563	The balance of power between the demons and the goddesses, while fragile, has been stable for a long time{nl}So long as they didn't cross each other's territories.{nl}
+QUEST_20151001_002563	The balance of power between the demons and the goddesses, while fragile, has been stable for a long time.{nl}So long as they didn't cross each other's territories.{nl}
 QUEST_20151001_002564	But, the demons broke through first.{nl}With the Petrifying Frost... even the spirits became stones.
 QUEST_20151001_002565	As the demons started casting their petrification curse on this region, the goddesses tried to save the humans.{nl}However, the demons advised the goddesses that doing so would violate the rules that they mutually agreed to...
 QUEST_20151001_002566	Excuse me for a bit. It is a horrible memory...{nl}They brought the catastrophe. {nl}A strong catastrophe which made goddesses to give up rescuing this place.
@@ -2667,7 +2667,7 @@ QUEST_20151001_002674	The ones who came to this place before Utara came here are
 QUEST_20151001_002675	This land is blessed by Goddess Zemyna, so they thought they should make a will of the goddess.{nl}How can I stop it.
 QUEST_20151001_002676	Fake Box
 QUEST_20151001_002677	It doesn't seem to be this box.
-QUEST_20151001_002678	It is not enough to destroy the holy relics of the church order, you did release Karail..{nl}
+QUEST_20151001_002678	It's not enough to destroy the Holy Relic of the Order, but you did release Carlyle...{nl}
 QUEST_20151001_002679	You will pay with your life!
 QUEST_20151001_002680	Truth Token
 QUEST_20151001_002681	The divine energy subsided when the Truth Token was lit.
@@ -2820,7 +2820,7 @@ QUEST_20151022_002827	Requirement to create scripture is faith's
 QUEST_20151022_002828	There are some who doubt the use of trying when the goddesses have disappeared.{nl}However, we believe that the goddesses will return one day and save us!{nl}
 QUEST_20151022_002829	Is it wrong to pray so that the day will come sooner?{nl}
 QUEST_20151022_002830	These tombstones were built with our devotion from our praying hearts.{nl}Until some strange person came and destroyed the tombstones, it was used for all our rites!
-QUEST_20151022_002831	It's suppose to release crimson energy, it's not a corruption!{nl}We were gathering holy energy to offer to the goddesses!{nl}
+QUEST_20151022_002831	It's supposed to release crimson energy, it's not a corruption!{nl}We were gathering holy energy to offer to the goddesses!{nl}
 QUEST_20151022_002832	Since you carry such malice, monsters must be attracted to you!{nl}That's it! It was created that way!{nl}
 QUEST_20151022_002833	Working under someone who neither understand or can hear!{nl}Did the person who destroyed our tombstones saw it as a corruption?
 QUEST_20151022_002834	Do you finally understand?{nl}What your utter stupidity has caused?{nl}
@@ -2993,7 +2993,7 @@ QUEST_20151102_003000	Do you hate... me?
 QUEST_20151102_003001	Please wait a moment.{nl}Soon... That person will awake.
 QUEST_20151102_003002	The pain and sorrow... Despair...{nl}All those will subside within that person.
 QUEST_20151102_003003	Please help me...{nl}Revelator, please... Please stop Giltine.
-QUEST_20151102_003004	A voice calling out for me can be heard.
+QUEST_20151102_003004	(A voice calling out for me can be heard.)
 QUEST_20151102_003005	A method to purify the earth...{nl}I believe that the clerics might know more about this topic.
 QUEST_20151102_003006	I know a method to purify the demons.{nl}
 QUEST_20151102_003007	You need to hold your breath, so that no one will sense you.{nl}Then, quietly get closer to the lights...{nl}
@@ -3247,12 +3247,12 @@ QUEST_20151224_003254	How did it go? Was the cauldron destroyed?
 QUEST_20151224_003255	So the protective magic circle around the cauldron has been lifted, right? {nl}You should go now and destroy the cauldron before the demons {nl}find out about the missing magic circle.
 QUEST_20151224_003256	Just wait for a while... I'm going to focus.
 QUEST_20151224_003257	The Great Pirate and Hirevan Vol. 2
-QUEST_20151224_003258	The Great Pirate Vladslovas.{nl}With every step, his footprints would slosh with the blood of his defeated enemies.{nl}He made demons bow their head and step back.{nl}No being was more vicious or brutal than him.{nl}
+QUEST_20151224_003258	The Great Pirate Vladslovas.{nl}With every step, his footprints would slosh with the blood of his defeated enemies.{nl}He made demons bow their heads and step back.{nl}No being was more vicious or brutal than him.{nl}
 QUEST_20151224_003259	In front of the ruthless Vladslovas,{nl}stood a much younger Hirevan.{nl}From the splashing waves, to the rocking boats...{nl}
-QUEST_20151224_003260	Even the seagulls soaring up high had quieted down to watch them.{nl}There was no prize for the winner of this battle.{nl}It was simply a question of maintaining or being robbed of the title of Great Pirate.{nl}
+QUEST_20151224_003260	Even the seagulls soaring up high had quieten down to watch them.{nl}There was no prize for the winner of this battle.{nl}It was simply a question of maintaining or being robbed of the title of Great Pirate.{nl}
 QUEST_20151224_003261	Hirevan drew his cutlass first,{nl}and began to attack Vladslovas in swift moves,{nl}aiming once for the chest, twice for each side of the torso.{nl}
 QUEST_20151224_003262	But his attacks were too obvious to Vladslovas.{nl}So, upon getting a hold of Hirevan's cutlass,{nl}he kicked him in the pit of his stomach, knocking him over.{nl}
-QUEST_20151224_003263	Then, as if teaching the younger pirate a lesson,{nl}he violently hit Hirevan with the grip of his sword.{nl}Hirevan barely managed to escape and got back on his feet.{nl}But he was already injured and Vladslovas looked set up for victory.
+QUEST_20151224_003263	Then, as if teaching the younger pirate a lesson,{nl}he violently hit Hirevan with the grip of his sword.{nl}Hirevan barely managed to escape and got back on his feet.{nl}But he was already injured and Vladslovas looked set for victory.
 QUEST_20151224_003264	My brother said that the problems started when the light started to shine after the demons went inside the Apega Protocol Room.
 QUEST_20151224_003265	I'll be with my brother.
 QUEST_20151224_003266	Here it is!{nl}The mucus of a Hummingbird.
@@ -3278,7 +3278,7 @@ QUEST_20151224_003285	(Rose will be in danger if she's all alone. Let's look for
 QUEST_20151224_003286	(This seems to be the demons' laboratory. Time to defeat some demons around here.)
 QUEST_20151224_003287	The number of seconds is important too, but for this secret {nl}you need to remember the sequence as well.{nl}It's similar to the first secret.{nl}
 QUEST_20151224_003288	I'm really glad to hear Grazina is safe.{nl}But if you came to tell me that, it sounds like Grazina herself isn't so sure.{nl}
-QUEST_20151224_003289	Please find Alina.{nl}When we split up she went downwards, maybe she could be somwehere in that direction.
+QUEST_20151224_003289	Please find Alina.{nl}When we split up she went downwards, maybe she could be somewhere in that direction.
 QUEST_20151224_003290	Pilgrim Agatas' Journal
 QUEST_20151224_003291	I could not help but be surprised when I discovered the Soul Fragments were those of Hauberk.{nl}Hauberk, the Demon Lord of Brutality who is notorious for cruelty...{nl}
 QUEST_20151224_003292	The same Hauberk who, {nl}slaughtered so many people and made a gruesome sight of the Kupoles of Goddess Vakarine who were following them.{nl}The Soul Fragment of that Hauberk is in my hands...{nl}
@@ -3345,7 +3345,7 @@ QUEST_20151224_003352	Paladins are fearless because we believe the goddesses wil
 QUEST_20151224_003353	Now it's time to test out the techniques you've learned so far.{nl}Go and defeat the monsters in Apsimesti Crossroads.
 QUEST_20151224_003354	They say everything works out if you just devote yourself, right?{nl}Orsha and Fedimian are a bit far away but... please think of it as devotion.
 QUEST_20151224_003355	Ardel's Diary, Page 1
-QUEST_20151224_003356	Date: XX/XX. A clear sky.{nl}-{nl}Things at the Delmore Castle are busy as always.{nl}The walls destroyed during Medzio Diena are being rebuilt and everyone is returning to their normal lives.{nl}I hope nothing like Medzio Diena happens ever again.{nl}Thanks to Lord Delmore I think the castle will be safe now.
+QUEST_20151224_003356	Date: XX/XX. A clear sky.{nl}-{nl}Things at Delmore Castle are busy as always.{nl}The walls destroyed during Medzio Diena are being rebuilt and everyone is returning to their normal lives.{nl}I hope nothing like Medzio Diena happens ever again.{nl}Thanks to Lord Delmore I think the castle will be safe now.
 QUEST_20151224_003357	Ardel's Diary, Page 2
 QUEST_20151224_003358	Date: XX/XX. Cloudy.{nl}-{nl}They've been raising pillars in some places inside the fortress.{nl}Lord Delmore said that Orsha was occupied by monsters and demons and so he is raising them to prevent that.{nl}As expected of a truly talented alchemist...{nl}The people of Delmore Hamlet are joining in too.
 QUEST_20151224_003359	Ardel's Diary, Page 3
@@ -3359,7 +3359,7 @@ QUEST_20151224_003366	Wait a second!{nl}This can only mean Delmore Rephaim chang
 QUEST_20151224_003367	Could it be?{nl}So you too were a pawn of that Lord Delmore...{nl}
 QUEST_20151224_003368	What you know is useless and now I'm not even sure I believe you.{nl}We need to find a way to stop this ourselves.
 QUEST_20151224_003369	Yane. Wait.{nl}Wouldn't it be better to help Melchioras first and then find a new way to solve this?
-QUEST_20151224_003370	Mihail will help Melchioras then.{nl}As far as I can tell it's time for us to act separately.
+QUEST_20151224_003370	You will help Melchioras then.{nl}As far as I can tell it's time for us to act separately.
 QUEST_20151224_003371	Alright everybody, let's go.{nl}We need to find a way to destroy the Kruvina device together.
 QUEST_20151224_003372	I was so oblivious.{nl}To think that Delmore Rephaim had anything to do with it...
 QUEST_20151224_003373	I know what Yane is like.{nl}In a situation like this she's definitely going to try and destroy the device by force.{nl}
@@ -3380,7 +3380,7 @@ QUEST_20151224_003387	I'll take down the magic of the device even if I have to g
 QUEST_20151224_003388	Ah... are you Melchioras, the traitor?{nl}I have to thank you.{nl}
 QUEST_20151224_003389	You and Revelator Yane there as well...{nl}You have no idea how fun it was to watch you from above...
 QUEST_20151224_003390	What are you doing, Melchioras!!{nl}Go hide in a corner somewhere like the coward you are!!{nl}
-QUEST_20151224_003391	Alright... Let's see just how bravely you can destroy it.{nl}I'll give you a taste of how Kruvina is really used!
+QUEST_20151224_003391	Alright... Let's see just how bravely you can destroy it.{nl}I'll give you a taste of how the Kruvina is really used!
 QUEST_20151224_003392	Is everyone alright?
 QUEST_20151224_003393	What have I done...{nl}It was all my fault... I was so careless...
 QUEST_20151224_003394	Melchioras is in danger.{nl}I'll save him!
@@ -3443,7 +3443,7 @@ QUEST_20151224_003450	King Kadumel's Prison
 QUEST_20151224_003451	The Ashaq Underground Prison is the only remaining prison out of several built in the south part of King Kadumel's kingdom.{nl}Despite its connection to Ruklys Civil War and King Kadumel's tyranny, the building remains to this day as it was maintained through the years for various purposes other than a prison.{nl}
 QUEST_20151224_003452	Curiously, despite this, the building's structure and interior have maintained the same atmoshpere of the original prison.
 QUEST_20151224_003453	Orsha, City of Commerce
-QUEST_20151224_003454	Orsha, the city of commerce. Great as it was, it did not survive Medzio Diena unscathed.{nl}Large tree roots spreaded throughout Orsha, demolishing the city's mighty walls and causing an earthquake of tremendous magnitude.{nl}The disaster killed the lord of Orsha and all his successors, merely sparing his only daughter, who is currently in charge of the city.
+QUEST_20151224_003454	Orsha, the city of commerce. Great as it was, it did not survive Medzio Diena unscathed.{nl}Large tree roots spread throughout Orsha, demolishing the city's mighty walls and causing an earthquake of tremendous magnitude.{nl}The disaster killed the lord of Orsha and all his successors, merely sparing his only daughter, who is currently in charge of the city.
 QUEST_20151224_003455	Zeraha's Goddess Statue
 QUEST_20151224_003456	Unlike the other goddesses, Laima, the goddess of fate and foresight, exists only in records.{nl}Goddess Laima's encounters with humans are scarce and so are her known blessings, making her a lesser known deity despite being one of the main goddesses.{nl}
 QUEST_20151224_003457	Despite this, the statue of Goddess Laima in Zeraha is universally admired for its tremendous size and beauty.{nl}Some believe that in ancient times there could have existed a hidden city, while others say the city was built in a single day by the power of the goddess.{nl}
@@ -3452,8 +3452,8 @@ QUEST_20151224_003459	The Correct Classification of Demons and Monsters
 QUEST_20151224_003460	There is no exact way to classify demons and monsters based on external appearance.{nl}Those familiar with monsters can often distinguish them from demons, however this knowledge comes merely from experience and not from the application of general principles.{nl}
 QUEST_20151224_003461	There is one fundamental internal difference between demons and regular monsters.{nl}Demons possess a mind capable of producing thoughts, among which is their clear malevolence towards humans.
 QUEST_20151224_003462	The Alchemist's Oath
-QUEST_20151224_003463	The Alchemist's Oath originated in the Winterspoon family, known as the founders of alchemy.{nl}Their principals were passed down and, over time, they became established as the alchemists' official rules.{nl}
-QUEST_20151224_003464	{nl}One. Alchemists must not defy the will of the goddesses through their research or its results.{nl}-{nl}One. Alchemists may not harm what is good or the goddesses through their research or its results.{nl}-{nl}One. Alchemists may not use the goddesses or fellow humans as materials.{nl}
+QUEST_20151224_003463	The Alchemist's Oath originated in the Winterspoon family, known as the founders of alchemy.{nl}Their principles were passed down and, over time, they became established as the alchemists' official rules.{nl}
+QUEST_20151224_003464	{nl}One. Alchemists must not defy the will of the goddesses through their research or its results.{nl}-{nl}Two. Alchemists may not harm what is good or the goddesses through their research or its results.{nl}-{nl}Three. Alchemists may not use the goddesses or fellow humans as materials.{nl}
 QUEST_20151224_003465	All alchemists vow to protect others by obeying these principles.
 QUEST_20151224_003466	Old Diary
 QUEST_20151224_003467	Ours was a peaceful kingdom. There was nothing we lacked and people were happy.{nl}Every year we celebrated the spring festival and the goddesses answered our prayers.{nl}But eventually, more and more of our prayers started being left unanswered.{nl}Was it an omen? Suddenly, in the center of the capital an enormous tree sprouted up from the ground and started to spread out.{nl}
@@ -3478,7 +3478,7 @@ QUEST_20151224_003485	I received reports to raise the watch level to maximum fro
 QUEST_20151224_003486	The lord ordered that all soldiers including those stationed at guard posts are to accompany all residents and vassals within the castle to the device.{nl}We may finally be able to see the full might of the barrier.{nl}I divided the resident ledger by section and distributed it to all squads.
 QUEST_20151224_003487	Monster of Absenta Reservoir
 QUEST_20151224_003488	The astonishment of when coming across the uncanny monster called a Hydra at the Absenta Reservoir cannot be fully put into words.{nl}It has six serpentine heads, crawls on four finned feet and can also swim freely because it also has a large fin on its tail.{nl}
-QUEST_20151224_003489	It lurks in the depths of the Reservoir and swallows prey in one mouthful after killing it with it's big mouth and fangs. {nl}While it is only as big as a grown man, it is very agile and has remarkable recuperative powers.{nl}Thankfully, it is not hotile towards humans allowing the nearby residents to simply call it a mystical creature and avoid it.
+QUEST_20151224_003489	It lurks in the depths of the Reservoir and swallows prey in one mouthful after killing it with it's big mouth and fangs. {nl}While it is only as big as a grown man, it is very agile and has remarkable recuperative powers.{nl}Thankfully, it is not hostile towards humans allowing the nearby residents to simply call it a mystical creature and avoid it.
 QUEST_20151224_003490	The sun was so nice that I decided to dry the books in the sunlight.{nl}I was afraid that they might have gone moldy if I had left them inside any longer.{nl}
 QUEST_20151224_003491	If you ever wish to read something, please come in any time to have a look.{nl}It is always nice to have books read regardless of who is reading them.
 QUEST_20151224_003492	(It looks as if there are a few books laying in the wooden chest.{nl}Which one should I read?)
@@ -3506,7 +3506,7 @@ QUEST_20151224_003513	It's such a relief that the barrier has been deactivated!{
 QUEST_20151224_003514	Goddess Zemyna...
 QUEST_20151224_003515	I beg of you to listen to my prayers...
 QUEST_20151224_003516	Full Soul Stone
-QUEST_20151224_003517	The power that was protecting the sacred object of the Order disappeared as the thoughts that were confined within the Soul Stone started slipping away.
+QUEST_20151224_003517	)The power that was protecting the Holy Relic of the Order disappeared as the thoughts that were confined within the Evil Thoughts Stone started slipping away.)
 QUEST_20151224_003518	An unknown power seems to be blocking the way.
 QUEST_20151224_003519	Pendulum
 QUEST_20151224_003520	The pendulum is moving slowly in a circular pattern.
@@ -3515,7 +3515,7 @@ QUEST_20151224_003522	The pendulum seems to have begun reacting to something.
 QUEST_20151224_003523	The pendulum seems to have detected something.
 QUEST_20151224_003524	The pendulum is revolving quickly.
 QUEST_20151224_003525	There seems to be something nearby.
-QUEST_20151224_003526	The grave guard's spell doll attacks the sacred object of the Order.
+QUEST_20151224_003526	(The Grave Keeper's Spell Doll attacks the Holy Relic of the Order.)
 QUEST_20151224_003527	Gimmick Scarecrow
 QUEST_20151224_003528	Gimmick Statue
 QUEST_20151224_003529	Everything is becoming clearer now.{nl}I thank you once more.
@@ -3579,8 +3579,8 @@ QUEST_20151224_003586	Select the event you want to use
 QUEST_20151224_003587	Do you want to enter this Guild Event dungeon?
 QUEST_20151224_003588	Abandon Event
 QUEST_20151224_003589	There is an ongoing Guild Event. Do you wish to abandon it?
-QUEST_20151224_003590	Obtained Lumber!
-QUEST_20151224_003591	Obtained Mushroom!
+QUEST_20151224_003590	You've obtained wood!
+QUEST_20151224_003591	You've obtained a mushroom!
 QUEST_20151224_003592	You've found the herbs being harvested by demons!
 QUEST_20151224_003593	Collecting Ronjia Grass
 QUEST_20151224_003594	You've collected Ronjia Grass
