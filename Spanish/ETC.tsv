@@ -19596,16 +19596,16 @@ ETC_20151224_019596	You cannot receive the rewards
 ETC_20151224_019597	You have received the rewards
 ETC_20151224_019598	You've used {DAYPLAYCOUNT} times out of {DAYMAXCOUNT} today.
 ETC_20151224_019599	Hurry up!
-ETC_20151224_019600	You've dedicated 1 Blue Cronewt Leather as an offering
-ETC_20151224_019601	You've dedicated 10 Blue Cronewt Leathers as an offering
-ETC_20151224_019602	You've dedicated 15 Blue Cronewt Leathers as an offering
-ETC_20151224_019603	You've dedicated 20 Blue Cronewt Leathers as an offering
-ETC_20151224_019604	You've dedicated Blue Cronewt Leather as an offering
-ETC_20151224_019605	You've dedicated 1 Kepari Shell as an offering
-ETC_20151224_019606	You've dedicated 5 Kepari Shells as an offering
-ETC_20151224_019607	You've dedicated 15 Kepari Shells as an offering
-ETC_20151224_019608	You've dedicated 20 Kepari Shells as an offering
-ETC_20151224_019609	You've dedicated Kepari Shell as an offering
+ETC_20151224_019600	Sacrifice  1 Blue Cronewt Leather as an offering
+ETC_20151224_019601	Sacrifice  10 Blue Cronewt Leathers as an offering
+ETC_20151224_019602	Sacrifice  15 Blue Cronewt Leathers as an offering
+ETC_20151224_019603	Sacrifice  20 Blue Cronewt Leathers as an offering
+ETC_20151224_019604	Sacrifice  Blue Cronewt Leather as an offering
+ETC_20151224_019605	Sacrifice  1 Kepari Shell as an offering
+ETC_20151224_019606	Sacrifice  5 Kepari Shells as an offering
+ETC_20151224_019607	Sacrifice  15 Kepari Shells as an offering
+ETC_20151224_019608	Sacrifice  20 Kepari Shells as an offering
+ETC_20151224_019609	Sacrifice  Kepari Shell as an offering
 ETC_20151224_019610	The Spore Breeding device will be stopped when removing all the power sources
 ETC_20151224_019611	Stopping the Demonic Power Vessel will release Edmundas
 ETC_20151224_019612	Rose... No, come back here!!
@@ -19721,7 +19721,7 @@ ETC_20151224_019721	Increased guild EXP points.
 ETC_20151224_019722	Successfully registered the item.{nl}Please allow 30 minutes to 2 hours for items, excluding Tokens, to be shown on the Market.
 ETC_20151224_019723	{Price} silver is required for the registration fee. The buff will disappear when you register this to the Market. Do you want to register it?
 ETC_20151224_019724	You cannot purchase items registered to the same account.
-ETC_20151224_019725	The sales period has passed. Please retrieve your item.
+ETC_20151224_019725	The sales period has passed.{nl}Please retrieve your item.
 ETC_20151224_019726	Your item will be registered to the Market List after {TIME}.
 ETC_20151224_019727	Your item will be moved to the cabinet after {TIME}.
 ETC_20151224_019728	A minimum of {Price} silver is required to register this item.
@@ -19935,10 +19935,10 @@ ETC_20151224_019935	Sanadilma Magic Circle
 ETC_20151224_019936	Sicarius Magic Circle
 ETC_20151224_019937	Life Intensive Device
 ETC_20151224_019938	Demonic Power Intensive Device
-ETC_20151224_019939	Obelisk of Questions
+ETC_20151224_019939	Mysterious Obelisk
 ETC_20151224_019940	Power Supply Device
 ETC_20151224_019941	Shield Creation Device
-ETC_20151224_019942	Officer Diary
+ETC_20151224_019942	Officer's Journal
 ETC_20151224_019943	Broken Demonic Power Supply Device
 ETC_20151224_019944	Soggy Book
 ETC_20151224_019945	       [Knights of Kaliss]{nl}Alchemist Salliamornas
@@ -19976,7 +19976,7 @@ ETC_20151224_019976	[Linker Submaster]{nl}      Roddie Kuska
 ETC_20151224_019977	[Hoplite Submaster]{nl}        Vysiege Thurmore
 ETC_20151224_019978	[Shinobi Master]{nl}  Yura Swanjone
 ETC_20151224_019979	Shinobi Master Trigger
-ETC_20151224_019980	Revived Follower
+ETC_20151224_019980	Revived Believer
 ETC_20151224_019981	[Warlock Master]{nl}Melanie Melachim
 ETC_20151224_019982	[Featherfoot Master]{nl}  Kyoll Lurawa
 ETC_20151224_019983	The mission will end after 10 minutes.
@@ -20216,7 +20216,7 @@ ETC_20160224_020216	Fledgling Mercenary
 ETC_20160224_020217	Progress in a daily quest 25 times
 ETC_20160224_020218	Daily Quest (1)
 ETC_20160224_020219	Veteran Mercenary
-ETC_20160224_020220	Progress in a party quest 100 times
+ETC_20160224_020220	Progress in a daily quest 100 times
 ETC_20160224_020221	Daily Quest (2)
 ETC_20160224_020222	Rota's Trusted Mercenary
 ETC_20160224_020223	Progress in a daily quest 300 times
@@ -20254,7 +20254,7 @@ ETC_20160224_020254	Pollen
 ETC_20160224_020255	Nuodai Poison
 ETC_20160224_020256	Through the Path of Fire
 ETC_20160224_020257	Goddess Gabija delivered a message through Grita. The specimens created by the wizards from the past fell in the hands of the demons, causing mayhem inside the tower. Goddess Gabija asks for the help of the Revelators to gain control of the specimens.
-ETC_20160224_020258	After the end of Mirtis' reign over the Mina de Cristal, the Temple Shooter is calling back the Vubbes. {nl}Defeat the Temple Shooter and make the Mina de Cristal safe again.
+ETC_20160224_020258	After the end of Mirtis' reign over the Mina de Cristal, the TempleShooter is calling back the Vubbes. {nl}Defeat the TempleShooter and make the Mina de Cristal safe again.
 ETC_20160224_020259	The followers in charge of Tenet Church reported the appearance of an Abomination, which is causing difficulties in protecting the church. Defeat the Abomination and help the church's followers.
 ETC_20160224_020260	The soldiers searching for the missing residents of Cobalt Forest reported the appearance of a Poata. Defeat the Poata to allow the soldiers to search for the missing people of Cobalt Forest in safety.
 ETC_20160224_020261	The historians investigating the Akmens Ridge reported a Kirmeleech attack. Defeat the Kirmeleech to allow the historians to investigate the Akmens Ridge in safety.
@@ -21396,7 +21396,7 @@ ETC_20160329_021395	Collecting the spirits…
 ETC_20160329_021396	Collected the fading spirits.
 ETC_20160329_021397	All purified.
 ETC_20160329_021398	Finished purifying.
-ETC_20160329_021399	Shoveling…
+ETC_20160329_021399	Shoveling
 ETC_20160329_021400	There is nothing more to shovel.
 ETC_20160329_021401	You have found the ancient materials.
 ETC_20160329_021402	Aún no puedes cambiar a neutral el estado de tu Clan.
@@ -21498,7 +21498,7 @@ ETC_20160411_021497	Jolly Roger Skill Lv +1
 ETC_20160411_021498	Iron Hook Skill Lv +1
 ETC_20160411_021499	Keel Hauling Skill Lv +1
 ETC_20160411_021500	Dust Devil Skill Lv +1
-ETC_20160411_021501	Cancel Sub Weapon Skill Lv +1
+ETC_20160411_021501	Double Weapon Assault Lv +1
 ETC_20160411_021502	Hexen Dropper Skill Lv +1
 ETC_20160411_021503	Punish Skill Lv +1
 ETC_20160411_021504	Deeds of Valor Skill Lv +1
@@ -21642,12 +21642,12 @@ ETC_20160411_021641	Concentrated Fire Skill Lv +1
 ETC_20160411_021642	Caracole Skill Lv +1
 ETC_20160411_021643	Limacon Skill Lv +1
 ETC_20160411_021644	Retreat Shot Skill Lv +1
-ETC_20160411_021645	Broad Head Skill Lv +1
+ETC_20160411_021645	BroadHead Skill Lv +1
 ETC_20160411_021646	Bodkin Point Skill Lv +1
 ETC_20160411_021647	Barbed Arrow Skill Lv +1
-ETC_20160411_021648	Cross Fire Skill Lv +1
+ETC_20160411_021648	CrossFire Skill Lv +1
 ETC_20160411_021649	Magic Arrow Skill Lv +1
-ETC_20160411_021650	Singijeon Skill Lv +1
+ETC_20160411_021650	Divine Machine Arrow Skill Lv +1
 ETC_20160411_021651	Roost Skill Lv +1
 ETC_20160411_021652	Circling Skill Lv +1
 ETC_20160411_021653	Hovering Skill Lv +1
@@ -21737,3 +21737,23 @@ ETC_20160415_021736	Los mensajes de chat no pueden exceder los {Max} bites. El u
 ETC_20150317_001460	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons está restringido pues puede consumir una gran cantidad de bites.
 ETC_20160415_021737	Esta función estará disponible en {Time}.
 ETC_20160415_021738	Este usuario no puede realizar intercambios en este momento.
+ETC_20160425_021739	Applies Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +30% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
+ETC_20160425_021740	Applies Token benefits to all your characters in the server for 7 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
+ETC_20160425_021741	Applies Token benefits to all your characters in the server for 5 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021742	Applies Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021743	Applies Token benefits to all your characters in the server for 3 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021744	Applies Token benefits to all your characters in the server for 6 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021745	Applies Token benefits to all your characters in the server for 12 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021746	Applies Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021747	Applies Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times
+ETC_20160425_021748	Applies Token benefits to all your characters in the server for 15 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures
+ETC_20160425_021749	Steam VAC bot report function used for 1
+ETC_20160425_021750	Bot detection system frunction used for 1
+ETC_20160425_021751	If both sides are using a Token, the item's properties will not be altered. Do you want to continue?
+ETC_20160425_021752	Items with changing trade properties
+ETC_20160425_021753	Public Party join request denied.
+ETC_20160425_021754	Retrieve storage item(s)?
+ETC_20160425_021755	Able to learn attributes instantaneously
+ETC_20160425_021756	Token Enabled
+ETC_20160425_021757	Token Disabled
+ETC_20160426_021758	Companion
