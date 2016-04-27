@@ -416,8 +416,8 @@ ETC_20150317_000415	Cíclope
 ETC_20150317_000416	Archon
 ETC_20150317_000417	Carapace
 ETC_20150317_000418	Hombre-Lobo
-ETC_20150317_000419	Peque
-ETC_20150317_000420	Debido a su linda apariencia muchos han tratado de conquistar el corazon de Peque, ninguno lo ha logrado.
+ETC_20150317_000419	Tini
+ETC_20150317_000420	Debido a su linda apariencia muchos han tratado de conquistar el corazon de Tini, ninguno lo ha logrado.
 ETC_20150317_000421	Árbol Ambulo
 ETC_20150317_000422	El Árbol Ambulo es diferente a muchos monstruos originados en el reino demoníaco pues no es una deformación de un ser o cosa.
 ETC_20150317_000423	Golemlet
@@ -2073,7 +2073,7 @@ ETC_20150317_002072	Únete a las Misiones de Fedimian
 ETC_20150317_002073	Merregina es la causante de la contaminación. {nl} Derrótala para purificar la fuente.
 ETC_20150317_002074	Removiendo la contaminación
 ETC_20150317_002075	¡El origen de la contaminación ha sido removido!
-ETC_20150317_002076	Deshaste de los monstruos antes de reducir la contaminación.
+ETC_20150317_002076	Deshazte de los monstruos antes de reducir la contaminación.
 ETC_20150317_002077	Maíz Negro Inconsciente
 ETC_20150317_002078	No puedes usar los contenedores porque apestan a sangre.
 ETC_20150317_002079	¡Has obtenido Hierba Languída!
@@ -2112,10 +2112,10 @@ ETC_20150317_002111	Nada ha ocurrido
 ETC_20150317_002112	Limpiando la Estatua de la Diosa
 ETC_20150317_002113	¡La Estatua de la Diosa se encuentra limpia!
 ETC_20150317_002114	¡La estatua de la Diosa necesita ser limpiada!
-ETC_20150317_002115	Deshaste de los Hallowventers.
+ETC_20150317_002115	Deshazte de los Hallowventers.
 ETC_20150317_002116	hay una vibración que no se siente muy bien. Ve donde Cordelli.
 ETC_20150317_002117	El monstruos está tratando de explotar.
-ETC_20150317_002118	Has abierto el cofre
+ETC_20150317_002118	Abriendo el cofre
 ETC_20150317_002119	Fuente de poder del Obelísco
 ETC_20150317_002120	¡Uff eso fue duro!
 ETC_20150317_002121	¡Mi espalda duele y no me puedo mover!
@@ -3271,7 +3271,7 @@ ETC_20150317_003270	¡Ofrecido a la tropa local!
 ETC_20150317_003271	Consagrando la fuente de poder
 ETC_20150317_003272	¡Tienes que consagrar la Fuente de poder!
 ETC_20150317_003273	La fuente de poder no es suficiente
-ETC_20150317_003274	Deshaste de las Almas Ominosas
+ETC_20150317_003274	Deshazte de las Almas Ominosas
 ETC_20150317_003275	Apagando dispositivo guardían
 ETC_20150317_003276	Apagado dispositivo guardían local
 ETC_20150317_003277	Este dispositivo guardían local se encuentra apagado
@@ -3330,7 +3330,7 @@ ETC_20150317_003329	Debes completar la petición del Jefe Búho para pasar
 ETC_20150317_003330	Suena a una buena canción, a copiarla
 ETC_20150317_003331	Senior Melinas Pokubu
 ETC_20150317_003332	Gran Ludas Mini Griba
-ETC_20150317_003333	Deshaste de Espectro
+ETC_20150317_003333	Deshazte de Espectro
 ETC_20150317_003334	[Derrota al Líquen] debe ser completada para proseguir
 ETC_20150317_003335	Entregando sumistros
 ETC_20150317_003336	Sumistros recibidos
@@ -3399,7 +3399,7 @@ ETC_20150317_003398	¡Debes ingresar un número!
 ETC_20150317_003399	La contraseña no coincide
 ETC_20150317_003400	Activando Dispositivo
 ETC_20150317_003401	NA
-ETC_20150317_003402	Deshaste de los monstruos rodeando el dispositivo
+ETC_20150317_003402	Deshazte de los monstruos rodeando el dispositivo
 ETC_20150317_003403	Recordad las esfuerzos de la diosa para mantener el mundo en orden. Y recordad todo el sufrimiento y ardúas labores que debió afrontar entre los humanos para cumplir tal distante menester. Aparte de mi, nadie en vuestro pasado ni futuro sabrá el esfuerzo requerido para la creación del mundo.
 ETC_20150317_003404	Recolectando leña
 ETC_20150317_003405	Extrayendo del Molde
@@ -5015,116 +5015,116 @@ ETC_20150317_005014	¡¿Por qué debo morir?!
 ETC_20150317_005015	Llevame, Diosa...
 ETC_20150317_005016	¿Alguien allí? ¡Ayudenme!
 ETC_20150317_005017	Usando el Elixir Liberaor
-ETC_20150317_005018	Making fire
-ETC_20150317_005019	Lit the hearth!
-ETC_20150317_005020	You've obtained the record from the Ruklys Era!
-ETC_20150317_005021	{@st41}Open your inventory by pressing the {img F2 40 40} key and use the EXP card. {nl} {@st50} The {img icon_item_expcard 40 40} EXP card will reward you with experience points. {/}
-ETC_20150317_005022	The Mausoleum lanterns are being attacked by the guardians!
-ETC_20150317_005023	Bearkaras' suppressed power has returned.
+ETC_20150317_005018	Haciendo Fuego
+ETC_20150317_005019	¡Encendiste el Fogón!
+ETC_20150317_005020	¡Has obtenido el registro de la Era Ruklys!
+ETC_20150317_005021	{@st41}Abre tu inventario presionando la tecla {img F2 40 40} y usa la carta de EXP. {nl} {@st50} La {img icon_item_expcard 40 40} carta de EXP te dará puntos de experiencia. {/}
+ETC_20150317_005022	¡Las linternas del Mausoleo están siendo atacadas por los Guardianes!
+ETC_20150317_005023	El poder suprimido del Bearkaras' ha regresado.
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Spearman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
-ETC_20150317_005025	Crafting
-ETC_20150317_005026	A Revelator?
-ETC_20150317_005027	Ask about the current situation
-ETC_20150317_005028	Ask about Medzio Diena
-ETC_20150317_005029	Ask about the disappearance of the goddesses
-ETC_20150317_005030	Ask what happened
-ETC_20150317_005031	I think you forgot to mention the Goddess Laima
-ETC_20150317_005032	You found a map with the King's Seal!
-ETC_20150317_005033	The villagers were demons. {nl}Escape through the portal at Grassy Brookside!
-ETC_20150317_005034	About the Mage Tower
-ETC_20150317_005035	About the Cursed City
-ETC_20150317_005036	About Fedimian
-ETC_20150317_005037	About the Great Cathedral
-ETC_20150317_005038	Red
-ETC_20150317_005039	Blue
-ETC_20150317_005040	Diagonal Stripe Pattern
-ETC_20150317_005041	Long forms
-ETC_20150317_005042	Carvings
-ETC_20150317_005043	Comb Pattern
-ETC_20150317_005044	Wood Pattern
-ETC_20150317_005045	Bees Pattern
-ETC_20150317_005046	Owl Pattern
-ETC_20150317_005047	Dark Gray
-ETC_20150317_005048	Wide-mouthed Pottery
+ETC_20150317_005025	Creando
+ETC_20150317_005026	¿Un Revelador?
+ETC_20150317_005027	Preguntar acerca de la situación actual
+ETC_20150317_005028	Preguntar acerca de Medzio Diena
+ETC_20150317_005029	Preguntar acerca de la desaparición de las Diosas
+ETC_20150317_005030	Pregutnar que sucedió
+ETC_20150317_005031	Creo que has olvidado mencionar a la Diosa Laima
+ETC_20150317_005032	¡Has encontrado un mapa con el Sello del Rey!
+ETC_20150317_005033	Los aldeanos eran demonios. {nl}¡Escapa por el portal en Ribera Frondosa!
+ETC_20150317_005034	Acerca de la Torre del Mago
+ETC_20150317_005035	Acerca de la Ciudad Maldita
+ETC_20150317_005036	Acerca de Fedimian
+ETC_20150317_005037	Acerce de la Gran Catedral
+ETC_20150317_005038	Rojo
+ETC_20150317_005039	Azul
+ETC_20150317_005040	Patrón de Líneas Diagonales
+ETC_20150317_005041	Formas Largas
+ETC_20150317_005042	Esculpidos
+ETC_20150317_005043	Patrón de Peine
+ETC_20150317_005044	Patrón de Madera
+ETC_20150317_005045	Patrón de Abejas
+ETC_20150317_005046	Patrón de Búho
+ETC_20150317_005047	Gris Oscuro
+ETC_20150317_005048	Vasijas Bocaancha
 ETC_20150317_005049	Jade
-ETC_20150317_005050	Ash
-ETC_20150317_005051	White
-ETC_20150317_005052	Plain Pattern
-ETC_20150317_005053	Cracked Pottery
-ETC_20150317_005054	Romuva Pattern
-ETC_20150317_005055	Dented Pottery
-ETC_20150317_005056	Pottery with a Handle
-ETC_20150317_005057	Wave Patterns
-ETC_20150317_005058	Reddish Brown
-ETC_20150317_005059	Purple
-ETC_20150317_005060	Wind Pattern
-ETC_20150317_005061	Cracked Pottery
-ETC_20150317_005062	Tacky Pottery
-ETC_20150317_005063	Olive Color
-ETC_20150317_005064	Dirt-stained Pottery
-ETC_20150317_005065	Sleek Pottery
-ETC_20150317_005066	Oak Pattern
-ETC_20150317_005067	Rough Pottery
-ETC_20150317_005068	Navy
-ETC_20150317_005069	Tu-Tutu...! Help me!!!
-ETC_20150317_005070	Defeat Unknocker!
-ETC_20150317_005071	Underground Central Barrier
-ETC_20150317_005072	Take a good look...
-ETC_20150317_005073	Defeat Cyclops and find its minions!
-ETC_20150317_005074	Where is Gesti?
-ETC_20150317_005075	I'll leave this place to you
-ETC_20150317_005076	Be careful, Algis
-ETC_20150317_005077	Defeat Mummyghast!
-ETC_20150317_005078	You've been caught in Mallet Wyvern's trap!{nl}Defeat Mallet Wyvern!
-ETC_20150317_005079	Central Altar
-ETC_20150317_005080	Ah... You useless fool!!
-ETC_20150317_005081	Hurry! Find the sanctuary!
-ETC_20150317_005082	Before Giltine becomes disappointed...
-ETC_20150317_005083	First, we'll have to regain the Bell Tower.
-ETC_20150317_005084	Let's go!
-ETC_20150317_005085	Sventove Central Altar
-ETC_20150317_005086	Wait!
-ETC_20150317_005087	The sacred untensils has been activated.
-ETC_20150317_005088	Protect yourself from Gesti while the Divine Sphere is being activated!
-ETC_20150317_005089	Oppose Gesti until the Divine Sphere is activated!
-ETC_20150317_005090	You've received 'Revelation of the Goddess'!
-ETC_20150317_005091	Revelation of the Goddess
-ETC_20150317_005092	Monsters!
-ETC_20150317_005093	Slate
-ETC_20150317_005094	Naktis' henchmen made a surprise attack!
-ETC_20150317_005095	Withstand the attack from Naktis' servants until the medicine is complete.
-ETC_20150317_005096	Pot
-ETC_20150317_005097	Great Cathedral Candlestick
-ETC_20150317_005098	Barrier Candlestick
-ETC_20150317_005099	Video
-ETC_20150317_005100	Stop right there!
-ETC_20150317_005101	This is a restricted area.
-ETC_20150317_005102	Yes!
-ETC_20150317_005103	Out of the way
-ETC_20150317_005104	Let him pass
-ETC_20150317_005105	Return to your positions
-ETC_20150317_005106	Petrification Detector
-ETC_20150317_005107	Defeat Saltistter!
-ETC_20150317_005108	Stop him!
-ETC_20150317_005109	Don't get caught while passing
-ETC_20150317_005110	Shall we move then?
-ETC_20150317_005111	Defeat Glackuman!
-ETC_20150317_005112	Cryomancer's Magic Circle
-ETC_20150317_005113	So just cool your head down from there
-ETC_20150317_005114	What, what is it?
-ETC_20150317_005115	Defeat Bebraspion!
-ETC_20150317_005116	Time Crossing Lepus appeared.{nl}Defeat Lepus!
-ETC_20150317_005117	Save me!
-ETC_20150317_005118	Argh!
-ETC_20150317_005119	Retreat to the fortress!
-ETC_20150317_005120	Fort of the Land Portal
-ETC_20150317_005121	Assist the guards and defeat the stone whales!
-ETC_20150317_005122	Royal Army Guard
-ETC_20150317_005123	Thank you for the supplies.
-ETC_20150317_005124	What's the fuss?
-ETC_20150317_005125	What is that?
-ETC_20150317_005126	By the way, it tasted a bit burnt
-ETC_20150317_005127	My work shift ends soon!
+ETC_20150317_005050	Ceniza
+ETC_20150317_005051	Blanco
+ETC_20150317_005052	Patrón Plano
+ETC_20150317_005053	Vasijas Quebradas
+ETC_20150317_005054	Patrón Romuva
+ETC_20150317_005055	Vasijas Trizadas
+ETC_20150317_005056	Vasija con Manija
+ETC_20150317_005057	Patrón de Olas
+ETC_20150317_005058	Arcilla
+ETC_20150317_005059	Púrpura
+ETC_20150317_005060	Patrón de Viento
+ETC_20150317_005061	Vasijas Quebradas
+ETC_20150317_005062	Vasija Cursi
+ETC_20150317_005063	Color Oliva
+ETC_20150317_005064	Vasija cubierta de Polvo
+ETC_20150317_005065	Vasija Lisa
+ETC_20150317_005066	Patrón de Roble
+ETC_20150317_005067	Vasija Rugosa
+ETC_20150317_005068	Azúl Marino
+ETC_20150317_005069	¡Tu-Tutu...! ¡¡¡¡Ayudenme!!!
+ETC_20150317_005070	¡Derrota a Unknocker!
+ETC_20150317_005071	Barrera Central
+ETC_20150317_005072	Obserar cuidadosamente...
+ETC_20150317_005073	¡Derrota al Cíclope y encuentra a sus secuaces!
+ETC_20150317_005074	¿Dónde está Gesti?
+ETC_20150317_005075	De dejaré este lugar a ti
+ETC_20150317_005076	Se cuidadoso, Algis
+ETC_20150317_005077	¡Derrota a la Momiaspectral!
+ETC_20150317_005078	¡Has sido capturado en la trampa del Wyvern cola de Maza!{nl}¡Derrota al Wyvern cola de Maza!
+ETC_20150317_005079	Altar Central
+ETC_20150317_005080	Ah... ¡¡Tú, bueno para nada!!
+ETC_20150317_005081	¡Apresurate! ¡Encuentra el Santuario!
+ETC_20150317_005082	Antes de que Giltine se decepcione...
+ETC_20150317_005083	Primero, Debemos recuperar el Campanario.
+ETC_20150317_005084	¡Vamos!
+ETC_20150317_005085	Altar Central Sventove
+ETC_20150317_005086	¡Alto!
+ETC_20150317_005087	Los utensilios sagrados han sido activados.
+ETC_20150317_005088	¡Protejete de Gesti mientras la Esfera Dívina esta siendo activada!
+ETC_20150317_005089	¡Enfrenta a Gesti hasta que la Esfera Divina sea activada!
+ETC_20150317_005090	¡Has recibido 'Revelación de la Diosa'!
+ETC_20150317_005091	Revelación de la Diosa
+ETC_20150317_005092	¡Monstruos!
+ETC_20150317_005093	Placa
+ETC_20150317_005094	¡Los secuaces de Naktis han atacado por sorpresa!
+ETC_20150317_005095	Aguanta el ataque de los sirvientes de Naktis hasta que la medicina este completa.
+ETC_20150317_005096	Olla
+ETC_20150317_005097	Vela de la Gran Catedral
+ETC_20150317_005098	Vela Barrera
+ETC_20150317_005099	Vídeo
+ETC_20150317_005100	¡Detente ahí mismo!
+ETC_20150317_005101	Esto es un área restringida.
+ETC_20150317_005102	¡Sí!
+ETC_20150317_005103	Fuera del camino
+ETC_20150317_005104	Dejarle pasar
+ETC_20150317_005105	Regresar a sus posiciones
+ETC_20150317_005106	Detector de Petrificación
+ETC_20150317_005107	¡Derrota a Saltistter!
+ETC_20150317_005108	¡Detenlo!
+ETC_20150317_005109	No te dejes capturar mientras pasas
+ETC_20150317_005110	¿Avanzamos entonces?
+ETC_20150317_005111	¡Derrota a Glackuman!
+ETC_20150317_005112	Círculo Mágico de Criomante
+ETC_20150317_005113	Así que calmate un poco de ahora en adelante
+ETC_20150317_005114	¿Qué, qué es eso?
+ETC_20150317_005115	¡Derrota al Bebraspion!
+ETC_20150317_005116	Lepus Atravesador del Tiempo ha aparecido.{nl}¡Derrota al Lepus!
+ETC_20150317_005117	¡Salvame!
+ETC_20150317_005118	¡Argh!
+ETC_20150317_005119	¡Retírense a la dortalece!
+ETC_20150317_005120	Fuerte del Portal de la Tierra
+ETC_20150317_005121	¡Asiste a los guardias y derrota a las Ballenas de Piedra!
+ETC_20150317_005122	Guardía de la Armada Real
+ETC_20150317_005123	Gracias por los suplementos.
+ETC_20150317_005124	¿Qué es este lío?
+ETC_20150317_005125	¿Qué es eso?
+ETC_20150317_005126	Por cierto, sabia un poco quemado
+ETC_20150317_005127	¡Mi turno laboral acabará pronto!
 ETC_20150317_005128	Defeat Stone Froster and obtain Nuclear Frost!
 ETC_20150317_005129	What?!
 ETC_20150317_005130	What is that sound?
@@ -5381,7 +5381,7 @@ ETC_20150317_005380	Where are you!!!
 ETC_20150317_005381	Come out!
 ETC_20150317_005382	Thorn Gate
 ETC_20150317_005383	Pocket Containing Something
-ETC_20150317_005384	Deshaste de los monstruos atacantes mientras la piedra mágica esta siendo refinada.
+ETC_20150317_005384	Deshazte de los monstruos atacantes mientras la piedra mágica esta siendo refinada.
 ETC_20150317_005385	Follower of Goddess Saule
 ETC_20150317_005386	Change Summon
 ETC_20150317_005387	Destroy the barrier summoned by the demon
@@ -10527,12 +10527,12 @@ ETC_20150401_010528	DoTimeAction:Extracting Nioles:2:None
 ETC_20150401_010529	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!:5/NPCDead
 ETC_20150401_010530	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
 ETC_20150401_010531	IvnItem:FARM47_1_SQ_060_ITEM_1:1:0/DoTimeAction:Drying after the putting the meats of the monsters:3:MAKING:None
-ETC_20150401_010532	Deshaste del monstruo golpeandólo con una bengala
+ETC_20150401_010532	Deshazte del monstruo golpeandólo con una bengala
 ETC_20150401_010533	Get Maven's Fourth Key from Apgaule Altar
 ETC_20150401_010534	Use the creed bead of Medeina
 ETC_20150401_010535	Demon Prison zone exit event
 ETC_20150401_010536	Deliver without spoiling the bread
-ETC_20150401_010537	Deshaste de la extraña energía
+ETC_20150401_010537	Deshazte de la extraña energía
 ETC_20150401_010538	Pull out some crops and check if it is growing well
 ETC_20150401_010539	Defeat Orange Dandells and retrieve the kindling
 ETC_20150401_010540	Put the retrieved kindling into the burning magic circle to maintain the flame
@@ -13923,9 +13923,9 @@ ETC_20150729_013924	Necromancer Master's story
 ETC_20150729_013925	Chronomancer Master's story
 ETC_20150729_013926	Cremate the revived body
 ETC_20150729_013927	Cross Srautas Gorge to go to Gele Plateau
-ETC_20150729_013928	Deshaste del aura extraña (1)
-ETC_20150729_013929	Deshaste del aura extraña (2)
-ETC_20150729_013930	Deshaste del aura extraña (3)
+ETC_20150729_013928	Deshazte del aura extraña (1)
+ETC_20150729_013929	Deshazte del aura extraña (2)
+ETC_20150729_013930	Deshazte del aura extraña (3)
 ETC_20150729_013931	The minimum time until the next player recommendation after a recommendation(secs)
 ETC_20150729_013932	The time that will not take until the first party recommendation after log in (secs)
 ETC_20150729_013933	The penalty points for the person who has been already recommended
@@ -17911,7 +17911,7 @@ ETC_20151224_017911	The demons that sensed someone's presence are coming!
 ETC_20151224_017912	Cursed Idol
 ETC_20151224_017913	Clymen has appeared!
 ETC_20151224_017914	An unknown sacred power is bursting inside the body!
-ETC_20151224_017915	Deshaste del Revelador.
+ETC_20151224_017915	Deshazte del Revelador.
 ETC_20151224_017916	As you destroyed the Cursed Idol, Denóptico appeared and started to attack!
 ETC_20151224_017917	Defeat Specter Monarch and rescue Priest Pranas!
 ETC_20151224_017918	Something has fallen from the tent that the Minotaur had destroyed.{nl}Defeat Minotaur and check what has fallen down!
@@ -21384,7 +21384,7 @@ ETC_20160323_021383	3F Purifier
 ETC_20160323_021384	[Maestre Bárbaro]{nl}      Walder Junnot
 ETC_20160323_021385	¡Captura al Hanaming antes que los otros jugadores!
 ETC_20160323_021386	¡La batalla ha iniciado!{nl}Destruye la Torre del Clan oponente.
-ETC_20160329_021387	{nl}Reduce el potencial del objeto cuando es equipado.{nl}{nl}Número de amuletos mágicos que pueden ser equipados: {Remain}
+ETC_20160329_021387	{nl}Reduce el potencial cuando se equipa.{nl}{nl}Número de amuletos mágicos que pueden ser equipados: {Remain}
 ETC_20160329_021388	Acquired Orb Crystal.
 ETC_20160329_021389	Acquired Lapasape wand fragment.
 ETC_20160329_021390	Found dry Dadania leaves.
