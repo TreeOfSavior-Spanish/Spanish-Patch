@@ -117,8 +117,8 @@ Top --> Pecho
 Botton --> Pantalon
 Gloves --> Guantes
 Shoes --> Zapatos
-bracelet --> Pulser
-Costume --> Ropa
+bracelet --> Pulsera
+Costume --> Traje
 
 Aras --> Nivelado
 Crook --> Báculo
