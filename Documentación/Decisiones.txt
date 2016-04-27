@@ -114,9 +114,9 @@ Blunt --> Maza
 Two Handed Blunt --> maza de dos manos
 Shield --> Escudo
 Top --> Pecho
-Botton --> Pantalon
+Botton --> Pantalón
 Gloves --> Guantes
-Shoes --> Zapatos
+Shoes --> Botas
 bracelet --> Pulsera
 Costume --> Traje
 
