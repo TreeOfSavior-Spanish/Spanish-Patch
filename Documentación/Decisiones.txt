@@ -143,6 +143,11 @@ Slash --> Corte
 Pierce --> Penetración
 Missile --> Proyectil
 
+[ Efectos ]
+Bleeding --> Sangrado
+Stun --> Aturdir
+
+
 [ Objetos ]
 Scroll --> Pergamino
 
