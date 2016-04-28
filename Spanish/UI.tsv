@@ -319,7 +319,7 @@ UI_20150317_000318	{@st59}Empezar Creación de Objeto.{/}
 UI_20150317_000319	{@st44}Teclado{/}
 UI_20150317_000320	{@st42}Tiempo Límite
 UI_20150317_000321	{@st56}Matar{/}
-UI_20150317_000322	{@st56}Overkill{/}
+UI_20150317_000322	{@st56}Exterminio{/}
 UI_20150317_000323	{@st56}Disparo{/}
 UI_20150317_000324	{@st56}Muerte{/}
 UI_20150317_000325	Poder de Hechizos
@@ -401,7 +401,7 @@ UI_20150317_000400	Kepa o ...
 UI_20150317_000401	{@st41}{Details}
 UI_20150317_000402	{s20}{#050505}Monstruo Descripción Monstruo Descripción Monstruo Descripción Monstruo Descripción
 UI_20150317_000403	{@st41} Muerte {/}
-UI_20150317_000404	{@st41} Overkill {/}
+UI_20150317_000404	{@st41} Exterminio {/}
 UI_20150317_000405	{@st41} Muerte Normal {/}
 UI_20150317_000406	{@st41} Área {/}
 UI_20150317_000407	{@st41} Objeto {/}
