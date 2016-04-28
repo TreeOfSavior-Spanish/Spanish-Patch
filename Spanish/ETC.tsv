@@ -674,7 +674,7 @@ ETC_20150317_000673	Ferocious Molich
 ETC_20150317_000674	Judder Yonazolem
 ETC_20150317_000675	Poisonous Tejedora del Trono
 ETC_20150317_000676	Quick Bebraspion
-ETC_20150317_000677	Hopping Bridge Honeypin
+ETC_20150317_000677	Hopping Bridge Mielpin
 ETC_20150317_000678	Stone-eating Kirmeleech
 ETC_20150317_000679	Fire Jar Magburk
 ETC_20150317_000680	Tempered Archon
@@ -1038,7 +1038,7 @@ ETC_20150317_001037	Panto Lancero
 ETC_20150317_001038	Hummingbird Sting
 ETC_20150317_001039	Panto Totem
 ETC_20150317_001040	Rodelin
-ETC_20150317_001041	Earth Tower Gate
+ETC_20150317_001041	Torre de la Tierra Gate
 ETC_20150317_001042	Gate
 ETC_20150317_001043	Cafrisun
 ETC_20150317_001044	Eagle
@@ -1362,7 +1362,7 @@ ETC_20150317_001361	Mage Tower Mission
 ETC_20150317_001362	Cathedral Mission
 ETC_20150317_001363	Seven Valley Mission
 ETC_20150317_001364	Gele Plateau Mission
-ETC_20150317_001365	Earth Tower
+ETC_20150317_001365	Torre de la Tierra
 ETC_20150317_001366	Siege
 ETC_20150317_001367	Siege: Area of Ruins
 ETC_20150317_001368	Infinite Map
@@ -1483,7 +1483,7 @@ ETC_20150317_001482	Tu inventario esta lleno
 ETC_20150317_001483	Este servidor se encuentra cerrado
 ETC_20150317_001484	Este objeto no puede ser equipado
 ETC_20150317_001485	[{Word}] no está permitido su uso.
-ETC_20150317_001486	{S20}{ol}{#46c8ff} No tienes suficientes PM
+ETC_20150317_001486	{S20}{ol}{#46c8ff} No tienes suficientes MP
 ETC_20150317_001487	No coincide tu versión del servidor
 ETC_20150317_001488	No cumples con el nivel necesario.{nl}Revisa el nivel requerido en la descripción
 ETC_20150317_001489	No puede ser equipado por personajes masculinos.{nl}Revisa el requisito de género y nivel en la descripción
@@ -1578,7 +1578,7 @@ ETC_20150317_001577	¡Has fallado en comprar el objeto! Fondos insuficientes.
 ETC_20150317_001578	¡Has fallado en comprar el objeto! El vendedor ha cancelado o removido este objeto de la lista.
 ETC_20150317_001579	¡Has fallado en comprar el objeto! Un error desconocido ha ocurrido.
 ETC_20150317_001580	Estuvo cerca
-ETC_20150317_001581	{s20}{ol}{#46ffc8} No tienes suficientes PM
+ETC_20150317_001581	{s20}{ol}{#46ffc8} No tienes suficiente Resistencia
 ETC_20150317_001582	No tienes el objeto requerido para realizar la habilidad.
 ETC_20150317_001583	No puedes equiparte un arma secundaria mientras usas armas de 2 manos.
 ETC_20150317_001584	No puedes usar 'Regreso' mientras estás en Modo Descanso.
@@ -1647,7 +1647,7 @@ ETC_20150317_001646	¿Realmente deseas salir?
 ETC_20150317_001647	{S20}{ol}{#ff1100} Este atributo no puede ser comprado.
 ETC_20150317_001648	No puedes equiparte objetos con 0 durabilidad.
 ETC_20150317_001649	Borrar
-ETC_20150317_001650	Desconectado del servidor. Porfavor intenta más tarde.
+ETC_20150317_001650	Desconectado del servidor. Por favor intenta más tarde.
 ETC_20150317_001651	{Year}/{Month}/{Day} - {Hour} horas {Min} minutos {Sec} segundos
 ETC_20150317_001652	Leer más
 ETC_20150317_001653	No puedes cambiar tu equipo sin antes recojer el item lanzado.
@@ -1659,8 +1659,8 @@ ETC_20150317_001658	{Sec}s
 ETC_20150317_001659	Por favor ingresa un título.
 ETC_20150317_001660	Aprendiendo
 ETC_20150317_001661	Debes gastar todos tus puntos de habilidades antes de Ascender.
-ETC_20150317_001662	Masculino
-ETC_20150317_001663	Femenino
+ETC_20150317_001662	Chico
+ETC_20150317_001663	Chica
 ETC_20150317_001664	{Month}
 ETC_20150317_001665	{Year}
 ETC_20150317_001666	Este canal está lleno.
@@ -1711,10 +1711,10 @@ ETC_20150317_001710	Árbol
 ETC_20150317_001711	Misión
 ETC_20150317_001712	Arma
 ETC_20150317_001713	Armadura
-ETC_20150317_001714	Espada de Dos Manos
+ETC_20150317_001714	Espada de 2 Manos
 ETC_20150317_001715	Arco
 ETC_20150317_001716	Ballesta
-ETC_20150317_001717	Espada de una mano
+ETC_20150317_001717	Espada de 1 Mano
 ETC_20150317_001718	Varita
 ETC_20150317_001719	Maza
 ETC_20150317_001720	Otro
@@ -1780,9 +1780,9 @@ ETC_20150317_001779	Efecto de las Botas
 ETC_20150317_001780	Efecto de los Guantes
 ETC_20150317_001781	Ataque Máximo
 ETC_20150317_001782	Ataque Mínimo
-ETC_20150317_001783	Ratio de Defensa
-ETC_20150317_001784	Ratio de Evasión
-ETC_20150317_001785	Ratio de Ataque de Fuego
+ETC_20150317_001783	Tasa de Defensa
+ETC_20150317_001784	Tasa de Evasión
+ETC_20150317_001785	Tasa de Ataque de Fuego
 ETC_20150317_001786	Habilidad de Talento
 ETC_20150317_001787	Peso: {All} / {Max}
 ETC_20150317_001788	Peso ({Rate}%)
@@ -1825,7 +1825,7 @@ ETC_20150317_001824	Ataque Mágico aumentado al montar
 ETC_20150317_001825	Ataque del Compañero aumentado en {Value}
 ETC_20150317_001826	PS del Compañero aumentado en {Value}
 ETC_20150317_001827	Defensa del Compañero aumentado en {Value}
-ETC_20150317_001828	Ratio de Golpe del Compañero aumentado en {Value}
+ETC_20150317_001828	Tasa de Golpe del Compañero aumentado en {Value}
 ETC_20150317_001829	No tienes un Compañero para invocar.
 ETC_20150317_001830	Primero desmonta de tu Compañero.
 ETC_20150317_001831	En espera
@@ -2378,7 +2378,7 @@ ETC_20150317_002377	Segundo espacio
 ETC_20150317_002378	Tercer espacio
 ETC_20150317_002379	Cuarto espacio
 ETC_20150317_002380	Leña
-ETC_20150317_002381	Porfavor guíanos a la Diosa.
+ETC_20150317_002381	Por favor guíanos a la Diosa.
 ETC_20150317_002382	Absorbida energía del guardían
 ETC_20150317_002383	Moviendose.
 ETC_20150317_002384	No moverse.
@@ -2535,7 +2535,7 @@ ETC_20150317_002534	Todos los purificadores se encuentran funcionando. {nl} Reac
 ETC_20150317_002535	Has encontrado todas las partes necesarias para las reparaciones. {nl} Regresa al purificador principal y arreglalo.
 ETC_20150317_002536	La magia se escapa lentamente de la Joya de Prominencia. {nl} Mejor encontrar rápidamente la causa y removerla.
 ETC_20150317_002537	Úbicate frente a la válvula para revisarla.
-ETC_20150317_002538	Porfavor procede luego de haber derrotado al Bearkaras.
+ETC_20150317_002538	Por favor procede luego de haber derrotado al Bearkaras.
 ETC_20150317_002539	¡Partes encontradas! {nl} Regresa al purificador de la entrada y arreglalo.
 ETC_20150317_002540	¡Partes encontradas! {nl} Regresa al purificador central y arreglalo.
 ETC_20150317_002541	has derrotado a la Ballena de Rocas que impedía tu búsqueda. {nl} Encuentra las partes faltantes del purificador central.
@@ -2573,7 +2573,7 @@ ETC_20150317_002572	Absorción Física {Auto_1}!
 ETC_20150317_002573	Absorción de PM {Auto_1}!
 ETC_20150317_002574	Enfriando reducido en {Auto_1} segundos
 ETC_20150317_002575	¡Golpeador de Escudo {Auto_1}!
-ETC_20150317_002576	¡Critico!
+ETC_20150317_002576	¡Crítico!
 ETC_20150317_002577	¡Inmune!
 ETC_20150317_002578	¡Provocado!
 ETC_20150317_002579	¡Reflejar Daño!
@@ -2721,7 +2721,7 @@ ETC_20150317_002720	[Creable]
 ETC_20150317_002721	Resistencia
 ETC_20150317_002722	Ataque
 ETC_20150317_002723	Velocidad de Ataque
-ETC_20150317_002724	Ratio Crítico
+ETC_20150317_002724	Tasa Crítico
 ETC_20150317_002725	Durabilidad
 ETC_20150317_002726	Splash
 ETC_20150317_002727	Precisión
@@ -2749,9 +2749,9 @@ ETC_20150317_002748	Cortante
 ETC_20150317_002749	Golpeante
 ETC_20150317_002750	Aumenta rango
 ETC_20150317_002751	Aumenta rango de Corte
-ETC_20150317_002752	Ataque Rango
+ETC_20150317_002752	Rango de Ataque
 ETC_20150317_002753	Ataque Ángular
-ETC_20150317_002754	Ratio de Bloqueo
+ETC_20150317_002754	Tasa de Bloqueo
 ETC_20150317_002755	Multi-golpe
 ETC_20150317_002756	Rango de Ataque Posterior
 ETC_20150317_002757	Usar Habilidad Específica
@@ -2761,7 +2761,7 @@ ETC_20150317_002760	Ataque Crítico
 ETC_20150317_002761	Defensa Crítica
 ETC_20150317_002762	Comerciable
 ETC_20150317_002763	No Comerciable
-ETC_20150317_002764	Ratio de recuperación por Pociones
+ETC_20150317_002764	Tasa de recuperación por Pociones
 ETC_20150317_002765	Recuperación de PM
 ETC_20150317_002766	Imposible de vender
 ETC_20150317_002767	Ataque de Elemento Fuego
@@ -2782,8 +2782,8 @@ ETC_20150317_002781	Resistencia a Elemento Veneno
 ETC_20150317_002782	Resistencia a Elemento Electricidad
 ETC_20150317_002783	Resistencia a Elemento Santo
 ETC_20150317_002784	Resistencia a Elemento Oscuridad
-ETC_20150317_002785	Ataque de área
-ETC_20150317_002786	Defensa de área
+ETC_20150317_002785	Radio de Ataque de Área ▲
+ETC_20150317_002786	Radio de Ataque de Área ▼
 ETC_20150317_002787	2% probabilidad de obtener +300 de daño adicional al atacar
 ETC_20150317_002788	3% probabilidad de recibir 20% de daño continuo igual al 20% PS cuando golpeas
 ETC_20150317_002789	4% probabilidad de obtener +100 de resistencia a todo cuando eres golpeado con magia
@@ -3053,7 +3053,7 @@ ETC_20150317_003052	's
 ETC_20150317_003053	Plata
 ETC_20150317_003054	Trying to drop item without monster
 ETC_20150317_003055	Habilidad no disponible
-ETC_20150317_003056	Remover
+ETC_20150317_003056	Borrar
 ETC_20150317_003057	Derrota a los monstruos de los alrededores para continuar
 ETC_20150317_003058	NPCState no. 1 should be used in ArgStr1
 ETC_20150317_003059	Quest ClassName is not in ArgStr1.
@@ -3881,7 +3881,7 @@ ETC_20150317_003880	Yo
 ETC_20150317_003881	Carro de {Auto_1}
 ETC_20150317_003882	La entrada a la mazmorra está abierta
 ETC_20150317_003883	: BT no disponible
-ETC_20150317_003884	Porfavor intenta nuevamente más tarde.
+ETC_20150317_003884	Por favor intenta nuevamente más tarde.
 ETC_20150317_003885	La bomba ha sido instalada
 ETC_20150317_003886	Lo que quieras
 ETC_20150317_003887	Tratado de hacer
@@ -4253,7 +4253,7 @@ ETC_20150317_004252	Muerte
 ETC_20150317_004253	Deja el material
 ETC_20150317_004254	Reiniciar selección
 ETC_20150317_004255	Guardar Grupo
-ETC_20150317_004256	Remover Grupo
+ETC_20150317_004256	Borrar Grupo
 ETC_20150317_004257	Configuración de Mensajes
 ETC_20150317_004258	Configuración de Sonido
 ETC_20150317_004259	Configuración de Script
@@ -4303,11 +4303,11 @@ ETC_20150317_004302	{Auto_1} buff (completo)
 ETC_20150317_004303	{Auto_1} buff
 ETC_20150317_004304	{Auto_1} (No instalado)
 ETC_20150317_004305	{s16}{ol}{#ffcc33}{Auto_1} Porcentaje Explorado {nl}{Auto_2} %% / {Auto_3} %%
-ETC_20150317_004306	{cl}{s16}{ol}{#ffcc33}{Auto_1} Ratio Completo de Navegación
+ETC_20150317_004306	{cl}{s16}{ol}{#ffcc33}{Auto_1} Tasa Completo de Navegación
 ETC_20150317_004307	{Cl}{s16}{ol}{#ffcc33}{Auto_1}{Auto_2} completo
 ETC_20150317_004308	{b}Recompensa
 ETC_20150317_004309	EXP:
-ETC_20150317_004310	Porfavor selecciona una recompensa.
+ETC_20150317_004310	Por favor selecciona una recompensa.
 ETC_20150317_004311	{@st45w3}{s18}{Auto_1} 1
 ETC_20150317_004312	{@st41}Recompensa por finalizar misión repetible{/}
 ETC_20150317_004313	{@st41}Selecciona una Recompensa
@@ -4318,7 +4318,7 @@ ETC_20150317_004317	(Consumo de {Auto_1} iCoins)
 ETC_20150317_004318	Precio Total: {Auto_1}
 ETC_20150317_004319	Aprender
 ETC_20150317_004320	{@st42b} Re-comprar
-ETC_20150317_004321	{@st42b} Remover permanentemente
+ETC_20150317_004321	{@st42b} Borrar permanentemente
 ETC_20150317_004322	{@st42b} Cancelar
 ETC_20150317_004323	 Círculo
 ETC_20150317_004324	¿Quieres subir de nivel tu clase?
@@ -4340,7 +4340,7 @@ ETC_20150317_004339	Requiere iCoin.{nl}¿Seguro de reiniciar?
 ETC_20150317_004340	{@st59} Aumenta en Ataque y Ataque Crítico{/}
 ETC_20150317_004341	{@st59} Aumenta PS, Recuperación de PS, Resistencia a Críticos, Capacidad de Carga Máxima{/}
 ETC_20150317_004342	{@st59} Aumenta Daño Mágico y Penetración de Bloqueo{/}
-ETC_20150317_004343	{@st59} Aumenta Precisión, Evasión y Ratio Crítico {/}
+ETC_20150317_004343	{@st59} Aumenta Precisión, Evasión y Tasa Crítico {/}
 ETC_20150317_004344	] ¿Deseas usar esta carta?
 ETC_20150317_004345	Distancia
 ETC_20150317_004346	{s16}{ol} Defensa {/}{/}{/}{nl}{s18}{ol}
@@ -4369,7 +4369,7 @@ ETC_20150317_004368	{@st42b} Cambiar Ángulo {/}
 ETC_20150317_004369	{@st42b} Borrar punto de Anclaje {/}
 ETC_20150317_004370	{@st42b} Apuntar Rango{/}
 ETC_20150317_004371	{@st42b} Borrar Rango {/}
-ETC_20150317_004372	{@st42b} Remover {/}
+ETC_20150317_004372	{@st42b} Borrar {/}
 ETC_20150317_004373	{@st42b} Visitar {/}
 ETC_20150317_004374	No hay GenType
 ETC_20150317_004375	Habilidades Fijas Apuntadas
@@ -5348,216 +5348,216 @@ ETC_20150317_005347	Planta Mutante Gigante
 ETC_20150317_005348	Tú eres el Revelador.
 ETC_20150317_005349	Las causas de lo ocurrió aquí se encuentran en otro lugar
 ETC_20150317_005350	Es difícil hablar aquí, mejor encontremonos en los Campos Oscilantes.
-ETC_20150317_005351	Research Tools
-ETC_20150317_005352	Over there, a baby Poata!
-ETC_20150317_005353	Follow it!! You can't lose it this time!!!
-ETC_20150317_005354	Do not go outside the camp!! Unfortunately come back!
-ETC_20150317_005355	Hey!!! Stop! It's dangerous!!
-ETC_20150317_005356	Go back to the camp! Now!
-ETC_20150317_005357	Here, I'll take care of the procedures...
-ETC_20150317_005358	What's this screaming sound?
-ETC_20150317_005359	Prepare for battle!
-ETC_20150317_005360	It's a surprise attack!!
-ETC_20150317_005361	Refugee
-ETC_20150317_005362	It's... It's moving!!
-ETC_20150317_005363	It's... It's a Golem!!!
-ETC_20150317_005364	Why are there Golem remains here?
-ETC_20150317_005365	Hey!!! It's dangerous!! Run!!
-ETC_20150317_005366	Is it dead?
-ETC_20150317_005367	Huh...!!
+ETC_20150317_005351	Herramientas de Invstigación
+ETC_20150317_005352	¡Por ahí, un bebé Poata!
+ETC_20150317_005353	¡¡Síguelo!! ¡¡¡No podemos perderlo esta vez!!!
+ETC_20150317_005354	¡¡No salgas del campamento!! ¡Regresa!
+ETC_20150317_005355	¡¡¡Hey!!! ¡Alto! ¡¡Es peligroso!!
+ETC_20150317_005356	¡Regresa al campamento! ¡Ahora!
+ETC_20150317_005357	Aquí, Me encargaré de los procedimientos...
+ETC_20150317_005358	¿Que fue ese grito?
+ETC_20150317_005359	¡Preparate para la batalla!
+ETC_20150317_005360	¡¡Es un ataque sorpresa!!
+ETC_20150317_005361	Refugiado
+ETC_20150317_005362	¡¡Se... Se mueve!!
+ETC_20150317_005363	¡¡¡Es... Es un Golem!!!
+ETC_20150317_005364	¿Por qué hay restos de Golem aquí?
+ETC_20150317_005365	¡¡¡Hey!!! ¡¡Es peligroso!! ¡¡Corre!!
+ETC_20150317_005366	¿Está muerto?
+ETC_20150317_005367	¡¡Huh...!!
 ETC_20150317_005368	¡Derrota al Gran Kepa!
-ETC_20150317_005369	It's a Gran Kepa!
-ETC_20150317_005370	Alchemist Vaidotas
-ETC_20150317_005371	Lot 2 Closure Notice
-ETC_20150317_005372	Evacuate the residents!
-ETC_20150317_005373	Stop that person!!
-ETC_20150317_005374	Eastern Woods Soldier
-ETC_20150317_005375	Come on let's go! Honey! Dad!
-ETC_20150317_005376	That's really good news. Let's go!
-ETC_20150317_005377	I'm old and just causing you troubles...
-ETC_20150317_005378	Defeat the Vubbes marching in!
-ETC_20150317_005379	Good job!
-ETC_20150317_005380	Where are you!!!
-ETC_20150317_005381	Come out!
-ETC_20150317_005382	Thorn Gate
-ETC_20150317_005383	Pocket Containing Something
+ETC_20150317_005369	¡Es un Gran Kepa!
+ETC_20150317_005370	Alquimista Vaidotas
+ETC_20150317_005371	Lote 2 Aviso de Cierre
+ETC_20150317_005372	¡Evacúa a los residentes!
+ETC_20150317_005373	¡¡Detén a esa persona!!
+ETC_20150317_005374	Soldado del Bosque Este
+ETC_20150317_005375	¡Vamos! ¡Querido! ¡Papi!
+ETC_20150317_005376	Eso realmente son buenas noticias. ¡Vamos!
+ETC_20150317_005377	Estoy viejo y sólo les causo problemas..
+ETC_20150317_005378	¡Derrota a los Vubbes que están avanzando!
+ETC_20150317_005379	¡Buen trabajo!
+ETC_20150317_005380	¡¡¡Dónde estás!!!
+ETC_20150317_005381	¡Sal!
+ETC_20150317_005382	Puerta de Espinas
+ETC_20150317_005383	Bolsillo Conteniendo Algo
 ETC_20150317_005384	Deshazte de los monstruos atacantes mientras la piedra mágica esta siendo refinada.
 ETC_20150317_005385	Seguidor de la Diosa Saule
-ETC_20150317_005386	Change Summon
-ETC_20150317_005387	Destroy the barrier summoned by the demon
+ETC_20150317_005386	Cambiar Invocación
+ETC_20150317_005387	Destruye la barrera invocada por el demonio
 ETC_20150317_005388	Seguidor de la Diosa Saule
-ETC_20150317_005389	Merogs!
-ETC_20150317_005390	Protect the Altar of Purification from the monsters
-ETC_20150317_005391	Honeypin appeared!
-ETC_20150317_005392	Drink the enhanced thorn pollen stimulant before passing by!
-ETC_20150317_005393	Revelation
-ETC_20150317_005394	Run! It's dangerous here!
-ETC_20150317_005395	Are you the support?
-ETC_20150317_005396	Run!!
-ETC_20150317_005397	Rotten Tree Stump
-ETC_20150317_005398	Temporary Cronewt
-ETC_20150317_005399	Temporary Hoglan
-ETC_20150317_005400	Finally, the battle.
-ETC_20150317_005401	Hey new recruit, don't be too scared.
-ETC_20150317_005402	Where is it?
-ETC_20150317_005403	Let's go! Hey new recruit, follow me!
-ETC_20150317_005404	Gaigalas has appeared!
-ETC_20150317_005405	This way. Follow me!
-ETC_20150317_005406	Tomb
-ETC_20150317_005407	Entrance Warning
-ETC_20150317_005408	Mausoleo Real Suppressor
-ETC_20150317_005409	Guardian Purifier
-ETC_20150317_005410	Malfunctioning Guardian Device
-ETC_20150317_005411	As soon as you purified the magic, a demon appeared to stop you!
-ETC_20150317_005412	Protect the Mausoleo Real stone lanterns from the guardians!
-ETC_20150317_005413	Monument of the Mausoleo Real
-ETC_20150317_005414	Malfunctioning Echad
-ETC_20150317_005415	Magic Power Container
-ETC_20150317_005416	Archon appeared to stop the controller from being destroyed!
-ETC_20150317_005417	Corrupt Mausoleo Real Magic Control Device
-ETC_20150317_005418	Stop the Mausoleo Real guards from destroying it!
-ETC_20150317_005419	Stop Bearkaras from destroying the Mausoleo Real
-ETC_20150317_005420	Soul Pot
-ETC_20150317_005421	Intact Jar of Soul
-ETC_20150317_005422	Archer 2nd Circle required
-ETC_20150317_005423	Archer 3rd Circle required
-ETC_20150317_005424	Barbarian 2nd Circle required
-ETC_20150317_005425	Barbarian 3rd Circle required
-ETC_20150317_005426	Bokor 2nd Circle required
-ETC_20150317_005427	Bokor 3rd Circle required
-ETC_20150317_005428	Cataphract 2nd Circle required
-ETC_20150317_005429	Cataphract 3nd Circle required
-ETC_20150317_005430	Cleric 2nd Circle required
-ETC_20150317_005431	Cleric 3rd Circle required
-ETC_20150317_005432	Dievdirbys 2nd Circle required
-ETC_20150317_005433	Dievdirbys 3rd Circle required
-ETC_20150317_005434	Elementalist 2nd Circle required
-ETC_20150317_005435	Elementalist 3rd Circle required
-ETC_20150317_005436	Pyromancer 2nd Circle required
-ETC_20150317_005437	Pyromancer 3rd Circle required
-ETC_20150317_005438	Cryomancer 2nd Circle required
-ETC_20150317_005439	Cryomancer 3rd Circle required
-ETC_20150317_005440	Highlander 2nd Circle required
-ETC_20150317_005441	Highlander 3rd Circle required
-ETC_20150317_005442	Hoplite 2nd Circle required
-ETC_20150317_005443	Hoplite 3rd Circle required
-ETC_20150317_005444	Krivis 2nd Circle required
-ETC_20150317_005445	Krivis 3rd Circle required
-ETC_20150317_005446	Linker 3rd Circle required
-ETC_20150317_005447	Linker 2nd Circle required
-ETC_20150317_005448	Paladin 2nd Circle required
-ETC_20150317_005449	Paladin 3rd Circle required
-ETC_20150317_005450	Peltasta 2nd Circle required
-ETC_20150317_005451	Peltasta 3rd Circle required
-ETC_20150317_005452	Priest 2nd Circle required
-ETC_20150317_005453	Priest 3rd Circle required
-ETC_20150317_005454	Psychokino 2nd Circle required
-ETC_20150317_005455	Psychokino 3rd Circle required
-ETC_20150317_005456	Quarrel Shooter 2nd Circle required
-ETC_20150317_005457	Quarrel Shooter 3rd Circle required
-ETC_20150317_005458	Ranger 2nd Circle required
-ETC_20150317_005459	Ranger 3rd Circle required
-ETC_20150317_005460	Rodelero 2nd Circle required
-ETC_20150317_005461	Rodelero 3rd Circle required
-ETC_20150317_005462	Sadhu 2nd Circle required
-ETC_20150317_005463	Sadhu 3rd Circle required
-ETC_20150317_005464	Sapper 2nd Circle required
-ETC_20150317_005465	Sapper 3rd Circle required
-ETC_20150317_005466	Scout 2nd Circle required
-ETC_20150317_005467	Scout 3rd Circle required
-ETC_20150317_005468	Thaumaturge 2nd Circle required
-ETC_20150317_005469	Swordsman 2nd Circle required
-ETC_20150317_005470	Swordsman 3rd Circle required
-ETC_20150317_005471	Wizard 2nd Circle required
-ETC_20150317_005472	Wizard 3rd Circle required
-ETC_20150317_005473	Wugushi 2nd Circle required
-ETC_20150317_005474	Wugushi 3rd Circle required
-ETC_20150317_005475	Ranking Test
-ETC_20150317_005476	Test Ranking
-ETC_20150317_005477	Best Damage
-ETC_20150317_005478	Maximum Damage
-ETC_20150317_005479	Savior's Beginning
-ETC_20150317_005480	This title is given to players who participated in the CBT.
-ETC_20150317_005481	Monster Ruler
-ETC_20150317_005482	Defeated 100 monsters.
-ETC_20150317_005483	Monster Conqueror
-ETC_20150317_005484	Defeated 1,000 monsters.
-ETC_20150317_005485	Monster Exterminator
-ETC_20150317_005486	Defeated 10,000 monsters.
-ETC_20150317_005487	Monster Hunter
-ETC_20150317_005488	Defeated 100,000 monsters.
-ETC_20150317_005489	The One Who Successfully Overkilled
-ETC_20150317_005490	Achieved 100 Overkills
-ETC_20150317_005491	Overkill Beginner
-ETC_20150317_005492	Achieved 500 Overkills
-ETC_20150317_005493	Overkill Master
-ETC_20150317_005494	Achieved 1,000 Overkills
-ETC_20150317_005495	Overkill God
-ETC_20150317_005496	Achieved 3,000 Overkills
-ETC_20150317_005497	Boss Ruler
-ETC_20150317_005498	Defeated 100 boss monsters.
-ETC_20150317_005499	Boss Conqueror
-ETC_20150317_005500	Defeated 300 boss monsters.
-ETC_20150317_005501	Boss Hunter
-ETC_20150317_005502	Defeated 500 boss monsters.
+ETC_20150317_005389	¡Merogs!
+ETC_20150317_005390	Proteje el Altar de Purificación de los monstruos
+ETC_20150317_005391	¡Mielpin ha aparecido!
+ETC_20150317_005392	¡Bebe el estimulante de pólen de espino mejorado antes de pasar!
+ETC_20150317_005393	Revelación
+ETC_20150317_005394	¡Corre! ¡Es peligroso aquí!
+ETC_20150317_005395	¿Eres tu el apoyo?
+ETC_20150317_005396	¡¡Corre!!
+ETC_20150317_005397	Tocón Podrido
+ETC_20150317_005398	Cronewt Temporal
+ETC_20150317_005399	Hoglan Temporal
+ETC_20150317_005400	Finalmente, la batalla.
+ETC_20150317_005401	Oye novato, no te asustes tanto.
+ETC_20150317_005402	¿Dónde es?
+ETC_20150317_005403	¡Vamos! ¡Oye novato, sígueme!
+ETC_20150317_005404	¡Gaigalas ha aparecido!
+ETC_20150317_005405	Por acá. ¡Sígueme!
+ETC_20150317_005406	Tumba
+ETC_20150317_005407	Advertencia de Entrada
+ETC_20150317_005408	Supresor del Mausoleo Real
+ETC_20150317_005409	Guardían Purificador
+ETC_20150317_005410	Dispositivo Guardían Averiado
+ETC_20150317_005411	Tan pronto cómo purificaste la magia ¡un demonio apareció para detenerte!
+ETC_20150317_005412	¡Proteje las linternas de piedra del Mausoleo Real de los guardianes!
+ETC_20150317_005413	Monumento del Mausoleo Real
+ETC_20150317_005414	Echad Averiado
+ETC_20150317_005415	Contenedor de Poder Mágico
+ETC_20150317_005416	¡Un Archon apareció para evitar que el controlador fuese destruído!
+ETC_20150317_005417	Dispositivo Controlador de Magia del Mausoleo Real Magic Corrupto
+ETC_20150317_005418	¡Evita que los guardias del Mausoleo Real lo destruyan!
+ETC_20150317_005419	Evita que el Bearkaras destruya el Mausoleo Real
+ETC_20150317_005420	Jarra del Alma
+ETC_20150317_005421	Jarra del Alma Intacta
+ETC_20150317_005422	Requiere 2do círculo de Arquero
+ETC_20150317_005423	Requiere 3er círculo de Arquero
+ETC_20150317_005424	Requiere 2do círculo de Bárbaro
+ETC_20150317_005425	Requiere 3er círculo de Bárbaro
+ETC_20150317_005426	Requiere 2do círculo de Bokor
+ETC_20150317_005427	Requiere 3er círculo de Bokor
+ETC_20150317_005428	Requiere 2do círculo de Catafracto
+ETC_20150317_005429	Requiere 3er círculo de Catafracto
+ETC_20150317_005430	Requiere 2do círculo de Clérigo
+ETC_20150317_005431	Requiere 3er círculo de Clérigo
+ETC_20150317_005432	Requiere 2do círculo de Escultor Santo
+ETC_20150317_005433	Requiere 3er círculo de Escultor Santo
+ETC_20150317_005434	Requiere 2do círculo de Elementalista
+ETC_20150317_005435	Requiere 3er círculo de Elementalista
+ETC_20150317_005436	Requiere 2do círculo de Piromante
+ETC_20150317_005437	Requiere 3er círculo de Piromante
+ETC_20150317_005438	Requiere 2do círculo de Criomante
+ETC_20150317_005439	Requiere 3er círculo de Criomante
+ETC_20150317_005440	Requiere 2do círculo de Highlander
+ETC_20150317_005441	Requiere 3er círculo de Highlander
+ETC_20150317_005442	Requiere 2do círculo de Hoplita
+ETC_20150317_005443	Requiere 3er círculo de Hoplita
+ETC_20150317_005444	Requiere 2do círculo de Krivis
+ETC_20150317_005445	Requiere 3er círculo de Krivis
+ETC_20150317_005446	Requiere 3er círculo de Vinculador
+ETC_20150317_005447	Requiere 2do círculo de Vinculador
+ETC_20150317_005448	Requiere 2do círculo de Paladín
+ETC_20150317_005449	Requiere 3er círculo de Paladín
+ETC_20150317_005450	Requiere 2do círculo de Peltasta
+ETC_20150317_005451	Requiere 3er círculo de Peltasta
+ETC_20150317_005452	Requiere 2do círculo de Sacerdote
+ETC_20150317_005453	Requiere 3er círculo de Sacerdote
+ETC_20150317_005454	Requiere 2do círculo de Mentalista
+ETC_20150317_005455	Requiere 3er círculo de Mentalista
+ETC_20150317_005456	Requiere 2do círculo de Ballestero
+ETC_20150317_005457	Requiere 3er círculo de Ballestero
+ETC_20150317_005458	Requiere 2do círculo de Guardabosques
+ETC_20150317_005459	Requiere 3er círculo de Guardabosques
+ETC_20150317_005460	Requiere 2do círculo de Rodelero
+ETC_20150317_005461	Requiere 3er círculo de Rodelero
+ETC_20150317_005462	Requiere 2do círculo de Sadhu
+ETC_20150317_005463	Requiere 3er círculo de Sadhu
+ETC_20150317_005464	Requiere 2do círculo de Zapador
+ETC_20150317_005465	Requiere 3er círculo de Zapador
+ETC_20150317_005466	Requiere 2do círculo de Explorador
+ETC_20150317_005467	Requiere 3er círculo de Explorador
+ETC_20150317_005468	Requiere 2do círculo de Taumaturgo
+ETC_20150317_005469	Requiere 2do círculo de Espadachín
+ETC_20150317_005470	Requiere 3er círculo de Espadachín
+ETC_20150317_005471	Requiere 2do círculo de Mago
+ETC_20150317_005472	Requiere 3er círculo de Mago
+ETC_20150317_005473	Requiere 2do círculo de Wugushi
+ETC_20150317_005474	Requiere 3er círculo de Wugushi
+ETC_20150317_005475	Test de Ranking
+ETC_20150317_005476	Puntuación del Test
+ETC_20150317_005477	Mejor Daño
+ETC_20150317_005478	Máximo Daño
+ETC_20150317_005479	Inicio del Salvador
+ETC_20150317_005480	Este título es entregado a los jugadores que participated in the CBT.
+ETC_20150317_005481	Jefe de Monstruos
+ETC_20150317_005482	Derrotado a 100 monstruos.
+ETC_20150317_005483	Conquistador de Monstruos
+ETC_20150317_005484	Derrotado a 1,000 monstruos.
+ETC_20150317_005485	Exterminador de Monstruos
+ETC_20150317_005486	Derrotado a 10,000 monstruos.
+ETC_20150317_005487	Cazador de Monstruos
+ETC_20150317_005488	Derrotado a 100,000 monstruos.
+ETC_20150317_005489	El que ha Sobrematado con Éxito
+ETC_20150317_005490	Logrado 100 Exterminios
+ETC_20150317_005491	Exterminador Novato
+ETC_20150317_005492	Logrado 500 Exterminios
+ETC_20150317_005493	Exterminador Maestro
+ETC_20150317_005494	Logrado 1,000 Exterminios
+ETC_20150317_005495	Dios Exterminador
+ETC_20150317_005496	Logrado 3,000 Exterminios
+ETC_20150317_005497	Jefe de Jefes
+ETC_20150317_005498	Derrotado a 100 monstruos jefe.
+ETC_20150317_005499	Conquistador de Jefes
+ETC_20150317_005500	Derrotado a 300 monstruos jefe.
+ETC_20150317_005501	Cazador de Jefes
+ETC_20150317_005502	Derrotado a 500 monstruos jefe.
 ETC_20150317_005503	The Walking Dead
-ETC_20150317_005504	Achieved by resurrecting at least 100 times using iCoin.
-ETC_20150317_005505	Crafting Beginner
-ETC_20150317_005506	Succeeded crafting 10 times. Feels pretty good.
-ETC_20150317_005507	Crafting Apprentice
-ETC_20150317_005508	Succeeded crafting 50 times. Getting more used to crafting.
-ETC_20150317_005509	Crafting Expert
-ETC_20150317_005510	Succeeded crafting 100 times. Slowly building up wealth.
-ETC_20150317_005511	Crafting God
-ETC_20150317_005512	Succeeded crafting 300 times. No words can describe this feeling.
-ETC_20150317_005513	Challenger
-ETC_20150317_005514	Knocked out 3 players.
-ETC_20150317_005515	Gladiator
-ETC_20150317_005516	Knocked out 10 players.
-ETC_20150317_005517	Commander of War
-ETC_20150317_005518	Knocked out 20 players.
-ETC_20150317_005519	God of War
-ETC_20150317_005520	Knocked out 50 players.
-ETC_20150317_005521	Dejected People
-ETC_20150317_005522	Monster Energy
-ETC_20150317_005523	Play 7 days.
+ETC_20150317_005504	Logrado al resucitar al menos 100 veces usando iCoins.
+ETC_20150317_005505	Artesano Novato
+ETC_20150317_005506	Creado objetos éxitosamente 10 veces. Se siente bien.
+ETC_20150317_005507	Artesano Aprendíz
+ETC_20150317_005508	Creado objetos éxitosamente 50 veces. Acostumbrándose a crear.
+ETC_20150317_005509	Artesano Experto
+ETC_20150317_005510	Creado objetos éxitosamente 100 veces. Creando una fortuna lentamente.
+ETC_20150317_005511	Dios Artesano
+ETC_20150317_005512	Creado objetos éxitosamente 100 veces. No hay palabras para describir este sentimiento.
+ETC_20150317_005513	Desafiante
+ETC_20150317_005514	Vencido a 3 jugadores.
+ETC_20150317_005515	Gladiador
+ETC_20150317_005516	Vencido a 10 jugadores.
+ETC_20150317_005517	Comandante de Guerra
+ETC_20150317_005518	Vencido a 20 jugadores.
+ETC_20150317_005519	Dios de la Guerra
+ETC_20150317_005520	Vencido a 50 jugadores.
+ETC_20150317_005521	Gente Rechazada
+ETC_20150317_005522	energía de Monstruo
+ETC_20150317_005523	Jugar 7 días continuos.
 ETC_20150317_005524	Dae-Gil
-ETC_20150317_005525	Dae-Gil Stalker
-ETC_20150317_005526	Annoyed Dae-Gil 100 times.
-ETC_20150317_005527	Hair
-ETC_20150317_005528	Cause I'm Special
-ETC_20150317_005529	Visited beauty salon 3 times
-ETC_20150317_005530	Treasure Hunter
-ETC_20150317_005531	Gained 20 treasure boxes from tomb raiding.
-ETC_20150317_005532	Tournament
-ETC_20150317_005533	Tournament Fan Club
-ETC_20150317_005534	Gave 20 gifts away during the tournament.
-ETC_20150317_005535	Tournament Big Fan
-ETC_20150317_005536	Gave 100 gifts away during the tournament.
-ETC_20150317_005537	Tournament Fan Club Vice President
-ETC_20150317_005538	Gave 500 gifts away during the tournament.
-ETC_20150317_005539	Ranking Test 1
-ETC_20150317_005540	Damage Ranking
-ETC_20150317_005541	Overkill Count
-ETC_20150317_005542	Player Kill Count
-ETC_20150317_005543	Kepa Kill Count
-ETC_20150317_005544	Monster Kill Count
-ETC_20150317_005545	Resurrection Count
-ETC_20150317_005546	Boss Monster Kill Count
-ETC_20150317_005547	Tournament Gift
-ETC_20150317_005548	Quest Completion Count
-ETC_20150317_005549	Vegetable Cultivation Count
-ETC_20150317_005550	Succeeded Commission Count
-ETC_20150317_005551	Field Event Completion
-ETC_20150317_005552	Dae-Gil Conversation
-ETC_20150317_005553	Treasure Chests
-ETC_20150317_005554	Item Crafting
-ETC_20150317_005555	Beauty Salon
-ETC_20150317_005556	Access Count
-ETC_20150317_005557	World Exploration Score
-ETC_20150317_005558	Participation CBT1
+ETC_20150317_005525	Acosador de Dae-Gil
+ETC_20150317_005526	Molestado a Dae-Gil 100 veces.
+ETC_20150317_005527	Pelo
+ETC_20150317_005528	Porque soy especial
+ETC_20150317_005529	Visitado el Salón de Belleza 3 veces
+ETC_20150317_005530	Cazador de Tesoros
+ETC_20150317_005531	Obtenido 20 cajas del tesoro asaltando tumbas.
+ETC_20150317_005532	Torneo
+ETC_20150317_005533	Miembro del Club de Fans del Torneo
+ETC_20150317_005534	Realizar 20 regalos durante el Torneo.
+ETC_20150317_005535	Miembro Honorario del Club de Fans del Torneo
+ETC_20150317_005536	Realizar 100 regalos durante el Torneo.
+ETC_20150317_005537	Vicepresidente del Club de Fans del Torneo
+ETC_20150317_005538	Realizar 500 regalos durante el Torneo.
+ETC_20150317_005539	Test de Ranking 1
+ETC_20150317_005540	Ranking de Daño
+ETC_20150317_005541	Cuenta de Exterminios
+ETC_20150317_005542	Cuenta de PJs asesinados
+ETC_20150317_005543	Cuenta de Kepas muertos
+ETC_20150317_005544	Cuenta de Monstruos muertos
+ETC_20150317_005545	Cuenta de Resurrección
+ETC_20150317_005546	Cuenta de Monstruos Jefe muertos
+ETC_20150317_005547	Regalos de Torneo
+ETC_20150317_005548	Cuenta de Misiones Completadas
+ETC_20150317_005549	Cuenta de Vegetales Cultivados
+ETC_20150317_005550	Cuenta de Comisiones Completadas
+ETC_20150317_005551	Eventos de Campo Completos
+ETC_20150317_005552	Conversaciones con Dae-Gil
+ETC_20150317_005553	Cofres del Tesoro
+ETC_20150317_005554	Objetos Creados
+ETC_20150317_005555	Salón de Belleza
+ETC_20150317_005556	Cuenta de Ingresos
+ETC_20150317_005557	Puntuación de Exploración del Mundo
+ETC_20150317_005558	Participación en CBT1
 ETC_20150317_005559	No Stance
-ETC_20150317_005560	Fortune Public Breakfast
+ETC_20150317_005560	Desayuno Público Afortunado
 ETC_20150317_005561	N/A
 ETC_20150317_005562	Sakura Swordsmanship_High
 ETC_20150317_005563	Sakura Swordsmanship_Mid
@@ -5566,13 +5566,13 @@ ETC_20150317_005565	Sakura Swordsmanship_High_Chain Attack
 ETC_20150317_005566	Sakura Swordsmanship_Mid_Chain Attack
 ETC_20150317_005567	Sakura Swordsmanship_Low_Chain Attack
 ETC_20150317_005568	Character Movement Speed
-ETC_20150317_005569	The Line for Fortune Breakfast
+ETC_20150317_005569	La línea para Desayuno de la Fortuna
 ETC_20150317_005570	N/A
-ETC_20150317_005571	For Testing
-ETC_20150317_005572	Fire Swords Middle Guild
+ETC_20150317_005571	Para Test
+ETC_20150317_005572	Gremio Mediano de Espadas de Fuego
 ETC_20150317_005573	Hotel
-ETC_20150317_005574	Evaporation Office
-ETC_20150317_005575	Mountain Top
+ETC_20150317_005574	Oficina de Evaporación
+ETC_20150317_005575	Cima de la Montaña
 ETC_20150317_005576	Baehyeon Moon
 ETC_20150317_005577	Bomung Top
 ETC_20150317_005578	Fire Swords Dock
@@ -5583,311 +5583,311 @@ ETC_20150317_005582	Yeonghwatan Dock
 ETC_20150317_005583	Huisindae
 ETC_20150317_005584	Cheonggyeongyeon
 ETC_20150317_005585	Gunamji
-ETC_20150317_005586	Canyon Wind
-ETC_20150317_005587	Present Wind Wall
-ETC_20150317_005588	Flower Garden Main Street
-ETC_20150317_005589	Town Street
-ETC_20150317_005590	Song In Street
-ETC_20150317_005591	Fire Line Main Street
-ETC_20150317_005592	See Water Forest
-ETC_20150317_005593	Current Fire Place
-ETC_20150317_005594	Large Flower Garden
-ETC_20150317_005595	Small Flower Garden
+ETC_20150317_005586	Cañon del Viento
+ETC_20150317_005587	Muralla de Viento
+ETC_20150317_005588	Avenida Principal del Jardín de Flores
+ETC_20150317_005589	Calle
+ETC_20150317_005590	Canción de la Calle
+ETC_20150317_005591	Avenida Principal Línea de Fuego
+ETC_20150317_005592	Ver Agua en el Bosque
+ETC_20150317_005593	Lugar de Fuego Actual
+ETC_20150317_005594	Gran Jardín de Flores
+ETC_20150317_005595	Pequeño Jardín de Flores
 ETC_20150317_005596	Heojeopyeong
 ETC_20150317_005597	Hyeonga Farm
-ETC_20150317_005598	Bare hands
+ETC_20150317_005598	Manos desnudas
 ETC_20150317_005599	Epee Garde
-ETC_20150317_005600	Shooting
-ETC_20150317_005601	Enlarge Head
-ETC_20150317_005602	Shrink Head
-ETC_20150317_005603	Enlarge Both Hands
-ETC_20150317_005604	Enlarge Both Foot
-ETC_20150317_005605	Enlarge Both Hands and Foot
-ETC_20150317_005606	Destructive Power Enhancement
-ETC_20150317_005607	Velakaras' attack has increased.
-ETC_20150317_005608	Possessed Activated Stone
-ETC_20150317_005609	You can destroy the Seal!
-ETC_20150317_005610	Sandstone Powder Effect
-ETC_20150317_005611	Increased attack
-ETC_20150317_005612	Together, we have nothing to fear!
-ETC_20150317_005613	A holy aura envelopes this monster!
-ETC_20150317_005614	Fog of Light
-ETC_20150317_005615	The Fog of Light conceals the caster from demons
-ETC_20150317_005616	Cause of Jewel's Instability
-ETC_20150317_005617	Attack Power increased from rampaging energy of the crimson flame gem.
-ETC_20150317_005618	Enhanced Thorn Flower Powder Effect
-ETC_20150317_005619	You won't lose your mind under the dark aura.
-ETC_20150317_005620	Unrecognizable
-ETC_20150317_005621	The guardians cannot distinguish the allies and enemies due to corrupted aura of Echad.
-ETC_20150317_005622	Natural Regeneration
-ETC_20150317_005623	The sap quickly heals Nefenders' PS
-ETC_20150317_005624	Neurotoxin
-ETC_20150317_005625	The monster is synthesizing poison!
-ETC_20150317_005626	You've been found
-ETC_20150317_005627	Found by flare. But will run away soon!
-ETC_20150317_005628	Confused after getting hit by a Smoke Bomb.
-ETC_20150317_005629	Binded
-ETC_20150317_005630	Binded by the shackle!
+ETC_20150317_005600	Disparando
+ETC_20150317_005601	Agrandar Cabeza
+ETC_20150317_005602	Achicar Cabeza
+ETC_20150317_005603	Agrandar Ambas Manos
+ETC_20150317_005604	Agrandar Ambos Pies
+ETC_20150317_005605	Agrandar Manos y Pies
+ETC_20150317_005606	Mejora de Poder Destructivo
+ETC_20150317_005607	El ataque del Velakaras ha aumentado.
+ETC_20150317_005608	Has obtenido Piedra Activada
+ETC_20150317_005609	¡Puedes destruir el sello!
+ETC_20150317_005610	Efecto de Polvo de Arenísca
+ETC_20150317_005611	Ataque aumentado
+ETC_20150317_005612	¡Juntos no tenemos nada que temer!
+ETC_20150317_005613	¡Un Aura Sagrada envuelve a este monstruo!
+ETC_20150317_005614	Niebla Lumínica
+ETC_20150317_005615	La Niebla Lumínica oculta a quien la usa de los demonios
+ETC_20150317_005616	Razón de la Inestabilidad de la Joya
+ETC_20150317_005617	Poder de Ataque aumentado por la abasallante energía de la gema de fuego carmesí.
+ETC_20150317_005618	Efecto de Polvo de Flor de Espino Mejorado
+ETC_20150317_005619	No perderás la calma bajo el efecto del aura oscura.
+ETC_20150317_005620	Irreconocible
+ETC_20150317_005621	Los guardianes no puedes distinguir entre aliados o enemigos debido a la corrupta aura del Echad.
+ETC_20150317_005622	Regeneración Natural
+ETC_20150317_005623	La savia cura rápidamente los PS de Nefenders
+ETC_20150317_005624	Neurotóxina
+ETC_20150317_005625	¡El monstruo está sintetizando veneno!
+ETC_20150317_005626	Has sido encontrado
+ETC_20150317_005627	Encontrado por la bengala. ¡Pero huirás pronto!
+ETC_20150317_005628	Confuso luego de ser golpeado por la Bomba de Humo.
+ETC_20150317_005629	Atado
+ETC_20150317_005630	¡Atado por Grilletes!
 ETC_20150317_005631	Romuva
-ETC_20150317_005632	Inflicts 20% additional damage against demons!
-ETC_20150317_005633	Evil Energy Corruption
-ETC_20150317_005634	This monster has been corrupted by the evil energy!
-ETC_20150317_005635	Scattered Stairs Party Buff
-ETC_20150317_005636	Increased attack by 150
-ETC_20150317_005637	Mahogany tree single floor forest party buff
-ETC_20150317_005638	Increased defense by 100
-ETC_20150317_005639	Neutrality
-ETC_20150317_005640	Neutral Status
-ETC_20150317_005641	Warning Signal!
-ETC_20150317_005642	Gesti is nearby!
-ETC_20150317_005643	Sanctification
-ETC_20150317_005644	The spirit has been separated by the power of seal!
-ETC_20150317_005645	The Seal is charging!
-ETC_20150317_005646	Impure Aura Intoxication
-ETC_20150317_005647	You've been poisoned due to the hazy energy from the summon crystal.
-ETC_20150317_005648	Brainwash
-ETC_20150317_005649	Brainwashing in progress
-ETC_20150317_005650	Romuva Holy Water's Effect: Conceals user from demons
-ETC_20150317_005651	Holy Spirit Bomb has been attached
-ETC_20150317_005652	Common Death
-ETC_20150317_005653	Holy Spirit Shackle
-ETC_20150317_005654	Spirit Stone is siphoning this demon's life energy!
-ETC_20150317_005655	Shackled!
-ETC_20150317_005656	Ominous Aura
-ETC_20150317_005657	Hostile
-ETC_20150317_005658	Malda Altar's Aura
-ETC_20150317_005659	The aura of the Malda Altar is enveloping the demons!
-ETC_20150317_005660	Confidence
-ETC_20150317_005661	Demons become easier to deal with.
-ETC_20150317_005662	Glozejas' Power
-ETC_20150317_005663	You can convert the demons!
+ETC_20150317_005632	¡Inflinge un 20% de daño adicional contra demonios!
+ETC_20150317_005633	Corrupción de Energía Maligna
+ETC_20150317_005634	¡Este monstruo ha sido corrompido por la Energía Malgina!
+ETC_20150317_005635	Buff de Grupo - Escalones Desperdigados
+ETC_20150317_005636	Aumenta Ataque en 150
+ETC_20150317_005637	Buff de Grupo - Bosque simple de Caobas
+ETC_20150317_005638	Aumenta Defensa en 100
+ETC_20150317_005639	Neutralidad
+ETC_20150317_005640	Estado Neutral
+ETC_20150317_005641	¡Señal de Alerta!
+ETC_20150317_005642	¡Gesti está cerca!
+ETC_20150317_005643	Santificación
+ETC_20150317_005644	¡El espíritu ha sido separado por el poder del sello!
+ETC_20150317_005645	¡El Sello está cargándose!
+ETC_20150317_005646	Intoxicación por Aura Impura
+ETC_20150317_005647	Has sido envenenado por la energía nebulosa del cristal de invocación.
+ETC_20150317_005648	Lavado de Cerebro
+ETC_20150317_005649	Lavado de Cerebro en progreso
+ETC_20150317_005650	Efecto del Agua Bendita de Romuva: Oculta al usuario de los demonios
+ETC_20150317_005651	Se ha colocado la Bomba Santa
+ETC_20150317_005652	Muerte Común
+ETC_20150317_005653	Grilletes de Espíritu Santo
+ETC_20150317_005654	¡La Piedra Espíritual está drenando la energía vital del demonio!
+ETC_20150317_005655	¡Encadenado con grilletes!
+ETC_20150317_005656	Aura Ominosa
+ETC_20150317_005657	Hostíl
+ETC_20150317_005658	Aura del Altar de Malda
+ETC_20150317_005659	¡El aura del Altar de Malda está envolviendo a los demonios!
+ETC_20150317_005660	Confianza
+ETC_20150317_005661	Ahora es más facil lidiar con los demonios.
+ETC_20150317_005662	Poder de Glozejas
+ETC_20150317_005663	¡Puedes convertir a los demonios!
 ETC_20150317_005664	Hoodwink
-ETC_20150317_005665	Lethargy Grass' Scent
-ETC_20150317_005666	Movement speed has decreased due to scent of the Lethargy Grass.
-ETC_20150317_005667	Carbonizing
-ETC_20150317_005668	It's burning!
-ETC_20150317_005669	Leaked Sap
-ETC_20150317_005670	Getting its sap extracted
-ETC_20150317_005671	Burning
-ETC_20150317_005672	It's burning!
-ETC_20150317_005673	Mind Control (Hombre Lagarto)
-ETC_20150317_005674	This Hombre Lagarto is being mind controlled.
-ETC_20150317_005675	Mind Control (Infroburk)
-ETC_20150317_005676	This Infroburk is being mind controlled.
-ETC_20150317_005677	Has scented stone powder on it.
-ETC_20150317_005678	Sweet smell
-ETC_20150317_005679	Smells sweet.
-ETC_20150317_005680	The smell of honey
-ETC_20150317_005681	Smelled the honey
-ETC_20150317_005682	Petrifaction Buff
-ETC_20150317_005683	Death Stop
-ETC_20150317_005684	Seal Candlestick's Barrier Activated
-ETC_20150317_005685	Seal Candlestick's Barrier Debuff
-ETC_20150317_005686	Parts in possession
-ETC_20150317_005687	I have purifier parts.
-ETC_20150317_005688	Scented Stone Powder Applied
-ETC_20150317_005689	Scented Stone Powder has been applied! Luring a powerful monster
-ETC_20150317_005690	Promotional Material Attached
-ETC_20150317_005691	The Royal Army's promotional material is attached on it!
-ETC_20150317_005692	Body Odor Obtained
-ETC_20150317_005693	Nefenders has fainted!
-ETC_20150317_005694	Wide Area Shooting
-ETC_20150317_005695	Desperate Sprint
-ETC_20150317_005696	Running away to stay alive
-ETC_20150317_005697	To test for brainwashing
-ETC_20150317_005698	Brainwashed
-ETC_20150317_005699	Blessing - Increased Movement Speed
-ETC_20150317_005700	You must receive a blessing to increase your movement speed!
-ETC_20150317_005701	Soul Separation
-ETC_20150317_005702	The monsters have become trapped after repairing the Raíz Cristal del Árbol!
-ETC_20150317_005703	Waiting to repair the Raíz Cristal del Árbol.
-ETC_20150317_005704	Potency Generation
-ETC_20150317_005705	Test Reagent's Potency Generation
-ETC_20150317_005706	Incapable of Combat
-ETC_20150317_005707	Stinging pain.
-ETC_20150317_005708	You've been pricked by the Razorfen.
-ETC_20150317_005709	Thorn Poison
-ETC_20150317_005710	Life Drain
-ETC_20150317_005711	Confusion
-ETC_20150317_005712	Rewind Time
-ETC_20150317_005713	Rewind Time refreshes the remaining time of PS, PM and STA buffs. Additionally resets all cooldowns.
-ETC_20150317_005714	Go Back in Time
-ETC_20150317_005715	Rewind a monster's behavior.
-ETC_20150317_005716	String
-ETC_20150317_005717	Connects mind and body with the target. All damage received is shared.
-ETC_20150317_005718	Spiritual Chain
-ETC_20150317_005719	Connects mind and body with the target. All damage received is shared.
-ETC_20150317_005720	Joint Penalty
-ETC_20150317_005721	Lifeline
-ETC_20150317_005722	You will receive the defense and Pirizen from connection.
-ETC_20150317_005723	Defense and Prison are given to the linked members
-ETC_20150317_005724	Soul Defense
-ETC_20150317_005725	All damage received will be redirected to your Summon instead.
-ETC_20150317_005726	Predicting an enemy's attack
-ETC_20150317_005727	Transform
-ETC_20150317_005728	Monster Transformation
-ETC_20150317_005729	Telepathy
-ETC_20150317_005730	Plant Shield
-ETC_20150317_005731	Earth Tower Monster
-ETC_20150317_005732	Receiving aura from the Earth Tower.
-ETC_20150317_005733	Area Stun
-ETC_20150317_005734	Stuns all enemies within the area for 5 segundos. Stun can be recovered by Cure.
-ETC_20150317_005735	Dark Floor Creation
-ETC_20150317_005736	Creates a dark floor every five segundos
-ETC_20150317_005737	It's frightening if they gather together
-ETC_20150317_005738	Stun
-ETC_20150317_005739	You cannot move. You will be released upon a hit, but you will receive 10% more damage.
-ETC_20150317_005740	Sleep
-ETC_20150317_005741	You fell asleep. Can't perform any actions until hit by an attack.
-ETC_20150317_005742	You have been frozen and receive continuous cold damage. Cannot move.
-ETC_20150317_005743	You are trapped in time and space. Cannot move or attack.
-ETC_20150317_005744	You cannot take action. Damage taken is decreased by 50% under the effect of [Petrified]. Attacks may cancel this effect.
-ETC_20150317_005745	Silence
-ETC_20150317_005746	Basic attacks and skills cannot be used.
-ETC_20150317_005747	Can't distinguish between enemy and friendly forces.
-ETC_20150317_005748	Receiving continuous damage. The more you move, the more damage you receive.
-ETC_20150317_005749	Massive Bleeding
-ETC_20150317_005750	Receiving continuous [Bleeding] damage. Movement amplifies the damage additionally.
-ETC_20150317_005751	Receiving continuous [Poisoning] damage. This effect will end over time or can be cured by Cure or an antidote.
-ETC_20150317_005752	Receiving continuous [Fire] damage.
-ETC_20150317_005753	Can't recover PS and PM. Recoverable with Cure.
-ETC_20150317_005754	Attack Weakened
-ETC_20150317_005755	Decreased attack. Decreases more per stack.
-ETC_20150317_005756	Defense Weakened
-ETC_20150317_005757	Decreased defense. Decreases more per stack
-ETC_20150317_005758	Armor Break
-ETC_20150317_005759	Temporarily removes the defense of your armor.
-ETC_20150317_005760	Make continuous damage to Human, wild animal monsters, If the different Human, wild animal monsters are closed then infection randomly.
-ETC_20150317_005761	Slow
-ETC_20150317_005762	Your movement speed is decreased by 50%.
-ETC_20150317_005763	Miniaturization
-ETC_20150317_005764	Body shrinks down
-ETC_20150317_005765	Enlargement
-ETC_20150317_005766	Larger body.
-ETC_20150317_005767	Receive damage like you will be acted in a body with different string state object.
-ETC_20150317_005768	Temporarily decreases INT and SPR significantly.
-ETC_20150317_005769	Temporarily cannot see your surroundings.
-ETC_20150317_005770	Improved defense.
-ETC_20150317_005771	Improved movement speed.
-ETC_20150317_005772	Improved attack.
-ETC_20150317_005773	Armor
-ETC_20150317_005774	Temporarily reflects an attack by 20%.
-ETC_20150317_005775	Shock Absorption
-ETC_20150317_005776	Creates a protective barrier that temporarily blocks all incoming damage.
-ETC_20150317_005777	Decreased movement speed.
-ETC_20150317_005778	Decreased Attack
-ETC_20150317_005779	Decreased attack.
-ETC_20150317_005780	Rage of Helgasercle
-ETC_20150317_005781	Increased defense
-ETC_20150317_005782	Rage of Archon
-ETC_20150317_005783	Stickiness
-ETC_20150317_005784	Movement Speed has decreased due to stickiness.
-ETC_20150317_005785	In a state of rage. Your defense has increased.
-ETC_20150317_005786	Enhance Defense
-ETC_20150317_005787	Temporarily increases your defense.
-ETC_20150317_005788	Increase Movement Speed
-ETC_20150317_005789	Temporarily increases your movement speed.
-ETC_20150317_005790	Return
-ETC_20150317_005791	Crystal Thorn
-ETC_20150317_005792	Continuous Recovery
-ETC_20150317_005793	Recovers 20% PS every 10 segundos
-ETC_20150317_005794	Max Defense
-ETC_20150317_005795	Max Attack
-ETC_20150317_005796	Strength Decrease
-ETC_20150317_005797	Your strength has decreased.
-ETC_20150317_005798	Slowed movement and mental strength is reduced.
-ETC_20150317_005799	Poison Cloud
-ETC_20150317_005800	A state of continuous equipment damage.
-ETC_20150317_005801	Poison Cloud.
-ETC_20150317_005802	Blood Dots Stimulation
-ETC_20150317_005803	Increased attack, decreased defense.
-ETC_20150317_005804	Great Item
-ETC_20150317_005805	Obtain great items
-ETC_20150317_005806	Poison Coating
-ETC_20150317_005807	Coated a weapon with poison.
-ETC_20150317_005808	Recovered PS.
-ETC_20150317_005809	Eye of Death
-ETC_20150317_005810	Death is waiting. You cannot use your skills.
-ETC_20150317_005811	Fury
-ETC_20150317_005812	Increased attack by 100%.{nl}Immune to knockback and knockdown.
-ETC_20150317_005813	Revenge
-ETC_20150317_005814	Counter attack is possible.
-ETC_20150317_005815	Decreased movement speed by 50%
-ETC_20150317_005816	Cannot Attack
-ETC_20150317_005817	Shock
-ETC_20150317_005818	Decreased defense and movement speed
-ETC_20150317_005819	Exhaust
-ETC_20150317_005820	I have used up all of my strength, I should rest. My defense has also dropped.
-ETC_20150317_005821	Invincibility
-ETC_20150317_005822	You temporarily become invincible, but cannot execute any attacks.
+ETC_20150317_005665	Aroma de Pasto Letárgico
+ETC_20150317_005666	La Velocidad de Movimiento ha sido reducida debido al aroma del Pasto Letárgico.
+ETC_20150317_005667	Carbonizando
+ETC_20150317_005668	¡Se está quemando!
+ETC_20150317_005669	Savia filtrada
+ETC_20150317_005670	Extrayendole la savia
+ETC_20150317_005671	Quemando
+ETC_20150317_005672	¡Se quema!
+ETC_20150317_005673	Control Mental (Hombre Lagarto)
+ETC_20150317_005674	Este Hombre Lagarto esta siendo controlado mentalmente.
+ETC_20150317_005675	Control Mental (Infroburk)
+ETC_20150317_005676	Este Infroburk esta siendo controlado mentalmente.
+ETC_20150317_005677	Tiene polvo de piedra aromática encima.
+ETC_20150317_005678	Olor Dulce
+ETC_20150317_005679	Huele dulce.
+ETC_20150317_005680	El olor de la miel
+ETC_20150317_005681	Has olido la miel
+ETC_20150317_005682	Buff de petrificación
+ETC_20150317_005683	Alto Letal
+ETC_20150317_005684	Barrera del Sello de Velas Activada
+ETC_20150317_005685	Debuff de Barrera del Sello de Velas
+ETC_20150317_005686	Partes en posesión
+ETC_20150317_005687	Tengo partes del purificador.
+ETC_20150317_005688	Polvo de Piedra Aromática Aplicado
+ETC_20150317_005689	¡El Polvo de Piedra Aromática ha sido aplicado! Atrayendo un monstruo poderoso
+ETC_20150317_005690	Material promocional pegado
+ETC_20150317_005691	¡Le has pegado el material promocional de la Armada Real!
+ETC_20150317_005692	Olor Corporal obtenido
+ETC_20150317_005693	¡Nefenders se ha desmayado!
+ETC_20150317_005694	Amplía área de disparo
+ETC_20150317_005695	Carrera desesperada
+ETC_20150317_005696	Huyendo para mantenerse con vida
+ETC_20150317_005697	Para testear el lavado de cerebro
+ETC_20150317_005698	Cerebro lavado
+ETC_20150317_005699	Bendeción - Velocidad de Movimiento aumentada
+ETC_20150317_005700	¡Debes recibir una bendición para aumentar tu velocidad de movimiento!
+ETC_20150317_005701	Separación de Alma
+ETC_20150317_005702	¡Los monstruos han sido atrapados luego de reparar la Raíz Cristal del Árbol!
+ETC_20150317_005703	Esperando a reparar la Raíz Cristal del Árbol.
+ETC_20150317_005704	Generación de Potencia
+ETC_20150317_005705	Prueba de Generación de Potencia del Reactivo
+ETC_20150317_005706	Incapaz de Combatir
+ETC_20150317_005707	Dolor punzante.
+ETC_20150317_005708	Has sido punzado por el Razorfen.
+ETC_20150317_005709	Veneno de Púas
+ETC_20150317_005710	Drenar Vida
+ETC_20150317_005711	Confusión
+ETC_20150317_005712	Regresar el Tiempo
+ETC_20150317_005713	Regresar el Tiempo reinicia los contadores de Buffs de PS, PM y Resistencia. Adicionalmente reinicia todos los enfriamentos.
+ETC_20150317_005714	Volver en el Tiempo
+ETC_20150317_005715	Reinicia el comportamiento de un monstruo.
+ETC_20150317_005716	Cadena
+ETC_20150317_005717	Conecta cuerpo y alma con el objetivo. Todo el daño recibido es compartido.
+ETC_20150317_005718	Cadena Espíritual
+ETC_20150317_005719	Conecta cuerpo y alma con el objetivo. Todo el daño recibido es compartido.
+ETC_20150317_005720	Castigo Conjunto
+ETC_20150317_005721	Línea de vida
+ETC_20150317_005722	Recibirás la defensa y Pirizen de la conexión.
+ETC_20150317_005723	Defensa y prisión es otorgada a los miembros vinculados
+ETC_20150317_005724	Defensa del Alma
+ETC_20150317_005725	Todo daño recibido será redirigido a tu Invocaión.
+ETC_20150317_005726	Prediciendo un ataque enemigo
+ETC_20150317_005727	Transformación
+ETC_20150317_005728	Transformación en Monstruo
+ETC_20150317_005729	Telepatía
+ETC_20150317_005730	Escudo de Plantas
+ETC_20150317_005731	Monstruo de la Torre de la Tierra
+ETC_20150317_005732	Recibiendo aura de la Torre de la Tierra.
+ETC_20150317_005733	Aturdir en área
+ETC_20150317_005734	Aturde a todos los enemigos en el área por 5 segundos. Aturdir puede ser recuperado con Cura.
+ETC_20150317_005735	Creación de Piso Oscuro
+ETC_20150317_005736	Crea un piso oscuro cada 5 segundos
+ETC_20150317_005737	Es aterrador si se juntan
+ETC_20150317_005738	Aturdido
+ETC_20150317_005739	No puedes moverte. Serás liberado si eres golpeado, pero recibirás un 10% de daño adicional.
+ETC_20150317_005740	Dormido
+ETC_20150317_005741	Caes dormido. No puedes realizar ninguna acción hasta que seas golpeado.
+ETC_20150317_005742	Has sido congelado y recibirás daño continuo por el frío. No puedes moverte.
+ETC_20150317_005743	Estás atrapado en el espacio-tiempo. No puedes moverte ni atacar.
+ETC_20150317_005744	No puedes realizar acciones. El daño recibido es reducido en 50% bajo el efecto de [Petrificado]. Recibir un ataque cancela este efecto.
+ETC_20150317_005745	Silenciado
+ETC_20150317_005746	No puedes usar ataques básicos ni habilidades.
+ETC_20150317_005747	No puedes distinguir entre blancos aliados o enemigos.
+ETC_20150317_005748	Recibiendo daño continuo. Mientras más te mueves, más daño recibes.
+ETC_20150317_005749	Sangrado Masivo
+ETC_20150317_005750	Recibiendo daño continuo por [Sangrado]. Moverse amplifica el daño.
+ETC_20150317_005751	Recibiendo daño continuo por [Veneno]. This effect will end over time or can be cured by Cure or an antidote.
+ETC_20150317_005752	Recibiendo daño continuo por [Fuego].
+ETC_20150317_005753	Imposible recuperar PS o PM. Recuperable con Cura.
+ETC_20150317_005754	Disminución de Ataque
+ETC_20150317_005755	Ataque disminuído. Cada acumulación aumenta la cantidad reducida.
+ETC_20150317_005756	Disminución de Defensa 
+ETC_20150317_005757	Defensa disminuída. Cada acumulación aumenta la cantidad reducida
+ETC_20150317_005758	Armadura Rota
+ETC_20150317_005759	Temporalmente remueve la defensa de tu armadura.
+ETC_20150317_005760	Hace daño continuo a Humanos y Bestias, A diferencia de los humanos, las Bestias son acercadas y luego infectadas.
+ETC_20150317_005761	Ralentí
+ETC_20150317_005762	Tu velocidad de movimiento se reduce en un 50%.
+ETC_20150317_005763	Miniaturización
+ETC_20150317_005764	Tu cuerpo es empequeñecido
+ETC_20150317_005765	Agrandamiento
+ETC_20150317_005766	Cuerpo más grande.
+ETC_20150317_005767	Recibe daño acorde al tamaño de tu cuerpo.
+ETC_20150317_005768	Temporalmente reduce INT y SPR significativamente.
+ETC_20150317_005769	Temporalmente no puedes ver tus alrededores.
+ETC_20150317_005770	Defensa mejorada.
+ETC_20150317_005771	Velocidad de movimiento Mejorada.
+ETC_20150317_005772	Ataque mejorado.
+ETC_20150317_005773	Armadura
+ETC_20150317_005774	Temporalmente refleja el 20% de un ataque.
+ETC_20150317_005775	Absorción de Choque
+ETC_20150317_005776	Crea una barrera protectora que temporalmente bloquea todo el daño recibido.
+ETC_20150317_005777	Velocidad de movimiento reducida.
+ETC_20150317_005778	Ataque Reducido
+ETC_20150317_005779	Ataque reducido.
+ETC_20150317_005780	Ira de Helgasercle
+ETC_20150317_005781	Defensa aumentada
+ETC_20150317_005782	Ira de Archon
+ETC_20150317_005783	Viscosidad
+ETC_20150317_005784	Velocidad de movimiento reducida debido a la viscosidad.
+ETC_20150317_005785	En un estado de furia. Tu defensa ha aumentado.
+ETC_20150317_005786	Mejorar Defensa
+ETC_20150317_005787	Temporalmente aumenta tu defensa.
+ETC_20150317_005788	Velocidad de movimiento aumentada
+ETC_20150317_005789	Temporalmente aumenta tu velocidad de movimiento.
+ETC_20150317_005790	Regreso
+ETC_20150317_005791	Espina Cristal
+ETC_20150317_005792	Recuperación Continua
+ETC_20150317_005793	Recupera 20% de PS cada 10 segundos
+ETC_20150317_005794	Máx Defensa
+ETC_20150317_005795	Máx Ataque
+ETC_20150317_005796	Reducción de Fuerza
+ETC_20150317_005797	Tu fuerza ha sido reducida.
+ETC_20150317_005798	Movimiento y fuerza mental reducidos.
+ETC_20150317_005799	Nube Venenosa
+ETC_20150317_005800	Un estado de continuo daño al equipo.
+ETC_20150317_005801	Nube Venenosa.
+ETC_20150317_005802	Estimulación de Puntos Sanguíneos
+ETC_20150317_005803	Aumenta ataque, reduce defensa.
+ETC_20150317_005804	Gran Objeto
+ETC_20150317_005805	Obtiene Grandes Objetos
+ETC_20150317_005806	Cobertura de Veneno
+ETC_20150317_005807	Recubre un arma con veneno.
+ETC_20150317_005808	PS Recuperado.
+ETC_20150317_005809	Ojo Letal
+ETC_20150317_005810	La muerte te espera. No puedes usar habilidades.
+ETC_20150317_005811	Furía
+ETC_20150317_005812	Aumenta ataque en 100%.{nl}Immune a empujes y caídas.
+ETC_20150317_005813	Venganza
+ETC_20150317_005814	Puedes contra-atacar.
+ETC_20150317_005815	Velocidad de Movimiento disminuída en 50%
+ETC_20150317_005816	Imposible Atacar
+ETC_20150317_005817	Estado de Shock
+ETC_20150317_005818	Reduce defensa y velocidad de movimiento
+ETC_20150317_005819	Extenuación
+ETC_20150317_005820	He usado toda mi fuerza, debería descanzar. Mi defensa también ha bajado.
+ETC_20150317_005821	Invencibilidad
+ETC_20150317_005822	Te vuelves temporalmente invencible, pero no puedes ejecutar ningún ataque.
 ETC_20150317_005823	Kubus
-ETC_20150317_005824	Kubus: Flame
-ETC_20150317_005825	Increased Fire property resistance of Kubus.
-ETC_20150317_005826	Kubus: Water
-ETC_20150317_005827	Increased Ice property resistance of Kubus.
-ETC_20150317_005828	Kubus: Tempest
-ETC_20150317_005829	Increased Lightning property resistance of Kubus.
-ETC_20150317_005830	Dispel Magic
-ETC_20150317_005831	Dispel Magic Attack
-ETC_20150317_005832	Physical Attack Accumulation
-ETC_20150317_005833	Stacks each time whenever you receive a physical attack from the enemy.
-ETC_20150317_005834	Magic Attack Accumulation
-ETC_20150317_005835	Stacks each time whenever you receive a magical attack from the enemy.
-ETC_20150317_005836	Hammer Impact
-ETC_20150317_005837	A big impact has been made.
-ETC_20150317_005838	Sticky Foam
-ETC_20150317_005839	Burn
-ETC_20150317_005840	Periodically inflicts 1 damage. Unable to use skills.
-ETC_20150317_005841	Movement Speed Increase Range Buff
-ETC_20150317_005842	Movement Speed Decrease Debuff
-ETC_20150317_005843	Increased Block Chance
-ETC_20150317_005844	Increased Block Chance Buff
-ETC_20150317_005845	Movement Speed Buff
-ETC_20150317_005846	Increased Movement Speed
-ETC_20150317_005847	Fire Wall
-ETC_20150317_005848	Fire Wall Skill
-ETC_20150317_005849	Cure Debuff
-ETC_20150317_005850	Immolation Debuff
-ETC_20150317_005851	Heal Debuff
-ETC_20150317_005852	Heal Attack
-ETC_20150317_005853	Increased Attack Buff
-ETC_20150317_005854	Increased Attack Exponential Buff
-ETC_20150317_005855	Decreased Attack Debuff
-ETC_20150317_005856	Aggressor Buff
-ETC_20150317_005857	Decreased evasion rate, increased accuracy rate
-ETC_20150317_005858	Transpose Buff
-ETC_20150317_005859	Convert monster's PS into attack
-ETC_20150317_005860	During throw
-ETC_20150317_005861	During throw
-ETC_20150317_005862	Receiving continuous [Flame] damage
-ETC_20150317_005863	PS Restricted
-ETC_20150317_005864	Poison Bleeding
-ETC_20150317_005865	Create Poison Field
-ETC_20150317_005866	Paereomyun Collection
+ETC_20150317_005824	Kubus: Flama
+ETC_20150317_005825	Aumenta resistencia a elemento Fuego de Kubus.
+ETC_20150317_005826	Kubus: Agua
+ETC_20150317_005827	Aumenta resistencia a elemento Hielo de Kubus.
+ETC_20150317_005828	Kubus: Tempestad
+ETC_20150317_005829	Aumenta resistencia a elemento Electricidad de Kubus.
+ETC_20150317_005830	Desvanecer Magia
+ETC_20150317_005831	Ataque para Desvanecer Magia
+ETC_20150317_005832	Acumulación de Ataque Físico
+ETC_20150317_005833	Se acumula cada vez que recibes un ataque físico del enemigo.
+ETC_20150317_005834	Acumulación de Ataque Mágico
+ETC_20150317_005835	Se acumula cada vez que recibes un ataque mágico del enemigo.
+ETC_20150317_005836	Impacto Martillo
+ETC_20150317_005837	Se ha hecho un gran impacto.
+ETC_20150317_005838	Espuma Pegajoza
+ETC_20150317_005839	Quemado
+ETC_20150317_005840	Periodicamente recibe 1 de daño. Imposible usar habilidades.
+ETC_20150317_005841	Buff, aumenta velocidad de movimiento
+ETC_20150317_005842	Debuff, reduce velocidad de movimiento
+ETC_20150317_005843	% de Bloqueo Aumentado
+ETC_20150317_005844	Buff, aumenta % de Bloqueo
+ETC_20150317_005845	Buff de velocidad de movimiento
+ETC_20150317_005846	Aumenta velocidad de movimiento
+ETC_20150317_005847	Muro de Fuego
+ETC_20150317_005848	Habilidad - Muro de Fuego 
+ETC_20150317_005849	Debuff de Cura
+ETC_20150317_005850	Debuff de Immolación 
+ETC_20150317_005851	Debuff de Curación
+ETC_20150317_005852	Attack de Curación
+ETC_20150317_005853	Buff de Ataque Aumentado
+ETC_20150317_005854	Buff de Aumento Exponencial de Ataque
+ETC_20150317_005855	Debuff de Ataque Reducido
+ETC_20150317_005856	Buff de Agresor
+ETC_20150317_005857	Reduce tasa de evasión, aumenta precisión
+ETC_20150317_005858	Buff de Transposición
+ETC_20150317_005859	Convierte los PS de un monstruo en ataque
+ETC_20150317_005860	Durante lanzamiento
+ETC_20150317_005861	Durante lanzamiento
+ETC_20150317_005862	Recibiendo daño continuo de [Flamas]
+ETC_20150317_005863	PS Restringidos
+ETC_20150317_005864	Sangrado Venenoso
+ETC_20150317_005865	Crear Campo de Veneno
+ETC_20150317_005866	Colección Paereomyun
 ETC_20150317_005867	¡Deshaste de la tribu Vubbe!
 ETC_20150317_005868	¡Deshaste de la tribu Vubbe para el test!
-ETC_20150317_005869	Short Cut
-ETC_20150317_005870	Asymmetrical Short Cut
-ETC_20150317_005871	Long Shaggy
-ETC_20150317_005872	Regent
-ETC_20150317_005873	Volume Curl
-ETC_20150317_005874	Short Shaggy
-ETC_20150317_005875	Ponytail
-ETC_20150317_005876	Slicked-back Hair
-ETC_20150317_005877	Twintail
+ETC_20150317_005869	Corto
+ETC_20150317_005870	Asimetrico Corto
+ETC_20150317_005871	Melena Larga
+ETC_20150317_005872	Pompadour
+ETC_20150317_005873	Rizado Voluminoso
+ETC_20150317_005874	Melena Corta
+ETC_20150317_005875	Cola de Caballo
+ETC_20150317_005876	Hacia atrás
+ETC_20150317_005877	Coletas
 ETC_20150317_005878	Baby Perm
-ETC_20150317_005879	Reggae Ponytail
-ETC_20150317_005880	Dandy
-ETC_20150317_005881	Double Bun
-ETC_20150317_005882	Short Ponytail
-ETC_20150317_005883	Long Layered
-ETC_20150317_005884	Noble Wave
-ETC_20150317_005885	Short Twin Tail
+ETC_20150317_005879	Cola de Caballo Reggae
+ETC_20150317_005880	Con Estilo
+ETC_20150317_005881	Doble Moño
+ETC_20150317_005882	Cola de Caballo Corta
+ETC_20150317_005883	Largo Escalonado
+ETC_20150317_005884	Noble Ondulado
+ETC_20150317_005885	Coletas Cortas
 ETC_20150317_005886	Shadow Perm
-ETC_20150317_005887	Tied Long Wave
+ETC_20150317_005887	Largo Recogido
 ETC_20150317_005888	Subject
-ETC_20150317_005889	Short Description
-ETC_20150317_005890	Description1
+ETC_20150317_005889	Descripción Corta
+ETC_20150317_005890	Descripción1
 ETC_20150317_005891	Simple Description
 ETC_20150317_005892	Detailed Description
 ETC_20150317_005893	Additional description of the image
@@ -6849,71 +6849,71 @@ ETC_20150317_006849	Please enter 123
 ETC_20150317_006850	Please enter abc
 ETC_20150317_006851	Iron Ore
 ETC_20150317_006852	Receta - Gladius
-ETC_20150317_006853	Earth Tower Hidden Trigger Monster
-ETC_20150317_006854	Earth Tower Hidden Trigger
-ETC_20150317_006855	Earth Tower Stone Whale
-ETC_20150317_006856	Earth Tower Boss
-ETC_20150317_006857	Earth Tower Chaparición
-ETC_20150317_006858	Earth Tower Tomb Lord
-ETC_20150317_006859	Earth Tower Mine Loader
-ETC_20150317_006860	Earth Tower Cerberus
-ETC_20150317_006861	Earth Tower Vubbe Miner
-ETC_20150317_006862	Earth Tower Monster
-ETC_20150317_006863	Earth Tower Bat
-ETC_20150317_006864	Earth Tower Shredded
-ETC_20150317_006865	Earth Tower Stone Orca
-ETC_20150317_006866	Earth Tower Yekubite
-ETC_20150317_006867	Earth Tower Vubbe Archer
-ETC_20150317_006868	Earth Tower Vubbe Wizard
-ETC_20150317_006869	Earth Tower Vubbe Warrior
-ETC_20150317_006870	Earth Tower Vubbe Chaser
-ETC_20150317_006871	Earth Tower Vubbe Fire Wizard
-ETC_20150317_006872	Earth Tower Vubbe Ice Wizard
-ETC_20150317_006873	Earth Tower Yognome
-ETC_20150317_006874	Earth Tower Desmodus
-ETC_20150317_006875	Earth Tower Rodelin
-ETC_20150317_006876	Earth Tower Egnome
-ETC_20150317_006877	Earth Tower Corylus
-ETC_20150317_006878	Earth Tower Green Apparition
-ETC_20150317_006879	Earth Tower Pawnd
-ETC_20150317_006880	Earth Tower Pawndel
-ETC_20150317_006881	Earth Tower Fallenlem
-ETC_20150317_006882	Earth Tower Galok
-ETC_20150317_006883	Earth Tower Varv
-ETC_20150317_006884	Earth Tower Boowook
-ETC_20150317_006885	Earth Tower Hogma Warrior
-ETC_20150317_006886	Earth Tower Zinutekas
-ETC_20150317_006887	Earth Tower Vesper
-ETC_20150317_006888	Earth Tower Vikaras
-ETC_20150317_006889	Earth Tower Tombsinker
-ETC_20150317_006890	Earth Tower Echad
-ETC_20150317_006891	Earth Tower Vekarabe
-ETC_20150317_006892	Earth Tower Shtayim
-ETC_20150317_006893	Earth Tower Karas
-ETC_20150317_006894	Earth Tower Vikaras Mage
-ETC_20150317_006895	Earth Tower Corrupt Vikaras Mage
-ETC_20150317_006896	Earth Tower Venucelos
-ETC_20150317_006897	Earth Tower Wheelen
-ETC_20150317_006898	Earth Tower Medakia
-ETC_20150317_006899	Earth Tower Rusrat
-ETC_20150317_006900	Earth Tower Mauros
-ETC_20150317_006901	Earth Tower Rubblem
-ETC_20150317_006902	Earth Tower Drake
-ETC_20150317_006903	Earth Tower Phyracon
-ETC_20150317_006904	Earth Tower Shaman Doll
-ETC_20150317_006905	Earth Tower Large Slime
-ETC_20150317_006906	Earth Tower Blindlem
-ETC_20150317_006907	Earth Tower Belegg
-ETC_20150317_006908	Earth Tower Red Infrorocktor
-ETC_20150317_006909	Earth Tower Chromadog
-ETC_20150317_006910	Earth Tower Arma
-ETC_20150317_006911	Earth Tower Black Desmodus
-ETC_20150317_006912	Earth Tower Minivern
-ETC_20150317_006913	Earth Tower Wizard Shaman Doll
-ETC_20150317_006914	Earth Tower Flask
-ETC_20150317_006915	Earth Tower Black Drake
-ETC_20150317_006916	Earth Tower Dimmer
-ETC_20150317_006917	Earth Tower Black Shaman Doll
+ETC_20150317_006853	Torre de la Tierra Hidden Trigger Monster
+ETC_20150317_006854	Torre de la Tierra Hidden Trigger
+ETC_20150317_006855	Torre de la Tierra Stone Whale
+ETC_20150317_006856	Torre de la Tierra Boss
+ETC_20150317_006857	Torre de la Tierra Chaparición
+ETC_20150317_006858	Torre de la Tierra Tomb Lord
+ETC_20150317_006859	Torre de la Tierra Mine Loader
+ETC_20150317_006860	Torre de la Tierra Cerberus
+ETC_20150317_006861	Torre de la Tierra Vubbe Miner
+ETC_20150317_006862	Torre de la Tierra Monster
+ETC_20150317_006863	Torre de la Tierra Bat
+ETC_20150317_006864	Torre de la Tierra Shredded
+ETC_20150317_006865	Torre de la Tierra Stone Orca
+ETC_20150317_006866	Torre de la Tierra Yekubite
+ETC_20150317_006867	Torre de la Tierra Vubbe Archer
+ETC_20150317_006868	Torre de la Tierra Vubbe Wizard
+ETC_20150317_006869	Torre de la Tierra Vubbe Warrior
+ETC_20150317_006870	Torre de la Tierra Vubbe Chaser
+ETC_20150317_006871	Torre de la Tierra Vubbe Fire Wizard
+ETC_20150317_006872	Torre de la Tierra Vubbe Ice Wizard
+ETC_20150317_006873	Torre de la Tierra Yognome
+ETC_20150317_006874	Torre de la Tierra Desmodus
+ETC_20150317_006875	Torre de la Tierra Rodelin
+ETC_20150317_006876	Torre de la Tierra Egnome
+ETC_20150317_006877	Torre de la Tierra Corylus
+ETC_20150317_006878	Torre de la Tierra Green Apparition
+ETC_20150317_006879	Torre de la Tierra Pawnd
+ETC_20150317_006880	Torre de la Tierra Pawndel
+ETC_20150317_006881	Torre de la Tierra Fallenlem
+ETC_20150317_006882	Torre de la Tierra Galok
+ETC_20150317_006883	Torre de la Tierra Varv
+ETC_20150317_006884	Torre de la Tierra Boowook
+ETC_20150317_006885	Torre de la Tierra Hogma Warrior
+ETC_20150317_006886	Torre de la Tierra Zinutekas
+ETC_20150317_006887	Torre de la Tierra Vesper
+ETC_20150317_006888	Torre de la Tierra Vikaras
+ETC_20150317_006889	Torre de la Tierra Tombsinker
+ETC_20150317_006890	Torre de la Tierra Echad
+ETC_20150317_006891	Torre de la Tierra Vekarabe
+ETC_20150317_006892	Torre de la Tierra Shtayim
+ETC_20150317_006893	Torre de la Tierra Karas
+ETC_20150317_006894	Torre de la Tierra Vikaras Mage
+ETC_20150317_006895	Torre de la Tierra Corrupt Vikaras Mage
+ETC_20150317_006896	Torre de la Tierra Venucelos
+ETC_20150317_006897	Torre de la Tierra Wheelen
+ETC_20150317_006898	Torre de la Tierra Medakia
+ETC_20150317_006899	Torre de la Tierra Rusrat
+ETC_20150317_006900	Torre de la Tierra Mauros
+ETC_20150317_006901	Torre de la Tierra Rubblem
+ETC_20150317_006902	Torre de la Tierra Drake
+ETC_20150317_006903	Torre de la Tierra Phyracon
+ETC_20150317_006904	Torre de la Tierra Shaman Doll
+ETC_20150317_006905	Torre de la Tierra Large Slime
+ETC_20150317_006906	Torre de la Tierra Blindlem
+ETC_20150317_006907	Torre de la Tierra Belegg
+ETC_20150317_006908	Torre de la Tierra Red Infrorocktor
+ETC_20150317_006909	Torre de la Tierra Chromadog
+ETC_20150317_006910	Torre de la Tierra Arma
+ETC_20150317_006911	Torre de la Tierra Black Desmodus
+ETC_20150317_006912	Torre de la Tierra Minivern
+ETC_20150317_006913	Torre de la Tierra Wizard Shaman Doll
+ETC_20150317_006914	Torre de la Tierra Flask
+ETC_20150317_006915	Torre de la Tierra Black Drake
+ETC_20150317_006916	Torre de la Tierra Dimmer
+ETC_20150317_006917	Torre de la Tierra Black Shaman Doll
 ETC_20150317_006918	Item Merchant Emilia
 ETC_20150317_006919	Item Merchant
 ETC_20150317_006920	Eastern Woods Scout
@@ -8956,7 +8956,7 @@ ETC_20150317_008956	Lava
 ETC_20150317_008957	Poison Pot
 ETC_20150317_008958	Resistance
 ETC_20150317_008959	Threat
-ETC_20150317_008960	Critical Rate
+ETC_20150317_008960	Tasa Crítico
 ETC_20150317_008961	Movement Speed
 ETC_20150317_008962	Range
 ETC_20150317_008963	Critical Attack
@@ -11828,17 +11828,17 @@ ETC_20150714_011829	Senior Pardoner
 ETC_20150714_011830	The benefits you received by contributing are countless, right?
 ETC_20150714_011831	Contributed 100 times
 ETC_20150714_011832	The Greatest Heir
-ETC_20150714_011833	This title is given to players who have completed the main story quest of Tiltas Valley.
+ETC_20150714_011833	Este título es entregado a los jugadores que have completed the main story quest of Tiltas Valley.
 ETC_20150714_011834	Tenant's Friend
-ETC_20150714_011835	This title is given to players who have completed the main story quest of Tenants' Farm.
+ETC_20150714_011835	Este título es entregado a los jugadores que have completed the main story quest of Tenants' Farm.
 ETC_20150714_011836	Epigraphist
-ETC_20150714_011837	This title is given to players who have completed the main story quest of Escanciu Village.
+ETC_20150714_011837	Este título es entregado a los jugadores que have completed the main story quest of Escanciu Village.
 ETC_20150714_011838	Philipas' Honorable Soldier
-ETC_20150714_011839	This title is given to players who have completed the main story quest of Saknis Plains.
+ETC_20150714_011839	Este título es entregado a los jugadores que have completed the main story quest of Saknis Plains.
 ETC_20150714_011840	Sunset Flag Bearer
-ETC_20150714_011841	This title is given to players who have completed the main story quest of Sunset Flag Forest.
+ETC_20150714_011841	Este título es entregado a los jugadores que have completed the main story quest of Sunset Flag Forest.
 ETC_20150714_011842	Purifying Mediator
-ETC_20150714_011843	This title is given to players who have completed the main story quest of Shaton Reservoir.
+ETC_20150714_011843	Este título es entregado a los jugadores que have completed the main story quest of Shaton Reservoir.
 ETC_20150714_011844	Never Die
 ETC_20150714_011845	Resurrect 1,000 times
 ETC_20150714_011846	Contribution Level
@@ -12256,7 +12256,7 @@ ETC_20150714_012257	Minimum Physical Attack
 ETC_20150714_012258	Magic Amplification
 ETC_20150714_012259	Minimum Magic Attack
 ETC_20150714_012260	Maximum Magic Attack
-ETC_20150714_012261	Add {Value} Critical Rate to your Companion
+ETC_20150714_012261	Add {Value} Tasa Crítico to your Companion
 ETC_20150714_012262	Add {Value} Evasion to your Companion
 ETC_20150714_012263	You don't have the attribute to mount this Companion.
 ETC_20150714_012264	Regresar a la Guarida.
@@ -14036,7 +14036,7 @@ ETC_20150730_014037	Damage taken will be shared with the connected objects.
 ETC_20150730_014038	Buff effects will be shared with the connected objects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, PS Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, PM Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
+ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, PS Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, PM Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Tasa Crítico{nl}
 ETC_20150730_014042	DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
@@ -14074,7 +14074,7 @@ ETC_20150803_014075	I can't die like this...
 ETC_20150803_014076	Oh, sacred tree...
 ETC_20150803_014077	While purifying the Magic Crystal, defeat the monsters that are rushing in!
 ETC_20150803_014078	Destroy the Demon Summoning Crystal!
-ETC_20150803_014079	Honeypin has suddenly appeared!
+ETC_20150803_014079	Mielpin has suddenly appeared!
 ETC_20150803_014080	They are demons!
 ETC_20150803_014081	The soldier with the resentment
 ETC_20150803_014082	I will protect that ring no matter what happens!
@@ -15557,7 +15557,7 @@ ETC_20151001_015558	Obtain [Moss Incense] from Kepa Raider!
 ETC_20151001_015559	Use [Moss Incense] on the Kepa Chieftain
 ETC_20151001_015560	Magburk has appeared!
 ETC_20151001_015561	Kirmeleech has appeared!
-ETC_20151001_015562	Honeypin has appeared!
+ETC_20151001_015562	Mielpin has appeared!
 ETC_20151001_015563	Bebraspion has appeared!
 ETC_20151001_015564	The weakening of [Giant Redwood] has been released!
 ETC_20151001_015565	The sealed strengthening of [Giant Redwood] has been released!
@@ -18032,7 +18032,7 @@ ETC_20151224_018032	{nl} {nl}Press {img Alt 40 40} to immediately stop movement 
 ETC_20151224_018033	{nl} {nl}Places you've never been are not shown on the World Map.
 ETC_20151224_018034	{nl} {nl}You can view the World Map by pressing {img N 40 40}.
 ETC_20151224_018035	{nl} {nl}Hover your mouse cursor on the marked areas,{nl}to view maps which your character has completed so far.
-ETC_20151224_018036	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack, PS Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, PM Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
+ETC_20151224_018036	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack, PS Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, PM Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Tasa Crítico{nl}
 ETC_20151224_018037	{nl} {nl}The effects of the status that you want to invest can be previewed below in the character window.
 ETC_20151224_018038	{nl} {nl}Your skill level increases after clicking on the + button.
 ETC_20151224_018039	{nl} {nl}Some attributes can be turned on or off depending on the circumstances.
@@ -20144,8 +20144,8 @@ ETC_20160224_020144	Tera Rocksodon
 ETC_20160224_020145	Thorn Tentacle
 ETC_20160224_020146	Sadly, many strong-spirited people have sided with the demons after Medzio Diena. I believe this is an issue that requires a proper policy of tactical negotiation.
 ETC_20160224_020147	Saalus Convent
-ETC_20160224_020148	Earth Tower Lolopanther Area
-ETC_20160224_020149	Earth Tower Solmiki Area
+ETC_20160224_020148	Torre de la Tierra Lolopanther Area
+ETC_20160224_020149	Torre de la Tierra Solmiki Area
 ETC_20160224_020150	Hollow Bosque Espinoso
 ETC_20160224_020151	1st Alphabet Event Conqueror
 ETC_20160224_020152	You successfully completed the alphabet collecting event.
@@ -20276,7 +20276,7 @@ ETC_20160224_020276	In A Forgotten Place
 ETC_20160224_020277	A letter arrived from Historian Cyrenia Odell.{nl}The demons have secretly invaded the church that was destroyed to keep the secret of the Mausoleo Real of the Great King Zachariel after its construction. Cyrenia is now looking for someone to stop the demons before they can build up their forces.
 ETC_20160224_020278	Demon Uprising
 ETC_20160224_020279	Ha llegado un mensaje de la Diosa Vakarine.{nl}Luego de que los Reveladores castigaran a los Señores Demonios en la Prisión Demoníaca, sus segundos al mando está reuniendo tropas para ver quien los sucederá. La Diosa Vakarine y los Kupoles aún no lográn recuperarse por completo luego de los eventos recientes y buscan un Revelador que los ayude a detener a los demonios.
-ETC_20160224_020280	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, PS Recovery of Spells and Potions, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack{nl} {nl}- SPR : Increase in Max PM, PM Recovery, PM Recovery of Spells and Potions, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
+ETC_20160224_020280	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, PS Recovery of Spells and Potions, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack{nl} {nl}- SPR : Increase in Max PM, PM Recovery, PM Recovery of Spells and Potions, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Tasa Crítico{nl}
 ETC_20160224_020281	Nexon NGS error
 ETC_20160224_020282	Failed to reset IDSpace in XML.
 ETC_20160224_020283	Failed to enter instanced dungeon.
@@ -20401,16 +20401,16 @@ ETC_20160224_020401	Úsalo para obtener 150 TP.
 ETC_20160224_020402	Token [Event]
 ETC_20160224_020403	Token: 15 Days [Event]
 ETC_20160224_020404	Contains a variety of special benefits for all your characters in this server for 15 days. Click derecho para usar.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
-ETC_20160224_020405	Earth Tower Entrance
+ETC_20160224_020405	Torre de la Tierra Entrance
 ETC_20160224_020406	Small_Area of Ruins_Tombstone03
 ETC_20160224_020407	Diosa Zemyna
-ETC_20160224_020408	Earth Tower Iron Gate
-ETC_20160224_020409	Earth Tower Merchant
+ETC_20160224_020408	Torre de la Tierra Iron Gate
+ETC_20160224_020409	Torre de la Tierra Merchant
 ETC_20160224_020410	Broken Tombstone
 ETC_20160224_020411	Recovered Tombstone (no obb)
 ETC_20160224_020412	Team Battle League
 ETC_20160224_020413	Female Alchemist
-ETC_20160224_020414	Earth Tower Gate_2
+ETC_20160224_020414	Torre de la Tierra Gate_2
 ETC_20160224_020415	Sister 1
 ETC_20160224_020416	Sister 2
 ETC_20160224_020417	Kupole3_3D
@@ -20431,7 +20431,7 @@ ETC_20160224_020431	PM Recovery {img green_up_arrow 16 16} 100
 ETC_20160224_020432	Earth Property Attack {img green_up_arrow 16 16} 42
 ETC_20160224_020433	INT {img green_up_arrow 16 16} 25
 ETC_20160224_020434	Lolopanther Leather Set
-ETC_20160224_020435	Critical Rate {img green_up_arrow 16 16} 46
+ETC_20160224_020435	Tasa Crítico {img green_up_arrow 16 16} 46
 ETC_20160224_020436	DEX {img green_up_arrow 16 16} 25
 ETC_20160224_020437	Lolopanther Plate Set
 ETC_20160224_020438	PS Recovery {img green_up_arrow 16 16} 100
@@ -20588,16 +20588,16 @@ ETC_20160224_020588	 unit(s)
 ETC_20160224_020589	Harugal escaped!{nl}()
 ETC_20160224_020590	You've received damage for attacking without immunity!
 ETC_20160224_020591	Sphere of Ruin
-ETC_20160224_020592	About the Earth Tower
+ETC_20160224_020592	About the Torre de la Tierra
 ETC_20160224_020593	About Diosa Zemyna
 ETC_20160224_020594	Start Lolopanther Area
-ETC_20160224_020595	Ask about the origin of the Earth Tower
+ETC_20160224_020595	Ask about the origin of the Torre de la Tierra
 ETC_20160224_020596	Ask where the Diosa is
 ETC_20160224_020597	Ask if you can see the exchangeable items
 ETC_20160224_020598	Ask about the Kedoran Merchant Alliance
 ETC_20160224_020599	Ask about the Relic Collector
-ETC_20160224_020600	The aura of the Earth Tower is disappearing
-ETC_20160224_020601	The aura of the Earth Tower is rising
+ETC_20160224_020600	The aura of the Torre de la Tierra is disappearing
+ETC_20160224_020601	The aura of the Torre de la Tierra is rising
 ETC_20160224_020602	The aura of the demon is restored
 ETC_20160224_020603	The aura of the demon is purified
 ETC_20160224_020604	The aura of light has dispersed
@@ -20709,7 +20709,7 @@ ETC_20160224_020709	Injured Soldier
 ETC_20160224_020710	Injured Refugee
 ETC_20160224_020711	Team Battle League{nl}     Valis
 ETC_20160224_020712	[Kedoran Merchant Alliance]{nl}  Relic Collector
-ETC_20160224_020713	Earth Tower Notice Board
+ETC_20160224_020713	Torre de la Tierra Notice Board
 ETC_20160224_020714	[Rune Caster Master]{nl}      Shelly Pennington
 ETC_20160224_020715	Team 2 wins
 ETC_20160224_020716	Team 1 wins
@@ -20762,137 +20762,137 @@ ETC_20160224_020761	Defeat Minotauro!
 ETC_20160224_020762	Attack the Mausoleo Real Gate to open it!
 ETC_20160224_020763	Defeat all monsters to wake up Tomb Lord!
 ETC_20160224_020764	Attack the center Royal Cube to activate it and wake up Shnayim!
-ETC_20160224_020765	Entered Earth Tower's Lolopanther Area
-ETC_20160224_020766	Enter Earth Tower's Lolopanther Area
+ETC_20160224_020765	Entered Torre de la Tierra's Lolopanther Area
+ETC_20160224_020766	Enter Torre de la Tierra's Lolopanther Area
 ETC_20160224_020767	Wait for Kupole Lhuta
 ETC_20160224_020768	The passage to 1F opens after 20 segundos
 ETC_20160224_020769	Moving to 1F
-ETC_20160224_020770	Move to Earth Tower 1F
-ETC_20160224_020771	Earth Tower 1F
-ETC_20160224_020772	The mission for Earth Tower 1F will begin shortly
-ETC_20160224_020773	The mission for Earth Tower 1F was a success!{nl}Move to the next floor
-ETC_20160224_020774	Earth Tower 2F
-ETC_20160224_020775	The mission for Earth Tower 2F failed!{nl}You will exit after 30 segundos
+ETC_20160224_020770	Move to Torre de la Tierra 1F
+ETC_20160224_020771	Torre de la Tierra 1F
+ETC_20160224_020772	The mission for Torre de la Tierra 1F will begin shortly
+ETC_20160224_020773	The mission for Torre de la Tierra 1F was a success!{nl}Move to the next floor
+ETC_20160224_020774	Torre de la Tierra 2F
+ETC_20160224_020775	The mission for Torre de la Tierra 2F failed!{nl}You will exit after 30 segundos
 ETC_20160224_020776	The first objective has begun{nl}Defeat 150 monsters within the time limit
 ETC_20160224_020777	Remaining monsters
 ETC_20160224_020778	Defeat 150 monsters
-ETC_20160224_020779	The mission for Earth Tower 10F will begin shortly
+ETC_20160224_020779	The mission for Torre de la Tierra 10F will begin shortly
 ETC_20160224_020780	The first objective has begun{nl}Defeat Gosarius
 ETC_20160224_020781	Gosarius has called for his subordinates
 ETC_20160224_020782	Defeat Gosarius
 ETC_20160224_020783	Choosing a party leader
 ETC_20160224_020784	Queueing Time
 ETC_20160224_020785	The party leader has challenged the next mission{nl}Move to 11F
-ETC_20160224_020786	Earth Tower 11F
+ETC_20160224_020786	Torre de la Tierra 11F
 ETC_20160224_020787	The party leader has abandoned the challenge{nl}Return to Istora Ruins to receive your reward
 ETC_20160224_020788	Exiting
-ETC_20160224_020789	The mission for Earth Tower 11F will begin shortly
-ETC_20160224_020790	The mission for Earth Tower 11F was a success!{nl}Move to the next floor
-ETC_20160224_020791	Earth Tower 12F
+ETC_20160224_020789	The mission for Torre de la Tierra 11F will begin shortly
+ETC_20160224_020790	The mission for Torre de la Tierra 11F was a success!{nl}Move to the next floor
+ETC_20160224_020791	Torre de la Tierra 12F
 ETC_20160224_020792	The first objective has begun{nl}Defeat 180 monsters within the time limit
 ETC_20160224_020793	Defeat 180 monsters
-ETC_20160224_020794	The mission for Earth Tower 12F will begin shortly
+ETC_20160224_020794	The mission for Torre de la Tierra 12F will begin shortly
 ETC_20160224_020795	Celestial Sphere
-ETC_20160224_020796	The mission for Earth Tower 12F was a success!{nl}Move to the next floor
-ETC_20160224_020797	Earth Tower 13F
+ETC_20160224_020796	The mission for Torre de la Tierra 12F was a success!{nl}Move to the next floor
+ETC_20160224_020797	Torre de la Tierra 13F
 ETC_20160224_020798	The first objective has begun{nl}Protect the Celestial Sphere from getting destroyed
 ETC_20160224_020799	Protect the Celestial Sphere
-ETC_20160224_020800	The mission for Earth Tower 13F will begin shortly
+ETC_20160224_020800	The mission for Torre de la Tierra 13F will begin shortly
 ETC_20160224_020801	Unpleasant Insect Eggs
-ETC_20160224_020802	The mission for Earth Tower 13F was a success!{nl}Move to the next floor
-ETC_20160224_020803	Earth Tower 14F
+ETC_20160224_020802	The mission for Torre de la Tierra 13F was a success!{nl}Move to the next floor
+ETC_20160224_020803	Torre de la Tierra 14F
 ETC_20160224_020804	The first objective has begun{nl}Destroy the Unpleasant Insect Eggs
 ETC_20160224_020805	A Pag Nanny immune to effects has appeared
 ETC_20160224_020806	Destroy the Unpleasant Insect Eggs
-ETC_20160224_020807	The mission for Earth Tower 14F will begin shortly
-ETC_20160224_020808	The mission for Earth Tower 14F was a success!{nl}Move to the next floor
-ETC_20160224_020809	Earth Tower 15F
+ETC_20160224_020807	The mission for Torre de la Tierra 14F will begin shortly
+ETC_20160224_020808	The mission for Torre de la Tierra 14F was a success!{nl}Move to the next floor
+ETC_20160224_020809	Torre de la Tierra 15F
 ETC_20160224_020810	The first objective has begun{nl}Survive from the monsters
 ETC_20160224_020811	Recover 200 Light Energy
-ETC_20160224_020812	The mission for Earth Tower 15F will begin shortly
+ETC_20160224_020812	The mission for Torre de la Tierra 15F will begin shortly
 ETC_20160224_020813	The first objective has begun{nl}Defeat Turtai
 ETC_20160224_020814	Turtai has called for his subordinated
 ETC_20160224_020815	Defeat Turtai
 ETC_20160224_020816	The party leader has challenged the next mission{nl}Move to 16F
-ETC_20160224_020817	Earth Tower 16F
-ETC_20160224_020818	The mission for Earth Tower 16F will begin shortly
-ETC_20160224_020819	The mission for Earth Tower 16F was a success!{nl}Move to the next floor
-ETC_20160224_020820	Earth Tower 17F
+ETC_20160224_020817	Torre de la Tierra 16F
+ETC_20160224_020818	The mission for Torre de la Tierra 16F will begin shortly
+ETC_20160224_020819	The mission for Torre de la Tierra 16F was a success!{nl}Move to the next floor
+ETC_20160224_020820	Torre de la Tierra 17F
 ETC_20160224_020821	The first objective has begun{nl}
 ETC_20160224_020822	Defeat 195 monsters
-ETC_20160224_020823	The mission for Earth Tower 17F will begin shortly
+ETC_20160224_020823	The mission for Torre de la Tierra 17F will begin shortly
 ETC_20160224_020824	Incomplete Star Crystal
-ETC_20160224_020825	The mission for Earth Tower 17F was a success!{nl}Move to the next floor
-ETC_20160224_020826	Earth Tower 18F
+ETC_20160224_020825	The mission for Torre de la Tierra 17F was a success!{nl}Move to the next floor
+ETC_20160224_020826	Torre de la Tierra 18F
 ETC_20160224_020827	The first objective has begun
 ETC_20160224_020828	Incomplete Energy
 ETC_20160224_020829	Protect the Incomplete Star Crystal
-ETC_20160224_020830	The mission for Earth Tower 18F will begin shortly
+ETC_20160224_020830	The mission for Torre de la Tierra 18F will begin shortly
 ETC_20160224_020831	Magic Stone of Ruin
-ETC_20160224_020832	The mission for Earth Tower 18F was a success!{nl}Move to the next floor
-ETC_20160224_020833	Earth Tower 19F
+ETC_20160224_020832	The mission for Torre de la Tierra 18F was a success!{nl}Move to the next floor
+ETC_20160224_020833	Torre de la Tierra 19F
 ETC_20160224_020834	The first objective has begun{nl}Destroy all the Magic Stones of Ruin
 ETC_20160224_020835	The second objective has begun
 ETC_20160224_020836	Destroy the Magic Stone of Ruin
-ETC_20160224_020837	The mission for Earth Tower 19F will begin shortly
-ETC_20160224_020838	The mission for Earth Tower 19F was a success!{nl}Move to the next floor
-ETC_20160224_020839	Earth Tower 20F
+ETC_20160224_020837	The mission for Torre de la Tierra 19F will begin shortly
+ETC_20160224_020838	The mission for Torre de la Tierra 19F was a success!{nl}Move to the next floor
+ETC_20160224_020839	Torre de la Tierra 20F
 ETC_20160224_020840	The first objective has begun{nl}Survive for 270 segundos
 ETC_20160224_020841	Tera Prison Cutter has appeared{nl}Absorb PM periodically
 ETC_20160224_020842	Charge 200 magic
-ETC_20160224_020843	The mission for Earth Tower 2F will begin shortly
-ETC_20160224_020844	The mission for Earth Tower 2F was a success!{nl}Move to the next floor
-ETC_20160224_020845	Earth Tower 3F
+ETC_20160224_020843	The mission for Torre de la Tierra 2F will begin shortly
+ETC_20160224_020844	The mission for Torre de la Tierra 2F was a success!{nl}Move to the next floor
+ETC_20160224_020845	Torre de la Tierra 3F
 ETC_20160224_020846	The first objective has begun{nl}Protect the Celestial Sphere for 270 segundos from the monsters
 ETC_20160224_020847	More monsters are on their way!
-ETC_20160224_020848	The mission for Earth Tower 20F will begin shortly
+ETC_20160224_020848	The mission for Torre de la Tierra 20F will begin shortly
 ETC_20160224_020849	The first objective has begun{nl}Defeat G'bb
 ETC_20160224_020850	The subordinates of G'bb have appeared
 ETC_20160224_020851	More subordinates of G'bb have appeared
 ETC_20160224_020852	Defeat G'bb
-ETC_20160224_020853	You've completed all objectives from the Lolopanther Area of the Earth Tower{nl}You will return to Istora Ruins after 120 segundos
-ETC_20160224_020854	The mission for Earth Tower 3F will begin shortly
-ETC_20160224_020855	The mission for Earth Tower 3F was a success!{nl}Move to the next floor
-ETC_20160224_020856	Earth Tower 4F
+ETC_20160224_020853	You've completed all objectives from the Lolopanther Area of the Torre de la Tierra{nl}You will return to Istora Ruins after 120 segundos
+ETC_20160224_020854	The mission for Torre de la Tierra 3F will begin shortly
+ETC_20160224_020855	The mission for Torre de la Tierra 3F was a success!{nl}Move to the next floor
+ETC_20160224_020856	Torre de la Tierra 4F
 ETC_20160224_020857	The first objective has begun{nl}Destroy the Panto Totem within 270 segundos
 ETC_20160224_020858	Defeat the Evil Spirit
 ETC_20160224_020859	Receive
 ETC_20160224_020860	Monsters are coming
 ETC_20160224_020861	More monsters are coming
 ETC_20160224_020862	Destroy the Panto Totem
-ETC_20160224_020863	The mission for Earth Tower 4F will begin shortly
-ETC_20160224_020864	The mission for Earth Tower 4F was a success!{nl}Move to the next floor
-ETC_20160224_020865	Earth Tower 5F
+ETC_20160224_020863	The mission for Torre de la Tierra 4F will begin shortly
+ETC_20160224_020864	The mission for Torre de la Tierra 4F was a success!{nl}Move to the next floor
+ETC_20160224_020865	Torre de la Tierra 5F
 ETC_20160224_020866	The first objective has begun{nl}Survive the monster attacks for 270 segundos
 ETC_20160224_020867	Tera Silva Griffin attacked
 ETC_20160224_020868	Recover 200 Earth Energy
-ETC_20160224_020869	The mission for Earth Tower 5F will begin shortly
+ETC_20160224_020869	The mission for Torre de la Tierra 5F will begin shortly
 ETC_20160224_020870	The first objective has begun{nl}Defeat Pyroego
 ETC_20160224_020871	The party leader has challenged the next mission{nl}Move to 6F
-ETC_20160224_020872	Earth Tower 6F
-ETC_20160224_020873	The mission for Earth Tower 6F will begin shortly
-ETC_20160224_020874	The mission for Earth Tower 6F was a success!{nl}Move to the next floor
-ETC_20160224_020875	Earth Tower 7F
+ETC_20160224_020872	Torre de la Tierra 6F
+ETC_20160224_020873	The mission for Torre de la Tierra 6F will begin shortly
+ETC_20160224_020874	The mission for Torre de la Tierra 6F was a success!{nl}Move to the next floor
+ETC_20160224_020875	Torre de la Tierra 7F
 ETC_20160224_020876	The first objective has begun{nl}Defeat 165 monsters within the time limit
 ETC_20160224_020877	Defeat 165 monsters
-ETC_20160224_020878	The mission for Earth Tower 7F will begin shortly
+ETC_20160224_020878	The mission for Torre de la Tierra 7F will begin shortly
 ETC_20160224_020879	Light Crystal
-ETC_20160224_020880	The mission for Earth Tower 7F was a success!{nl}Move to the next floor
-ETC_20160224_020881	Earth Tower 8F
+ETC_20160224_020880	The mission for Torre de la Tierra 7F was a success!{nl}Move to the next floor
+ETC_20160224_020881	Torre de la Tierra 8F
 ETC_20160224_020882	The first objective has begun{nl}Protect the Light Crystal while charging it with Light Energy
 ETC_20160224_020883	Monsters have appeared aiming to destroy the Light Crystal
 ETC_20160224_020884	The demons are attempting an all-out attack as a last resort
 ETC_20160224_020885	Protect the Light Crystal
-ETC_20160224_020886	The mission for Earth Tower 8F will begin shortly
-ETC_20160224_020887	The mission for Earth Tower 8F was a success!{nl}Move to the next floor
-ETC_20160224_020888	Earth Tower 9F
+ETC_20160224_020886	The mission for Torre de la Tierra 8F will begin shortly
+ETC_20160224_020887	The mission for Torre de la Tierra 8F was a success!{nl}Move to the next floor
+ETC_20160224_020888	Torre de la Tierra 9F
 ETC_20160224_020889	The first objective has begun{nl}Destroy the Demon Summoning Stone
 ETC_20160224_020890	The power of denial was created
 ETC_20160224_020891	Power of Denial
 ETC_20160224_020892	Destroy the Demon Summoning Stone
-ETC_20160224_020893	The mission for Earth Tower 9F will begin shortly
-ETC_20160224_020894	The mission for Earth Tower 9F was a success!{nl}Move to the next floor
-ETC_20160224_020895	Earth Tower 10F
+ETC_20160224_020893	The mission for Torre de la Tierra 9F will begin shortly
+ETC_20160224_020894	The mission for Torre de la Tierra 9F was a success!{nl}Move to the next floor
+ETC_20160224_020895	Torre de la Tierra 10F
 ETC_20160224_020896	The first objective has begun{nl}Drive the monsters away
 ETC_20160224_020897	An unstable dimensional crack has appeared!
 ETC_20160224_020898	Purify 200 Demon Energy
