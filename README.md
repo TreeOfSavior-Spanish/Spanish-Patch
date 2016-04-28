@@ -5,12 +5,12 @@ Miembros:
 - Darkloud
 - Darkelfen (elfengirox00)
 - Razku
-- Alex-GS
+- Alex-GS (Thenestas)
 
 ## Archivos a Traducir:
 - ETC.tsv - Darkelfen (elfengirox00)
 - SKILL.tsv
-- ITEM.tsv - Darkloud & Alex-GS
+- ITEM.tsv - Darkloud & Alex-GS (Thenestas)
 - QUEST.tsv - Razku
 - QUEST_JOBSTEP.tsv
 - QUEST_LV_0100.tsv
