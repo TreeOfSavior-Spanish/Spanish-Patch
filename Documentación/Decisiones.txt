@@ -33,7 +33,7 @@
 >> Hunter: Cazador
 >> Wugushi:  Arquero de Jade
 >> Scout: Explorador
->> Fletcher: ¿¿¿Remerador??? ¿¿Flechero??
+>> Fletcher: Flechero (Persona que se sirve de arco y flechas / Persona que fabrica flechas)
 >> Rogue: Pícaro
 >> Falconer: Halconero
 >> Schwarzer Reiter: = Caballero Negro
