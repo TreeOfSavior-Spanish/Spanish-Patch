@@ -142,8 +142,14 @@ Strike --> Golpe
 Slash --> Corte
 Pierce --> Penetración
 Missile --> Proyectil
+[Slash]-type => tipo [Corte]
+[Stab]-type => tipo [Puñalada]
+[Strike]-type => tipo [Golpe] 
 
 [ ESTADOS ]
+[Bleeding] => [Sangrado]
+[Stun] => [Aturdido]
+[Effect] => [Efecto]
 
 [ Objetos ]
 Scroll --> Pergamino
