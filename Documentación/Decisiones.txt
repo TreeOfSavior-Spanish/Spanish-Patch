@@ -13,6 +13,7 @@
 - Companion -> Compañero
 - Storage -> Banco
 - Los nombres de pisos como Crystal Mines 1F -> Mina de Crital P1 (P de Planta) 
+- OverKill -> Exterminio
 
 [ Estadistícas ]
 - HP --> PS -> Puntos de Salud
