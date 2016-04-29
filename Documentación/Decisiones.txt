@@ -1,4 +1,4 @@
-[ Básicos ]
+﻿[ Básicos ]
 - Lv -> Nv
 - Character(s) -> Personaje(s)
 - Stats -> Estadísticas
@@ -145,9 +145,9 @@ etc.
 [ ETC ]
 
 Aras --> Nivelado
-Dunkel -->Misterioso
+Dunkel --> Misterioso
 Crude --> Vulgar
-DeathWeaver --> Tejedora Mortal
+DeathWeaver --> Tejedora Letal
 
 [ Tipos de Ataque ]
 Strike --> Golpe
