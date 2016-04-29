@@ -113,9 +113,7 @@ Cannon --> Cañon
 Bow --> Arco
 Crossbow --> Ballesta
 Blunt --> Maza
-Epee => Florete
-Rapier => Estoque
-Two Handed Blunt --> maza de dos manos
+Two Handed Blunt --> Maza de dos manos
 Shield --> Escudo
 Top --> Pecho
 Botton --> Pantalón
@@ -124,13 +122,18 @@ Shoes --> Botas
 bracelet --> Pulsera
 Costume --> Traje
 
-Aras --> Nivelado
+[ Nombres Propios de Equipo ]
+Epee => Florete
+Rapier => Estoque
+Pike => Pica
+Spear => Lanza
+Halberd => Alabarda
+Club => Garrote
+Mace => Maza
+Hammer => Martillo
+Sledgehammer => Almádena
 Crook --> Báculo
 Cane --> Cayado
-Dunkel -->Misterioso
-Crude --> Vulgar
-DeathWeaver --> Tejedora Mortal
-
 
 Los nombres del equipamiento seran modificados, pero no los nombres propios.
 Ejemplos: 
@@ -138,6 +141,13 @@ Excalibur Sword -> Espada Excalibur
 Arde Dagger -> Daga Arde
 Bronze Armor -> Armadura de Bronce
 etc.
+
+[ ETC ]
+
+Aras --> Nivelado
+Dunkel -->Misterioso
+Crude --> Vulgar
+DeathWeaver --> Tejedora Mortal
 
 [ Tipos de Ataque ]
 Strike --> Golpe
@@ -149,9 +159,13 @@ Missile --> Proyectil
 [Strike]-type => tipo [Golpe] 
 
 [ ESTADOS ]
+[Effect] => [Efecto]
 [Bleeding] => [Sangrado]
 [Stun] => [Aturdido]
-[Effect] => [Efecto]
+[Decay] => [Descomposición]
+[Death Sentence] => [Sentencia de Muerte]
+[Fear] => [Miedo]
+[Freeze] => [Congelado]
 
 [ Objetos ]
 Scroll --> Pergamino
