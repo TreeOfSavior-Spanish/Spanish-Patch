@@ -36,7 +36,7 @@
 >> Fletcher: Flechero (Persona que se sirve de arco y flechas / Persona que fabrica flechas)
 >> Rogue: Pícaro
 >> Falconer: Halconero
->> Schwarzer Reiter: = Caballero Negro
+>> Schwarzer Reiter: = Schwarzer Reiter (NdT: La traducción desde el Alemán es "Jinete Negro", pero no se traduce al ser el "nombre propio" de una unidad de caballería especial de 1540)
 >> Cannoneer: Cañonero
 >> Musketeer: Mosquetero
 
@@ -50,7 +50,7 @@
 >> Squire: Escudero
 >> Corsair: Corsario
 >> Doppelsoeldner: Mercenario
->> Fencer: Esgrimista (NdT: El término correcto es "Tirador")
+>> Fencer: Esgrimista (NdT: El término correcto es "Tirador" | NdT Thenestas: Se traduce literalmente como "Esgrimidor", la RAE acuña el término, "Esgrimista" es un alias de "Esgrimidor". "Tirador" es como algunos deportistas españoles llaman al practicante de esgrima, pero no está contemplado por la RAE )
 >> Dragoon: Dragón
 >> Templar: Templario
 >> Shinobi: Ninja
@@ -113,6 +113,8 @@ Cannon --> Cañon
 Bow --> Arco
 Crossbow --> Ballesta
 Blunt --> Maza
+Epee => Florete
+Rapier => Estoque
 Two Handed Blunt --> maza de dos manos
 Shield --> Escudo
 Top --> Pecho
