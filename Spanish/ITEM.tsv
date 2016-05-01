@@ -673,7 +673,7 @@ ITEM_20150317_000672	Inicialmente desarrollado para la caballería, ha sido ampl
 ITEM_20150317_000673	Spontoon
 ITEM_20150317_000674	Una mejora de la Espontoon.
 ITEM_20150317_000675	Hasta
-ITEM_20150317_000676	Recientemente, el número de personas que no les gusta la forma de esta lanza ha ido en aumento.
+ITEM_20150317_000676	Recientemente, el número de personas a las que no les gusta la forma de esta lanza ha ido en aumento.
 ITEM_20150317_000677	Hasta Larga
 ITEM_20150317_000678	un hasta mejorada con un mango mas largo.
 ITEM_20150317_000679	Lanza Pesada Corta
@@ -1802,7 +1802,7 @@ ITEM_20150317_001801	Poción de PS +10
 ITEM_20150317_001802	Poción de Velocidad 
 ITEM_20150317_001803	Incrementa tu velocidad de movimiento en 5 for 180 segundos.{nl}Click derecho para usar. Enfriamiento de 30 segundos. 
 ITEM_20150317_001804	Pergamino de Teletransporte 
-ITEM_20150317_001805	Te Permite Teletransportate a cualquier estatua de la diosa activada. Tu localización actual sera guardada en la estatua de la diosa. 
+ITEM_20150317_001805	Te permite Teletransportarte a cualquier estatua de la diosa activada. Tu localización actual sera guardada en la estatua de la diosa más cercana. 
 ITEM_20150317_001806	Comida del Compañero 
 ITEM_20150317_001807	Restaura la resistencia de Velheider en 30.
 ITEM_20150317_001808	Varnalesa 
@@ -8764,7 +8764,7 @@ ITEM_20151224_008763	Añade 1344829 EXP de Personaje y 1035518 EXP de Clase. {nl
 ITEM_20151224_008764	Lets you build a Guild Tower.{nl}Can only be used in fields.
 ITEM_20151224_008765	Food that a companion enjoys.{nl}Completely restores your companion's PS and restores their Resistencia by 60. 
 ITEM_20151224_008766	Shield Charger
-ITEM_20151224_008767	Pergamino de Teltranspote a Orsha
+ITEM_20151224_008767	Pergamino de Teletransporte a Orsha
 ITEM_20151224_008768	Te Teletransporta a Orsha. {nl}Click derecho para usar.
 ITEM_20151224_008769	Incomplete Ruklys Brew
 ITEM_20151224_008770	Incrementa tu radio de ataque AoE en 1 durante 1 minuto. {nl}Click derecho para usar. Enfriamiento de 120 segundos.

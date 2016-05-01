@@ -1801,7 +1801,7 @@ UI_20150918_001800	{@st66b}Abandonar misión e intentarlo de nuevo{/}
 UI_20150918_001801	{@st66b}Intentar de nuevo{/}
 UI_20150918_001802	{@st66b}Objetos Vendidos{/}
 UI_20150918_001803	{@st53}Puntos de Ranking : %s
-UI_20150918_001804	Total No intercambiable: %s
+UI_20150918_001804	{s14}Total No intercambiable: %s
 UI_20150918_001805	{@st42b}Comprobar Diálogo{/}
 UI_20150918_001806	{@st66b}Dar comida fuera del grupo{/}
 UI_20150918_001807	{@st41b}Cambiar título de la Señal
