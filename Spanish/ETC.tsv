@@ -4071,18 +4071,18 @@ ETC_20150317_004070	in the QuestProgressCheck.xml file
 ETC_20150317_004071	Does not exist.
 ETC_20150317_004072	The value is
 ETC_20150317_004073	The format does not fit in.
-ETC_20150317_004074	Column of Quest Succ_Monjeill_ItemGive6 should be none
-ETC_20150317_004075	Column of Quest Succ_MonjeillCount6 must be greater than 0.
-ETC_20150317_004076	Column of Quest Succ_Monjeill_ItemGive5 should be none
-ETC_20150317_004077	Column of Quest Succ_MonjeillCount5 must be greater than 0.
-ETC_20150317_004078	Column of Quest Succ_Monjeill_ItemGive4 should be none
-ETC_20150317_004079	Column of Quest Succ_MonjeillCount4 must be greater than 0.
-ETC_20150317_004080	Column of Quest Succ_Monjeill_ItemGive3 should be none
-ETC_20150317_004081	Column of Quest Succ_MonjeillCount3 must be greater than 0.
-ETC_20150317_004082	Column of Quest Succ_Monjeill_ItemGive2 should be none
-ETC_20150317_004083	Column of Quest Succ_MonjeillCount2 must be greater than 0.
-ETC_20150317_004084	Column of Quest Succ_Monjeill_ItemGive1 should be none
-ETC_20150317_004085	Column of Quest Succ_MonjeillCount1 must be greater than 0.
+ETC_20150317_004074	Column of Quest Succ_MonKill_ItemGive6 should be none
+ETC_20150317_004075	Column of Quest Succ_MonKillCount6 must be greater than 0.
+ETC_20150317_004076	Column of Quest Succ_MonKill_ItemGive5 should be none
+ETC_20150317_004077	Column of Quest Succ_MonKillCount5 must be greater than 0.
+ETC_20150317_004078	Column of Quest Succ_MonKill_ItemGive4 should be none
+ETC_20150317_004079	Column of Quest Succ_MonKillCount4 must be greater than 0.
+ETC_20150317_004080	Column of Quest Succ_MonKill_ItemGive3 should be none
+ETC_20150317_004081	Column of Quest Succ_MonKillCount3 must be greater than 0.
+ETC_20150317_004082	Column of Quest Succ_MonKill_ItemGive2 should be none
+ETC_20150317_004083	Column of Quest Succ_MonKillCount2 must be greater than 0.
+ETC_20150317_004084	Column of Quest Succ_MonKill_ItemGive1 should be none
+ETC_20150317_004085	Column of Quest Succ_MonKillCount1 must be greater than 0.
 ETC_20150317_004086	Misión
 ETC_20150317_004087	There is no session object in the PJ
 ETC_20150317_004088	Column of Quest Succ_OverKill_ItemGive6 should be None
@@ -4389,7 +4389,7 @@ ETC_20150317_004388	function name:
 ETC_20150317_004389	Happen Error
 ETC_20150317_004390	There is no node information
 ETC_20150317_004391	The total count in the buff:
-ETC_20150317_004392	Advancement Quest of job.xml is not set up(None)
+ETC_20150317_004392	Ascenso Quest of job.xml is not set up(None)
 ETC_20150317_004393	There's no socket or it's currently being used
 ETC_20150317_004394	Missing rank.
 ETC_20150317_004395	N/A
@@ -4444,12 +4444,12 @@ ETC_20150317_004443	Armas
 ETC_20150317_004444	Armadura
 ETC_20150317_004445	N/A
 ETC_20150317_004446	Goblin_Spear_red: Vubber Attacker: 24
-ETC_20150317_004447	Goblin_Spear: Vubber Attacker: 15 / Goblin_Spear: Vubber Attacker: 15 / Goblin_Spear: Vubber Attacker: 15 / Goblin_Arquero_red: Vubber Attacker: 15
-ETC_20150317_004448	Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Arquero_red: Vubber Attacker: 25
+ETC_20150317_004447	Goblin_Spear: Vubber Attacker: 15 / Goblin_Spear: Vubber Attacker: 15 / Goblin_Spear: Vubber Attacker: 15 / Goblin_Archer_red: Vubber Attacker: 15
+ETC_20150317_004448	Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Archer_red: Vubber Attacker: 25
 ETC_20150317_004449	Sello Ceremonial
-ETC_20150317_004450	Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Arquero_red: Vubber Attacker: 25
-ETC_20150317_004451	Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Arquero_red: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / GoblinWarrior_red: Ludas Vubber Fighter: 26
-ETC_20150317_004452	Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Arquero_red: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / GoblinWarrior_red:: Ludas Vubber Fighter: 26
+ETC_20150317_004450	Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Archer_red: Vubber Attacker: 25
+ETC_20150317_004451	Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Archer_red: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / Goblin_Spear: Vubber Attacker: 25 / GoblinWarrior_red: Ludas Vubber Fighter: 26
+ETC_20150317_004452	Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Archer_red: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / Goblin_Spear: Vubber Attacker: 26 / GoblinWarrior_red:: Ludas Vubber Fighter: 26
 ETC_20150317_004453	Vapor Ígneo
 ETC_20150317_004454	Vapor Ígneo Tenue
 ETC_20150317_004455	Arboles Recolectores
@@ -4463,13 +4463,13 @@ ETC_20150317_004462	Alma Caída
 ETC_20150317_004463	Monstruo sin Identificar
 ETC_20150317_004464	bushspider_white: Araña Arbustera de Grynas: 33
 ETC_20150317_004465	banshee_purple_event: Banshee Jibyu: 34
-ETC_20150317_004466	Bube_Goblin_Spear: High Vubbe Spearman: 37 / Bube_Goblin_Spear: High Vubbe Spearman: 37 / HighBube_Spear: High Vubbe Spearman: 37 / HighBube_Arquero: High Vubbe Arqueros: 37
+ETC_20150317_004466	Bube_Goblin_Spear: High Vubbe Spearman: 37 / Bube_Goblin_Spear: High Vubbe Spearman: 37 / HighBube_Spear: High Vubbe Spearman: 37 / HighBube_Archer: High Vubbe Arqueros: 37
 ETC_20150317_004467	Mushroom_boy_red: Ludas Mini Griba: 33
 ETC_20150317_004468	Mushroom_boy_red: Ludas Mini Griba: 35
 ETC_20150317_004469	¡Los suplementos han arrivado!
 ETC_20150317_004470	¡El hambre me está matando!
 ETC_20150317_004471	Sigo bien...
-ETC_20150317_004472	The third argument UnHidePNJ EX>
+ETC_20150317_004472	The third argument UnHideNPC EX>
 ETC_20150317_004473	Griba Parásito
 ETC_20150317_004474	Guardías de Vacenin
 ETC_20150317_004475	Estatua de la Diosa de Prueba
@@ -4511,18 +4511,18 @@ ETC_20150317_004510	¡Yo-ho!
 ETC_20150317_004511	¡Huh! ¡Nunca acaba!
 ETC_20150317_004512	¡Hey! ¡Fuera del camino!
 ETC_20150317_004513	¡Te puedes lastimar!
-ETC_20150317_004514	Spector_Gh: Ghost: 31 / HighBube_Spear: High Vubbe Spearman: 31 / Bube_Goblin_Spear: High Vubbe Spearman: 31 / HighBube_Arquero: High Vubbe Arqueros: 31
-ETC_20150317_004515	Spector_Gh: Ghost: 31 / HighBube_Spear: High Vubbe Spearman: 31 / HighBube_Arquero: High Vubbe Spearman: 31 / high_Bube_Arquero: High Vubbe Arqueros: 31
-ETC_20150317_004516	Spector_Gh: Ghost: 32 / Spector_Gh: Ghost: 32 / HighBube_Spear: High Vubbe Spearman: 32 / HighBube_Arquero: High Vubbe Spearman: 32 / high_Bube_Arquero: High Vubbe Arqueros: 32
-ETC_20150317_004517	HighBube_Spear: High Vubbe Spearman: 29 / high_bube_spear: High Vubbe Spearman: 29 / HighBube_Arquero: High Vubbe Arqueros: 29
-ETC_20150317_004518	Spector_Gh: Ghost: 31 / HighBube_Spear: High Vubbe Spearman: 31 / high_bube_spear: High Vubbe Spearman: 31 / HighBube_Arquero: High Vubbe Arqueros: 31
+ETC_20150317_004514	Spector_Gh: Ghost: 31 / HighBube_Spear: High Vubbe Spearman: 31 / Bube_Goblin_Spear: High Vubbe Spearman: 31 / HighBube_Archer: High Vubbe Arqueros: 31
+ETC_20150317_004515	Spector_Gh: Ghost: 31 / HighBube_Spear: High Vubbe Spearman: 31 / HighBube_Archer: High Vubbe Spearman: 31 / high_Bube_Archer: High Vubbe Arqueros: 31
+ETC_20150317_004516	Spector_Gh: Ghost: 32 / Spector_Gh: Ghost: 32 / HighBube_Spear: High Vubbe Spearman: 32 / HighBube_Archer: High Vubbe Spearman: 32 / high_Bube_Archer: High Vubbe Arqueros: 32
+ETC_20150317_004517	HighBube_Spear: High Vubbe Spearman: 29 / high_bube_spear: High Vubbe Spearman: 29 / HighBube_Archer: High Vubbe Arqueros: 29
+ETC_20150317_004518	Spector_Gh: Ghost: 31 / HighBube_Spear: High Vubbe Spearman: 31 / high_bube_spear: High Vubbe Spearman: 31 / HighBube_Archer: High Vubbe Arqueros: 31
 ETC_20150317_004519	Dirijir Soldados de Vacenin
 ETC_20150317_004520	Duro Hamin
 ETC_20150317_004521	Voluntario Bran
 ETC_20150317_004522	Pies de los Voluntarios
 ETC_20150317_004523	Voluntario Malt
 ETC_20150317_004524	Ese tipo... Ayudenlo...
-ETC_20150317_004525	Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Arquero: Vubbe Robber: 43
+ETC_20150317_004525	Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Archer: Vubbe Robber: 43
 ETC_20150317_004526	¡Monstruos!
 ETC_20150317_004527	¡Que persistente!
 ETC_20150317_004528	¿Hola?
@@ -4542,7 +4542,7 @@ ETC_20150317_004541	Pino-2:Pinov2:62/Geppetto-2:Geppettov2:62/Pino-2:Pinov2:62/G
 ETC_20150317_004542	Geppetto-2:Geppetto v2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62
 ETC_20150317_004543	Tontulia:Tontulia:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62/Pino-2:Pinov2:62
 ETC_20150317_004544	hogma_warrior: Hogma Warrior: 62 / hogma_warrior: No. Dagmar Warrior:62/Geppetto-2:Geppettov2:62/Geppetto-2:Geppetto v2:62/Geppetto-2:Geppettov2:62/Geppetto-2:Geppetto v2:62
-ETC_20150317_004545	hogma_Arquero: Hogma Arquero: 62 / hogma_Arquero: Hogma Arquero:62/Tontulia:Tontulia:62/Tontulia:Tontulia:62/Tontulia:Tonturia:62/Tontulia:Tontulia:62
+ETC_20150317_004545	hogma_Archer: Hogma Arquero: 62 / hogma_Archer: Hogma Arquero:62/Tontulia:Tontulia:62/Tontulia:Tontulia:62/Tontulia:Tonturia:62/Tontulia:Tontulia:62
 ETC_20150317_004546	zinutekas: Zinutekas: 68 / zinutekas: Zinutekas: 68 / zinutekas: Zinutekas: 68
 ETC_20150317_004547	Suicidio de PNJ (en segundos)
 ETC_20150317_004548	pappus_kepa_red: Old Kepa: 30
@@ -4566,10 +4566,10 @@ ETC_20150317_004565	Quest Type = ScpArgMsg ("Auto__SeoBeu_")
 ETC_20150317_004566	Quest Type = ScpArgMsg ("Auto__BanBogHyeong_")
 ETC_20150317_004567	Number of repetitions = ScpArgMsg ("Auto__MuHan_BanBog_")
 ETC_20150317_004568	Repeat Count = "
-ETC_20150317_004569	Start Method of Quest = ScpArgMsg ("Auto_PNJwa_DaeHwa")
+ETC_20150317_004569	Start Method of Quest = ScpArgMsg ("Auto_NPCwa_DaeHwa")
 ETC_20150317_004570	Start Method of Quest = ScpArgMsg ("Auto__
 ETC_20150317_004571	Start Method of Quest = ScpArgMsg ("Auto_
-ETC_20150317_004572	Termination Method of Quest = ScpArgMsg ("Auto_PNJwa_DaeHwa")
+ETC_20150317_004572	Termination Method of Quest = ScpArgMsg ("Auto_NPCwa_DaeHwa")
 ETC_20150317_004573	Termination Method of Quest = ScpArgMsg("Auto_MogJeog_DalSeong_Si_HaeDang_KweSeuTeu_SeSyeonoBeuJegTeueSeo_JaDongeuLo_wanLyoCheoLi")
 ETC_20150317_004574	Main Property of Quest = "
 ETC_20150317_004575	Session object of Quest = "
@@ -4642,20 +4642,20 @@ ETC_20150317_004641	InvItem4 MonTactics of a monster = "
 ETC_20150317_004642	InvItem4 Probability of monster = ScpArgMsg ("Auto_
 ETC_20150317_004643	Setting of kill monsters conditions = ScpArgMsg ("Auto_MoDu_ManJog_ (AND)")
 ETC_20150317_004644	Setting of kill monsters conditions = ScpArgMsg ("Auto_HaNaMan_ManJog_ (OR)")
-ETC_20150317_004645	Monjeill1 = "Monster Name:
+ETC_20150317_004645	MonKill1 = "Monster Name:
 ETC_20150317_004646	/ Contador de muerte de Objetivo:
-ETC_20150317_004647	Monjeill2 = "Monster Name:
-ETC_20150317_004648	Monjeill3 = "Monster Name:
-ETC_20150317_004649	Monjeill4 = "Monster Name:
-ETC_20150317_004650	Monjeill5 = "Monster Name:
-ETC_20150317_004651	Monjeill6 = "Monster Name:
+ETC_20150317_004647	MonKill2 = "Monster Name:
+ETC_20150317_004648	MonKill3 = "Monster Name:
+ETC_20150317_004649	MonKill4 = "Monster Name:
+ETC_20150317_004650	MonKill5 = "Monster Name:
+ETC_20150317_004651	MonKill6 = "Monster Name:
 ETC_20150317_004652	Objetivo 1 = "
 ETC_20150317_004653	Objetivo 2 = "
 ETC_20150317_004654	Objetivo 3 = "
 ETC_20150317_004655	Objetivo 4 = "
 ETC_20150317_004656	Objetivo 5 = "
 ETC_20150317_004657	Objectivo 6 = "
-ETC_20150317_004658	Quest Progress = ScpArgMsg ("Auto_PNJwa_DaeHwa_Si_wanLyoDaeKi_SangTaeLo_ByeonKyeong")
+ETC_20150317_004658	Quest Progress = ScpArgMsg ("Auto_NPCwa_DaeHwa_Si_wanLyoDaeKi_SangTaeLo_ByeonKyeong")
 ETC_20150317_004659	Quest Progress = ScpArgMsg("Auto_KweSeuTeu_wanLyo_CheoLiKkaJi_Han_Beone_SiKim(KweSeuTeu_BoSangeul_BatKo_KweSeuTeu_wanLyo)")
 ETC_20150317_004660	All Possession "
 ETC_20150317_004661	u "
@@ -5431,8 +5431,8 @@ ETC_20150317_005430	Requiere 2do círculo de Clérigo
 ETC_20150317_005431	Requiere 3er círculo de Clérigo
 ETC_20150317_005432	Requiere 2do círculo de Escultor Santo
 ETC_20150317_005433	Requiere 3er círculo de Escultor Santo
-ETC_20150317_005434	Requiere 2do círculo de Elementalistaa
-ETC_20150317_005435	Requiere 3er círculo de Elementalistaa
+ETC_20150317_005434	Requiere 2do círculo de Elementalista
+ETC_20150317_005435	Requiere 3er círculo de Elementalista
 ETC_20150317_005436	Requiere 2do círculo de Piromante
 ETC_20150317_005437	Requiere 3er círculo de Piromante
 ETC_20150317_005438	Requiere 2do círculo de Criomante
@@ -7153,11 +7153,11 @@ ETC_20150317_007153	Barrier of Paladín_Temple A
 ETC_20150317_007154	Barrier of Paladín_Temple B
 ETC_20150317_007155	Barrier of Paladín_Galley Plateau
 ETC_20150317_007156	Cathedral Chairs
-ETC_20150317_007157	Empty PNJ
+ETC_20150317_007157	Empty NPC
 ETC_20150317_007158	Siauliai Tent
 ETC_20150317_007159	Siauliai Fence
 ETC_20150317_007160	Galley Plateau
-ETC_20150317_007161	Empty PNJ 2 times
+ETC_20150317_007161	Empty NPC 2 times
 ETC_20150317_007162	Giltine
 ETC_20150317_007163	Mission Gate
 ETC_20150317_007164	Saule Diosa 2
@@ -7209,7 +7209,7 @@ ETC_20150317_007209	Little Golem
 ETC_20150317_007210	Small Griba
 ETC_20150317_007211	Stone Slabs
 ETC_20150317_007212	Tavern Book
-ETC_20150317_007213	No Shadow PNJ
+ETC_20150317_007213	No Shadow NPC
 ETC_20150317_007214	Fallen Vubbe
 ETC_20150317_007215	Immobile Mineloader
 ETC_20150317_007216	Village Girl
@@ -7955,7 +7955,7 @@ ETC_20150317_007955	Klaipeda Mánager
 ETC_20150317_007956	Event Zone
 ETC_20150317_007957	Compensation for Treasure Drop
 ETC_20150317_007958	It disappears when the PNJ is gone.
-ETC_20150317_007959	PNJ for Body Color
+ETC_20150317_007959	NPC for Body Color
 ETC_20150317_007960	Monster Summoner
 ETC_20150317_007961	Monster effects and color changer
 ETC_20150317_007962	Check your shared kills with the PNJ
@@ -7969,7 +7969,7 @@ ETC_20150317_007969	N/A
 ETC_20150317_007970	N/A
 ETC_20150317_007971	N/A
 ETC_20150317_007972	Kill countdown (for suicide)
-ETC_20150317_007973	Essence of Fire [Highlander Advancement]
+ETC_20150317_007973	Essence of Fire [Highlander Ascenso]
 ETC_20150317_007974	Second Thorn Gate (3)
 ETC_20150317_007975	Interrupt Strategy
 ETC_20150317_007976	Completed Power (1)
@@ -8098,7 +8098,7 @@ ETC_20150317_008098	N/A
 ETC_20150317_008099	N/A
 ETC_20150317_008100	N/A
 ETC_20150317_008101	%s captured a Hanaming
-ETC_20150317_008102	Did you attack a Paladín!/You are not afraid of Diosa!/You have met your match todía!
+ETC_20150317_008102	Did you attack a Paladín!/You are not afraid of Diosa!/You have met your match today!
 ETC_20150317_008103	Owow~~
 ETC_20150317_008104	Name#Hot Panto Warrior#Level#50
 ETC_20150317_008105	Name#Hot Panto Spearman#Level#50
@@ -8635,58 +8635,58 @@ ETC_20150317_008635	Play with a pre-made team with the appropriate level.
 ETC_20150317_008636	Solo (Rank)
 ETC_20150317_008637	Team (Rank)
 ETC_20150317_008638	System-wide
-ETC_20150317_008639	Swordsman Advancement
-ETC_20150317_008640	Highlander Advancement
-ETC_20150317_008641	Peltasta Advancement
-ETC_20150317_008642	Hoplite Advancement
-ETC_20150317_008643	Centurion Advancement
-ETC_20150317_008644	Barbarian Advancement
-ETC_20150317_008645	Cataphract Advancement
-ETC_20150317_008646	Corsair Advancement
-ETC_20150317_008647	Doppelsoeldner Advancement
-ETC_20150317_008648	Rodelero Advancement
-ETC_20150317_008649	Squire Advancement
-ETC_20150317_008650	Murmillo Advancement
-ETC_20150317_008651	Shinobi Advancement
-ETC_20150317_008652	Wizard Advancement
-ETC_20150317_008653	Piromante Advancement
-ETC_20150317_008654	Criomante Advancement
-ETC_20150317_008655	Mentalista Advancement
-ETC_20150317_008656	Alquimista Advancement
-ETC_20150317_008657	Hechicero Advancement
-ETC_20150317_008658	Vinculador Advancement
-ETC_20150317_008659	Cronomante Advancement
-ETC_20150317_008660	Nigromante Advancement
-ETC_20150317_008661	Taumaturgo Advancement
-ETC_20150317_008662	Elementalista Advancement
-ETC_20150317_008663	Mimic Advancement
-ETC_20150317_008664	Taoist Sacerdote Advancement
-ETC_20150317_008665	Arquero Advancement
-ETC_20150317_008666	Guardabosque Advancement
-ETC_20150317_008667	Ballestero Advancement
-ETC_20150317_008668	Cazador Advancement
-ETC_20150317_008669	Zapador Advancement
-ETC_20150317_008670	Wugushi Advancement
-ETC_20150317_008671	Hackapell Advancement
-ETC_20150317_008672	Explorador Advancement
-ETC_20150317_008673	Rogue Advancement
-ETC_20150317_008674	Schwarzer Reiter Advancement
-ETC_20150317_008675	Flechero Advancement
-ETC_20150317_008676	Pied Piper Advancement
-ETC_20150317_008677	Appraiser Advancement
-ETC_20150317_008678	Clérigo Advancement
-ETC_20150317_008679	Sacerdote Advancement
-ETC_20150317_008680	Krivis Advancement
-ETC_20150317_008681	Bokor Advancement
-ETC_20150317_008682	Druída Advancement
-ETC_20150317_008683	Sadhu Advancement
-ETC_20150317_008684	Escultor Santo Advancement
-ETC_20150317_008685	Oráculo Advancement
-ETC_20150317_008686	Monje Advancement
-ETC_20150317_008687	Redentor Advancement
-ETC_20150317_008688	Paladín Advancement
-ETC_20150317_008689	Army Capellán Advancement
-ETC_20150317_008690	Shepherd Advancement
+ETC_20150317_008639	Swordsman Ascenso
+ETC_20150317_008640	Highlander Ascenso
+ETC_20150317_008641	Peltasta Ascenso
+ETC_20150317_008642	Hoplite Ascenso
+ETC_20150317_008643	Centurion Ascenso
+ETC_20150317_008644	Barbarian Ascenso
+ETC_20150317_008645	Cataphract Ascenso
+ETC_20150317_008646	Corsair Ascenso
+ETC_20150317_008647	Doppelsoeldner Ascenso
+ETC_20150317_008648	Rodelero Ascenso
+ETC_20150317_008649	Squire Ascenso
+ETC_20150317_008650	Murmillo Ascenso
+ETC_20150317_008651	Shinobi Ascenso
+ETC_20150317_008652	Wizard Ascenso
+ETC_20150317_008653	Piromante Ascenso
+ETC_20150317_008654	Criomante Ascenso
+ETC_20150317_008655	Mentalista Ascenso
+ETC_20150317_008656	Alquimista Ascenso
+ETC_20150317_008657	Hechicero Ascenso
+ETC_20150317_008658	Vinculador Ascenso
+ETC_20150317_008659	Cronomante Ascenso
+ETC_20150317_008660	Nigromante Ascenso
+ETC_20150317_008661	Taumaturgo Ascenso
+ETC_20150317_008662	Elementalista Ascenso
+ETC_20150317_008663	Mimic Ascenso
+ETC_20150317_008664	Taoist Sacerdote Ascenso
+ETC_20150317_008665	Arquero Ascenso
+ETC_20150317_008666	Guardabosque Ascenso
+ETC_20150317_008667	Ballestero Ascenso
+ETC_20150317_008668	Cazador Ascenso
+ETC_20150317_008669	Zapador Ascenso
+ETC_20150317_008670	Wugushi Ascenso
+ETC_20150317_008671	Hackapell Ascenso
+ETC_20150317_008672	Explorador Ascenso
+ETC_20150317_008673	Rogue Ascenso
+ETC_20150317_008674	Schwarzer Reiter Ascenso
+ETC_20150317_008675	Flechero Ascenso
+ETC_20150317_008676	Pied Piper Ascenso
+ETC_20150317_008677	Appraiser Ascenso
+ETC_20150317_008678	Clérigo Ascenso
+ETC_20150317_008679	Sacerdote Ascenso
+ETC_20150317_008680	Krivis Ascenso
+ETC_20150317_008681	Bokor Ascenso
+ETC_20150317_008682	Druída Ascenso
+ETC_20150317_008683	Sadhu Ascenso
+ETC_20150317_008684	Escultor Santo Ascenso
+ETC_20150317_008685	Oráculo Ascenso
+ETC_20150317_008686	Monje Ascenso
+ETC_20150317_008687	Redentor Ascenso
+ETC_20150317_008688	Paladín Ascenso
+ETC_20150317_008689	Army Capellán Ascenso
+ETC_20150317_008690	Shepherd Ascenso
 ETC_20150317_008691	Toggle Areas without Global Gen.
 ETC_20150317_008692	For both modes
 ETC_20150317_008693	Invincibility
@@ -8858,7 +8858,7 @@ ETC_20150317_008858	World Map Tip
 ETC_20150317_008859	Press N to view the World Map.
 ETC_20150317_008860	Resurrection Tip
 ETC_20150317_008861	The durability of an equipped item decreases once the character becomes incapable of combat.
-ETC_20150317_008862	Advancement Tip
+ETC_20150317_008862	Ascenso Tip
 ETC_20150317_008863	Upon reaching a class level of 15, you may advance to the same class or an entire new class.
 ETC_20150317_008864	Mission Tip
 ETC_20150317_008865	Visit the Mercenary Post in Fedimian to take on special missions.
@@ -9058,10 +9058,10 @@ ETC_20150317_009058	Ladies excited
 ETC_20150317_009059	Manage the hide and seek
 ETC_20150317_009060	Highlander Master Room
 ETC_20150317_009061	Piromante Master Room
-ETC_20150317_009062	Advancement Quest Trigger of Criomante
+ETC_20150317_009062	Ascenso Quest Trigger of Criomante
 ETC_20150317_009063	Holidía Guide
 ETC_20150317_009064	Mercenary Post Mánager Rota
-ETC_20150317_009065	Hoplite 4th Advancement
+ETC_20150317_009065	Hoplite 4th Ascenso
 ETC_20150317_009066	Small Cathedral Ground First Floor
 ETC_20150317_009067	Paladín Master Follower (A)
 ETC_20150317_009068	Paladín Master Follower (B)
@@ -9275,7 +9275,7 @@ ETC_20150317_009275	Altar of Harmony
 ETC_20150317_009276	The Second Gateway (1) Trigger
 ETC_20150317_009277	Beholder Track
 ETC_20150317_009278	Believer Donata
-ETC_20150317_009279	Advancement Quest Trigger
+ETC_20150317_009279	Ascenso Quest Trigger
 ETC_20150317_009280	The equipment of the soldier
 ETC_20150317_009281	Broken Demon Summon Field
 ETC_20150317_009282	Sunset Flag Forest
@@ -9362,8 +9362,8 @@ ETC_20150317_009362	Square Boss Track
 ETC_20150317_009363	The Specter of Cartin Forest
 ETC_20150317_009364	Trigger Defeat Phantom Quest
 ETC_20150317_009365	Captain Owl's Favor
-ETC_20150317_009366	TaumaturgoElementalista5thAdvancementTrigger
-ETC_20150317_009367	PNJ_Paladín_follower3_2/Wandering Merchant/HIDDENSHOP_KATYN13/2130/238/-613/315
+ETC_20150317_009366	TaumaturgoElementalista5thAscensoTrigger
+ETC_20150317_009367	NPC_Paladín_follower3_2/Wandering Merchant/HIDDENSHOP_KATYN13/2130/238/-613/315
 ETC_20150317_009368	Caved Area
 ETC_20150317_009369	The quest for the hidden trigger(for skill checks)
 ETC_20150317_009370	Sword Master
@@ -9381,10 +9381,10 @@ ETC_20150317_009381	Position Trigger of Commander Vacenin
 ETC_20150317_009382	Bait Install Place
 ETC_20150317_009383	Wide leaves' bushes
 ETC_20150317_009384	Place to set the baits
-ETC_20150317_009385	4th_ClérigoAdvancementQuest
+ETC_20150317_009385	4th_ClericAscensoQuest
 ETC_20150317_009386	In order of Age of Nicotia
-ETC_20150317_009387	Trigger 4th Advancement of Redentor
-ETC_20150317_009388	For the 4th Nigromante Advancement
+ETC_20150317_009387	Trigger 4th Ascenso of Redentor
+ETC_20150317_009388	For the 4th Nigromante Ascenso
 ETC_20150317_009389	Evil Aura
 ETC_20150317_009390	Peregrino Julius turned into a Drapeliun!
 ETC_20150317_009391	Making a grave for Liliya
@@ -9423,7 +9423,7 @@ ETC_20150317_009423	[Cataphract Master]{nl}    Memet Culag
 ETC_20150317_009424	Pile of Firewood
 ETC_20150317_009425	Unique Lithograph
 ETC_20150317_009426	Buried Remains
-ETC_20150317_009427	Hechicero, Cronomante 5th Advancement trigger
+ETC_20150317_009427	Hechicero, Cronomante 5th Ascenso trigger
 ETC_20150317_009428	Jar of Sacrifice
 ETC_20150317_009429	Destroyed inscription wreckage
 ETC_20150317_009430	Military Backpack
@@ -9433,8 +9433,8 @@ ETC_20150317_009433	Abandoned Bag
 ETC_20150317_009434	Old Chest
 ETC_20150317_009435	[Redentor Master]{nl}Mistes Goldmund
 ETC_20150317_009436	[Hechicero Master]{nl}Dame Circe
-ETC_20150317_009437	For the 4th Redentor Advancement
-ETC_20150317_009438	For the 4th Hechicero Advancement
+ETC_20150317_009437	For the 4th Redentor Ascenso
+ETC_20150317_009438	For the 4th Hechicero Ascenso
 ETC_20150317_009439	Eyes of the Great King
 ETC_20150317_009440	Gorge Area Device
 ETC_20150317_009441	Historian Gorath
@@ -9492,8 +9492,8 @@ ETC_20150317_009492	Miners' Village Entry (2)
 ETC_20150317_009493	[Zapador Master]{nl} Leonard Quicktongue
 ETC_20150317_009494	[Cazador Master]{nl}    Fiona Ieva
 ETC_20150317_009495	[Barbarian Master]{nl} Walder Junnot
-ETC_20150317_009496	For the 4th Bokor Advancement
-ETC_20150317_009497	Hidden trigger for 5th advancement of Wizard, Piromante, Criomante
+ETC_20150317_009496	For the 4th Bokor Ascenso
+ETC_20150317_009497	Hidden trigger for 5th Ascenso of Wizard, Piromante, Criomante
 ETC_20150317_009498	Rankis Seal Tower
 ETC_20150317_009499	Ranka Seal Tower
 ETC_20150317_009500	Spring Flower Trigger
@@ -9511,12 +9511,12 @@ ETC_20150317_009511	Wagon Explosion
 ETC_20150317_009512	Hidden house of Krivis
 ETC_20150317_009513	[Mentalista Master]{nl} Ili Terid
 ETC_20150317_009514	[Vinculador Master]{nl} Winona Ende
-ETC_20150317_009515	Hidden trigger for 5th advancement Mentalista_Vinculador_Alquimista
+ETC_20150317_009515	Hidden trigger for 5th Ascenso Mentalista_Vinculador_Alquimista
 ETC_20150317_009516	Mine Mánager Brinker
 ETC_20150317_009517	Start Trigger
 ETC_20150317_009518	Medium Boss Golem Trigger
 ETC_20150317_009519	[Hoplite Master]{nl}    Adidas Baylor
-ETC_20150317_009520	For Krivis' 4th advancement quest track
+ETC_20150317_009520	For Krivis' 4th Ascenso quest track
 ETC_20150317_009521	Rocktortuga Spawn Trigger
 ETC_20150317_009522	Maggot
 ETC_20150317_009523	Inner Catacombs
@@ -9529,7 +9529,7 @@ ETC_20150323_009529	Marionette
 ETC_20150323_009530	Fire Lord
 ETC_20150323_009531	Organ
 ETC_20150323_009532	Velmoski
-ETC_20150323_009533	VeliaMonjeey
+ETC_20150323_009533	Veliamonkey
 ETC_20150323_009534	Silva Griffin
 ETC_20150323_009535	Gold Hairpin
 ETC_20150323_009536	Bug
@@ -9695,7 +9695,7 @@ ETC_20150323_009695	Blut's Altar
 ETC_20150323_009696	Protect me while I perform the ritual
 ETC_20150323_009697	You can't trap me!
 ETC_20150323_009698	¡¡Derrota a Blut!!
-ETC_20150323_009699	You will die here todía, Blut!
+ETC_20150323_009699	You will die here today, Blut!
 ETC_20150323_009700	¡¡Derrota a Nuaele!
 ETC_20150323_009701	How did you...
 ETC_20150323_009702	Block them!
@@ -9888,17 +9888,17 @@ ETC_20150323_009889	Crystal Processing Device
 ETC_20150323_009890	Use Elementalista Attributes
 ETC_20150323_009891	Hunt boss monsters with party members.
 ETC_20150323_009892	DoTimeAction:Collecting Woods:3#SITGROPESET2:None
-ETC_20150323_009893	Property:1/PropertyAdd:1/GiveItem:SIAULIAI50_WOOD_PIECE:1:0/PNJKill/EffectPNJ:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Acquired wood!:3
+ETC_20150323_009893	Property:1/PropertyAdd:1/GiveItem:SIAULIAI50_WOOD_PIECE:1:0/NPCKill/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Acquired wood!:3
 ETC_20150323_009894	DoTimeAction:Looking through greenery:2:SITGROPE:None
-ETC_20150323_009895	Property:1/PropertyAdd:1/GiveItem:FARM47_4_SQ_040_ITEM_1:1:0/PNJDead/EffectPNJ:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Found Hardtack!:5
-ETC_20150323_009896	PNJDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing can be seen!:5
+ETC_20150323_009895	Property:1/PropertyAdd:1/GiveItem:FARM47_4_SQ_040_ITEM_1:1:0/NPCDead/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Found Hardtack!:5
+ETC_20150323_009896	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing can be seen!:5
 ETC_20150323_009897	DoTimeAction:Cutting the trees that will be used for round woodsticks:4:CUTVINE_LOOP:None
-ETC_20150323_009898	Notice:NOTICE_Dm_!:Did not get anything!:5/PNJDead
+ETC_20150323_009898	Notice:NOTICE_Dm_!:Did not get anything!:5/NPCDead
 ETC_20150323_009899	DoTimeAction:Extracting Dandelions:2:None
-ETC_20150323_009900	PCSelfDown:10/Notice:NOTICE_Dm_!:Roots of Dandelions have been cut!:5/PNJDead
-ETC_20150323_009901	PCSelfDown:10/Notice:NOTICE_Dm_!:Roots of Dandelions have been cut!!:5/PNJDead/Func:SCR_FARM47_HERB_ROOT_EVENT
+ETC_20150323_009900	PCSelfDown:10/Notice:NOTICE_Dm_!:Roots of Dandelions have been cut!:5/NPCDead
+ETC_20150323_009901	PCSelfDown:10/Notice:NOTICE_Dm_!:Roots of Dandelions have been cut!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
 ETC_20150323_009902	DoTimeAction:Drying after putting the monster meats inside:5:None
-ETC_20150323_009903	AnimPNJ:Local:OPEN:0/Notice:NOTICE_Dm_!:The meats are being dried! The beef jerkies are going to come out when the lid opens after 5 secs!\:3/Sleep:5/AnimPNJ:Local:OPEN:0/EffectPNJ:Local:F_smoke135_dark:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
+ETC_20150323_009903	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:The meats are being dried! The beef jerkies are going to come out when the lid opens after 5 secs!\:3/Sleep:5/AnimNPC:Local:OPEN:0/EffectNPC:Local:F_smoke135_dark:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
 ETC_20150323_009904	DoTimeAction:Retrieving:2:MAKING:None
 ETC_20150323_009905	According to rumors around Fedimian, when the peregrinos passed by the Peregrino Path
 ETC_20150323_009906	According to the survivors, survivors of the Fallen City lost their belongings or their lives in the Altar Way while going to Fedimian.
@@ -10010,7 +10010,7 @@ ETC_20150323_010011	Collect the farmers' signatures on the Compact
 ETC_20150323_010012	Storage Use Fee
 ETC_20150323_010013	While getting on the Companion, your node height was too high to establish a link
 ETC_20150323_010014	Receta - Antidote
-ETC_20150323_010015	Elementalista Advancement
+ETC_20150323_010015	Elementalista Ascenso
 ETC_20150323_010016	Card Synthesis
 ETC_20150323_010017	Enter your personal greeting
 ETC_20150323_010018	Visit Barrack
@@ -10329,7 +10329,7 @@ ETC_20150323_010330	Are you sure you want to sell this?
 ETC_20150323_010331	Awakening
 ETC_20150323_010332	Can only be used in Tenet Garden
 ETC_20150323_010333	Can only be used in Ramstis Ridge Area
-ETC_20150323_010334	{@st42b}Advancement Date:
+ETC_20150323_010334	{@st42b}Ascenso Date:
 ETC_20150323_010335	{@st42b}Play Time:
 ETC_20150323_010336	The people from the village were demons.{nl}Run away to portal of Veja Ravine.
 ETC_20150323_010337	Great Cathedral Completion Stone
@@ -10522,10 +10522,10 @@ ETC_20150401_010523	Valley Barrier Chain
 ETC_20150401_010524	Valley Device 8
 ETC_20150401_010525	DoTimeAction:Collecting wood:3:#SITGROPESET2:SSN_HATE_AROUND
 ETC_20150401_010526	DoTimeAction:Searching the grass:2:#SITGROPESET:None
-ETC_20150401_010527	PNJDead/Sleep:500/Notice:NOTICE_Dm_!:Cannot find anything.:5
+ETC_20150401_010527	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Cannot find anything.:5
 ETC_20150401_010528	DoTimeAction:Extracting Nioles:2:None
-ETC_20150401_010529	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!:5/PNJDead
-ETC_20150401_010530	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!!:5/PNJDead/Func:SCR_FARM47_HERB_ROOT_EVENT
+ETC_20150401_010529	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!:5/NPCDead
+ETC_20150401_010530	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
 ETC_20150401_010531	IvnItem:FARM47_1_SQ_060_ITEM_1:1:0/DoTimeAction:Drying after the putting the meats of the monsters:3:MAKING:None
 ETC_20150401_010532	Deshazte del monstruo golpeandólo con una bengala
 ETC_20150401_010533	Get Maven's Fourth Key from Apgaule Altar
@@ -10980,7 +10980,7 @@ ETC_20150414_010981	Buy Flechero Items
 ETC_20150414_010982	World Formation
 ETC_20150414_010983	Use Halconero Attribute
 ETC_20150414_010984	IvnItem:FARM47_1_SQ_060_ITEM_1:1/DoTimeAction:Making meat jerky:3:MAKING:None
-ETC_20150414_010985	AnimPNJ:Local:OPEN:0/Notice:NOTICE_Dm_!:Made jerky!:3/Sleep:5000/AnimPNJ:Local:CLOSE:0/EffectPNJ:Local:F_smoke135_dark:2:BOT/GiveItem:FARM47_1_SQ_060_ITEM_2:1/TakeItem:FARM47_1_SQ_060_ITEM_1:1/Property:2/PropertyAdd:1
+ETC_20150414_010985	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:Made jerky!:3/Sleep:5000/AnimNPC:Local:CLOSE:0/EffectNPC:Local:F_smoke135_dark:2:BOT/GiveItem:FARM47_1_SQ_060_ITEM_2:1/TakeItem:FARM47_1_SQ_060_ITEM_1:1/Property:2/PropertyAdd:1
 ETC_20150414_010986	Stop Rexipher
 ETC_20150414_010987	Destroy the Scattered Raíz Cristal del Árbol Cores
 ETC_20150414_010988	Activate the Gedulah Altar before Rexipher destroys it
@@ -11101,7 +11101,7 @@ ETC_20150414_011102	Receta - Key Pendant
 ETC_20150414_011103	Receta - Silver Bracelet
 ETC_20150414_011104	Receta - Superior Pearl Bracelet
 ETC_20150414_011105	Receta - Rune Bracelet
-ETC_20150414_011106	Halconero Advancement
+ETC_20150414_011106	Halconero Ascenso
 ETC_20150414_011107	Dispeller Crafting attribute required
 ETC_20150414_011108	Craft Arrow
 ETC_20150414_011109	Arrow Crafting attribute required
@@ -12078,16 +12078,16 @@ ETC_20150714_012079	You've found a fellow player whom you've played with before.
 ETC_20150714_012080	A player whom you've played with before is inviting you to their party again. Join this party again!
 ETC_20150714_012081	Party Quest
 ETC_20150714_012082	A random quest will be selected for all party members who meet the required criteria.
-ETC_20150714_012083	PNJDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing was found!:5
-ETC_20150714_012084	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole Roots were disconnected!!:5/Func:SCR_FARM47_HERB_ROOT_EVENT/PNJDead
+ETC_20150714_012083	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing was found!:5
+ETC_20150714_012084	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole Roots were disconnected!!:5/Func:SCR_FARM47_HERB_ROOT_EVENT/NPCDead
 ETC_20150714_012085	DoTimeAction:Collecting:2:SITGROPE:SSN_HATE_AROUND
-ETC_20150714_012086	Notice:NOTICE_Dm_!:It's dried too much so the juice doesn't come out!:5/EffectPNJ:Local:F_burstup019_smoke:1:BOT/PNJDead
+ETC_20150714_012086	Notice:NOTICE_Dm_!:It's dried too much so the juice doesn't come out!:5/EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead
 ETC_20150714_012087	DoTimeAction:Collecting the bushes:3:#SITGROPESET:None
-ETC_20150714_012088	Property:1/PropertyAdd:1/PNJDead/EffectPNJ:Local:F_pc_making_finish_white:1:TOP/GiveItem:REMAINS37_2_SQ_050_ITEM_1:1/Notice:NOTICE_Dm_Clear:You've obtained well dried bushes!:5
-ETC_20150714_012089	DamagePC:5/PNJDead/Notice:NOTICE_Dm_!:You've been pricked by thorns of bushes!:5
+ETC_20150714_012088	Property:1/PropertyAdd:1/NPCDead/EffectNPC:Local:F_pc_making_finish_white:1:TOP/GiveItem:REMAINS37_2_SQ_050_ITEM_1:1/Notice:NOTICE_Dm_Clear:You've obtained well dried bushes!:5
+ETC_20150714_012089	DamagePC:5/NPCDead/Notice:NOTICE_Dm_!:You've been pricked by thorns of bushes!:5
 ETC_20150714_012090	DoTimeAction:Digging the gold plate:2:#SITGROPESET:SSN_HATE_AROUND
-ETC_20150714_012091	Property:1/PropertyAdd:1/PCSelfDown:10/PNJDead/Notice:NOTICE_Dm_Clear:You fell down while you were digging the gold plate that was stuck, but you managed to dig it well!:5/GiveItem:REMAINS37_3_SQ_040__ITEM_1:1
-ETC_20150714_012092	Property:1/PropertyAdd:1/Func:SCR_REMAINS37_3_SQ_040_SUMMON/PNJSelfDown:10/Notice:NOTICE_Dm_!:The monsters suddenly appeared near the gold plate!:5/PNJDead/GiveItem:REMAINS37_3_SQ_040__ITEM_1:1
+ETC_20150714_012091	Property:1/PropertyAdd:1/PCSelfDown:10/NPCDead/Notice:NOTICE_Dm_Clear:You fell down while you were digging the gold plate that was stuck, but you managed to dig it well!:5/GiveItem:REMAINS37_3_SQ_040__ITEM_1:1
+ETC_20150714_012092	Property:1/PropertyAdd:1/Func:SCR_REMAINS37_3_SQ_040_SUMMON/PNJSelfDown:10/Notice:NOTICE_Dm_!:The monsters suddenly appeared near the gold plate!:5/NPCDead/GiveItem:REMAINS37_3_SQ_040__ITEM_1:1
 ETC_20150714_012093	Property:1/PropertyAdd:1/Notice:NOTICE_Dm_Clear:You've digged the gold plate well!:5/GiveItem:REMAINS37_3_SQ_040__ITEM_1:1
 ETC_20150714_012094	DoTimeAction:Collecting:1.2:WEEDING:None
 ETC_20150714_012095	Collect the keepsakes of the advance party that is petrified
@@ -13001,8 +13001,8 @@ ETC_20150714_013002	Skill Point
 ETC_20150714_013003	Experience(fixed value)
 ETC_20150714_013004	Hitme Experience
 ETC_20150714_013005	Reputation Point
-ETC_20150714_013006	EX4> JobChange:First:M (Only given to males upon first job advancement to target job)
-ETC_20150714_013007	EX3> JobChange:First (Given upon first job advancement to target job)
+ETC_20150714_013006	EX4> JobChange:First:M (Only given to males upon first job Ascenso to target job)
+ETC_20150714_013007	EX3> JobChange:First (Given upon first job Ascenso to target job)
 ETC_20150714_013008	EX2> WIZ:M/WAR:F (Only given to Wizard males and Swordsman females)
 ETC_20150714_013009	Number 20
 ETC_20150714_013010	Number 19
@@ -13019,7 +13019,7 @@ ETC_20150714_013020	Item ClassName
 ETC_20150714_013021	Linked quest
 ETC_20150714_013022	Quest progression PNJ lines while waiting for quest completion
 ETC_20150714_013023	Quest starting PNJ lines while waiting for quest completion
-ETC_20150714_013024	Position check(Monjeill/Kill item/Exterminio/Exterminio item apply)
+ETC_20150714_013024	Position check(MonKill/Kill item/Exterminio/Exterminio item apply)
 ETC_20150714_013025	Starting position
 ETC_20150714_013026	Time(segundos)
 ETC_20150714_013027	Script template
@@ -13098,7 +13098,7 @@ ETC_20150714_013099	Target class only given item upon completion
 ETC_20150714_013100	Deleted item upon completion
 ETC_20150714_013101	Buff upon completion
 ETC_20150714_013102	Simultaneously started quest upon completion(no starting lines)
-ETC_20150714_013103	Class advancement upon completion
+ETC_20150714_013103	Class Ascenso upon completion
 ETC_20150714_013104	Random reward item(determined before quest acceptance)
 ETC_20150714_013105	Reward upon completion of the final round of a repeatable quest
 ETC_20150714_013106	Quest Progress
@@ -13280,10 +13280,10 @@ ETC_20150717_013281	Wings of Vibora, Lena
 ETC_20150717_013282	 in Klaipeda based on the character's Adventure Index.
 ETC_20150717_013283	You can upgrade each ability by using Status Points.
 ETC_20150717_013284	You can preview the effects from the screen below.
-ETC_20150717_013285	Advancement
+ETC_20150717_013285	Ascenso
 ETC_20150717_013286	You can advance to another class when your Class Level has reached 15.
-ETC_20150717_013287	After selecting another class to advance to, you will receive an advancement quest from the Class Master. Complete the quest to advance further.
-ETC_20150717_013288	Once you begin the advancement quest, you cannot change your class until the next advancement.
+ETC_20150717_013287	After selecting another class to advance to, you will receive an Ascenso quest from the Class Master. Complete the quest to advance further.
+ETC_20150717_013288	Once you begin the Ascenso quest, you cannot change your class until the next Ascenso.
 ETC_20150717_013289	When you reach Rank 2, you can learn the attribute
 ETC_20150717_013290	 from the Class Master.
 ETC_20150717_013291	You can quickly swap weapons by pressing {img Alt 40 40}+ {img Z 40 40} if you've learned the Weapon Swap attribute
@@ -13436,27 +13436,27 @@ ETC_20150717_013437	Item Merchant1
 ETC_20150717_013438	Silhouette Crystal
 ETC_20150717_013439	Fedimian Item Merchant
 ETC_20150717_013440	Grita Phoenix
-ETC_20150717_013441	PNJ_Fire Lord
-ETC_20150717_013442	Empty PNJ for Petrified City
-ETC_20150717_013443	PNJ_Kepa_Temporal Use
+ETC_20150717_013441	NPC_Fire Lord
+ETC_20150717_013442	Empty NPC for Petrified City
+ETC_20150717_013443	NPC_Kepa_Temporal Use
 ETC_20150717_013444	Hidden Trigger for Petrifying Frost
 ETC_20150717_013445	Boss Hunting Mission
 ETC_20150717_013446	Request Office Mission
 ETC_20150717_013447	Talk to Fedimian Mercenary Post Receptionist Ramda at the Mercenary Post to request a mission.
 ETC_20150717_013448	DoTimeAction:Looking for the parts:3:SITGROPE:None
-ETC_20150717_013449	Property:1/PropertyAdd:1/EffectPNJ:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/PNJDead
-ETC_20150717_013450	Notice:NOTICE_Dm_!:You didn't find anything!:5/PNJDead
+ETC_20150717_013449	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead
+ETC_20150717_013450	Notice:NOTICE_Dm_!:You didn't find anything!:5/NPCDead
 ETC_20150717_013451	DoTimeAction:Collecting:3:SITGROPE:None
-ETC_20150717_013452	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_020_ITEM_1:1/EffectPNJ:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_Clear:You've obtained Poisonous plants!:5
-ETC_20150717_013453	PNJDead/Notice:NOTICE_Dm_!:You couldn't obtain anything!:5
+ETC_20150717_013452	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_020_ITEM_1:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_Clear:You've obtained Poisonous plants!:5
+ETC_20150717_013453	NPCDead/Notice:NOTICE_Dm_!:You couldn't obtain anything!:5
 ETC_20150717_013454	DoTimeAction:Colleting the petrification liquid  powders:5:GROPE:None
-ETC_20150717_013455	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_050_ITEM_2:1/EffectPNJ:Local:F_pc_making_finish_white:1:TOP/PNJDead/Notice:NOTICE_Dm_Clear:You've obtained the petrification liquid powders!:5
-ETC_20150717_013456	PNJDead/Notice:NOTICE_Dm_!:You've failed to obtain the petrification liquid powders!:5
+ETC_20150717_013455	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_050_ITEM_2:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/NPCDead/Notice:NOTICE_Dm_Clear:You've obtained the petrification liquid powders!:5
+ETC_20150717_013456	NPCDead/Notice:NOTICE_Dm_!:You've failed to obtain the petrification liquid powders!:5
 ETC_20150717_013457	Func:SCR_FLASH_58_PETRIFICATION_MON_PRECHCEK/DoTimeAction:Pulling out the monster's core:3:SITGROPE:None
-ETC_20150717_013458	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_060_ITEM_1:1/EffectPNJ:Local:FLASH_58_SQ_060_ITEM_1:1:TOP/PNJDead/Notice:NOTICE_Dm_Clear:Obtained the core!:5
+ETC_20150717_013458	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_060_ITEM_1:1/EffectNPC:Local:FLASH_58_SQ_060_ITEM_1:1:TOP/NPCDead/Notice:NOTICE_Dm_Clear:Obtained the core!:5
 ETC_20150717_013459	Notice:NOTICE_Dm_!:You haven't obtained anything:5
 ETC_20150717_013460	Release the petrified victims at Vienti Fortress
-ETC_20150717_013461	The Past of the Mina de Cristal [Alquimista Advancement]
+ETC_20150717_013461	The Past of the Mina de Cristal [Alquimista Ascenso]
 ETC_20150717_013462	Pass the corridor by dispersing the monsters
 ETC_20150717_013463	Search through the corpses of the Royal Army guards and collect usable equipment
 ETC_20150717_013464	Obtain diluting solution from the Item Merchant in Fedimian
@@ -13706,8 +13706,8 @@ ETC_20150729_013707	Silver is required to learn attributes. {nl}Also, some attri
 ETC_20150729_013708	You can use an attribute after you've learned it, {nl}and you cannot learn another attribute while you are studying one.
 ETC_20150729_013709	Some attributes can be disabled if needed.
 ETC_20150729_013710	You can advance your class when you reach Class Lv 15.
-ETC_20150729_013711	After selecting a class to advance to, you will receive an advancement quest from the Class Master.
-ETC_20150729_013712	Once you begin the advancement quest, you cannot change your class until the next advancement.
+ETC_20150729_013711	After selecting a class to advance to, you will receive an Ascenso quest from the Class Master.
+ETC_20150729_013712	Once you begin the Ascenso quest, you cannot change your class until the next Ascenso.
 ETC_20150729_013713	Complete the quest to advance.
 ETC_20150729_013714	You can check your items, equipment, funds, and weight in the inventory that the character has.
 ETC_20150729_013715	Press {img F2 40 40} to open the Inventory window.
@@ -13912,7 +13912,7 @@ ETC_20150729_013913	When Party Leader accepts the party quest, party members can
 ETC_20150729_013914	When Party Leader accepts Team Battle League, you can compete against other parties by forming a team with your party members. After accepting, please wait until your opponent is selected.
 ETC_20150729_013915	DoTimeAction:Collecting:2:SITGROPE:None
 ETC_20150729_013916	DoTimeAction:Extracting the core of the Monster:3:SITGROPE:None
-ETC_20150729_013917	Notice:NOTICE_Dm_!:You haven't obtained anything:5/PNJDead
+ETC_20150729_013917	Notice:NOTICE_Dm_!:You haven't obtained anything:5/NPCDead
 ETC_20150729_013918	The Secret of the Chamber - Swordsman type_Conditions
 ETC_20150729_013919	The Secret of the Chamber - Wizard type_Conditions
 ETC_20150729_013920	The Secret of the Chamber - Arquero type_Conditions
@@ -13941,7 +13941,7 @@ ETC_20150729_013942	Receta - Max Petamion
 ETC_20150729_013943	Receta - Knotted Armband
 ETC_20150729_013944	Receta - Feather Armband
 ETC_20150729_013945	Receta - Tasseled Armband
-ETC_20150729_013946	GM Advancement
+ETC_20150729_013946	GM Ascenso
 ETC_20150729_013947	Magic Amulet
 ETC_20150729_013948	A character equipped with a companion cannot be deleted.
 ETC_20150729_013949	PvP team battle is open.
@@ -14038,7 +14038,7 @@ ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
 ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, PS Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, PM Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Tasa Crítico{nl}
 ETC_20150730_014042	DoTimeAction:Looking for parts:2:SITGROPE:None
-ETC_20150730_014043	Property:1/PropertyAdd:1/EffectPNJ:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/PNJDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
+ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
 ETC_20150730_014045	Survive by avoiding the monsters within the time limit
 ETC_20150730_014046	Record the memories in the orb
@@ -14098,12 +14098,12 @@ ETC_20150803_014099	Las capturas de pantalla serán almacenadas en la carpeta 'T
 ETC_20150803_014100	{nl} {nl}Con {img F12 40 40}, puedes usar la función para grabar vídeo.
 ETC_20150803_014101	Si presionas {img F12 40 40} nuevamente, el vídeo grabado será guardado.{nl}El vídeo grabado será almacenado en la carpeta 'TreeOfSavior\release\avicapture'.
 ETC_20150803_014102	DoTimeAction:Collectign:2:SITGROPE:None
-ETC_20150803_014103	Property:1/PropertyAdd:1/EffectPNJ:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:Collected the copses and saved the keepsakes!:5/PNJDead/GiveItem:FLASH_29_1_SQ_040_ITEM_2:1
-ETC_20150803_014104	Notice:NOTICE_Dm_GetItem:You've collected the corpses!:5/PNJDead
-ETC_20150803_014105	EffectPNJ:Local:F_burstup019_smoke:1:BOT/PNJDead/Notice:NOTICE_Dm_!:You haven't collected anything!:5
-ETC_20150803_014106	EffectPNJ:Local:F_burstup019_smoke:1:BOT/PNJDead/Notice:NOTICE_Dm_!:You've failed to collect the petrification powder!:5
+ETC_20150803_014103	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:Collected the copses and saved the keepsakes!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_2:1
+ETC_20150803_014104	Notice:NOTICE_Dm_GetItem:You've collected the corpses!:5/NPCDead
+ETC_20150803_014105	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTICE_Dm_!:You haven't collected anything!:5
+ETC_20150803_014106	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTICE_Dm_!:You've failed to collect the petrification powder!:5
 ETC_20150803_014107	DoTimeAction:Collecting:1:WEEDING:None
-ETC_20150803_014108	Property:1/PropertyAdd:1/GiveItem:UNDER67_MQ4_ITEM01:1/PNJKill/Notice:NOTICE_Dm_GetItem:Obtained bushes:3/EffectPNJ:Local:F_pc_making_finish_white:1:TOP
+ETC_20150803_014108	Property:1/PropertyAdd:1/GiveItem:UNDER67_MQ4_ITEM01:1/NPCKill/Notice:NOTICE_Dm_GetItem:Obtained bushes:3/EffectNPC:Local:F_pc_making_finish_white:1:TOP
 ETC_20150803_014109	Give a present to Explorador Master secretly without being caught
 ETC_20150803_014110	Give the demons the slip by using temporary flare
 ETC_20150803_014111	Collect Red Leaves
@@ -14369,7 +14369,7 @@ ETC_20150918_014370	Agvenipa Set
 ETC_20150918_014371	[Backstab] Attack x4{nl}Evasion {img red_down_arrow 16 16} 188
 ETC_20150918_014372	Bokor Zombie Count
 ETC_20150918_014373	blowSound volume except for my character
-ETC_20150918_014374	Character Advancement Rank Limit
+ETC_20150918_014374	Character Ascenso Rank Limit
 ETC_20150918_014375	Event Scene Quest normal monster drop rate 10/1
 ETC_20150918_014376	Instanced Dungeon Reset Time 9 AM
 ETC_20150918_014377	Hey! Help me!
@@ -14609,7 +14609,7 @@ ETC_20150918_014610	Aleatorio
 ETC_20150918_014611	Individual
 ETC_20150918_014612	Compartida
 ETC_20150918_014613	No Compartida
-ETC_20150918_014614	You have exceeded the number of times that you can participate in an instanced dungeon for todía.
+ETC_20150918_014614	You have exceeded the number of times that you can participate in an instanced dungeon for today.
 ETC_20150918_014615	You do not meet the level requirement of this instanced dungeon
 ETC_20150918_014616	Defeat Matsums that are rushing in!
 ETC_20150918_014617	Treasure Vubbe has appeared!
@@ -14931,7 +14931,7 @@ ETC_20151001_014932	Stone Wall 01
 ETC_20151001_014933	Stone Wall02
 ETC_20151001_014934	Intensive Spirit Device1
 ETC_20151001_014935	Intensive Spirit Device2
-ETC_20151001_014936	No Shadow PNJ_Tall
+ETC_20151001_014936	No Shadow NPC_Tall
 ETC_20151001_014937	Historian (Male) 01
 ETC_20151001_014938	Historian (Male) 02
 ETC_20151001_014939	Historian (Male) 03
@@ -15765,7 +15765,7 @@ ETC_20151016_015766	Hauberk's Recombination
 ETC_20151016_015767	Completed Status Point Tutorial
 ETC_20151016_015768	Set a bonfire and guide the settlers
 ETC_20151016_015769	Bring the settlers
-ETC_20151016_015770	Advancement Helper
+ETC_20151016_015770	Ascenso Helper
 ETC_20151016_015771	Find the Mysterious Girl
 ETC_20151016_015772	Investigate the mysterious seedlings
 ETC_20151016_015773	Record the behaviors of the ferrets
@@ -15804,16 +15804,16 @@ ETC_20151016_015805	Rapier Dagger
 ETC_20151016_015806	Rapier Sub
 ETC_20151016_015807	Crossbow Cannon
 ETC_20151016_015808	Receta - Elements
-ETC_20151016_015809	Esgrimista Advancement
-ETC_20151016_015810	Dragón Advancement
-ETC_20151016_015811	Templario Advancement
-ETC_20151016_015812	Sage Advancement
-ETC_20151016_015813	Brujo Advancement
-ETC_20151016_015814	Featherfoot Advancement
-ETC_20151016_015815	Cañonero Advancement
-ETC_20151016_015816	Mosquetero Advancement
-ETC_20151016_015817	Médico de Plagas Advancement
-ETC_20151016_015818	Cabalista Advancement
+ETC_20151016_015809	Esgrimista Ascenso
+ETC_20151016_015810	Dragón Ascenso
+ETC_20151016_015811	Templario Ascenso
+ETC_20151016_015812	Sage Ascenso
+ETC_20151016_015813	Brujo Ascenso
+ETC_20151016_015814	Featherfoot Ascenso
+ETC_20151016_015815	Cañonero Ascenso
+ETC_20151016_015816	Mosquetero Ascenso
+ETC_20151016_015817	Médico de Plagas Ascenso
+ETC_20151016_015818	Cabalista Ascenso
 ETC_20151016_015819	By Grade
 ETC_20151016_015820	By Weight
 ETC_20151016_015821	By Price
@@ -16219,11 +16219,11 @@ ETC_20151022_016220	BonfireQ2
 ETC_20151022_016221	BonfireQ3
 ETC_20151022_016222	Spirit Condenser3
 ETC_20151022_016223	Spirit Condenser4
-ETC_20151022_016224	PNJ_Green Infroholder Hechicero
+ETC_20151022_016224	NPC_Green Infroholder Hechicero
 ETC_20151022_016225	Fountain
 ETC_20151022_016226	Cannonball
 ETC_20151022_016227	Earth Flower
-ETC_20151022_016228	Empty PNJ 3
+ETC_20151022_016228	Empty NPC 3
 ETC_20151022_016229	Tied Girl Lima
 ETC_20151022_016230	Buy the goods of Nigromante
 ETC_20151022_016231	Use Esgrimista Attributes
@@ -16291,7 +16291,7 @@ ETC_20151022_016292	Receta - Epee
 ETC_20151022_016293	Receta - Sharp Rapier
 ETC_20151022_016294	Receta - Duelist
 ETC_20151022_016295	Receta - Venier
-ETC_20151022_016296	Esgrimista Advancement
+ETC_20151022_016296	Esgrimista Ascenso
 ETC_20151022_016297	You will soon move to the character selection.
 ETC_20151022_016298	Grimoire
 ETC_20151022_016299	Necronomicon
@@ -16886,7 +16886,7 @@ ETC_20151102_016887	Temporary Magic Core
 ETC_20151102_016888	Long-tailed Chickadee
 ETC_20151102_016889	Red Long-tailed Chickadee
 ETC_20151102_016890	Flamingo
-ETC_20151102_016891	Rank 7 Advancement (Test)
+ETC_20151102_016891	Rank 7 Ascenso (Test)
 ETC_20151102_016892	Use Ballestero Attributes
 ETC_20151102_016893	Hoplite Attributes
 ETC_20151102_016894	Barbarian Attributes
@@ -17264,7 +17264,7 @@ ETC_20151102_017265	The surrounding demons have vanished upon using the Demon Sa
 ETC_20151102_017266	The surrounding demons have been damaged upon using the Demon Sack
 ETC_20151102_017267	Your PS seem to have increased upon using the Demon Sack
 ETC_20151102_017268	Already guiding a migrant
-ETC_20151102_017269	Required to advance to Statue Maintenance [Escultor Santo Advancement] (2)
+ETC_20151102_017269	Required to advance to Statue Maintenance [Escultor Santo Ascenso] (2)
 ETC_20151102_017270	Abandon or complete the The Missing Bishop (2) quest and try again
 ETC_20151102_017271	Worshiped to the Estatua de Diosa
 ETC_20151102_017272	Placing Purification of Namott
@@ -17304,7 +17304,7 @@ ETC_20151102_017305	Use this after you defeat the monsters around!
 ETC_20151102_017306	Protect the Earth seeds until they flower
 ETC_20151102_017307	The young girl doesn't seem to be here
 ETC_20151102_017308	Some time is required before you can obtain another Spirit - Attack Buff
-ETC_20151102_017309	Acquired todía's compensation
+ETC_20151102_017309	Acquired today's compensation
 ETC_20151102_017310	Monsters have appeared in order to protect the activated guardian statue
 ETC_20151102_017311	You cannot burn the vines as something is protecting it.
 ETC_20151102_017312	You cannot burn the sealing text as something is protecting it.
@@ -17787,7 +17787,7 @@ ETC_20151224_017787	Blue Truffle
 ETC_20151224_017788	Corrupt Chupacabra
 ETC_20151224_017789	Blue Operor
 ETC_20151224_017790	Red Apparition
-ETC_20151224_017791	Hungry Velnia Monjeey
+ETC_20151224_017791	Hungry Velnia monkey
 ETC_20151224_017792	Guild Flag
 ETC_20151224_017793	The symbol of the organization.
 ETC_20151224_017794	Mission Red Vubbe Thief
@@ -18036,7 +18036,7 @@ ETC_20151224_018036	You can make your character stronger by allocating Status Po
 ETC_20151224_018037	{nl} {nl}The effects of the status that you want to invest can be previewed below in the character window.
 ETC_20151224_018038	{nl} {nl}Your skill level increases after clicking on the + button.
 ETC_20151224_018039	{nl} {nl}Some attributes can be turned on or off depending on the circumstances.
-ETC_20151224_018040	{nl} {nl}You are able to advance once you've completed your advancement quest.
+ETC_20151224_018040	{nl} {nl}You are able to advance once you've completed your Ascenso quest.
 ETC_20151224_018041	{nl} {nl}Some classes need to learn a new weapon mastery skill in order to use a specific weapon.
 ETC_20151224_018042	{nl} {nl}The items you can have in your inventory are indicated below.
 ETC_20151224_018043	{nl} {nl}After clicking the Lock button, select an item to lock it. You can do the same for unlocking items.
@@ -18651,7 +18651,7 @@ ETC_20151224_018651	Monster and PNJ Test
 ETC_20151224_018652	Magic Power Deliver Objective
 ETC_20151224_018653	Karacha Set
 ETC_20151224_018654	Increases [Backstab] damage by 3x when attacking an enemy from behind{nl}Evasion {img red_down_arrow 16 16} 188
-ETC_20151224_018655	Velnia Monjeey Set
+ETC_20151224_018655	Velnia monkey Set
 ETC_20151224_018656	DEX {img green_up_arrow 16 16} 6
 ETC_20151224_018657	Elgos Set
 ETC_20151224_018658	Magic Defense {img green_up_arrow 16 16} 5
@@ -19072,8 +19072,8 @@ ETC_20151224_019072	Receta - Superior Royal Guard Gauntlets
 ETC_20151224_019073	Receta - Superior Royal Guard Greaves
 ETC_20151224_019074	Receta - Superior Royal Guard Pants
 ETC_20151224_019075	Receta - Superior Royal Guard Armor
-ETC_20151224_019076	Receta - Velnia Monjeey Leather Pants
-ETC_20151224_019077	Receta - Velnia Monjeey Leather Armor
+ETC_20151224_019076	Receta - Velnia monkey Leather Pants
+ETC_20151224_019077	Receta - Velnia monkey Leather Armor
 ETC_20151224_019078	Receta - Elgos Gloves
 ETC_20151224_019079	Receta - Elgos Boots
 ETC_20151224_019080	Receta - Elgos Pants
@@ -19205,21 +19205,21 @@ ETC_20151224_019205	You don't have any quests to move to in the area.
 ETC_20151224_019206	Party Quest Count : {count} / {max}{nl}
 ETC_20151224_019207	A quest has been selected!
 ETC_20151224_019208	Cannot find the PNJ.
-ETC_20151224_019209	Todía's Correct Answers : {díaPLAYCOUNT} {nl} Remaining Attempts : {COUNT}{nl}The range you can select in between is {MIN} ~ {MAX}.{nl}Please select it within the specified range.
+ETC_20151224_019209	today's Correct Answers : {díaPLAYCOUNT} {nl} Remaining Attempts : {COUNT}{nl}The range you can select in between is {MIN} ~ {MAX}.{nl}Please select it within the specified range.
 ETC_20151224_019210	Select a number.
 ETC_20151224_019211	Please select a number within the range of {MIN} ~ {MAX}.
 ETC_20151224_019212	The correct answer is bigger than {INPUT}.
 ETC_20151224_019213	The correct answer is smaller than {INPUT}.
 ETC_20151224_019214	This number has already been selected.{nl} Please select again from {MIN} ~ {MAX}.
-ETC_20151224_019215	You've completed {díaPLAYCOUNT} times out of {díaMAXCOUNT} todía.
+ETC_20151224_019215	You've completed {díaPLAYCOUNT} times out of {díaMAXCOUNT} today.
 ETC_20151224_019216	 is the correct answer.
 ETC_20151224_019217	Remaining Attempts : {COUNT}{nl}Please select {DIGIT} different numbers between 0 ~ 9.
 ETC_20151224_019218	All matching numbers: {STRIKE}{nl}Correct answer number count : {BALL}{nl}Wrong answer number count : {OUT}
-ETC_20151224_019219	Todía's Successes : {díaPLAYCOUNT}{nl}You've succeeded {COUNT} times!
+ETC_20151224_019219	today's Successes : {díaPLAYCOUNT}{nl}You've succeeded {COUNT} times!
 ETC_20151224_019220	Remaining Attempts : {nl}You've failed.{nl}The correct answer is {VALUE}.
 ETC_20151224_019221	The number to find : {NEXT}
 ETC_20151224_019222	You've found all the numbers
-ETC_20151224_019223	You've found all the numbers of todía
+ETC_20151224_019223	You've found all the numbers of today
 ETC_20151224_019224	Obtain the following number and arithmetic {MIXINGMAX}{nl}by hunting monsters to create the combination of {VALUETARGET}.
 ETC_20151224_019225	Target Number : {VALUETARGET}{nl}Combine the following {MIXINGMAX} number and arithmetics. {nl} Owned Arithmetic : + ({s1}), - ({s2}), * ({s3}), / ({s4}){nl} Owned Number : 1 ({nl}), 2 ({n2}), 3 ({n3}), 4 ({n4}), 5 ({n5}), 6 ({n6}), 7 ({n7}), 8 ({n8}), 9 ({n9}){nl} Combination of Value : {MIXING}
 ETC_20151224_019226	Completed number combination!
@@ -19411,7 +19411,7 @@ ETC_20151224_019411	Make a Pair of Monsters to find the hidden monsters in Cube
 ETC_20151224_019412	You can try the Make a Pair of Monsters using collapsed obelisk
 ETC_20151224_019413	You're already progressing the Make a Pair of Monsters
 ETC_20151224_019414	Make a Pair of Monsters{nl}Available Times: {COUNT}times{nl}Do you want to try?
-ETC_20151224_019415	You've completed {díaPLAYCOUNT} times out of {díaMAXCOUNT} todía.
+ETC_20151224_019415	You've completed {díaPLAYCOUNT} times out of {díaMAXCOUNT} today.
 ETC_20151224_019416	Cube should be opened with 2, so can be progressed
 ETC_20151224_019417	Receiving the rewards
 ETC_20151224_019418	You've failed to destoy the barrier stone during the limited time
@@ -19570,7 +19570,7 @@ ETC_20151224_019570	Over there, the Jeneuam Corridor!
 ETC_20151224_019571	The protection shield is weakening because of the monster attacks
 ETC_20151224_019572	Give a Basic Small PS Potion
 ETC_20151224_019573	You've found a traveling merchant!{nl}Inform the traveling merchant of Rose's location
-ETC_20151224_019574	You've completed {díaPLAYCOUNT} times out of {díaMAXCOUNT} todía.
+ETC_20151224_019574	You've completed {díaPLAYCOUNT} times out of {díaMAXCOUNT} today.
 ETC_20151224_019575	Charging the launcher
 ETC_20151224_019576	Purified the evil spirit!
 ETC_20151224_019577	You receive a beneficial effect because you purified the evil spirit!
@@ -19594,7 +19594,7 @@ ETC_20151224_019594	Move to the the place to push the boat
 ETC_20151224_019595	You are already received the rewards
 ETC_20151224_019596	You cannot receive the rewards
 ETC_20151224_019597	You have received the rewards
-ETC_20151224_019598	You've used {díaPLAYCOUNT} times out of {díaMAXCOUNT} todía.
+ETC_20151224_019598	You've used {díaPLAYCOUNT} times out of {díaMAXCOUNT} today.
 ETC_20151224_019599	Hurry up!
 ETC_20151224_019600	Sacrifice  1 Blue Cronewt Leather as an offering
 ETC_20151224_019601	Sacrifice  10 Blue Cronewt Leathers as an offering
@@ -19621,7 +19621,7 @@ ETC_20151224_019621	Ughh...
 ETC_20151224_019622	You have received the Achievement Score.
 ETC_20151224_019623	You are already received the Achievement Score.
 ETC_20151224_019624	You can no longer receive the Achievement Score.
-ETC_20151224_019625	You've completed {díaPLAYCOUNT} times out of {díaMAXCOUNT} todía.
+ETC_20151224_019625	You've completed {díaPLAYCOUNT} times out of {díaMAXCOUNT} today.
 ETC_20151224_019626	Guild Request
 ETC_20151224_019627	Failed to create a guild
 ETC_20151224_019628	Left the guild
@@ -19900,7 +19900,7 @@ ETC_20151224_019900	[Vice-maestre Criomante]{nl}       Octavia Ifflyn
 ETC_20151224_019901	[Maestre Psicoquino]{nl}       Ili Terid
 ETC_20151224_019902	[Vinculador Master]{nl}    Winona Ende
 ETC_20151224_019903	[Vice-maestre Taumaturgo]{nl}          Diemer Fallon
-ETC_20151224_019904	[Maestre Elementalistaa]{nl}         Wican Celestic
+ETC_20151224_019904	[Maestre Elementalista]{nl}         Wican Celestic
 ETC_20151224_019905	[Vice-maestre Arquero]{nl}         Gunnison
 ETC_20151224_019906	[Vice-maestre Guardabosques]{nl}            Sheba
 ETC_20151224_019907	[Vice-maestre Ballestero]{nl}            Shorris
@@ -20136,7 +20136,7 @@ ETC_20160224_020136	Tera Specter Monarch
 ETC_20160224_020137	Tera Glackuman
 ETC_20160224_020138	Tera Canceril
 ETC_20160224_020139	Tera Silva Griffin
-ETC_20160224_020140	Tera Velnia Monjeey
+ETC_20160224_020140	Tera Velnia monkey
 ETC_20160224_020141	Tera Prison Cutter
 ETC_20160224_020142	Tera Red Lavenzard
 ETC_20160224_020143	Tera Foculus
@@ -20536,7 +20536,7 @@ ETC_20160224_020536	Receta - Phada
 ETC_20160224_020537	A recipe to craft a costume. Click Derecho para register this recipe to the Diario de Aventuras.
 ETC_20160224_020538	5v5 Auto-Match (Rank)
 ETC_20160224_020539	2v2 Auto-Match
-ETC_20160224_020540	Rune Caster Advancement
+ETC_20160224_020540	Rune Caster Ascenso
 ETC_20160224_020541	Access to game denied by Xigncode.
 ETC_20160224_020542	Failed to verify access.
 ETC_20160224_020543	Duplicate login. Access denied.
