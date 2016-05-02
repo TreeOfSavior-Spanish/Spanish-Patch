@@ -311,7 +311,7 @@ ITEM_20150317_000310	Arco Corto Deficiente
 ITEM_20150317_000311	Es un arco para principiantes, aunque algunos arqueros más profesionales prefieren seguir usándolo.
 ITEM_20150317_000312	Arco Largo Deficiente
 ITEM_20150317_000313	Una pequeña distancia a veces puede ser el factor decisivo entre la vida y la muerte. Este arco es una buena opción si quieres un alcance más largo.
-ITEM_20150317_000314	Arco Compuesto
+ITEM_20150317_000314	Arco de Poleas
 ITEM_20150317_000315	Un arco con una mayor flexibilidad mediante la aplicación de diversos materiales.
 ITEM_20150317_000316	Arco Puro
 ITEM_20150317_000317	Simboliza la voluntad incondicional de un arquero inflexible.
@@ -336,20 +336,20 @@ ITEM_20150317_000335	Arco Robusto Ligero
 ITEM_20150317_000336	Arco Corto
 ITEM_20150317_000337	Arco Corto Pesado
 ITEM_20150317_000338	Arco Largo
-ITEM_20150317_000339	Arco Compuesto Pesado
+ITEM_20150317_000339	Arco de Poleas Pesado
 ITEM_20150317_000340	Arco Puro Pesado
 ITEM_20150317_000341	Arco Rokas Pesado
 ITEM_20150317_000342	Arco Puro Misterioso
 ITEM_20150317_000343	Kaman Misterioso
 ITEM_20150317_000344	Arco Corto Misterioso
 ITEM_20150317_000345	Arco Largo Misterioso
-ITEM_20150317_000346	Arco Compuesto Misterioso
+ITEM_20150317_000346	Arco de Poleas Misterioso
 ITEM_20150317_000347	Arco Rokas Misterioso
 ITEM_20150317_000348	Arco Recurvado
 ITEM_20150317_000349	Arco Seige
 ITEM_20150317_000350	Arco de Tirador
-ITEM_20150317_000351	Arco de Calavera
-ITEM_20150317_000352	Arco de Madera Compuesto
+ITEM_20150317_000351	Arco Calavera
+ITEM_20150317_000352	Arco de Poleas de Madera
 ITEM_20150317_000353	Arco de Combate
 ITEM_20150317_000354	Arco de Picaro
 ITEM_20150317_000355	Buscador
@@ -441,7 +441,7 @@ ITEM_20150317_000440	Arbalest
 ITEM_20150317_000441	Torreta de Fedimian
 ITEM_20150317_000442	Tirador de Balas
 ITEM_20150317_000443	Arco Black Tip
-ITEM_20150317_000444	Ballesta de pinchos
+ITEM_20150317_000444	Ballesta Claveteada
 ITEM_20150317_000445	Windlass
 ITEM_20150317_000446	Ballesta Pesada
 ITEM_20150317_000447	Aunque es un poco pesada, la magia infundida en el arco compensa este inconveniente.
@@ -9868,65 +9868,65 @@ ITEM_20160224_009867	Khasti Two-handed Sword
 ITEM_20160224_009868	Pensara Two-handed Sword
 ITEM_20160224_009869	Magi Two-handed Sword
 ITEM_20160224_009870	Lolopanther Two-handed Sword
-ITEM_20160224_009871	Magi Alter Rod
-ITEM_20160224_009872	Artie Nald Rod
-ITEM_20160224_009873	Schipell Meteor Rod
-ITEM_20160224_009874	Lumas Rod
-ITEM_20160224_009875	Slaake Meteor Rod
-ITEM_20160224_009876	Hunting Ring Rod
-ITEM_20160224_009877	Vitt Corona Rod
-ITEM_20160224_009878	Duris Battle Rod
-ITEM_20160224_009879	Artie Snake Rod
-ITEM_20160224_009880	Supportive Alter Rod
-ITEM_20160224_009881	Seimos Rod
-ITEM_20160224_009882	Tilly Rod
-ITEM_20160224_009883	Catacombs Rod
-ITEM_20160224_009884	Magic Circle
-ITEM_20160224_009885	Pensara Rod
-ITEM_20160224_009886	Maga Rod
-ITEM_20160224_009887	Lolopanther Rod
-ITEM_20160224_009888	Lightning Siege Bow
-ITEM_20160224_009889	Vienie Sniper Bow
-ITEM_20160224_009890	Earth Skull Bow
-ITEM_20160224_009891	Lumas Bow
-ITEM_20160224_009892	Poison Wooden Compound Bow
-ITEM_20160224_009893	Futere Tag Bow
-ITEM_20160224_009894	Vienie Rogue Bow
-ITEM_20160224_009895	Hunting Wreech Bow
+ITEM_20160224_009871	Vara de Alteración Magi
+ITEM_20160224_009872	Vara Artie Nald
+ITEM_20160224_009873	Vara Meteoro Schipell
+ITEM_20160224_009874	Vara Lumas
+ITEM_20160224_009875	Vara Meteoro Slaake
+ITEM_20160224_009876	Vara Anillo de Caza
+ITEM_20160224_009877	Vara Coronada Vitt
+ITEM_20160224_009878	Vara de Batalla Duris
+ITEM_20160224_009879	Vara Serpiente de Artie
+ITEM_20160224_009880	Vara de Alteración de Apoyo
+ITEM_20160224_009881	Vara Seimos
+ITEM_20160224_009882	Vara Tilly
+ITEM_20160224_009883	Vara de las Catacumbas
+ITEM_20160224_009884	Círculo Mágico
+ITEM_20160224_009885	Vara Pensara
+ITEM_20160224_009886	Vara Maga
+ITEM_20160224_009887	Vara Lolopanther
+ITEM_20160224_009888	Arco de Asedio Eléctrico
+ITEM_20160224_009889	Arco de Francotirador Vienie
+ITEM_20160224_009890	Arco Calavera de Tierra
+ITEM_20160224_009891	Arco Lumas
+ITEM_20160224_009892	Arco de Poleas de Madera Envenenado
+ITEM_20160224_009893	Arco de Etiqueta Futere
+ITEM_20160224_009894	Arco de Pícaro Vienie
+ITEM_20160224_009895	Arco de Caza Wreech
 ITEM_20160224_009896	Magi Kaman
-ITEM_20160224_009897	Light Gorithos
-ITEM_20160224_009898	Supportive Siege Bow
-ITEM_20160224_009899	Seimos Bow
-ITEM_20160224_009900	Tilly Bow
-ITEM_20160224_009901	Khasti Bow
-ITEM_20160224_009902	Pensara Bow
-ITEM_20160224_009903	Maga Bow
-ITEM_20160224_009904	Lolopanther Bow
-ITEM_20160224_009905	 - All Quarrel Shooter skill levels {img green_up_arrow 16 16} 2
-ITEM_20160224_009906	 - [Backstab] skill level {img green_up_arrow 16 16} 3
-ITEM_20160224_009907	 - 2% de probabilidad de hacer {img green_up_arrow 16 16} 600% de daño
-ITEM_20160224_009908	Eki Fedimian Turret
-ITEM_20160224_009909	Eki Veteran Crossbow
-ITEM_20160224_009910	Holy Bullet Shooter
-ITEM_20160224_009911	Lumas Crossbow
-ITEM_20160224_009912	Vitt Black Tip Shooter
-ITEM_20160224_009913	Vienie Spiked Crossbow
-ITEM_20160224_009914	Vienie Windlass
-ITEM_20160224_009915	Light Kracked Shooter
-ITEM_20160224_009916	Adata Cranequin
-ITEM_20160224_009917	Didel Kracked Shooter
-ITEM_20160224_009918	Supportive Fedimian Turret
-ITEM_20160224_009919	Didel Grand Cross
-ITEM_20160224_009920	A good and popular bow for Quarrel Shooters.
-ITEM_20160224_009921	Seimos Crossbow
-ITEM_20160224_009922	Magas Shooter
-ITEM_20160224_009923	Pensara Crossbow
-ITEM_20160224_009924	Ruma Crossbow
-ITEM_20160224_009925	Catacombs Shooter
+ITEM_20160224_009897	Gorithos Ligero
+ITEM_20160224_009898	Arco de Asedio de Apoyo
+ITEM_20160224_009899	Arco Seimos
+ITEM_20160224_009900	Arco Tilly
+ITEM_20160224_009901	Arco Khasti
+ITEM_20160224_009902	Arco Pensara
+ITEM_20160224_009903	Arco Maga
+ITEM_20160224_009904	Arco Lolopanther
+ITEM_20160224_009905	 - Nivel de todas las habilidades de Ballestero {img green_up_arrow 16 16} 2
+ITEM_20160224_009906	 - Nivel de la habilidad [Apuñalar] {img green_up_arrow 16 16} 3
+ITEM_20160224_009907	 - 2% de probabilidad de causar {img green_up_arrow 16 16} 600% de daño
+ITEM_20160224_009908	Torreta de Fedimian Eki
+ITEM_20160224_009909	Ballesta de Veterano Eki
+ITEM_20160224_009910	Tirador de Saetas Sagradas
+ITEM_20160224_009911	Ballesta Lumas
+ITEM_20160224_009912	Tirador de Punta Negra Vitt
+ITEM_20160224_009913	Ballesta Claveteada Vienie
+ITEM_20160224_009914	Torno Vienie
+ITEM_20160224_009915	Tirador Kebrado Ligero
+ITEM_20160224_009916	Cranequin Adata
+ITEM_20160224_009917	Tirador Kebrado Didel
+ITEM_20160224_009918	Torreta de Fedimian de Apoyo
+ITEM_20160224_009919	Gran Cruz Didel
+ITEM_20160224_009920	Una popular y muy buena arma para Ballesteros.
+ITEM_20160224_009921	Ballesta Seimos
+ITEM_20160224_009922	Tirador Magas
+ITEM_20160224_009923	Ballesta Pensara
+ITEM_20160224_009924	Ballesta Ruma
+ITEM_20160224_009925	Tirador de las Catacumbas
 ITEM_20160224_009926	Ballesta Lolopanther
 ITEM_20160224_009927	Garrote de Fedimian Vienie
 ITEM_20160224_009928	Maza de Runa Slaake
-ITEM_20160224_009929	Garrote con Pinchos Eléctrico
+ITEM_20160224_009929	Garrote Claveteado Eléctrico
 ITEM_20160224_009930	Maza Lumas
 ITEM_20160224_009931	Martillo Magi Stirus
 ITEM_20160224_009932	Martillo de Guerra Vienie
@@ -9934,7 +9934,7 @@ ITEM_20160224_009933	Almádena Eki
 ITEM_20160224_009934	Burawa Oscura
 ITEM_20160224_009935	Martillo de Batalla Artie
 ITEM_20160224_009936	Burawa Didel
-ITEM_20160224_009937	Garrote de Respaldo de Fedimian
+ITEM_20160224_009937	Garrote de Fedimian de Apoyo
 ITEM_20160224_009938	Maza Seimos
 ITEM_20160224_009939	Maza Magas
 ITEM_20160224_009940	Maza Pensara
@@ -9949,19 +9949,19 @@ ITEM_20160224_009948	Alchupiz de Caza Gelti
 ITEM_20160224_009949	Lanza Alada Jaas
 ITEM_20160224_009950	Lanza Lumas
 ITEM_20160224_009951	Pica Artie Desgarradora
-ITEM_20160224_009952	Langdebeve de Luz
+ITEM_20160224_009952	Langdebeve Ligera
 ITEM_20160224_009953	Adata Chauve-souris
 ITEM_20160224_009954	Slaake Corsesca
 ITEM_20160224_009955	Asta Artie
 ITEM_20160224_009956	Vienie Corsesca
-ITEM_20160224_009957	Alchupiz de Respaldo
+ITEM_20160224_009957	Alchupiz de Apoyo
 ITEM_20160224_009958	Lanza Seimos
 ITEM_20160224_009959	Lanza Tilly
 ITEM_20160224_009960	Lanza Khasti
 ITEM_20160224_009961	Lanza Pensara
 ITEM_20160224_009962	Lanza Maga
 ITEM_20160224_009963	Lanza Lolopanther
-ITEM_20160224_009964	Partesana Real de Luz
+ITEM_20160224_009964	Partesana Real Ligera
 ITEM_20160224_009965	Pica Cónica Slaake
 ITEM_20160224_009966	Pica de Fedimian Sagrada
 ITEM_20160224_009967	Pica Lumas Pike
@@ -9971,7 +9971,7 @@ ITEM_20160224_009970	Alabarda Magi
 ITEM_20160224_009971	Pica Demoniaca Duris
 ITEM_20160224_009972	Partesana Sagrada
 ITEM_20160224_009973	Pica Demoniaca del Infierno
-ITEM_20160224_009974	Partesana de Respaldo Real
+ITEM_20160224_009974	Partesana Real de Apoyo
 ITEM_20160224_009975	Pica Seimos
 ITEM_20160224_009976	Pica Magas
 ITEM_20160224_009977	Pica Pensara
@@ -9988,12 +9988,12 @@ ITEM_20160224_009987	Bastón Cruz Roja
 ITEM_20160224_009988	Bastón Cruz de Artie
 ITEM_20160224_009989	Bastón Lumas
 ITEM_20160224_009990	Bastón de Caza Astro
-ITEM_20160224_009991	Bastón Astro de Luz
+ITEM_20160224_009991	Bastón Astro Ligero
 ITEM_20160224_009992	Bastón Artie Bokun
 ITEM_20160224_009993	Bastón Malvado de Dellis
 ITEM_20160224_009994	Bastón de Hielo Malvado
 ITEM_20160224_009995	Bastón Ciervo de Artie
-ITEM_20160224_009996	Bastón de Respaldo Drake
+ITEM_20160224_009996	Bastón Drake de Apoyo
 ITEM_20160224_009997	Bastón Seimos
 ITEM_20160224_009998	Bastón de Mago
 ITEM_20160224_009999	 - Daño de [Proyectil Mágico] {img green_up_arrow 16 16} 186
