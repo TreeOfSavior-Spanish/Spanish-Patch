@@ -14,7 +14,7 @@ Miembros:
 - SKILL.tsv
 - ITEM.tsv - Darkloud & Alex-GS (Thenestas)
 - QUEST.tsv - Razku
-- QUEST_JOBSTEP.tsv
+- QUEST_JOBSTEP.tsv - DkAngelS
 - QUEST_LV_0100.tsv
 - QUEST_LV_0200.tsv
 - QUEST_LV_0300.tsv
