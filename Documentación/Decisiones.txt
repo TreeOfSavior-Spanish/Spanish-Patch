@@ -104,7 +104,10 @@ El prefijo "High" se ha traducido cómo "Alto" para evitar usar "Gran" que está
 
 [ Nombres del Equipamiento ]
 Sword --> Espada
-Two Handed Sword --> Espada de dos manos
+Two Handed Sword --> Espada de 2 manos
+Twin blade => Hoja doble
+Blade => Hoja
+Scimitar => Cimitarra
 Staff --> Bastón
 Rod --> Vara
 Wand --> Varita
