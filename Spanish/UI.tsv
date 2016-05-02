@@ -1730,7 +1730,7 @@ UI_20150717_001729	{@st41}Campo de batalla
 UI_20150717_001730	Resultados
 UI_20150717_001731	{@st41}Moverse ahora
 UI_20150717_001732	{@st41b}             Un 'Nombre de Equipo' representa todos{nl}             tus personajes.{nl}                Es un nombre común usado dentro del juego.{nl}                  (¡Cambiar el nombre de equipo te costará TP!){/}
-UI_20150729_001733	{@st42}Mostrar solo atributos aprendidos{/}
+UI_20150729_001733	{@st42}Mostrar solo atributos disponibles{/}
 UI_20150729_001734	Número de Piernas
 UI_20150729_001735	Tecla
 UI_20150729_001736	Peso
@@ -2176,7 +2176,7 @@ UI_20160323_002175	[Creado hace: %s]
 UI_20160411_002176	{@st66b}Usar vibración en la cámara{/}
 UI_20160425_002177	{@st42}Si los dos están usando un token,{nl}las propiedades del objeto intercambiado{nl}no cambiarán.{/}
 UI_20160425_002178	{@st66b} Efectos de Fondo
-UI_20160425_002179	{@st66b} Partes de Muertos
+UI_20160425_002179	{@st66b} Restos de Muertes
 UI_20160425_002180	{@st66b} Siluetas de Personajes
 UI_20160426_002181	{/}¿Quieres borrar a tu {b}{s20}Compañero{/}{s43}{@st43}%s{/}{/}{b}{s20}?{/}
 UI_20160426_002182	{/}{b}{s20}No se puede recuperar despues de ser borrado.{/}
