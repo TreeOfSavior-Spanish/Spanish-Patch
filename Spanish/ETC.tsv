@@ -375,7 +375,7 @@ ETC_20150317_000374	De acuerdo a la legende este perro guardían es una creació
 ETC_20150317_000375	Golem del Cementerio
 ETC_20150317_000376	Gran Jefe Kepa
 ETC_20150317_000377	Poata
-ETC_20150317_000378	Muerto vivo
+ETC_20150317_000378	Nonato
 ETC_20150317_000379	Salamandra
 ETC_20150317_000380	Saltistter
 ETC_20150317_000381	Ginklas
@@ -396,7 +396,7 @@ ETC_20150317_000395	Líquen Blando
 ETC_20150317_000396	Sparnas
 ETC_20150317_000397	Cargador de Minas
 ETC_20150317_000398	Rajarana
-ETC_20150317_000399	Tormentador Sombrío
+ETC_20150317_000399	Clamatormentas Sombrío
 ETC_20150317_000400	Helgasercle
 ETC_20150317_000401	Necroventer
 ETC_20150317_000402 Lutopus Contorneante
@@ -433,7 +433,7 @@ ETC_20150317_000432	Yekubite
 ETC_20150317_000433	El Yekub desata su infame grito que produce millares de secuaces. Yekubite es el nombre dado a esos secuaces.
 ETC_20150317_000434	Trozo de Estatua
 ETC_20150317_000435	Un monstruo poseído que está obsesionado con las divinas Estatuas de la Diosa.
-ETC_20150317_000436	Muerto Vivo en Fuga
+ETC_20150317_000436	Scap Nonato
 ETC_20150317_000437	Cire
 ETC_20150317_000438	Este monstruo no parece haber sido transmutado de plantas sino que de flora podrida. Sin embargo, no hay evidencia que apoye esta conclusión.
 ETC_20150317_000439	Ritasfung
@@ -552,7 +552,7 @@ ETC_20150317_000551	Guante Demoníaco Maldito
 ETC_20150317_000552	Goblin de Madera Gigante
 ETC_20150317_000553	Reflejo de Helgasercle
 ETC_20150317_000554	Mago Hori
-ETC_20150317_000555	Vubbe Luchador
+ETC_20150317_000555	Vubbe Guerrero
 ETC_20150317_000556	Secuaz Invocado
 ETC_20150317_000557	Espantapájaros
 ETC_20150317_000558	Aukuras
@@ -682,7 +682,7 @@ ETC_20150317_000681	Indomitable Kepa Chieftain
 ETC_20150317_000682	Bizzare Velochard
 ETC_20150317_000683	Whirlwind Harpeia
 ETC_20150317_000684	Frantic Giant Wood Goblin
-ETC_20150317_000685	Muerto Vivo de Acero
+ETC_20150317_000685	Nonato de Acero
 ETC_20150317_000686	Leaping Hierrobaum
 ETC_20150317_000687	Shaking Achat
 ETC_20150317_000688	Shnayim moving Again
@@ -931,7 +931,7 @@ ETC_20150317_000930	Q1 Moa
 ETC_20150317_000931	Q1 Minotauro
 ETC_20150317_000932	Q2 Minotauro
 ETC_20150317_000933	Q4 Bearkaras
-ETC_20150317_000934	Q1 Vubbe Fighter
+ETC_20150317_000934	Q1 Vubbe Luchador
 ETC_20150317_000935	Q1 Biteregina
 ETC_20150317_000936	Q2 Salamander
 ETC_20150317_000937	Q1 Ruíseñor Sombrío
@@ -2384,9 +2384,9 @@ ETC_20150317_002383	Moviendose.
 ETC_20150317_002384	No moverse.
 ETC_20150317_002385	{@st59} Aumenta PM y recuperación de PM {/}
 ETC_20150317_002386	{nl} Misión Completada
-ETC_20150317_002387	Lo ví. Obviamente no era un Muerto Vivo.
-ETC_20150317_002388	No es un Muerto Vivo.
-ETC_20150317_002389	¿Porqué habría de seguirlo si es un Muerto Vivo?
+ETC_20150317_002387	Lo ví. Obviamente no era un Nonato.
+ETC_20150317_002388	No es un Nonato.
+ETC_20150317_002389	¿Porqué habría de seguirlo si es un Nonato?
 ETC_20150317_002390	¿Muertos Vivos en Saltistter? Eso no tiene Sentido.
 ETC_20150317_002391	Prerequisito:
 ETC_20150317_002392	Nivel o superior
@@ -2767,7 +2767,7 @@ ETC_20150317_002766	Imposible de vender
 ETC_20150317_002767	Ataque de Elemento Fuego
 ETC_20150317_002768	Ataque de Elemento Hielo
 ETC_20150317_002769	Ataque de Elemento Veneno
-ETC_20150317_002770	Ataque de Elemento Santo
+ETC_20150317_002770	Ataque de Elemento Sagrado
 ETC_20150317_002771	Ataque de Elemento Oscuridad
 ETC_20150317_002772	Velocidad de Movimiento
 ETC_20150317_002773	Recuperación de PS
@@ -2780,7 +2780,7 @@ ETC_20150317_002779	Resistencia a Elemento Fuego
 ETC_20150317_002780	Resistencia a Elemento Hielo
 ETC_20150317_002781	Resistencia a Elemento Veneno
 ETC_20150317_002782	Resistencia a Elemento Eléctrico
-ETC_20150317_002783	Resistencia a Elemento Santo
+ETC_20150317_002783	Resistencia a Elemento Sagrado
 ETC_20150317_002784	Resistencia a Elemento Oscuridad
 ETC_20150317_002785	Radio del Área de Ataque ▲
 ETC_20150317_002786	Radio del Área de Ataque ▼
@@ -2961,7 +2961,7 @@ ETC_20150317_002960	Agua
 ETC_20150317_002961	Eléctrico
 ETC_20150317_002962	Veneno
 ETC_20150317_002963	Oscuridad
-ETC_20150317_002964	Santo
+ETC_20150317_002964	Sagrado
 ETC_20150317_002965	Tierra
 ETC_20150317_002966	NA
 ETC_20150317_002967	Corte
@@ -5204,7 +5204,7 @@ ETC_20150317_005203	¡Derrota al Maestre Rogue!
 ETC_20150317_005204	¡Ahí voy!
 ETC_20150317_005205	¡Derrota a la Rocktortuga y obtén la ágata natural!
 ETC_20150317_005206	¡Derrota al Schwarzer Reiter!
-ETC_20150317_005207	¡Derrota a Muerto Vivo!
+ETC_20150317_005207	¡Derrota al Nonato!
 ETC_20150317_005208	¡Derrota a Rajarana!
 ETC_20150317_005209	¡Han aparecid monstruos!
 ETC_20150317_005210	Cajas de aceite
@@ -6865,7 +6865,7 @@ ETC_20150317_006865	Torre de la Tierra Stone Orca
 ETC_20150317_006866	Torre de la Tierra Yekubite
 ETC_20150317_006867	Torre de la Tierra Vubbe Arquero
 ETC_20150317_006868	Torre de la Tierra Vubbe Wizard
-ETC_20150317_006869	Torre de la Tierra Vubbe Warrior
+ETC_20150317_006869	Torre de la Tierra Vubbe Guerrero
 ETC_20150317_006870	Torre de la Tierra Vubbe Chaser
 ETC_20150317_006871	Torre de la Tierra Vubbe Fire Wizard
 ETC_20150317_006872	Torre de la Tierra Vubbe Ice Wizard
@@ -8114,7 +8114,7 @@ ETC_20150317_008114	Kepa AI
 ETC_20150317_008115	Kepa AI2
 ETC_20150317_008116	Strike
 ETC_20150317_008117	Chaparición's Shadow
-ETC_20150317_008118	The Vubbe Fighter is very exhausted.
+ETC_20150317_008118	The Vubbe Luchador is very exhausted.
 ETC_20150317_008119	Destroy the Specter Monarch's summoned totem.
 ETC_20150317_008120	If not, the lightning from the Specter Monarch will never end.
 ETC_20150317_008121	Tombstone
@@ -8519,7 +8519,7 @@ ETC_20150317_008519	Receta - Silver Plate Gauntlets
 ETC_20150317_008520	Receta - Silver Plate Greaves
 ETC_20150317_008521	Receta - Silver Plate Leggings
 ETC_20150317_008522	Receta - Silver Plate Armor
-ETC_20150317_008523	Receta - Vubbe Fighter Gauntlets
+ETC_20150317_008523	Receta - Vubbe Luchador Gauntlets
 ETC_20150317_008524	Receta - Shield Crasher
 ETC_20150317_008525	Receta - Vine Gloves
 ETC_20150317_008526	Receta - Vine Boots
@@ -10422,7 +10422,7 @@ ETC_20150401_010423	Earth Spectra
 ETC_20150401_010424	Earth Apparition
 ETC_20150401_010425	Earth Raflower
 ETC_20150401_010426	Earth Shredded
-ETC_20150401_010427	Earth Muerto Vivo en Fuga
+ETC_20150401_010427	Earth Scap Nonato
 ETC_20150401_010428	Earth Hallowventer
 ETC_20150401_010429	Earth Templeshooter
 ETC_20150401_010430	Earth Canceril
@@ -10678,7 +10678,7 @@ ETC_20150401_010679	Farm Worker
 ETC_20150406_010680	Farm Ellum
 ETC_20150406_010681	Outer World Puragi
 ETC_20150406_010682	Outer World Kepa Raider
-ETC_20150406_010683	Outer World Vubbe Fighter
+ETC_20150406_010683	Outer World Vubbe Luchador
 ETC_20150406_010684	Outer World Rodelin
 ETC_20150406_010685	Outer World Cronewt
 ETC_20150406_010686	Outer World Large Panto Spearman
@@ -11431,18 +11431,18 @@ ETC_20150428_011432	Receta - Superior Key Pendant
 ETC_20150428_011433	Receta - Sage Necklace
 ETC_20150428_011434	Receta - Superior Rune Bracelet
 ETC_20150428_011435	Receta - Star Bracelet
-ETC_20150428_011436	FAQ : Guarida{nl}1) Puedes cambiar el nombre de tu Guarida dandole click a "Configuración de Guarida". {nl}2) Puedes comprar aspectos para tu Guarida usando iCoins al darle click a "Cambiar Guarida".{nl}3) Puedes elegir el canal al que deseas ingresar desde tu Guarida.
+ETC_20150428_011436	FAQ : Guarida{nl}1) Puedes cambiar el nombre de tu Guarida dandole click a 'Configuración de Guarida'. {nl}2) Puedes comprar aspectos para tu Guarida usando iCoins al darle click a 'Cambiar Guarida'.{nl}3) Puedes elegir el canal al que deseas ingresar desde tu Guarida.
 ETC_20150428_011437	FAQ : Character PS, PM, RES {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) RES: This is stamina. When your RES is 0, you can only walk and cannot run anymore. {nl} RES is also used when learning certain attributes. {nl} RES can be recovered by destroying Raíces Cristal del Árbol or by using Resistencia Pills. {nl} Resistencia Pills can be purchased from shops, earned by completing quests or by defeating boss monsters.
 ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15.
 ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3) You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
 ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Guarida before entering the world.
-ETC_20150428_011441	FAQ : Modo Descanso{nl}1) Press the INSERT key to switch to Modo Descanso. {nl}2) PS, PM, RES will be restored. {nl}3) You can light up a bonfire, craft items, enhance gems or combine cards in Modo Descanso.{nl} You need "Firewood" to create a bonfire. {nl} PS, PM, RES is restored quicker when you use a bonfire.{nl}4) Other functions will be added in the near future.
+ETC_20150428_011441	FAQ : Modo Descanso{nl}1) Press the INSERT key to switch to Modo Descanso. {nl}2) PS, PM, RES will be restored. {nl}3) You can light up a bonfire, craft items, enhance gems or combine cards in Modo Descanso.{nl} You need 'Firewood' to create a bonfire. {nl} PS, PM, RES is restored quicker when you use a bonfire.{nl}4) Other functions will be added in the near future.
 ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Decreases a little bit when you play with the equipment on.{nl}    When an item's durability decreases below a certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
 ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Item Merchant in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
-ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on what class you are. {nl} If you advance to a Highlander, you can learn the "Use Two-handed Swords" attribute from the Highlander Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
+ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on what class you are. {nl} If you advance to a Highlander, you can learn the 'Use Two-handed Swords' attribute from the Highlander Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
 ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge Skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
-ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Controller UI Mode" through game settings when you are using a controller. {nl}2) There is a special "Low Mode" for PCs with minimum system requirements.
-ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all the players in the game. {nl} It requires a Megaphone item to do so. {nl}2) Party Chat: Enter "/p" before your message to chat with the party members in your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
+ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to 'Controller UI Mode' through game settings when you are using a controller. {nl}2) There is a special 'Low Mode' for PCs with minimum system requirements.
+ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter '/y' before your message to show your message to all the players in the game. {nl} It requires a Megaphone item to do so. {nl}2) Party Chat: Enter '/p' before your message to chat with the party members in your party. {nl}Whisper: Enter '/w Team Name' before your message to talk privately with the player of that Team Name.
 ETC_20150428_011448	FAQ : Inventory Weight{nl}1) Shows the weight of the items you can carry. {nl}2) Weight increases by 5 when you increase your CON stat after a level up. {nl}3) Your character will walk regardless of RES when you're overencumbered.
 ETC_20150428_011449	FAQ : Minimap, Zone Map, World Map{nl}1) Click on the +, - buttons on the minimap to zoom in and zoom out. {nl}2) Click on the M button on the minimap or press the M key to view the full map of the zone (Zone Map) you are in. {nl}3) Press the N key on your keyboard to view the entire World Map.
 ETC_20150428_011450	Press the CTRL key to turn Target Lock On/Off.
@@ -11620,8 +11620,8 @@ ETC_20150714_011621	Infro Holder Shaman
 ETC_20150714_011622	Infro Holder Arquero
 ETC_20150714_011623	Lepusbunny Magician
 ETC_20150714_011624	Lepusbunny Assassin
-ETC_20150714_011625	Mago Muerto Vivo en Fuga
-ETC_20150714_011626	Arquero Muerto Vivo en Fuga
+ETC_20150714_011625	Mago Scap Nonato
+ETC_20150714_011626	Arquero Scap Nonato
 ETC_20150714_011627	Siaulav Mage
 ETC_20150714_011628	Siaulav Arquero
 ETC_20150714_011629	Tini Magician
@@ -11709,8 +11709,8 @@ ETC_20150714_011710	Echad Magician
 ETC_20150714_011711	Kepa Raider Magician
 ETC_20150714_011712	Arquero de Cuencas Marrones
 ETC_20150714_011713	Cronewt Poison Needler
-ETC_20150714_011714	Muerto Vivo en Fuga Corrupto
-ETC_20150714_011715	Arquero Muerto Vivo en Fuga Corrupto
+ETC_20150714_011714	Scap Nonato Corrupto
+ETC_20150714_011715	Arquero Scap Nonato Corrupto
 ETC_20150714_011716	Arquero Coliflor Rancio
 ETC_20150714_011717	Corrupt Velfiggy
 ETC_20150714_011718	Corrupt Pyran
@@ -14246,7 +14246,7 @@ ETC_20150918_014247	I heard a noise...
 ETC_20150918_014248	Help me!!
 ETC_20150918_014249	The monsters that led the soldiers to death has appeared!{nl}Defeat them and pray for their rest!
 ETC_20150918_014250	Euahhh!!
-ETC_20150918_014251	As you opened the chest, a Red Vubbe Warrior yells at you!
+ETC_20150918_014251	As you opened the chest, a Red Vubbe Guerrero yells at you!
 ETC_20150918_014252	Yes, understood!!
 ETC_20150918_014253	Many are injured... We need ¡Ayuda!
 ETC_20150918_014254	Cross here after drinking the Enhanced Thorn Flower Powder!
@@ -15964,8 +15964,8 @@ ETC_20151022_015965	Green Lepusbunny Magician
 ETC_20151022_015966	Red Lepusbunny Assassin
 ETC_20151022_015967	Green Lepusbunny Assassin
 ETC_20151022_015968	Blue Lepusbunny Assassin
-ETC_20151022_015969	Muerto Vivo en Fuga Rojo
-ETC_20151022_015970	Mago Muerto Vivo en Fuga Rojo
+ETC_20151022_015969	Scap Nonato Rojo
+ETC_20151022_015970	Mago Scap Nonato Rojo
 ETC_20151022_015971	Blue Siaulav
 ETC_20151022_015972	Green Siaulav
 ETC_20151022_015973	Blue Siaulav Mage
@@ -16621,13 +16621,13 @@ ETC_20151102_016622	Gema de Seedmia
 ETC_20151102_016623	Gema de Panto
 ETC_20151102_016624	Gema de Ultanun
 ETC_20151102_016625	Gema de Puragi
-ETC_20151102_016626	Gema de Vubbe Fighter
+ETC_20151102_016626	Gema de Vubbe Luchador
 ETC_20151102_016627	Gema de Mallardu
 ETC_20151102_016628	Gema de Brown Rodelin
 ETC_20151102_016629	Gema de Glagarton
 ETC_20151102_016630	Gema de Lauzinutena
 ETC_20151102_016631	Gema de Loftlem
-ETC_20151102_016632	Gema de Muerto Vivo en Fuga
+ETC_20151102_016632	Gema de Scap Nonato
 ETC_20151102_016633	Gema de Boowook
 ETC_20151102_016634	Gema de Egnome
 ETC_20151102_016635	Gema de Yognome
@@ -16654,7 +16654,7 @@ ETC_20151102_016655	Gema de Stumpy Tree
 ETC_20151102_016656	Gema de Cronewt
 ETC_20151102_016657	Gema de Prison Fighter
 ETC_20151102_016658	Gema de Mine Predator
-ETC_20151102_016659	Gema de Vubbe Warrior
+ETC_20151102_016659	Gema de Vubbe Guerrero
 ETC_20151102_016660	Gema de Cockat
 ETC_20151102_016661	Gema de Bushspider
 ETC_20151102_016662	Gema de Yellow Yognome
@@ -16686,7 +16686,7 @@ ETC_20151102_016687	Gema de Popoleón
 ETC_20151102_016688	Gema de Raflower
 ETC_20151102_016689	Gema de Banshee
 ETC_20151102_016690	Gema de Temple Slave Mage
-ETC_20151102_016691	Gema de Muerto Vivo en Fuga
+ETC_20151102_016691	Gema de Scap Nonato
 ETC_20151102_016692	Gema de Desmodus
 ETC_20151102_016693	Gema de Black Maize
 ETC_20151102_016694	Gema de Tini Magician
@@ -16754,7 +16754,7 @@ ETC_20151102_016755	Gema de Panto Arquero
 ETC_20151102_016756	Gema de Brown Zigri
 ETC_20151102_016757	Gema de Spoiled Coliflor Arquero
 ETC_20151102_016758	Gema de Lepusbunny Assassin
-ETC_20151102_016759	Gema de Muerto Vivo en Fuga
+ETC_20151102_016759	Gema de Scap Nonato
 ETC_20151102_016760	Gema de Spion Arquero
 ETC_20151102_016761	Gema de Panto Pathfinder
 ETC_20151102_016762	Gema de Vubbe Arquero
@@ -16786,7 +16786,7 @@ ETC_20151102_016787	Gema de Minos Arquero
 ETC_20151102_016788	Gema de Nuodai
 ETC_20151102_016789	Gema de Wendigo SeArquero
 ETC_20151102_016790	Gema de Velaphid
-ETC_20151102_016791	Gema de Arquero Muerto Vivo en Fuga Corrupto
+ETC_20151102_016791	Gema de Arquero Scap Nonato Corrupto
 ETC_20151102_016792	Gema de Socket Arquero
 ETC_20151102_016793	Gema de Rambear Arquero
 ETC_20151102_016794	Gema de Colifly
@@ -17792,7 +17792,7 @@ ETC_20151224_017792	Guild Flag
 ETC_20151224_017793	The symbol of the organization.
 ETC_20151224_017794	Mission Red Vubbe Thief
 ETC_20151224_017795	Mission Red Vubbe Arquero
-ETC_20151224_017796	Mission Red Vubbe Fighter
+ETC_20151224_017796	Mission Red Vubbe Luchador
 ETC_20151224_017797	Mission Pag Wheeler
 ETC_20151224_017798	Mission Pag Nurse
 ETC_20151224_017799	Mission Pag Clamper
@@ -19117,7 +19117,7 @@ ETC_20151224_019117	Receta - Tribal Chief Head Decoration
 ETC_20151224_019118	Receta - Cat Ears
 ETC_20151224_019119	Receta - Cannon
 ETC_20151224_019120	Receta - Superior Cannon
-ETC_20150428_019121	FAQ : Guarida{nl}1) Puedes cambiar el nombre de tu Guarida dandole click a "Configuración de Guarida". {nl}2) Puedes comprar aspectos para tu Guarida usando iCoins al darle click a "Cambiar Guarida".{nl}3) Puedes elegir el canal al que deseas ingresar desde tu Guarida.
+ETC_20150428_019121	FAQ : Guarida{nl}1) Puedes cambiar el nombre de tu Guarida dandole click a 'Configuración de Guarida'. {nl}2) Puedes comprar aspectos para tu Guarida usando iCoins al darle click a 'Cambiar Guarida'.{nl}3) Puedes elegir el canal al que deseas ingresar desde tu Guarida.
 ETC_20151224_019122	Enter '/y' in the chat window to send a world message. (Requires a Megaphone)
 ETC_20151224_019123	Level Reset
 ETC_20151224_019124	/guildinvite
