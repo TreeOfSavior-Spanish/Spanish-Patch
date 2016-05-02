@@ -263,9 +263,9 @@ UI_20150317_000262	Monedas gastadas : 0
 UI_20150317_000263	Introducción
 UI_20150317_000264	{@st43}Inventario{/}
 UI_20150317_000265	{@st59}Cerrar{/}
-UI_20150317_000266	{@st59b}Equipamiento {nl} {@st59s}- Pelo/Ropa: Equipamiento para cambiar la apariencia del personaje. {nl} - Arma: Se puede equipar armas de una mano o de dos manos {nl} (arma secundaria/escudo pueden ser equipada con armas de una mano) {nl} - Armadura: Pecho, Pantalón, Guantes, botas. {nl} - Accesorios: Se pueden equipar 1 Colgante y 2 Pulseras. {nl} {/}
-UI_20150317_000267	{@st59}Acc de pelo 1{/}
-UI_20150317_000268	{@st59}Acc de pelo 2{/}
+UI_20150317_000266	{@st59b}Equipamiento {nl} {@st59s}- Cabello/Ropa: Equipamiento para cambiar la apariencia del personaje. {nl} - Arma: Se puede equipar armas de una mano o de dos manos {nl} (arma secundaria/escudo pueden ser equipada con armas de una mano) {nl} - Armadura: Pecho, Pantalón, Guantes, botas. {nl} - Accesorios: Se pueden equipar 1 Colgante y 2 Pulseras. {nl} {/}
+UI_20150317_000267	{@st59}Acc de cabello 1{/}
+UI_20150317_000268	{@st59}Acc de cabello 2{/}
 UI_20150317_000269	{@st59}Colgante{/}
 UI_20150317_000270	{@st59}Ropa{/}
 UI_20150317_000271	{@st59}Pecho{/}
@@ -1086,7 +1086,7 @@ UI_20150317_001085	Yeonhwagyo
 UI_20150317_001086	{S16}Género y Apariencia
 UI_20150317_001087	Chico
 UI_20150317_001088	Chica
-UI_20150317_001089	Ajustes de Pelo
+UI_20150317_001089	Ajustes de Cabello
 UI_20150317_001090	Ajustes de Tecla
 UI_20150317_001091	Anchura de hombro
 UI_20150317_001092	Tamaño de pies y manos
@@ -1120,7 +1120,7 @@ UI_20150317_001119	Customizar Ventana de Objetos
 UI_20150317_001120	Verde
 UI_20150317_001121	Densidad
 UI_20150317_001122	Como PS
-UI_20150317_001123	{@st59}Accesorios de Pelo{/}
+UI_20150317_001123	{@st59}Accesorios de Cabello{/}
 UI_20150317_001124	{@st59}Accesorio Auxiliares{/}
 UI_20150317_001125	{@St42}Texto{/}
 UI_20150317_001126	Nombre básico de contenido 
@@ -1438,7 +1438,7 @@ UI_20150401_001437	{@st59}Deseleccionar todos haciendo click de nuevo{/}
 UI_20150401_001438	{@st41b}Crear{/}
 UI_20150401_001439	{@st59}Mezclar mezclar y volver a mezclar{/}
 UI_20150401_001440	{@st41b}Logros{/}
-UI_20150401_001441	Colores de Pelo
+UI_20150401_001441	Colores de Cabello
 UI_20150401_001442	Títulos Disponibles
 UI_20150401_001443	{@st41b}Modo de interfaz para mando{/}
 UI_20150401_001444	{@st41}{#ffffcc}Nombre
@@ -1530,7 +1530,7 @@ UI_20150428_001529	{@st41b}Dejar grupo
 UI_20150428_001530	{@st59}Buscar grupo por descripción{/}
 UI_20150428_001531	{s18}{ol}{gr gradation1}Reglas de Asistente{/}
 UI_20150428_001532	{@st59}Crear{/}
-UI_20150428_001533	{@st45ty}Color de pelo
+UI_20150428_001533	{@st45ty}Color de cabello
 UI_20150428_001534	{@st45ty}Título disponible
 UI_20150428_001535	{@st41_yellow}Habilidad de Asistente
 UI_20150428_001536	{@st41b}Mostrar nombres de otros personajes{/}
@@ -1564,7 +1564,7 @@ UI_20150714_001563	{@st41b}Quitar mesa de refrigerios
 UI_20150714_001564	{@st42}Mi habilidad de Invocación
 UI_20150714_001565	{@st42}Estadística
 UI_20150714_001566	{@st42}Localización actual : %s{/}
-UI_20150714_001567	{@st59b}Equipo {nl}{@st59s} - Pelo/Ropa: Equipamiento para cambiar la apariencia del personaje. {nl} - Armas: De una mano o de dos manos {nl} (Arma Secundaria/Escudo se pueden equipar con armas de una mano) {nl} - Armadura: Pecho, Pantalón, Guantes, botas. {nl} - Accesorios: 1 Colgante y 2 Pulseras. {nl} {/}
+UI_20150714_001567	{@st59b}Equipo {nl}{@st59s} - Cabello/Ropa: Equipamiento para cambiar la apariencia del personaje. {nl} - Armas: De una mano o de dos manos {nl} (Arma Secundaria/Escudo se pueden equipar con armas de una mano) {nl} - Armadura: Pecho, Pantalón, Guantes, botas. {nl} - Accesorios: 1 Colgante y 2 Pulseras. {nl} {/}
 UI_20150714_001568	{@st43}Tienda %s Abierta {/}
 UI_20150714_001569	{@st41b}Hornear{/}
 UI_20150714_001570	{@st66}Seleccionar Todo
@@ -1886,7 +1886,7 @@ UI_20151224_001885	{@st59}Acercar{/}
 UI_20151224_001886	{@st59}Alejar{/}
 UI_20151224_001887	{@st59}Mostrar Último Punto de Teletransporte{/}
 UI_20151224_001888	{@st59}Mostrar Localización Actual{/}
-UI_20151224_001889	{@st59}Acc de Pelo 3{/}
+UI_20151224_001889	{@st59}Acc de Cabello 3{/}
 UI_20151224_001890	{@st59}Peinado{/}
 UI_20151224_001891	{@st41b}Cancelar
 UI_20151224_001892	{@st41b}Confirmar
@@ -2161,7 +2161,7 @@ UI_20160323_002160	CON : {@st41b}%s
 UI_20160323_002161	INT : {@st41b}%s
 UI_20160323_002162	DES : {@st41b}%s
 UI_20160323_002163	SPR : {@st41b}%s
-UI_20160323_002164	{@st42}Color de pelo{/}
+UI_20160323_002164	{@st42}Color de cabello{/}
 UI_20160323_002165	{@st42}Títulos disponibles{/}
 UI_20160323_002166	Información del equipo
 UI_20160323_002167	{@st66b}Cambiar {nl} Guarida{/}
