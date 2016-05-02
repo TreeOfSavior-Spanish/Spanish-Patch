@@ -134,6 +134,7 @@ Hammer => Martillo
 Sledgehammer => Almádena
 Crook --> Báculo
 Cane --> Cayado
+Compound Bow => Arco de Poleas
 
 Los nombres del equipamiento seran modificados, pero no los nombres propios.
 Ejemplos: 
