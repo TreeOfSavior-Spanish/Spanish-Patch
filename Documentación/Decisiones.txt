@@ -177,3 +177,4 @@ Scroll --> Pergamino
 [ Lore del Juego ] 
 Aspectos clave del juego cómo eventos y nombres propios no deberían ser traducidos (Ej: Medzio Diena)
 Sin embargo, el concepto de "Great Plant Cataclism" ha sido traducido cómo "Gran Cataclismo Silvano". //Darkelfen
+Millenary => Milenario (Se trata de un evento, "During the Millenary 90 years ago", que ocurrió 90 años atrás para conmemorar los 1.000 años del reino. A esa celebración de la conoce como "the Millenary" => "el Milenario")
