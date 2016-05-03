@@ -126,6 +126,7 @@ Gloves --> Guantes
 Shoes --> Botas
 bracelet --> Pulsera
 Costume --> Traje
+hair --> Cabello
 
 [ Nombres Propios de Equipo ]
 Epee => Florete
@@ -140,6 +141,8 @@ Sledgehammer => Almádena
 Crook --> Báculo
 Cane --> Cayado
 Compound Bow => Arco de Poleas
+Cutter => Cuchilla
+Chapparition => Chaparición
 
 Los nombres del equipamiento seran modificados, pero no los nombres propios.
 Ejemplos: 
