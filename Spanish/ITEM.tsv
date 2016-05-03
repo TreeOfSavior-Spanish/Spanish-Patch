@@ -9,7 +9,7 @@ ITEM_20150317_000008	Brazalete de Plumas
 ITEM_20150317_000009	Brazalete de Borlas
 ITEM_20150317_000010	Empty_weapon
 ITEM_20150317_000011	Gladius Vulgar
-ITEM_20150317_000012	Espada de una mano [Corte]
+ITEM_20150317_000012	Espada de 1 mano [Corte]
 ITEM_20150317_000013	Un arma habitual en los soldados del Ejército Real. También es común entre los civiles.
 ITEM_20150317_000014	Gladius
 ITEM_20150317_000015	Esta arma es una versión mejorada de el arma militar.
@@ -20,7 +20,7 @@ ITEM_20150317_000019	Debido a su facilidad en la fabricación, esta espada es fr
 ITEM_20150317_000020	Cinquedea
 ITEM_20150317_000021	Recomendada para aquellos que desean una espada más pesada y fuerte. 
 ITEM_20150317_000022	Sable
-ITEM_20150317_000023	Arma principal de la caballería, optimizado para cortar. El escudo de la empuñadura ayuda a proteger la mano del usuario. 
+ITEM_20150317_000023	Arma principal de la caballería, optimizada para cortar. El escudo de la empuñadura ayuda a proteger la mano del usuario. 
 ITEM_20150317_000024	Shamshir
 ITEM_20150317_000025	La hoja larga de media luna corta con un poder inmenso.
 ITEM_20150317_000026	Cimitarra
@@ -28,7 +28,7 @@ ITEM_20150317_000027	Su gran peso está compensado y tiene un corte poderoso.
 ITEM_20150317_000028	Kris
 ITEM_20150317_000029	Su hoja retorcida amplifica el daño que inflige. Una espada practica y estética. 
 ITEM_20150317_000030	Puñal
-ITEM_20150317_000031	Su hoja muy afilada hace que sea uno de los favoritos entre los espadachines incluso los más experimentados. 
+ITEM_20150317_000031	Su hoja muy afilada hace que sea una de las favoritas entre los espadachines, incluso para los más experimentados. 
 ITEM_20150317_000032	Shamshir Vulgar
 ITEM_20150317_000033	Cimitarra Vulgar
 ITEM_20150317_000034	Gladius de Soldado
@@ -37,7 +37,7 @@ ITEM_20150317_000036	Falchion de Comandante
 ITEM_20150317_000037	Mirar esta arma genera sospechas sobre su anterior propietario en el pasado. 
 ITEM_20150317_000038	Kaskara Vulgar
 ITEM_20150317_000039	Moplah
-ITEM_20150317_000040	Esta espada combina el ser práctica y la estética. 
+ITEM_20150317_000040	Esta espada combina el ser práctica y estética. 
 ITEM_20150317_000041	Gladius Pesado
 ITEM_20150317_000042	Falchion
 ITEM_20150317_000043	Falchion Pesado
@@ -65,19 +65,19 @@ ITEM_20150317_000064	Una vulgar espada usada por un Panto. Puedes crear una mejo
 ITEM_20150317_000065	Sable Flonas
 ITEM_20150317_000066	Algunos dicen que esta arma libera el rencor que las plantas tienen contra las bestias.
 ITEM_20150317_000067	Falchion de Oro
-ITEM_20150317_000068	Posiblemente debido a la correlación de oro con la fortuna, el Falchion de oro otorga a su portador con la buena suerte durante la batalla. Por supuesto, perjudica gravemente sus enemigos.
+ITEM_20150317_000068	Posiblemente debido a la correlación de oro con la fortuna, el Falchion de Oro otorga a su portador con la buena suerte durante la batalla. Por supuesto, perjudica gravemente a sus enemigos.
 ITEM_20150317_000069	Falchion de Acero
-ITEM_20150317_000070	El Falchion de acero es una buena opción para los que persiguen precisión en su manejo con la espada. 
+ITEM_20150317_000070	El Falchion de acero es una buena opción para los que persiguen la precisión en su manejo con la espada. 
 ITEM_20150317_000071	Falchion de Plata
 ITEM_20150317_000072	Su ligereza y robustez permite el espadachín desatar todo su potencial durante un ataque. 
 ITEM_20150317_000073	Mandrapick
-ITEM_20150317_000074	Esta espada se dice que puede despejar la mente de su portador con su esencia de Mandragora.
+ITEM_20150317_000074	Se dice que esta espada puede despejar la mente de su portador con su esencia de Mandragora.
 ITEM_20150317_000075	Hoja de Mago
 ITEM_20150317_000076	Nunca debes ridiculizar a un mago por usar una espada, especialmente si esa espada es una Hoja de Mago. 
 ITEM_20150317_000077	Espada Química
 ITEM_20150317_000078	Esta espada está hecha de una receta desarrollada por un alquimista de la familia Winterspoon, afirmaba que podía hacer una mejor espada que un herrero. 
 ITEM_20150317_000079	Austas
-ITEM_20150317_000080	Esta espada es digno de su elevado precio. Sin embargo, los comerciantes prefieren que vuelvan a comprar otras armas antes que continuar usándo esta durante mucho tiempo. 
+ITEM_20150317_000080	Esta espada es digna de su elevado precio. Sin embargo, los comerciantes prefieren que vuelvan a comprar otras armas antes que continuar usándo esta durante mucho tiempo. 
 ITEM_20150317_000081	Sable Miskas
 ITEM_20150317_000082	Esta arma hará que tu habilidad con la espada sea mas rapida. 
 ITEM_20150317_000083	Espada Imperni
@@ -85,7 +85,7 @@ ITEM_20150317_000084	Los veteranos a menudo relatan la emoción que experimentar
 ITEM_20150317_000085	Gritas
 ITEM_20150317_000086	Una espada usada por aventureros valientes. Irónicamente, se encuentra a menudo en los monstruos fuertes. La persona que obtiene esta espada, sin saberlo esta tomando venganza de su anterior propietario. 
 ITEM_20150317_000087	Spatha
-ITEM_20150317_000088	Una versión mejorada de la Gladius hecha mediante la ampliación de la longitud de la hoja.
+ITEM_20150317_000088	Una versión mejorada de la Gladius hecha mediante la ampliación de la longitud de su hoja.
 ITEM_20150317_000089	Falchion Nivelado
 ITEM_20150317_000090	Esta arma te da la oportunidad de experimentar las capacidades de un Falchion. 
 ITEM_20150317_000091	Espada de Herrero
@@ -101,39 +101,39 @@ ITEM_20150317_000100	Espada Aston
 ITEM_20150317_000101	Espada Devi
 ITEM_20150317_000102	Espada Prima
 ITEM_20150317_000103	Espada de la Trinidad
-ITEM_20150317_000104	Si no está satisfecho con un tipo de Falchion, esta es una alternativa. Sin embargo, tendrá que asumir el coste extra para su elaboración. 
+ITEM_20150317_000104	Si no está satisfecho con ningún tipo de Falchion, esta es una alternativa. Sin embargo, tendrás que asumir el coste extra para su elaboración. 
 ITEM_20150317_000105	Durandal
 ITEM_20150317_000106	Muchos aventureros nombran su mejor espada en pos de esta arma. Este era el nombre de la espada empuñada por un antiguo guerrero elegido por una diosa. 
 ITEM_20150317_000107	Velniup
 ITEM_20150317_000108	La gente va tan lejos como para decir que esta arma es excesivamente cruel. 
 ITEM_20150317_000109	Fortis
 ITEM_20150317_000110	Aunque impopular durante el Gran Cataclismo Silvano, el resurgimiento de monstruos fuertemente blindados está demostrando su valor.
-ITEM_20150317_000111	Cortador Chapparition
+ITEM_20150317_000111	Cuchilla Chapparición
 ITEM_20150317_000112	De acuerdo con una teoría, esta espada también se utiliza en los conflictos con los demonios. 
-ITEM_20150317_000113	Cortador de Tejedora Letal
+ITEM_20150317_000113	Cuchilla de Tejedora Letal
 ITEM_20150317_000114	Uno se convierte en el portador de la muerte manejando esta cuchilla.
-ITEM_20150317_000115	Espada Chapparition
+ITEM_20150317_000115	Espada Chapparición
 ITEM_20150317_000116	Esto sirve como evidencia indirecta de los conflictos entre los demonios.
 ITEM_20150317_000117	Espada Bendras
 ITEM_20150317_000118	Una espada que lleva el poder de una diosa que herio a muchos demonios en el pasado. 
 ITEM_20150317_000119	Illizia
 ITEM_20150317_000120	Esta cuchilla amenaza gravemente tanto la vida de su enemigo como las finanzas de los propietarios. Por supuesto, la mayoría de los espadachines ignoran el último efecto. 
 ITEM_20150317_000121	Fijado para borrar
-ITEM_20150317_000122	Espada de dos manos [Corte]
+ITEM_20150317_000122	Espada de 2 manos [Corte]
 ITEM_20150317_000123	Espada Bastarda misteriosa
-ITEM_20150317_000124	Algunos maestro artesano y soldados llaman a esto un "estilo mezclado espada de dos manos. ' Dicen que esto los justifica. 
+ITEM_20150317_000124	Algunos maestros artesanos y soldados llaman a esto un "estilo mezclado espada de dos manos. ' Dicen que esto los justifica. 
 ITEM_20150317_000125	Flamberge
 ITEM_20150317_000126	Si eres un experto en armas a dos manos, el borde en forma de onda puede causar un daño masivo. 
 ITEM_20150317_000127	Nodachi
-ITEM_20150317_000128	Un Nodachi con una longitud 'justa' puede amplificar su poder recortar y dominar el espacio entre el portador y su enemigo. 
+ITEM_20150317_000128	Un Nodachi con una longitud 'justa' puede amplificar su poder recorta y domina el espacio entre el portador y su enemigo. 
 ITEM_20150317_000129	Claymore
 ITEM_20150317_000130	Los Claymore de este reino se hacen con un énfasis en el peso y el poder.
 ITEM_20150317_000131	Espada Colosal
-ITEM_20150317_000132	La hoja en forma de abanico inusual ofrece un potencial para amplificar su potencia y versatilidad para ser adaptada a muchas técnicas. 
+ITEM_20150317_000132	La hoja en forma de abanico inusual ofrece un potencial que amplifica su potencia y versatilidad para ser adaptada a muchas técnicas. 
 ITEM_20150317_000133	Espada Centelleante
 ITEM_20150317_000134	Frecuentemente usada por soldados de altos cargos. 
 ITEM_20150317_000135	Quaddara
-ITEM_20150317_000136	Contrariamente a su apariencia, esta es un arma de doble filo, utilizada frecuentemente por los espadachínes Siguiendo su practicidad. 
+ITEM_20150317_000136	Contrariamente a su apariencia, esta es un arma de doble filo, utilizada frecuentemente por los espadachínes siguiendo su practicidad. 
 ITEM_20150317_000137	Claymore Ligero
 ITEM_20150317_000138	La estructura de esta espada permite a sus usuarios realizar un ataque punzante. 
 ITEM_20150317_000139	Espada Colosal Vulgar
@@ -154,7 +154,7 @@ ITEM_20150317_000153	Dress Sword
 ITEM_20150317_000154	Zweihander
 ITEM_20150317_000155	Espada del ejecutor
 ITEM_20150317_000156	Espada de dos manos Lumai
-ITEM_20150317_000157	Overknife
+ITEM_20150317_000157	Cuchillo Exterminador
 ITEM_20150317_000158	Potentia
 ITEM_20150317_000159	Una gran alternativa para aquellos insatisfechos con un Flamberge regular. 
 ITEM_20150317_000160	Flamberge Temsus
@@ -172,13 +172,13 @@ ITEM_20150317_000171	Los Espadachines que buscan el poder bruto en un arma con f
 ITEM_20150317_000172	Kindzal
 ITEM_20150317_000173	Aquellos que gustan de mejorar sus armas crean esta espada para su uso propio. 
 ITEM_20150317_000174	Espada de dos manos Imperni
-ITEM_20150317_000175	Si has obtenido esta espada a través del mercado negro, es una clara evidencia de que ha obtenido un cierto nivel de fiabilidad.
+ITEM_20150317_000175	Si has obtenido esta espada a través del mercado negro, es una clara evidencia de que has obtenido un cierto nivel de fiabilidad.
 ITEM_20150317_000176	Prieblanda
 ITEM_20150317_000177	Esta espada comparte el mismo creador que la espada 'Primaluce'.
 ITEM_20150317_000178	Lapis Katzbalger
 ITEM_20150317_000179	La mejora de la Katzbalger se ha desarrollado hace menos de 100 años. Por lo tanto la elaboración de la receta para esta arma no está relacionada con Ruklys.
 ITEM_20150317_000180	Espada de dos manos de Herrero
-ITEM_20150317_000181	Desde Medzio Diena, menos personas se han preocupado por la inestabilidad de las armas mágicas.
+ITEM_20150317_000181	Desde el Medzio Diena, menos personas se han preocupado por la inestabilidad de las armas mágicas.
 ITEM_20150317_000182	Espada de dos manos Klavis
 ITEM_20150317_000183	Esta espada puede ser una extensión de confianza en ambas manos.
 ITEM_20150317_000184	Espada de dos manos Thresh
@@ -191,31 +191,31 @@ ITEM_20150317_000190	Flamini
 ITEM_20150317_000191	Una buena espada que ha sido considerada por mucho tiempo como una necesidad para enfrentarse a los demonios.
 ITEM_20150317_000192	Asesina de Magos
 ITEM_20150317_000193	Los magos novatos suelen pagarlo por no alejarse de esta arma en particular. Sin embargo, un mago experimentado sabe alejarse de su poder invisible.
-ITEM_20150317_000194	Espada de dos manos [Golpe]
+ITEM_20150317_000194	Espada de 2 manos [Golpe]
 ITEM_20150317_000195	Como una daga voladora lanzada en las mas oscuras horas de la noche, Naktis inflige un golpe imprevisto a su objetivo. 
 ITEM_20150317_000196	Luciduce
 ITEM_20150317_000197	Aunque algunas personas rechazan esta arma como un 'Hacha para cortar árboles', sus usuarios reales le dirán que en el Gran Cataclismo Silvano habría dado lugar a mucha mas pérdidas sin ella.
 ITEM_20150317_000198	Cielo e Infierno
 ITEM_20150317_000199	Hay un dicho que afirma que 'el ataque es la mejor defensa.' Demuéstralo con este arma.
 ITEM_20150317_000200	Diente de Tejedora Letal
-ITEM_20150317_000201	Espada de dos manos Chapparition
-ITEM_20150317_000202	Espada de dos manos Chapparition
+ITEM_20150317_000201	Espada de dos manos Chapparición
+ITEM_20150317_000202	Espada de dos manos Chapparición
 ITEM_20150317_000203	El gran poder a veces se puede encontrar en lo intangible. A veces, el no tener volumen puede ser lo más pesado.
 ITEM_20150317_000204	Nulis
 ITEM_20150317_000205	Presta gran poder contra los seres que no pertenecen al reino de la noche y el día.
 ITEM_20150317_000206	Gravedad
-ITEM_20150317_000207	La gravedad no puede ser evitado por nada. Pero si uno se adapta a ella, nadie puede subestimar su poder.
+ITEM_20150317_000207	La gravedad no puede ser evitada por nada. Pero si uno se adapta a ella, nadie puede subestimar su poder.
 ITEM_20150317_000208	Vara Corta Vulgar
 ITEM_20150317_000209	Vara [Golpe]
 ITEM_20150317_000210	Una vara que todos los estudiantes de magia usan.
 ITEM_20150317_000211	Vara Corta
 ITEM_20150317_000212	Los magos que se gradúan de su aprendizaje a menudo cambian a esta arma. 
 ITEM_20150317_000213	Vara Larga Deficiente
-ITEM_20150317_000214	Las decoraciones que se encuentran en el equipo de un mago se añaden para la función, no sólo por la apariencia.
+ITEM_20150317_000214	Las decoraciones que se encuentran en el equipo de un mago se añaden por su función, no sólo por la apariencia.
 ITEM_20150317_000215	Cayado Deficiente de Vagabundo
 ITEM_20150317_000216	Cuando una vara es laboriosamente tallada por un famoso mago, esta contiene poder místico.
 ITEM_20150317_000217	Cayado
-ITEM_20150317_000218	Puedes personalizar esta vara aún más si puede proporcionar los materiales. 
+ITEM_20150317_000218	Puedes personalizar esta vara aún más si puedes proporcionar los materiales. 
 ITEM_20150317_000219	Báculo
 ITEM_20150317_000220	Las leyendas dicen que los magos malvados fueron los primeros en comenzar a usar esta arma.
 ITEM_20150317_000221	Vara de Estaño
@@ -234,7 +234,7 @@ ITEM_20150317_000233	Vara Larga de Lider
 ITEM_20150317_000234	La forma de esta vara fue popular en el pasado. A pesar de que es antigua, la vara aun es decente.
 ITEM_20150317_000235	Cayado Vulgar de Vagabundo
 ITEM_20150317_000236	Vara de Combate
-ITEM_20150317_000237	Además de la ayuda para emitir la magia, esta vara también fue diseñado para el combate físico.
+ITEM_20150317_000237	Además de la ayuda para emitir la magia, esta vara también fue diseñada para el combate físico.
 ITEM_20150317_000238	Vara Corta Pesada
 ITEM_20150317_000239	Vara Larga
 ITEM_20150317_000240	Vara Larga Pesada
@@ -262,21 +262,21 @@ ITEM_20150317_000261	El rumor dice que cada vez que se vende la receta de elabor
 ITEM_20150317_000262	Vara de Fuego
 ITEM_20150317_000263	Sólo el Maestre Piromante conoce el método de infundir el poder de la diosa Gabija en estas varas.
 ITEM_20150317_000264	Vara Vasia
-ITEM_20150317_000265	Aunque los sacerdotes frungen el ceño por manipulación de espíritus durante su fabricación, los magos ignoran esta objeción.
+ITEM_20150317_000265	Aunque los sacerdotes frungen el ceño por la manipulación de espíritus durante su fabricación, los magos ignoran esta objeción.
 ITEM_20150317_000266	Vara magica
 ITEM_20150317_000267	Una vara simple para encantamientos magicos, creada fácilmente por los magos principiantes.
 ITEM_20150317_000268	Vara Grynas
-ITEM_20150317_000269	El aumento de los demonios después del Gran Cataclismo Silvano aumentó el precio de esta varilla que ya era bastante caro.
+ITEM_20150317_000269	El aumento de los demonios después del Gran Cataclismo Silvano aumentó el precio de esta varilla que ya era bastante cara.
 ITEM_20150317_000270	Vara Química
 ITEM_20150317_000271	Muestra similutud en el nombre con otra arma, esta arma no tiene relación directa con la familia Winterspoon.
 ITEM_20150317_000272	Vara Arqueada
-ITEM_20150317_000273	Un arma que cumple el papel de un paso previo a la magia avanzada para los aspirantes a mago. Una vez que el asistente logra su objetivo para el aprendizaje superior, esta arma es reemplazada por otra.
+ITEM_20150317_000273	Un arma que cumple el papel de un paso previo a la magia avanzada para los aspirantes a mago. Una vez que el mago logra su objetivo para el aprendizaje superior, esta arma es reemplazada por otra.
 ITEM_20150317_000274	Vara Imperni
 ITEM_20150317_000275	Es popular entre los magos que tratan de destacar.
 ITEM_20150317_000276	Vara Larga Nivelada
 ITEM_20150317_000277	Se da a menudo como un pequeño regalo entre los magos gracias a su precio asequible.
 ITEM_20150317_000278	Vara de Herrero
-ITEM_20150317_000279	Este equipo es ciertamente extraño, independientemente de quien lo usa.
+ITEM_20150317_000279	Este equipo es ciertamente extraño, independientemente de quien lo use.
 ITEM_20150317_000280	Vara Klavis
 ITEM_20150317_000281	Puede que seas el primer mago en la historia que ha usado esta arma.
 ITEM_20150317_000282	Vara Dio
@@ -287,14 +287,14 @@ ITEM_20150317_000286	Vara Aston
 ITEM_20150317_000287	Vara Devi
 ITEM_20150317_000288	Vara Prima
 ITEM_20150317_000289	Temere
-ITEM_20150317_000290	El apodo de su vara es "El bastón de la paciencia." Las leyendas dicen que Agailla Flurry, el mago más grande de la historia, ideó esta vara para formar a sus aprendices.
+ITEM_20150317_000290	El apodo de esta vara es "El bastón de la paciencia." Las leyendas dicen que Agailla Flurry, el mago más grande de la historia, ideó esta vara para formar a sus aprendices.
 ITEM_20150317_000291	Ignición
 ITEM_20150317_000292	Aunque el Maestre Piromante ha estado investigando la manera de mitigar los inconvenientes inestables de este bastón, no ha habido ningún desarrollo hasta la fecha.
 ITEM_20150317_000293	Secretum
-ITEM_20150317_000294	Un arma hecha únicamente para los asistentes. De este modo, los magos suelen ignorar los defectos de este baston.
+ITEM_20150317_000294	Un arma hecha únicamente para los magos. De este modo, los magos suelen ignorar los defectos de este baston.
 ITEM_20150317_000295	Vara de Tejedora Letal
 ITEM_20150317_000296	Una vara que contiene el poder de la Tejedora Letal.
-ITEM_20150317_000297	Vara Chapparition
+ITEM_20150317_000297	Vara Chapparición
 ITEM_20150317_000298	Zaima
 ITEM_20150317_000299	Los rumores dicen que el alto precio de la receta de esta vara se debe a la insistencia del Maestre Criomante.
 ITEM_20150317_000300	Epos
@@ -316,13 +316,13 @@ ITEM_20150317_000315	Un arco con una mayor flexibilidad mediante la aplicación 
 ITEM_20150317_000316	Arco Puro
 ITEM_20150317_000317	Simboliza la voluntad incondicional de un arquero inflexible.
 ITEM_20150317_000318	Arco Rokas
-ITEM_20150317_000319	Es de suponer que lleva el nombre del lugar donde su inventor vino.
+ITEM_20150317_000319	Es de suponer que lleva el nombre del lugar de donde su inventor vino.
 ITEM_20150317_000320	Gorithos
 ITEM_20150317_000321	Un arco preferido por la caballería.
 ITEM_20150317_000322	Gulail
 ITEM_20150317_000323	Es el primer caso registrado de la aplicación de la magia en el proceso de elaboración del arco. Desde entonces se tiene su propio mercado.
 ITEM_20150317_000324	Kaman
-ITEM_20150317_000325	Un arco modificado para obtener más poder por los arqueros confian en la fuerza de su brazo.
+ITEM_20150317_000325	Un arco modificado para obtener más poder por los arqueros que confian en la fuerza de su brazo.
 ITEM_20150317_000326	Arco Rokas Vulgar
 ITEM_20150317_000327	Gorithos Vulgar
 ITEM_20150317_000328	Arco Ligero de Soldado
@@ -357,17 +357,17 @@ ITEM_20150317_000356	Este arco, popular entre los cazadores, se hizo aún más p
 ITEM_20150317_000357	Arco de Hierro
 ITEM_20150317_000358	Este arco tiene una gran precisión y con frecuencia puede ocasionar daños imprevistos al enemigo.
 ITEM_20150317_000359	Arco Halcón
-ITEM_20150317_000360	Un Arco Puro hecho huesos al azar a veces no tiene sinergia con el oro.
+ITEM_20150317_000360	Un arco puro hecho huesos al azar a veces no tiene sinergia con el oro.
 ITEM_20150317_000361	Arco Químico
 ITEM_20150317_000362	Se llama así por su efecto de aumentar la agilidad del usuario.
 ITEM_20150317_000363	Arco de Caza
-ITEM_20150317_000364	La aplicación de la Alquimia en la elaboración de arcos mantuvo teorica hasta que las circunstancias hicieron una tendencia en una producción reciente.
+ITEM_20150317_000364	La aplicación de la Alquimia en la elaboración de arcos se mantuvo teorica hasta que las circunstancias hicieron una tendencia en una producción reciente.
 ITEM_20150317_000365	Arco del Creador
 ITEM_20150317_000366	En el pasado, sólo los cazadores ricos compraron este arco. Con los acontecimientos terribles de la historia reciente, sin embargo, cualquier persona puede permitirse el lujo de adquirirlo o elaborarlo.
 ITEM_20150317_000367	Arco Salvaje
 ITEM_20150317_000368	Debido al aumento de la demanda de los arcos de alta calidad desde el Gran Cataclismo Silvano, este arco se está creando con bastante frecuencia.
 ITEM_20150317_000369	Arco de Serpiente
-ITEM_20150317_000370	Este arco es una buena elección, independientemente de la propia fuerza muscular. Esto se debe a que si el usuario tiene brazos fuertes, se puede disparar con más potencia y si no lo hace, el arco compensa.
+ITEM_20150317_000370	Este arco es una buena elección, independientemente de la propia fuerza muscular. Esto se debe a que si el usuario tiene brazos fuertes, se puede disparar con más potencia y si no lo hace, el arco lo compensa.
 ITEM_20150317_000371	Arco Imperni
 ITEM_20150317_000372	Como el nombre sugiere, este arco golpea con ataques venenosos.
 ITEM_20150317_000373	Arco Lethena
@@ -389,17 +389,17 @@ ITEM_20150317_000388	Arco Aston
 ITEM_20150317_000389	Arco Devi
 ITEM_20150317_000390	Arco Prima
 ITEM_20150317_000391	Wildling Bane
-ITEM_20150317_000392	Antes del Gran Cataclismo Silvano, Los cazadores rara vez utilizaban este arco. Puede sonar extraño, pero el arco podría causar un daño excesivo a la presa.
+ITEM_20150317_000392	Antes del Gran Cataclismo Silvano, los cazadores rara vez utilizaban este arco. Puede sonar extraño, pero el arco podría causar un daño excesivo a la presa.
 ITEM_20150317_000393	Equalizador
-ITEM_20150317_000394	Hay arqueros orgullosos que no quieren ninguna variable afecten su habilidad de tiro con arco fuera de sus propias capacidades. Este arco es una combinación perfecta para ellos.
+ITEM_20150317_000394	Hay arqueros orgullosos que no quieren que ninguna variable afecte a su habilidad de tiro con arco fuera de sus propias capacidades. Este arco es una combinación perfecta para ellos.
 ITEM_20150317_000395	Buscador de Corazones
 ITEM_20150317_000396	Por una razón desconocida el hechizo ligado a este arco se ha convertido en una maldición tanto para el enemigo como para el usuario. En cualquier caso, el arco aun se utiliza por los arqueros para sus méritos.
 ITEM_20150317_000397	Víbora
 ITEM_20150317_000398	Este arco impregnado en veneno es tan tóxico que afecta a su usuario.
 ITEM_20150317_000399	Arco de Tejedora Letal
 ITEM_20150317_000400	Este arco envia a sus enemigos a una muerte segura.
-ITEM_20150317_000401	Arco Chapparition
-ITEM_20150317_000402	Los grabados dicen: 'endereza la espalda y amplia tus hombros; tira de la cuerda del arco y empuje el arco a medida que dispara'.
+ITEM_20150317_000401	Arco Chapparición
+ITEM_20150317_000402	Los grabados dicen: 'endereza la espalda y amplia tus hombros; tira de la cuerda del arco y empuja el arco a medida que disparas'.
 ITEM_20150317_000403	Blood Gain
 ITEM_20150317_000404	Este arco fue creado por Lidia Schaffen. Frecuentemente ella utilizó este arco a lo largo de su vida, pero retuvo deliberadamente el método de elaboración de la Torre Astral y el Schaffenstar, dos entidades fundadas por Lydia.
 ITEM_20150317_000405	Tirador de Tempestad
@@ -407,7 +407,7 @@ ITEM_20150317_000406	Un nuevo arco diseñado y desarrollado a través de un esfu
 ITEM_20150317_000407	Empty_weapon_Bow
 ITEM_20150317_000408	Ballesta Ligera Deficiente
 ITEM_20150317_000409	Ballesta [Penetración]
-ITEM_20150317_000410	Es útil pero tener las manos libres más importante que tener más poder de ataque.
+ITEM_20150317_000410	Es útil, pero tener las manos libres es más importante que tener más poder de ataque.
 ITEM_20150317_000411	Ballesta Deficiente
 ITEM_20150317_000412	Las ballestas modernas utilizan muchos materiales diferentes, en su mayoría partes de monstruos.
 ITEM_20150317_000413	Dokyu
@@ -454,7 +454,7 @@ ITEM_20150317_000453	Las armas basadas en la alquimia tienen una gran demanda de
 ITEM_20150317_000454	Ballesta Medina
 ITEM_20150317_000455	Esta arma está especializada en los enemigos bien equipados.
 ITEM_20150317_000456	Ballesta Regina
-ITEM_20150317_000457	No es lo bastante bueno como para ser considerado el "Señor de las ballestas," pero el título de "Reina" parece justo.
+ITEM_20150317_000457	No es lo bastante buena como para ser considerada el "Señor de las ballestas," pero el título de "Reina" parece justo.
 ITEM_20150317_000458	Cazador
 ITEM_20150317_000459	Frecuentemente utilizado por los arqueros que operan en áreas con poca visibilidad o vientos fuertes.
 ITEM_20150317_000460	Ballesta Imperni
@@ -479,7 +479,7 @@ ITEM_20150317_000478	Grajus
 ITEM_20150317_000479	¿Pueden ser cazados los mosntruos grandes con ballestas de una mano? Esta es la respuesta.
 ITEM_20150317_000480	Ballesta de Tejedora Letal
 ITEM_20150317_000481	Esta no es el arma de la Tejedora Letal. El propietario original fue probablemente una lamentable víctima.
-ITEM_20150317_000482	Tirador Chapparition
+ITEM_20150317_000482	Tirador Chapparición
 ITEM_20150317_000483	Esta arma tiene la preparación suficiente para dar una muestra de dolor a las bestias salvajes.
 ITEM_20150317_000484	Isbality
 ITEM_20150317_000485	La arquera más grande en la historia, Lidia Schaffen, no dudó en cazar demonios. Es difícil obtener esta arma porque la estrella Schaffen no dio a conocer la receta a el público.
@@ -487,24 +487,24 @@ ITEM_20150317_000486	Muerte
 ITEM_20150317_000487	Esta receta se dio a conocer al público después de que Evoniphon tirara su arma cuando era perseguido por Fiona Ieva. Sin embargo, muchos cayeron tontamente desafiando monstruos mientras solo confiaban en el arma.
 ITEM_20150317_000488	Empty_weapon_Mace
 ITEM_20150317_000489	Garrote de Madera Vulgar
-ITEM_20150317_000490	Maza de una mano [Golpe]
+ITEM_20150317_000490	Maza de 1 mano [Golpe]
 ITEM_20150317_000491	Un arma muy simple de utilizar por cualquiera sin dificultad.
 ITEM_20150317_000492	Garrote de Madera
-ITEM_20150317_000493	Incluso un palo de madera ordinaria puede convertirse en un elemento sagrado si usado por un clérigo.
+ITEM_20150317_000493	Incluso un palo de madera ordinaria puede convertirse en un elemento sagrado si es usado por un clérigo.
 ITEM_20150317_000494	Garrote Misterioso de Hierro
 ITEM_20150317_000495	Un arma al menos de este calibre es necesaria para llevar a cabo el castigo de la diosa.
 ITEM_20150317_000496	Maza Deficiente
 ITEM_20150317_000497	Este es el requisito mínimo para demostrar que ya no eres un aprendiz de clérigo.
 ITEM_20150317_000498	Lucero del Alba
-ITEM_20150317_000499	También se conoce como 'la maza de arrepentimiento' entre los clérigos.
+ITEM_20150317_000499	También se conoce como 'La maza del arrepentimiento' entre los clérigos.
 ITEM_20150317_000500	Mazo
-ITEM_20150317_000501	Clérigos experimentados atacan al enemigo de una multitud de formas utilizando el ornamento en la cabeza de este mazo.
+ITEM_20150317_000501	Los clérigos experimentados atacan al enemigo de una multitud de formas utilizando el ornamento en la cabeza de este mazo.
 ITEM_20150317_000502	Goedendag
 ITEM_20150317_000503	Si te encuentras con un clérigo que maneja bien esta arma, nunca digas que no tienen experiencia en la batalla de nuevo.
 ITEM_20150317_000504	Buscador de Guerra
 ITEM_20150317_000505	¿Decias que las armas contundentes no pueden penetrar a través de la armadura? Siempre hay excepciones.
 ITEM_20150317_000506	Maul
-ITEM_20150317_000507	Sólo aquellos que incesantemente han entrenado su cuerpo puede manejar el peso de esta arma.
+ITEM_20150317_000507	Sólo aquellos que incesantemente han entrenado su cuerpo, pueden manejar el peso de esta arma.
 ITEM_20150317_000508	Martillo de Combate
 ITEM_20150317_000509	Desde la aparición de monstruos, muchas mazas fueron sometidas a cambios en el exterior.
 ITEM_20150317_000510	Goedendag Vulgar
@@ -538,16 +538,16 @@ ITEM_20150317_000537	Martillo Escoria
 ITEM_20150317_000538	Martillo Cinco
 ITEM_20150317_000539	Si sientes que has oído hablar de este nombre en otro lugar antes, lo más probable es que sea sólo tu imaginación. Este martillo fue diseñado estrictamente basado en la ingeniería matemática.
 ITEM_20150317_000540	Maza de Clavos
-ITEM_20150317_000541	Maza de una mano [Penetración]
+ITEM_20150317_000541	Maza de 1 mano [Penetración]
 ITEM_20150317_000542	Las mazas normalmente hacen daño tipo Golpe, pero siempre hay una excepción en todo.
 ITEM_20150317_000543	Rompe Escudos
 ITEM_20150317_000544	El fin de este daño por impacto es para romper la armadura y el escudo de un enemigo. Pruebalo.
 ITEM_20150317_000545	Aplasta Cráneos
 ITEM_20150317_000546	Aunque es raro, un clérigo puede hacer una excepción en su promesa de proteger la vida. Debes ser particularmente humilde cuando te enfrentas a un clérigo que sostiene esta arma.
 ITEM_20150317_000547	Maul Químico
-ITEM_20150317_000548	Está considerado como el más débil entre las armas alquimicamente diseñados. Un martillo delicado, para todas las cosas...
+ITEM_20150317_000548	Está considerado como el más débil entre las armas alquimicamente diseñadas. Un martillo delicado, para todas las cosas...
 ITEM_20150317_000549	Garrote Mauros
-ITEM_20150317_000550	Un antiguo Garrote diseñado cuando se fundó el reino. Es bastante difícil de obtener ahroa mismo.
+ITEM_20150317_000550	Un antiguo Garrote diseñado cuando se fundó el reino. Es bastante difícil de obtener ahora mismo.
 ITEM_20150317_000551	Lucero del Alba Valtas
 ITEM_20150317_000552	Un armamento básico para clérigos que se enfrentan a demonios.
 ITEM_20150317_000553	Maza Imperni
@@ -573,7 +573,7 @@ ITEM_20150317_000572	Santo Aplastador
 ITEM_20150317_000573	Debido a que los clérigos tienen confianza en su propia fe, a menudo se ha encontrado la receta para esta arma, irónicamente, en lugares inesperados.
 ITEM_20150317_000574	Martillo Kaloo
 ITEM_20150317_000575	Nuevas posibilidades se han descubierto para la elaboración de armas gracias a la aparición de nuevos monstruos desde el Gran Cataclismo Silvano.
-ITEM_20150317_000576	Cola de Drake
+ITEM_20150317_000576	Cola de Draco
 ITEM_20150317_000577	Se dice que el inventor de esta arma vivió mucho antes del período de fundación del reino. Es increíble que su receta haya sobrevivido hasta la fecha.
 ITEM_20150317_000578	Maza Real
 ITEM_20150317_000579	Esta arma sólo la podian obtener los clérigos con el permiso de la casa real. Estas restricciones dejarón de tener sentido desde el Gran Cataclismo Silvano.
@@ -582,8 +582,8 @@ ITEM_20150317_000581	 - 3% de probabilidad de [Aturdir] a un enemigo durante 3 s
 ITEM_20150317_000582	Algunos Vubbe llevan armas útiles.
 ITEM_20150317_000583	Garrote de Tejedora Letal
 ITEM_20150317_000584	Un minuto de silencio por el dueño anterior que se convirtió en el sacrificio necesario para hacer de esto.
-ITEM_20150317_000585	Maza Chapparition
-ITEM_20150317_000586	No importa qué monstruo se enfrentan, esta arma dejará una abolladura.
+ITEM_20150317_000585	Maza Chapparición
+ITEM_20150317_000586	No importa qué a monstruo se enfrente, esta arma le dejará una abolladura.
 ITEM_20150317_000587	Aturdidor
 ITEM_20150317_000588	Algunos clérigos prefieren desorientar a su objetivo a través de medios distintos de la predicación.
 ITEM_20150317_000589	Valia
@@ -664,7 +664,7 @@ ITEM_20150317_000663	Escudo de Mercenario Jigglebone
 ITEM_20150317_000664	Jigglebone Sippar
 ITEM_20150317_000665	Jigglebone Sippar 2
 ITEM_20150317_000666	Laza Corta
-ITEM_20150317_000667	Lanza de una mano [Penetración]
+ITEM_20150317_000667	Lanza de 1 mano [Penetración]
 ITEM_20150317_000668	Una arma normal para los soldados comunes.
 ITEM_20150317_000669	Espontoon
 ITEM_20150317_000670	Una lanza dada a los soldados y comandantes de alto rango.
@@ -695,9 +695,9 @@ ITEM_20150317_000694	Un modelo prototipo de la Sauroter. Si es necesario, esta l
 ITEM_20150317_000695	Assegai
 ITEM_20150317_000696	Aunque más pesado que algunas otras lanzas, el hechizo unido a esta arma compensa su peso en cierta medida.
 ITEM_20150317_000697	Lanza Química
-ITEM_20150317_000698	No hay armas que no puedan hacer con la alquimia, pero esto no significa necesariamente que sean mejores que las de un herrero.
+ITEM_20150317_000698	No hay armas que no se puedan hacer con la alquimia, pero esto no significa necesariamente que sean mejores que las de un herrero.
 ITEM_20150317_000699	Spontoon Grandioso
-ITEM_20150317_000700	Recommended when you want more offensive power than what your spear skills can produce.
+ITEM_20150317_000700	Recomendado cuando se desea poder más ofensivo que lo que tus habilidades de lanza pueden producir.
 ITEM_20150317_000701	Lanza Zega
 ITEM_20150317_000702	Desde el Gran Cataclismo Silvano, muchas recetas se encontraron a través del uso de ingredientes alternativos de los monstruos.
 ITEM_20150317_000703	Lanza Harl
@@ -712,7 +712,7 @@ ITEM_20150317_000711	Lanza Aston
 ITEM_20150317_000712	Lanza Devi
 ITEM_20150317_000713	Lanza Prima
 ITEM_20150317_000714	Lanza de Plata
-ITEM_20150317_000715	Se muestra un gran poder contra los demonios, pero esto es debido mayormente a sus propiedades alquímicas y mágicas mas que a sus atributos divinos.
+ITEM_20150317_000715	Muestra un gran poder contra los demonios, pero esto es debido mayormente a sus propiedades alquímicas y mágicas mas que a sus atributos divinos.
 ITEM_20150317_000716	Lanza Geras
 ITEM_20150317_000717	Se especula que el poder de esta lanza mágica pertenece a un espíritu.
 ITEM_20150317_000718	Lanza de la Perdición
@@ -727,7 +727,7 @@ ITEM_20150317_000726	Brandish
 ITEM_20150317_000727	Los usuarios que les gusta usar esta lanza con frecuencia dicen lo siguiente: 
 ITEM_20150317_000728	Esta es una lanza de una mano como ninguna otra.
 ITEM_20150317_000729	Pica
-ITEM_20150317_000730	Lanza de dos manos [Penetración]
+ITEM_20150317_000730	Lanza de 2 manos [Penetración]
 ITEM_20150317_000731	A medida que la caballería se borró de la historia del reino, este se convirtió en la pica más barata y accesible.
 ITEM_20150317_000732	Partisan
 ITEM_20150317_000733	Originalmente popular en los territorios remotos del reino, la lanza ha sido ampliamente producida después de la Guerra Civil.
@@ -749,7 +749,7 @@ ITEM_20150317_000748	A veces la combinación de diferentes campos conduce a buen
 ITEM_20150317_000749	Partisan Libre
 ITEM_20150317_000750	Recomendada para los usuarios que les gusta esquivar a los enemigos y golpear con ataques rápidos y ágiles.
 ITEM_20150317_000751	Pica Química
-ITEM_20150317_000752	Armasmas Alquímicamente elaboradas están siendo re-evaluadas y están en tendencia con el resurgimiento de los monstruos.
+ITEM_20150317_000752	Las armas alquímicamente elaboradas están siendo re-evaluadas y están en tendencia con el resurgimiento de los monstruos.
 ITEM_20150317_000753	Entra Partisan
 ITEM_20150317_000754	El efecto insecticida de esta arma es excelente.
 ITEM_20150317_000755	Tridente Galin
@@ -757,7 +757,7 @@ ITEM_20150317_000756	Cada ataque con esta arma se siente como tres golpes. No ha
 ITEM_20150317_000757	Pica Imperni
 ITEM_20150317_000758	La búsqueda de su propia individualidad y la moda siempre implicará un coste considerable.
 ITEM_20150317_000759	Pica Cono Larga
-ITEM_20150317_000760	Recomendadasi estás luchando contra grandes enemigos.
+ITEM_20150317_000760	Recomendada si estás luchando contra grandes enemigos.
 ITEM_20150317_000761	Pica Grandiosa
 ITEM_20150317_000762	A pesar de su edad, funciona admirablemente. Aunque es no se sabe si puede soportar otro refuerzo.
 ITEM_20150317_000763	Pica Devi
@@ -806,7 +806,7 @@ ITEM_20150317_000805	Ten cuidado de no ser hipnotizado por los fantasmas cuando 
 ITEM_20150317_000806	Varita Lampa
 ITEM_20150317_000807	Algunas personas llaman a esto el 'guano de la varita'. Es bastante difícil argumentar en contra de ese título.
 ITEM_20150317_000808	Varita Vestia
-ITEM_20150317_000809	Este equipo que utilizaba para ser repartido solamente a bokors o nigromantes que se unieron al ejército. Ahora también es utilizado por personas no relacionadas con el ejército.
+ITEM_20150317_000809	Este equipo se utilizaba para ser repartido solamente a bokors o nigromantes que se unieron al ejército. Ahora también es utilizado por personas no relacionadas con el ejército.
 ITEM_20150317_000810	Serpiente
 ITEM_20150317_000811	Los usuarios de esta varita deben ser capaces de controlar su propia oscuridad interior.
 ITEM_20150317_000812	Levereuse
@@ -830,7 +830,7 @@ ITEM_20150317_000829	Bastón Deficiente de Madera
 ITEM_20150317_000830	Bastón [Golpe]
 ITEM_20150317_000831	Se considera más como una ayuda de viaje temporal que un arma.
 ITEM_20150317_000832	Bastón Deficiente de Roble
-ITEM_20150317_000833	Alternativa a la vara de madera cuando un mago está preparando para ir a un viaje.
+ITEM_20150317_000833	Alternativa a la vara de madera cuando un mago está preparandose para ir a un viaje.
 ITEM_20150317_000834	Bastón 
 ITEM_20150317_000835	Los magos veteranos pueden defenderse de los enemigos debiles con este bastón, sin usar magia.
 ITEM_20150317_000836	Bastón Ju
@@ -881,13 +881,13 @@ ITEM_20150317_000880	A pesar de todos los intentos por parte del comprador o el 
 ITEM_20150317_000881	Bastón Imperni
 ITEM_20150317_000882	Esta es una prueba de que incluso los ingredientes ordinarios pueden dar lugar a un buen equipo, si se utiliza adecuadamente.
 ITEM_20150317_000883	Bastón Welsh
-ITEM_20150317_000884	Aunque los mimebros del mercado negro son competentes creadores de armas, este bastón es un éxito bastante reciente en la elaboración de una nueva arma a partir de el Imperni.
+ITEM_20150317_000884	Aunque los miembros del mercado negro son competentes creadores de armas, este bastón es un éxito bastante reciente en la elaboración de una nueva arma a partir de el Imperni.
 ITEM_20150317_000885	Bastón de Madera Magica
 ITEM_20150317_000886	Hay magos que prefieren una gran resistencia mágica en lugar de poder mágico.
 ITEM_20150317_000887	Bastón de Herrero
 ITEM_20150317_000888	Esta arma muestra que hay muchas maneras de imbuir de magia en un arma.
 ITEM_20150317_000889	Bastón Klavis
-ITEM_20150317_000890	Nadie se ha hecho famoso usando esta arma todavia. Creo que podrias ser el primero.
+ITEM_20150317_000890	Nadie se ha hecho famoso usando esta arma todavia. Podrias ser el primero.
 ITEM_20150317_000891	Bastón Dio
 ITEM_20150317_000892	Bastón Thresh
 ITEM_20150317_000893	Bastón Sestas
@@ -898,14 +898,14 @@ ITEM_20150317_000897	Bastón Prima
 ITEM_20150317_000898	Bastón Vela
 ITEM_20150317_000899	El fuego en la punta puede salir, pero no lo hará si te quedas sin combustible.
 ITEM_20150317_000900	Audra
-ITEM_20150317_000901	Algunos dicen que la Maestre Criomante desafió en broma el Maestre Piromante para luchar contra él con este bastón usando magia de hielo mientras se tenia las manos desnudas.
+ITEM_20150317_000901	Algunos dicen que la Maestre Criomante desafió en broma el Maestre Piromante para luchar contra él con este bastón usando magia de hielo mientras este tenia las manos desnudas.
 ITEM_20150317_000902	Girasol
 ITEM_20150317_000903	En la receta de esta arma, las instrucciones están escritas sobre cómo solicitar la ayuda del Diosas Saule y Gabija durante el proceso de creación.
 ITEM_20150317_000904	Maledic
 ITEM_20150317_000905	Las leyendas dicen que el Maledic original todavía está en la dimensión demoníaca, y que las imitaciones que se ven en este mundo solamente son ilusiones proyectadas.
 ITEM_20150317_000906	Maledoom
 ITEM_20150317_000907	Un grupo de magos tuvo éxito en la elaboración de los poderosos Maledoom mientras estaban desarrollando un proceso de elaboración para el Maledic.
-ITEM_20150317_000908	Bastón Chapparition
+ITEM_20150317_000908	Bastón Chapparición
 ITEM_20150317_000909	Bastón Arca
 ITEM_20150317_000910	Según un cuento, Agailla Flurry usaba este tipo de bastón cuando estaba construyendo la Torre de Magos.
 ITEM_20150317_000911	Cuerno de Raganos
@@ -939,7 +939,7 @@ ITEM_20150317_000938	Aunque pesado, estos proporcionan estabilidad a la parte in
 ITEM_20150317_000939	Armadura de Cuero
 ITEM_20150317_000940	Fácil de decorar o imbuir con magias elementales.
 ITEM_20150317_000941	Guantes de Cuero Endurecido
-ITEM_20150317_000942	Necesitas ingredientes de monstruos, si quieres hacer un cuero más duro para tu equipo.
+ITEM_20150317_000942	Necesitas ingredientes de monstruos, si quieres hacer un cuero más resistente para tu equipo.
 ITEM_20150317_000943	Botas de Cuero Endurecido
 ITEM_20150317_000944	La rigidez de estas botas pueden dañar los pies del portador.
 ITEM_20150317_000945	Pantalon de Cuero Endurecido
@@ -947,221 +947,221 @@ ITEM_20150317_000946	Dan un apoyo firme a tu cuerpo.
 ITEM_20150317_000947	Armadura de Cuero Endurecido
 ITEM_20150317_000948	Nunca pierdas tu tenacidad gracias a los ingredientes utilizados en esta armadura.
 ITEM_20150317_000949	Guantes de Malla
-ITEM_20150317_000950	The good thing about a stronger base material is that it offers a lot of  room for improvement.
+ITEM_20150317_000950	Lo bueno de un material base más fuerte es que ofrece una gran cantidad de espacio para mejorar.
 ITEM_20150317_000951	Botas de Malla
-ITEM_20150317_000952	It has poor ventilation despite how it looks.
+ITEM_20150317_000952	Cuenta con una ventilación deficiente a pesar de lo que parece.
 ITEM_20150317_000953	Pantalon de Malla
-ITEM_20150317_000954	There's no need to take the whole thing apart just because one of the middle rings are missing.
+ITEM_20150317_000954	No hay necesidad de tirarlos sólo porque uno de los anillos intermedios están desaparecidos.
 ITEM_20150317_000955	Cota de Malla
 ITEM_20150317_000956	Pecho [Placas] 
-ITEM_20150317_000957	Believe it or not, the crafter claims this equipment offers protection on par with plate armor. 
-ITEM_20150317_000958	Mark Gloves 
-ITEM_20150317_000959	It has even more overhead for improvement than Chain Gloves due to its better materials. 
-ITEM_20150317_000960	Mark Boots 
-ITEM_20150317_000961	People say it's fairly comfortable because of the way the rings are structured. 
-ITEM_20150317_000962	Mark Pants 
-ITEM_20150317_000963	If you want to minimize injuries during battle, you must be able to carry at least this much weight in armor. 
-ITEM_20150317_000964	Mark Tunic 
-ITEM_20150317_000965	Offers the protection and durability of plate armor. 
-ITEM_20150317_000966	Forest Leather Gloves 
-ITEM_20150317_000967	Since the Great Plant Cataclysm, many ingredients from monsters were used to craft armor; this is one of them. 
-ITEM_20150317_000968	Forest Leather Boots 
-ITEM_20150317_000969	There has been some success in extracting the magic properties from plant monsters and applying it to armor. 
-ITEM_20150317_000970	Forest Leather Pants 
-ITEM_20150317_000971	Plant monsters offer as much leather-like materials as animal monsters do - this is an example of its practical application. 
-ITEM_20150317_000972	Forest Leather Armor 
-ITEM_20150317_000973	It is lighter than other boots with similar defensive capabilities. 
-ITEM_20150317_000974	Grima Pants 
-ITEM_20150317_000975	It doesn't feel bad for a pair of pants made from wooden, non-fibrous materials. 
-ITEM_20150317_000976	Grima Robe 
+ITEM_20150317_000957	Lo creas o no, el artesano afirma que este equipo ofrece una protección a la par con una armadura de placas. 
+ITEM_20150317_000958	Guantes de Marca
+ITEM_20150317_000959	Tiene aún más sobrecarga para la mejora de Guantes de anillas debido a sus mejores materiales. 
+ITEM_20150317_000960	Botas de Marca
+ITEM_20150317_000961	La gente dice que es bastante cómodo debido a la forma en que las anillas están estructuradas.
+ITEM_20150317_000962	Pantalones de Marca
+ITEM_20150317_000963	Si desea reducir al mínimo las lesiones durante la batalla, debe ser capaz de cargar al menos esta cantidad de peso en la armadura. 
+ITEM_20150317_000964	Túnica de Marca
+ITEM_20150317_000965	Ofrece la protección y durabilidad de una armadura de placas. 
+ITEM_20150317_000966	Guantes de cuero del Bosque
+ITEM_20150317_000967	Desde el Gran Cataclismo Silvano, muchos ingredientes de monstruos se utilizaron para la crear armaduras; Este es una de ellas. 
+ITEM_20150317_000968	Botas de cuero del Bosque
+ITEM_20150317_000969	Ha habido cierto éxito en la extracción de las propiedades mágicas de los monstruos planta y su aplicación a la armadura. 
+ITEM_20150317_000970	Pantalones de cuero del Bosque
+ITEM_20150317_000971	Los monstruos plantas ofrecen materiales similares al cuero tanto como los monstruos animales - esto es un ejemplo de su aplicación práctica. 
+ITEM_20150317_000972	Armadura de cuero del Bosque
+ITEM_20150317_000973	Es más ligero que otras botas pero con una capacidad defensiva similar. 
+ITEM_20150317_000974	Pantalones Grima
+ITEM_20150317_000975	No se siente mal para un par de pantalones hechos de materiales de madera, no fibrosos. 
+ITEM_20150317_000976	Túnica Grima
 ITEM_20150317_000977	Pecho [Tela] 
-ITEM_20150317_000978	If you expected defense similar to a cloth shirt from this, you would be surprised at its leather-like defense. 
-ITEM_20150317_000979	Veris Gloves 
-ITEM_20150317_000980	If you don't have an aversion to insects, this is a good piece of armor to not only protect yourself, but also to hold a weapon. 
-ITEM_20150317_000981	Veris Boots 
-ITEM_20150317_000982	A swordsman's boots must be at least as sturdy as this one. This is not only to protect him from his enemies, but also to guard against him dropping his own weapon on his feet. 
-ITEM_20150317_000983	Veris Pants 
-ITEM_20150317_000984	Some warriors believe that the materials used for this item will attract its vengeful kin. 
-ITEM_20150317_000985	Veris Tunic 
-ITEM_20150317_000986	This equipment offers superior protection to plate armor by strengthening it with the shells of an insectoid monster. 
-ITEM_20150317_000987	Scale Gloves 
-ITEM_20150317_000988	It is believed to provide great camouflage and have agile, evasive properties. 
-ITEM_20150317_000989	Scale Boots 
-ITEM_20150317_000990	Many choose these boots for its magic evasion rather than its defense. 
-ITEM_20150317_000991	Scale Leggings 
-ITEM_20150317_000992	One of the benefits of the Great Plant Cataclysm is that crafters have found a way to reuse monsters' remains for stronger armor. 
-ITEM_20150317_000993	Scale Mail 
-ITEM_20150317_000994	Some monster ingredients can be turned into different materials by being heat treated. The comfortable Veris Boots use such methods. 
-ITEM_20150317_000995	Forest Pants 
-ITEM_20150317_000996	Please examine these for thorns prior to wearing them for the first time. 
-ITEM_20150317_000997	Forest Robe 
-ITEM_20150317_000998	Surprisingly, this light robe is harder than any other unprocessed animal leather. 
-ITEM_20150317_000999	Klaida Gauntlets 
-ITEM_20150317_001000	Swordsmen like to wear this into real battles. 
-ITEM_20150317_001001	Klaida Greaves 
-ITEM_20150317_001002	Traditional Scale Boots enhanced by adding stones while crafting. 
-ITEM_20150317_001003	Klaida Skirt 
-ITEM_20150317_001004	Previously this name was given for its final shape, not its materials. This changed recently, like it did for Scale Leggings. 
-ITEM_20150317_001005	Klaida Mail 
-ITEM_20150317_001006	Due to its merits in its appearance and the materials used to make it, most swordsmen will likely wear this armor at least once in their time. 
-ITEM_20150317_001007	Hard Veris Gloves 
-ITEM_20150317_001008	Equipment made from monster ingredients are said to be tougher, though there is no evidence that supports this claim. 
-ITEM_20150317_001009	Hard Veris Boots 
-ITEM_20150317_001010	Some Gribas can sense the scent of their kind from these boots.
-ITEM_20150317_001011	Hard Veris Pants 
-ITEM_20150317_001012	Since the Great Plant Cataclysm, many equipment crafted from new material, like these pants, are replacing traditional ones. 
-ITEM_20150317_001013	Hard Veris Tunic 
-ITEM_20150317_001014	One theory suggests that the Vubbes found this recipe before humans did. Very light, but also very hard. 
-ITEM_20150317_001015	Heavy Scale Gloves 
-ITEM_20150317_001016	A favorite of swordsmen thanks to its great defense. 
-ITEM_20150317_001017	Heavy Scale Boots 
-ITEM_20150317_001018	Although it may entangle your feet at times, the defense it provides is worth the trouble. 
-ITEM_20150317_001019	Heavy Scale Leggings 
-ITEM_20150317_001020	Until a few years ago, only the wealthy swordsmen could wear this prestigious armor. 
-ITEM_20150317_001021	Heavy Scale Mail 
-ITEM_20150317_001022	Good armor that offers solid defense and occasionally deflects enemy attacks. 
-ITEM_20150317_001023	Regal Pants 
-ITEM_20150317_001024	Though it rarely happens, these pants can petrify the wearer. 
-ITEM_20150317_001025	Regal Robe 
-ITEM_20150317_001026	It has a below average defense, but many wear it for the magic evasion. 
-ITEM_20150317_001027	Rag Pants 
-ITEM_20150317_001028	The increased vitality given by these pants feels imaginary, but is in fact totally real. 
-ITEM_20150317_001029	Rag Armor 
-ITEM_20150317_001030	Do not take this off during the battle. Your life is not only in your body. 
-ITEM_20150317_001031	Miner's Gloves 
-ITEM_20150317_001032	Miner's Boots 
-ITEM_20150317_001033	Miner's Pants 
-ITEM_20150317_001034	Miner's Armor 
-ITEM_20150317_001035	Crude Hard Leather Gloves 
-ITEM_20150317_001036	Crude Hard Leather Boots 
-ITEM_20150317_001037	Crude Hard Leather Pants 
-ITEM_20150317_001038	Crude Hard Leather Armor 
-ITEM_20150317_001039	Crude Chain Gloves 
-ITEM_20150317_001040	Crude Chain Boots 
-ITEM_20150317_001041	Crude Chain Pants 
-ITEM_20150317_001042	Crude Chain Mail 
-ITEM_20150317_001043	Crude Steel Gloves 
-ITEM_20150317_001044	Crude Steel Boots 
-ITEM_20150317_001045	Crude Steel Pants 
-ITEM_20150317_001046	Crude Steel Mail 
-ITEM_20150317_001047	Brigandine Gloves 
-ITEM_20150317_001048	Frequently used by those who want agile and precise maneuverability. 
-ITEM_20150317_001049	Brigandine Boots 
-ITEM_20150317_001050	Once you put these on, you can tell that they're a lot quieter than they look. 
-ITEM_20150317_001051	Brigandine Pants 
-ITEM_20150317_001052	Easy to enhance and, if you know how to, can be utilized in many ways. 
-ITEM_20150317_001053	Brigandine Armor 
-ITEM_20150317_001054	Minivern's high defense becomes a great gift for crafters after it dies, like in this armor. 
-ITEM_20150317_001055	Plate Gauntlets 
-ITEM_20150317_001056	It is the best equipment from those made with traditional crafting methods. 
-ITEM_20150317_001057	Plate Greaves 
+ITEM_20150317_000978	Si esperaba una defensa similar a una camisa de tela, te sorprenderá que su defensa es como la del cuero.
+ITEM_20150317_000979	Guantes Veris
+ITEM_20150317_000980	Si no tienes una aversión a los insectos, esta es una buena pieza de armadura, no sólo para protegerse a sí mismo, sino también para sostener un arma.
+ITEM_20150317_000981	Botas Veris
+ITEM_20150317_000982	Las botas de un espadachín deben ser al menos tan resistente como éstas. Esto no es sólo para protegerte de tus enemigos, sino también para protegerse de ti mismo dejando caer tu propia arma en tus pies.
+ITEM_20150317_000983	Pantalones Veris
+ITEM_20150317_000984	Algunos guerreros creen que los materiales utilizados para crear este objeto atraerán a sus parientes vengativos.
+ITEM_20150317_000985	Túnica Veris
+ITEM_20150317_000986	Este equipo ofrece una protección superior a la armadura de placas, fortalecido con las conchas de un monstruo insectoide.
+ITEM_20150317_000987	Guantes de Escamas
+ITEM_20150317_000988	Se cree que proporciona gran camuflaje y tienen propiedades ágiles y evasivas.
+ITEM_20150317_000989	Botas de Escamas
+ITEM_20150317_000990	Muchos optan por estas botas por su evasión de la magia en lugar de su defensa. 
+ITEM_20150317_000991	Pantalones de Escamas
+ITEM_20150317_000992	Uno de los beneficios del Gran Cataclismo Silvano es que los artesanos han encontrado una manera de reutilizar los restos de monstruos para hacer las armaduras más fuertes.
+ITEM_20150317_000993	Malla de Escamas
+ITEM_20150317_000994	Algunos ingredientes de monstruos se pueden convertir en diferentes materiales al ser tratados con calor. Las cómodas Botas Veris usan tales métodos.
+ITEM_20150317_000995	Pantalones del Bosque
+ITEM_20150317_000996	Por favor, busca pinchos antes de usarlos por primera vez.
+ITEM_20150317_000997	Túnica del Bosque
+ITEM_20150317_000998	Sorprendentemente, este manto ligero es más fuerte que cualquier otro cuero de animal sin procesar.
+ITEM_20150317_000999	Guanteletes Klaida
+ITEM_20150317_001000	A los espadachines les gusta usar esto en batallas reales. 
+ITEM_20150317_001001	Grebas Klaida
+ITEM_20150317_001002	Botas tradicionales de Escamas reforzada por la adición de piedras en el proceso de la elaboración. 
+ITEM_20150317_001003	Falda Klaida
+ITEM_20150317_001004	Anteriormente este nombre le fue dado por su forma final, no por sus materiales. Esto cambió hace poco, al igual que lo hizo para los Pantalones de Escamas. 
+ITEM_20150317_001005	Malla Klaida
+ITEM_20150317_001006	Debido a los méritos en su apariencia y los materiales utilizados en su elaboración, la mayoría de los espadachines probablemente llevarán esta armadura al menos una vez en su vida.
+ITEM_20150317_001007	Guantes Resistentes Veris
+ITEM_20150317_001008	Equipo elaborado a partir de ingredientes de monstruos, se dice que es más resistente, aunque no hay ninguna evidencia que apoye esta afirmación. 
+ITEM_20150317_001009	Botas Resistentes Veris
+ITEM_20150317_001010	Algunos Gribas puede percibir el olor de su especie en estas botas.
+ITEM_20150317_001011	Pantalones Resistentes Veris
+ITEM_20150317_001012	Desde el Gran Cataclismo Silvano, muchos equipos elaborado a partir de materiales nuevos, como estos pantalones, están reemplazando a los tradicionales. 
+ITEM_20150317_001013	Túnica Resistente Veris
+ITEM_20150317_001014	Una teoría sugiere que los Vubbes encontraron esta receta antes que los seres humanos. Muy ligero, pero también muy resistente. 
+ITEM_20150317_001015	Guantes de Escamas Pesados
+ITEM_20150317_001016	Un favorito de los espadachines gracias a su gran defensa. 
+ITEM_20150317_001017	Botas de Escamas Pesadas
+ITEM_20150317_001018	Aunque pueda enredar a tus pies a veces, la defensa que ofrece vale la pena. 
+ITEM_20150317_001019	Pantalones de Escamas Pesados
+ITEM_20150317_001020	Hasta hace pocos años, sólo los ricos espadachines podian usar esta prestigiosa armadura.
+ITEM_20150317_001021	Malla de Escamas Pesada
+ITEM_20150317_001022	Una buena armadura que ofrece una sólida defensa y, ocasionalmente, desvía los ataques enemigos. 
+ITEM_20150317_001023	Pantalones Regal
+ITEM_20150317_001024	A pesar de que rara vez ocurre, estos pantalones pueden petrificar al portador. 
+ITEM_20150317_001025	Túnica Regal
+ITEM_20150317_001026	Tiene una defensa muy inferior a la media, pero muchos lo usan por su evasión a la magia.
+ITEM_20150317_001027	Pantalones de Harapos
+ITEM_20150317_001028	El aumento de la vitalidad que dan estos pantalones se siente como si fuera imaginario, pero en realidad es totalmente real.
+ITEM_20150317_001029	Armadura de Harapos
+ITEM_20150317_001030	No te los quites durante la batalla. Tu vida no está solo en tu cuerpo.
+ITEM_20150317_001031	Guantes de Minero
+ITEM_20150317_001032	Botas de Minero
+ITEM_20150317_001033	Pantalones de Minero
+ITEM_20150317_001034	Armadura de Minero
+ITEM_20150317_001035	Guantes de Cuero Resistente Vulgar
+ITEM_20150317_001036	Botas de Cuero Resistente Vulgar
+ITEM_20150317_001037	Pantalones de Cuero Resistente Vulgar
+ITEM_20150317_001038	Armadura de Cuero Resistente Vulgar
+ITEM_20150317_001039	Guantes de Malla Vulgar
+ITEM_20150317_001040	Botas de Malla Vulgar
+ITEM_20150317_001041	Pantalones de Malla Vulgar
+ITEM_20150317_001042	Cota de Malla Vulgar
+ITEM_20150317_001043	Guantes de Acero Vulgar
+ITEM_20150317_001044	Botas de Acero Vulgar
+ITEM_20150317_001045	Pantalones de Acero Vulgar
+ITEM_20150317_001046	Cota de Acero Vulgar
+ITEM_20150317_001047	Guantes Brigandine
+ITEM_20150317_001048	frecuentemente utilizado por aquellos que quieren maniobrabilidad ágil y precisa.
+ITEM_20150317_001049	Botas Brigandine
+ITEM_20150317_001050	Una vez que puestos, se puede decir que son mucho más comdoos de lo que parecen. 
+ITEM_20150317_001051	Pantalones Brigandine
+ITEM_20150317_001052	Fácil de mejorar y si se sabe cómo, se puede utilizar de muchas maneras. 
+ITEM_20150317_001053	Armadura Brigandine
+ITEM_20150317_001054	La defensa de la alta Minivern se convierte en un gran regalo para los artesanos tras su muerte, como esta armadura. 
+ITEM_20150317_001055	Guanteletes de Placa
+ITEM_20150317_001056	Es el mejor equipo de los fabricados con métodos tradicionales de elaboración. 
+ITEM_20150317_001057	Grebas de Placa
 ITEM_20150317_001058	With the recent discovery of a method to fuse bone and metal together, the quality of ordinary Plate Greaves have improved. 
-ITEM_20150317_001059	Plate Leggings 
-ITEM_20150317_001060	The crafting method for this equipment is not novel. The gathering of the materials for it, however, is very difficult. 
-ITEM_20150317_001061	Plate Armor 
-ITEM_20150317_001062	Standard armor given to the Royal Guard prior to the Great Plant Cataclysm. 
-ITEM_20150317_001063	Heavy Quilted Pants 
-ITEM_20150317_001064	Heavy Quilted Armor 
-ITEM_20150317_001065	Vubbe Pants 
-ITEM_20150317_001066	Vubbe Armor 
-ITEM_20150317_001067	Panto Pants 
-ITEM_20150317_001068	Panto Armor 
-ITEM_20150317_001069	Acolyte Gloves 
-ITEM_20150317_001070	Although not as sturdy as armor, they are light and comfortable. 
-ITEM_20150317_001071	Acolyte Boots 
-ITEM_20150317_001072	Acolyte Pants 
-ITEM_20150317_001073	Acolyte Robe 
-ITEM_20150317_001074	Steel Chain Gloves 
-ITEM_20150317_001075	Steel Chain Boots 
-ITEM_20150317_001076	Steel Chain Pants 
-ITEM_20150317_001077	Steel Chainmail 
-ITEM_20150317_001078	Enhanced Leather Armor 
-ITEM_20150317_001079	Dunkel Quilted Gloves 
-ITEM_20150317_001080	Dunkel Quilted Boots 
-ITEM_20150317_001081	Dunkel Quilted Pants 
-ITEM_20150317_001082	Dunkel Quilted Armor 
-ITEM_20150317_001083	Dunkel Cotton Gloves 
-ITEM_20150317_001084	Worn and enjoyed by spell casters.
-ITEM_20150317_001085	Dunkel Cotton Boots 
-ITEM_20150317_001086	Dunkel Cotton Pants 
-ITEM_20150317_001087	They are believed to provide exceptional magic defense. 
-ITEM_20150317_001088	Dunkel Cotton Robe 
-ITEM_20150317_001089	People still choose this robe for its magic defense. 
-ITEM_20150317_001090	Dunkel Hard Leather Gloves 
-ITEM_20150317_001091	Dunkel Hard Leather Boots 
-ITEM_20150317_001092	Dunkel Hard Leather Pants 
-ITEM_20150317_001093	Dunkel Hard Leather Armor 
-ITEM_20150317_001094	Dunkel Ring Gloves 
-ITEM_20150317_001095	Dunkel Ring Boots 
-ITEM_20150317_001096	Dunkel Ring Pants 
-ITEM_20150317_001097	Dunkel Ring Mail 
-ITEM_20150317_001098	Ring Gloves 
-ITEM_20150317_001099	Ring Boots 
-ITEM_20150317_001100	Ring Pants 
-ITEM_20150317_001101	Ring Mail 
-ITEM_20150317_001102	Finger 
-ITEM_20150317_001103	Kabra Boots 
-ITEM_20150317_001104	Crimson Leather Armor 
-ITEM_20150317_001105	Pokubu Armor 
-ITEM_20150317_001106	Carpenter Gloves 
-ITEM_20150317_001107	Tenet Chain Pants 
-ITEM_20150317_001108	Tenet Chainmail 
-ITEM_20150317_001109	Zalia Leather Gloves 
-ITEM_20150317_001110	Zalia Leather Boots 
-ITEM_20150317_001111	Zalia Leather Pants 
-ITEM_20150317_001112	Zalia Leather Armor 
-ITEM_20150317_001113	Prova Gloves 
-ITEM_20150317_001114	Prova Robe 
-ITEM_20150317_001115	Studded Gloves 
-ITEM_20150317_001116	Studded Boots 
-ITEM_20150317_001117	Studded Pants 
-ITEM_20150317_001118	Studded Armor 
-ITEM_20150317_001119	Insect Gauntlets 
-ITEM_20150317_001120	Insect Greaves 
-ITEM_20150317_001121	Insect Skirt 
-ITEM_20150317_001122	Insect Mail 
-ITEM_20150317_001123	Protas Boots 
-ITEM_20150317_001124	Protas Trousers 
-ITEM_20150317_001125	Red Veris Gloves 
-ITEM_20150317_001126	Red Veris Tunic 
-ITEM_20150317_001127	Light Plate Leggings 
-ITEM_20150317_001128	Light Plate Armor 
-ITEM_20150317_001129	Heavy Glimmer Gloves 
-ITEM_20150317_001130	Heavy Glimmer Boots 
-ITEM_20150317_001131	Heavy Glimmer Robe 
-ITEM_20150317_001132	Pokubon Leather Pants 
-ITEM_20150317_001133	Pokubon Leather Armor 
-ITEM_20150317_001134	Drake Leather Gloves 
-ITEM_20150317_001135	Drake Leather Boots 
-ITEM_20150317_001136	Drake Leather Leggings 
-ITEM_20150317_001137	Drake Leather Tunic 
-ITEM_20150317_001138	Silver Plate Gauntlets 
-ITEM_20150317_001139	Silver Plate Greaves 
-ITEM_20150317_001140	Silver Plate Leggings 
-ITEM_20150317_001141	Silver Plate Armor 
-ITEM_20150317_001142	Wild Leather Gloves 
-ITEM_20150317_001143	Heavy Boots
-ITEM_20150317_001144	Capria Gloves 
-ITEM_20150317_001145	Follower Leather Armor
-ITEM_20150317_001146	Mummyghast Mail 
-ITEM_20150317_001147	Vejo Boots
-ITEM_20150317_001148	Mien Boots 
-ITEM_20150317_001149	Archon Hands 
-ITEM_20150317_001150	These gloves are used by Archon. 
-ITEM_20150317_001151	Ravinepede Boots 
-ITEM_20150317_001152	Boots coated with Ravinepede poison. Provides resistance against poison. 
-ITEM_20150317_001153	Nepenthes Gloves 
-ITEM_20150317_001154	Gloves made from Nepenthes fibers. 
-ITEM_20150317_001155	Shnayim Greaves 
-ITEM_20150317_001156	Shnayim fragments are used to craft these shoes. 
-ITEM_20150317_001157	Cafrisun Gloves 
-ITEM_20150317_001158	Unprecedented magical equipment like these gloves are raising suspicions that this tribe is being sponsored by a powerful entity. 
-ITEM_20150317_001159	Cafrisun Boots 
-ITEM_20150317_001160	You feel lighter when you wear these shoes. 
-ITEM_20150317_001161	Cafrisun Pants 
-ITEM_20150317_001162	Please do not intentionally take hits to test the magic defense of these pants. 
-ITEM_20150317_001163	Cafrisun Armor 
-ITEM_20150317_001164	Though the ingredients are unknown, this armor is quite useful. 
+ITEM_20150317_001059	Pantalones de Placa
+ITEM_20150317_001060	Con el reciente descubrimiento de un método para fusionar el hueso y metal en conjunto, la calidad de las Grebas de placas ordinarias han mejorado. 
+ITEM_20150317_001061	Armadura de Placa
+ITEM_20150317_001062	Armadura estándar dada a la guardia real antes de el Gran Cataclismo Silvano. 
+ITEM_20150317_001063	Pantalones Acolchados Pesados
+ITEM_20150317_001064	Armadura Acolchada Pesada
+ITEM_20150317_001065	Pantalones Vubbe
+ITEM_20150317_001066	Armadura Vubbe
+ITEM_20150317_001067	Pantalones Panto
+ITEM_20150317_001068	Armadura Panto
+ITEM_20150317_001069	Guantes de Acolito
+ITEM_20150317_001070	Aunque no es tan robusto como una armadura, son ligeros y cómodos.
+ITEM_20150317_001071	Botas de Acolito
+ITEM_20150317_001072	Pantalones de Acolito
+ITEM_20150317_001073	Túnica de Acolito
+ITEM_20150317_001074	Guantes de Malla de Acero
+ITEM_20150317_001075	Botas de Malla de Acero
+ITEM_20150317_001076	Pantalones de Malla de Acero
+ITEM_20150317_001077	Cota de Malla de Acero
+ITEM_20150317_001078	Armadura de Cuero Mejorada
+ITEM_20150317_001079	Guantes Acolchados Misteriosos
+ITEM_20150317_001080	Botas Acolchadas Misteriosas
+ITEM_20150317_001081	Pantalones Acolchados Misteriosos
+ITEM_20150317_001082	Armadura Acolchada Misteriosa
+ITEM_20150317_001083	Guantes de Algodón Misteriosos 
+ITEM_20150317_001084	Desgastado y disfrutado por los lanzadores de conjuros.
+ITEM_20150317_001085	Botas de Algodón Misteriosas
+ITEM_20150317_001086	Pantalones de Algodón Misteriosos
+ITEM_20150317_001087	Se cree que proporcionan una defensa mágica excepcional. 
+ITEM_20150317_001088	Túnica de Algodón Misteriosa
+ITEM_20150317_001089	Las personas siguen optando por este traje por su defensa mágica. 
+ITEM_20150317_001090	Guantes de Cuero Resistente Misteriosos
+ITEM_20150317_001091	Botas de Cuero Resistentes Misteriosas
+ITEM_20150317_001092	Pantalones de Cuero Resistente Misteriosos
+ITEM_20150317_001093	Armadura de Cuero Resistente Misteriosa
+ITEM_20150317_001094	Guantes de Anillas Misteriosos
+ITEM_20150317_001095	Botas de Anillas Misteriosas
+ITEM_20150317_001096	Pantalones de Anillas Misteriosos 
+ITEM_20150317_001097	Malla de Anillas Misteriosa
+ITEM_20150317_001098	Guantes de Anillas
+ITEM_20150317_001099	Botas de Anillas
+ITEM_20150317_001100	Pantalones de Anillas
+ITEM_20150317_001101	Malla de Anillas
+ITEM_20150317_001102	Dedo
+ITEM_20150317_001103	Botas Kabra
+ITEM_20150317_001104	Armadura de Cuero Carmesí
+ITEM_20150317_001105	Armadura Pokubu
+ITEM_20150317_001106	Guantes de Carpintero
+ITEM_20150317_001107	Pantalones de Malla Tenet
+ITEM_20150317_001108	Cota de Malla Tenet
+ITEM_20150317_001109	Guantes de Cuero Zalia
+ITEM_20150317_001110	Botas de Cuero Zalia
+ITEM_20150317_001111	Pantalones de Cuero Zalia
+ITEM_20150317_001112	Armadura de Cuero Zalia 
+ITEM_20150317_001113	Guantes Prova
+ITEM_20150317_001114	Túnica Prova
+ITEM_20150317_001115	Guantes Tachonados
+ITEM_20150317_001116	Botas Tachonadas
+ITEM_20150317_001117	Pantalones Tachonados
+ITEM_20150317_001118	Armadura Tachonada
+ITEM_20150317_001119	Guanteles de Insecto
+ITEM_20150317_001120	Grebas de Insecto
+ITEM_20150317_001121	Falda de Insecto
+ITEM_20150317_001122	Malla de Insecto
+ITEM_20150317_001123	Botas Protas
+ITEM_20150317_001124	Pantalones Protas
+ITEM_20150317_001125	Guantes Rojos Veris
+ITEM_20150317_001126	Túnica Roja Veris
+ITEM_20150317_001127	Pantalones Ligeros de Placa
+ITEM_20150317_001128	Armadura Ligera de Placa
+ITEM_20150317_001129	Guantes Brillantes Pesados
+ITEM_20150317_001130	Botas Brillantes Pesadas
+ITEM_20150317_001131	Túnica Brillante Pesada
+ITEM_20150317_001132	Pantalones de Cuero de Pokubon
+ITEM_20150317_001133	Armadura de Cuero de Pokubon
+ITEM_20150317_001134	Guantes de Cuero de Draco
+ITEM_20150317_001135	Botas de Cuero de Draco
+ITEM_20150317_001136	Pantalones de de Cuero de Draco
+ITEM_20150317_001137	Tunica de Cuero de Draco
+ITEM_20150317_001138	Guanteles de Placa de Plata
+ITEM_20150317_001139	Grebas de Placa de Plata
+ITEM_20150317_001140	Pantalones de Placa de Plata
+ITEM_20150317_001141	Armadura de Placa de Plata
+ITEM_20150317_001142	Guantes de Cuero Salvaje
+ITEM_20150317_001143	Botas Pesadas
+ITEM_20150317_001144	Guantes Capria
+ITEM_20150317_001145	Armadura de cuero de seguidor
+ITEM_20150317_001146	Malla de Momiaspectral
+ITEM_20150317_001147	Botas Vejo
+ITEM_20150317_001148	Botas Mien
+ITEM_20150317_001149	Manos de Archon
+ITEM_20150317_001150	Estos guantes han sido usados por Archon. 
+ITEM_20150317_001151	Botas de Ramlopendra
+ITEM_20150317_001152	Botas revestidas con veneno de Ramlopendra. Proporciona resistencia contra el veneno. 
+ITEM_20150317_001153	Guantes de Nepentes
+ITEM_20150317_001154	Guantes elaborados con fibras de Nepentes. 
+ITEM_20150317_001155	Grebas de Shnayim
+ITEM_20150317_001156	Se han usado fragmentos de Shnayim para elaborar estas grebas. 
+ITEM_20150317_001157	Guantes de Cafrisun
+ITEM_20150317_001158	Equipos mágicos sin precedentes como estos guantes están generando sospechas de que esta tribu está siendo patrocinada por una poderosa entidad. 
+ITEM_20150317_001159	Botas de Cafrisun
+ITEM_20150317_001160	Te sientes mas ligero cuando te pones estas botas. 
+ITEM_20150317_001161	Pantalones de Cafrisun
+ITEM_20150317_001162	Por favor no pruebes intencionadamente la defensa magica de estos pantalones. 
+ITEM_20150317_001163	Armadura de Cafrisun
+ITEM_20150317_001164	Aunque los ingredientes son desconocidos, esta armadura es bastante útil. 
 ITEM_20150317_001165	Dio Gloves 
 ITEM_20150317_001166	Dio Sandals 
 ITEM_20150317_001167	Dio Pants 
@@ -1249,7 +1249,7 @@ ITEM_20150317_001248	Prima Plate Armor
 ITEM_20150317_001249	Tomb Gloves 
 ITEM_20150317_001250	Tomb Leather Gloves 
 ITEM_20150317_001251	Tomb Gauntlets 
-ITEM_20150317_001252	Walker 
+ITEM_20150317_001252	Caminante
 ITEM_20150317_001253	Formine Armor 
 ITEM_20150317_001254	Crafted by a recipe resulting from hundreds of years worth of miners' experience and wisdom. 
 ITEM_20150317_001255	Riena Pants 
@@ -1644,7 +1644,7 @@ ITEM_20150317_001643	A helmet made of strong plate metal. Often worn by knights.
 ITEM_20150317_001644	Black Rabbit Ears 
 ITEM_20150317_001645	Connoisseurs often get into disputes regarding the cuteness factor of a straight ear versus a folded ear. 
 ITEM_20150317_001646	Muñeco Kepa 
-ITEM_20150317_001647	Un sombrero que representa a un Kepa  (¡Cebollita!). 
+ITEM_20150317_001647	Un sombrero que representa a un Kepa   (¡Cebollita!). 
 ITEM_20150317_001648	Pink Bunny 
 ITEM_20150317_001649	Flaunt your pink-pink-ish attractiveness and cuteness at the same time. 
 ITEM_20150317_001650	Stake 
@@ -1676,7 +1676,7 @@ ITEM_20150317_001675	Blocks out noise.
 ITEM_20150317_001676	It completely cuts you off from any external sound, including Mandragoras' screams. 
 ITEM_20150317_001677	Luxury Hairpin 
 ITEM_20150317_001678	Feather Helmet 
-ITEM_20150317_001679	Shaman Mask 
+ITEM_20150317_001679	Mascara de Chamán 
 ITEM_20150317_001680	Sprout 
 ITEM_20150317_001681	Fried Egg 
 ITEM_20150317_001682	Party Cone 
@@ -1697,7 +1697,7 @@ ITEM_20150317_001696	Crown Headband
 ITEM_20150317_001697	Pudín 
 ITEM_20150317_001698	Bride Coronet 
 ITEM_20150317_001699	Polka Dot Ribbon 
-ITEM_20150317_001700	Cinta azul 
+ITEM_20150317_001700	Lazo azul 
 ITEM_20150317_001701	Mint Chocolate Cupcake 
 ITEM_20150317_001702	Strawberry Cupcake 
 ITEM_20150317_001703	Mergen Hat 
@@ -1714,7 +1714,7 @@ ITEM_20150317_001713	Blows the enemy away.
 ITEM_20150317_001714	Demonbane Charm 
 ITEM_20150317_001715	Reduces the defense of Devil-type monsters. 
 ITEM_20150317_001716	Bronze Compass 
-ITEM_20150317_001717	Provides immunity to [Confusion].
+ITEM_20150317_001717	Provee inmunidad a [Confusión].
 ITEM_20150317_001718	Bubble Stick 
 ITEM_20150317_001719	Bubble Staff 
 ITEM_20150317_001720	Secondary Dagger 
@@ -1727,7 +1727,7 @@ ITEM_20150317_001726	Bolsa de Dinero
 ITEM_20150317_001727	Medalla 
 ITEM_20150317_001728	Trébol de cuatro hojas 
 ITEM_20150317_001729	Charm 
-ITEM_20150317_001730	Incrementa tu tasa de Críticos.
+ITEM_20150317_001730	Incrementa tu probabilidad de críticos.
 ITEM_20150317_001731	Alquimia 1 
 ITEM_20150317_001732	Alquimia 2 
 ITEM_20150317_001733	Alquimia 3 
@@ -1923,8 +1923,8 @@ ITEM_20150317_001922	Poción de incremento de CON
 ITEM_20150317_001923	Incrementa permanentemente tu CON en 1. {nl}Click derecho para usar. 
 ITEM_20150317_001924	Poción de incremento de INT 
 ITEM_20150317_001925	Incrementa permanentemente tu INT en 1. {nl}Click derecho para usar. 
-ITEM_20150317_001926	Poción de incremento de ESP 
-ITEM_20150317_001927	Incrementa permanentemente tu ESP en 1. {nl}Click derecho para usar. 
+ITEM_20150317_001926	Poción de incremento de SPR 
+ITEM_20150317_001927	Incrementa permanentemente tu SPR en 1. {nl}Click derecho para usar. 
 ITEM_20150317_001928	Poción de incremento de estadística
 ITEM_20150317_001929	Obtienes 1 punto de estadística. Click derecho para usar. 
 ITEM_20150317_001930	Incrementa permanentemente tu máximo de carga de peso en 50. {nl}Click derecho para usar. 
@@ -2031,7 +2031,7 @@ ITEM_20150317_002030	Unicorn Card
 ITEM_20150317_002031	Iltiswort Card 
 ITEM_20150317_002032	Giant Red Wood Goblin Card 
 ITEM_20150317_002033	Giant Wood Goblin Card 
-ITEM_20150317_002034	Chapparition Card 
+ITEM_20150317_002034	Chapparición Card 
 ITEM_20150317_002035	Chafer Card 
 ITEM_20150317_002036	Carapace Card 
 ITEM_20150317_002037	Kepa Chieftain Card 
@@ -2673,13 +2673,13 @@ ITEM_20150317_002672	Biteregina's Thorn
 ITEM_20150317_002673	Obtenido de Biteregina. 
 ITEM_20150317_002674	Cerberus' Canine 
 ITEM_20150317_002675	Obtenido de Cerberus. 
-ITEM_20150317_002676	Chapparition's Soul Matter 
-ITEM_20150317_002677	Obtenido de Chapparition. 
+ITEM_20150317_002676	Chapparición's Soul Matter 
+ITEM_20150317_002677	Obtenido de Chapparición. 
 ITEM_20150317_002678	Siela 
 ITEM_20150317_002679	Obtenido de the level 80 mission. 
-ITEM_20150317_002680	Vejo Boots Leather 
+ITEM_20150317_002680	Botas Vejo Leather 
 ITEM_20150317_002681	Obtenido de Colimencia of the Indigo Trees Plateau quest.
-ITEM_20150317_002682	Vejo Boots String 
+ITEM_20150317_002682	Botas Vejo String 
 ITEM_20150317_002683	Obtenido de Merge from the Seventune Mesa quest.
 ITEM_20150317_002684	Saphie Chain 
 ITEM_20150317_002685	A material required for crafting the Saphie Necklace. {nl}Obtenido de Poata at Gate Route. 
@@ -2919,7 +2919,7 @@ ITEM_20150317_002918	Holy Water of Krivis Master
 ITEM_20150317_002919	Agua Sagrada usada para tratar pacientes. It has a revitalizing effect. 
 ITEM_20150317_002920	Minotaur's Essence 
 ITEM_20150317_002921	Una esencia demoníaca solicitada por el Maestre Mentalista. It emanates a sinister evil aura. 
-ITEM_20150317_002922	Chapparition's Essence 
+ITEM_20150317_002922	Chapparición's Essence 
 ITEM_20150317_002923	Una esencia demoníaca solicitada por el Maestre Mentalista. If you stare at it for too long you might be possessed. 
 ITEM_20150317_002924	Strange Map 
 ITEM_20150317_002925	This might be a map marked with the location of the Fletcher's Secret Manual. Why would the Quarrel Shooter Master want the Fletcher's...? 
@@ -3477,7 +3477,7 @@ ITEM_20150317_003476	Fat that reeks with a Ducky's scent.
 ITEM_20150317_003477	Toolbox 
 ITEM_20150317_003478	Full of tools used to repair the scarecrow. 
 ITEM_20150317_003479	Death Marker 
-ITEM_20150317_003480	A marker found from Chapparition. The voices of the killed innocents echo from it. 
+ITEM_20150317_003480	A marker found from Chapparición. The voices of the killed innocents echo from it. 
 ITEM_20150317_003481	A necklace that a ghost asked you to take to his younger brother. A modest pendant is attached to it. 
 ITEM_20150317_003482	A bag full of money. What was the Reaper doing with this? 
 ITEM_20150317_003483	Messenger's Note 
@@ -4336,10 +4336,10 @@ ITEM_20150401_004335	Unfinished tooltip.
 ITEM_20150401_004336	Grima Boots 
 ITEM_20150401_004337	Forest Gloves 
 ITEM_20150401_004338	Forest Boots 
-ITEM_20150401_004339	Superior Scale Gloves 
-ITEM_20150401_004340	Superior Scale Boots 
-ITEM_20150401_004341	Superior Scale Leggings 
-ITEM_20150401_004342	Superior Scale Mail 
+ITEM_20150401_004339	Superior Guantes de Escamas 
+ITEM_20150401_004340	Superior Botas de Escamas 
+ITEM_20150401_004341	Superior Pantalones de Escamas 
+ITEM_20150401_004342	Superior Malla de Escamas 
 ITEM_20150401_004343	Regal Gloves 
 ITEM_20150401_004344	Regal Boots 
 ITEM_20150401_004345	Old Hard Leather Gloves 
@@ -4358,8 +4358,8 @@ ITEM_20150401_004357	Superior Quilted Pants
 ITEM_20150401_004358	Superior Quilted Armor 
 ITEM_20150401_004359	Superior Regal Gloves 
 ITEM_20150401_004360	Superior Regal Boots 
-ITEM_20150401_004361	Superior Regal Pants 
-ITEM_20150401_004362	Superior Regal Robe 
+ITEM_20150401_004361	Superior Pantalones Regal 
+ITEM_20150401_004362	Superior Túnica Regal 
 ITEM_20150401_004363	Superior Brigandine Gloves 
 ITEM_20150401_004364	Superior Brigandine Boots 
 ITEM_20150401_004365	Superior Brigandine Pants 
@@ -4430,8 +4430,8 @@ ITEM_20150401_004429	Knight Leggings
 ITEM_20150401_004430	Knight Armor 
 ITEM_20150401_004431	Superior Grima Gloves 
 ITEM_20150401_004432	Superior Grima Boots 
-ITEM_20150401_004433	Superior Grima Pants 
-ITEM_20150401_004434	Superior Grima Robe  
+ITEM_20150401_004433	Superior Pantalones Grima 
+ITEM_20150401_004434	Superior Túnica Grima  
 ITEM_20150401_004435	Magnus Gloves 
 ITEM_20150401_004436	Magnus Boots 
 ITEM_20150401_004437	Magnus Robe 
@@ -6114,10 +6114,10 @@ ITEM_20150918_006113	Sirdgela Leather Gloves
 ITEM_20150918_006114	Sirdgela Leather Boots
 ITEM_20150918_006115	Sirdgela Leather Pants
 ITEM_20150918_006116	Sirdgela Leather Tunic
-ITEM_20150918_006117	Sirdgela Scale Gloves
-ITEM_20150918_006118	Sirdgela Scale Boots
+ITEM_20150918_006117	Sirdgela Guantes de Escamas
+ITEM_20150918_006118	Sirdgela Botas de Escamas
 ITEM_20150918_006119	Sirdgela Scale Pants
-ITEM_20150918_006120	Sirdgela Scale Mail
+ITEM_20150918_006120	Sirdgela Malla de Escamas
 ITEM_20150918_006121	Philis Gloves
 ITEM_20150918_006122	Philis Boots
 ITEM_20150918_006123	Philis Pants
@@ -6126,10 +6126,10 @@ ITEM_20150918_006125	Philis Leather Gloves
 ITEM_20150918_006126	Philis Leather Boots
 ITEM_20150918_006127	Philis Leather Pants
 ITEM_20150918_006128	Philis Leather Tunic
-ITEM_20150918_006129	Philis Scale Gloves
-ITEM_20150918_006130	Philis Scale Boots
+ITEM_20150918_006129	Philis Guantes de Escamas
+ITEM_20150918_006130	Philis Botas de Escamas
 ITEM_20150918_006131	Philis Scale Pants
-ITEM_20150918_006132	Philis Scale Mail
+ITEM_20150918_006132	Philis Malla de Escamas
 ITEM_20150918_006133	Arelno Gloves
 ITEM_20150918_006134	Arelno Boots
 ITEM_20150918_006135	Arelno Pants
@@ -6596,7 +6596,7 @@ ITEM_20150918_006595	Supplies requested by the supplier to be delivered to the D
 ITEM_20150918_006596	A pouch of supplies looted by Vubbes. Let's take these to Yukurt to investigate the odd behaviour of the Vubbes.
 ITEM_20150918_006597	It's oil that reeks with a Ducky's scent.
 ITEM_20150918_006598	Full of tools used to repair the scarecrow.
-ITEM_20150918_006599	A marker found from Chapparition. The voices of the killed innocents echo from it.
+ITEM_20150918_006599	A marker found from Chapparición. The voices of the killed innocents echo from it.
 ITEM_20150918_006600	A necklace that a ghost asked you to take to his younger brother. A modest pendant is attached to it.
 ITEM_20150918_006601	A bag full of money. What was the Reaper doing with this?
 ITEM_20150918_006602	The messenger's note. He told you not to read it but... Should we?
@@ -7472,7 +7472,7 @@ ITEM_20151022_007471	Incrementa el nivel de clase de un personaje de rank 5 a 15
 ITEM_20151022_007472	Abomination Cube
 ITEM_20151022_007473	Parece contener algo desconocido. {nl}Click derecho para usar.
 ITEM_20151022_007474	Obscene Deathweaver Cube
-ITEM_20151022_007475	Bleak Chapparition Cube
+ITEM_20151022_007475	Bleak Chapparición Cube
 ITEM_20151022_007476	Earth Temple Shooter Cube
 ITEM_20151022_007477	Earth Canceril Cube
 ITEM_20151022_007478	Earth Archon Cube
