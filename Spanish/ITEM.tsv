@@ -9789,35 +9789,35 @@ ITEM_20151224_009788	Sparkly Red Fragment
 ITEM_20151224_009789	A sparkly red fragment discovered in Sicarius. It looks like it would be used to activate a device.
 ITEM_20151224_009790	Sicarius Key
 ITEM_20151224_009791	A key made of sparkly blue fragments. Used to activate a certain device.
-ITEM_20151224_009792	Spell Detector Compass
-ITEM_20151224_009793	A compass able to read spells. It can be used to find objects containing protection spells.
-ITEM_20151224_009794	An orb given by Mihail. It can be used to store the magic of defeated monsters.
-ITEM_20151224_009795	An orb filled with magic. Mihail intends to use it to blow up the magic supply device.
-ITEM_20151224_009796	Cast Releasing Amulet
-ITEM_20151224_009797	An amulet prepared by Melchioras. It is said to lift protection spells.
-ITEM_20151224_009798	Magic Orb Pouch
-ITEM_20151224_009799	A pouch filled with Magic Concentration Orbs
-ITEM_20151224_009800	Page 1 of a diary from someone named Ardel, a former resident of the Delmore Castle.
-ITEM_20151224_009801	Page 2 of a diary from someone named Ardel, a former resident of the Delmore Castle.
-ITEM_20151224_009802	Page 3 of a diary from someone named Ardel, a former resident of the Delmore Castle.
-ITEM_20151224_009803	Useful Arrow
-ITEM_20151224_009804	An arrow that once pierced a Charcoal Walker. It looks like it can still be used.
-ITEM_20151224_009805	Spell Detector Crystal
-ITEM_20151224_009806	A crystal that finds objects hidden behind magic. Use it to find the magic supply device.
-ITEM_20151224_009807	Useful Wooden Board
-ITEM_20151224_009808	A wooden board able to be used as a barricade. Taken from an old wooden crate.
-ITEM_20151224_009809	Thorn Mushroom
-ITEM_20151224_009810	A mushroom able to boost Melchioras' power. It doesn't look very tasty.
-ITEM_20151224_009811	Charog Sap
-ITEM_20151224_009812	Sap that oozes out of a Charog's body. It smells awfully foul.
-ITEM_20151224_009813	Yane's Shaman Doll
-ITEM_20151224_009814	A means to affect the souls of monsters.
-ITEM_20151224_009815	Ominous Magic Crystal
-ITEM_20151224_009816	A crystal for collecting sinister magic. Attach it to the device to destroy it.
-ITEM_20151224_009817	Spell Amplifier
-ITEM_20151224_009818	An amplifier carried by Black Maizes. An item wanted by Revelator Mihail.
-ITEM_20151224_009819	Raffly Soul Crystal
-ITEM_20151224_009820	Vubbe Warrior Mind Crystal
+ITEM_20151224_009792	Brújula Detectora de Hechizos
+ITEM_20151224_009793	Una brújula capaz de leer hechizos. Puede utilizarse para encontrar objetos que contienen hechizos de protección.
+ITEM_20151224_009794	Un orbe dado por Mihail. Se puede utilizar para almacenar la magia de los monstruos derrotados.
+ITEM_20151224_009795	Un orbe lleno con magia. Mihail pretende usarlo para volar el dispositivo de suministro de magia.
+ITEM_20151224_009796	Amuleto Invocador de Liberación
+ITEM_20151224_009797	Un amuleto preparado por Melchioras. Se dice que levanta hechizos de protección.
+ITEM_20151224_009798	Bolsa de Orbe Mágico
+ITEM_20151224_009799	Una bolsa llena con Orbes de Concentración Mágica
+ITEM_20151224_009800	Página 1 del diario de alguien llamado Ardel, un residente del Castillo Delmore.
+ITEM_20151224_009801	Página 2 del diario de alguien llamado Ardel, un residente del Castillo Delmore.
+ITEM_20151224_009802	Página 3 del diario de alguien llamado Ardel, un residente del Castillo Delmore.
+ITEM_20151224_009803	Flecha Útil
+ITEM_20151224_009804	Una flecha que una vez atravesó a un Caminante de Carbón. Parece que aún puede utilizarse.
+ITEM_20151224_009805	Cristal Detector de Hechizos
+ITEM_20151224_009806	Un cristal que encuentra objetos ocultos con magia. Utilizalo para encontrar el dispositivo de suministro de magia.
+ITEM_20151224_009807	Tabla de Madera Útil
+ITEM_20151224_009808	Una tabla de madera que se puede usar a modo de barricada. Obtenida de una vieja caja de madera.
+ITEM_20151224_009809	Seta Cuerno
+ITEM_20151224_009810	Un hongo capaz de aumentar el poder de Melchioras. No parece muy sabroso.
+ITEM_20151224_009811	Sabia de Charog
+ITEM_20151224_009812	Sabia que rezuma del cuerpo de un Charog. Huele asquerosamente peligroso.
+ITEM_20151224_009813	Muñeco Chamánico de Yane
+ITEM_20151224_009814	Un medio para afectar a las almas de los monstruos.
+ITEM_20151224_009815	Cristal Mágico Nefasto
+ITEM_20151224_009816	Un cristal para reunir magia siniestra. Ponlo en el dispositivo para destruirlo.
+ITEM_20151224_009817	Amplificador de Hechizo
+ITEM_20151224_009818	Un amplificador que llevan los Mazorca Negra. Es un objeto buscado por el Revelador Mihail.
+ITEM_20151224_009819	Cristal de Alma de Raffly
+ITEM_20151224_009820	Cristal Mental de Guerrero Vubbe
 ITEM_20160224_009821	Desde que los descendientes de una de las familias más prestigiosas adoptaron este peinado, muchos lo siguieron. No obstante hay que decirlo, es dificil sacarle provecho sin ser atractivo en primer lugar.
 ITEM_20160224_009822	Un peinado imitado por muchos, recuperado de un tiempo aproximado al Milenario. Sin embargo, era cosa de nobles por su dificultad de realización y mantenimiento.
 ITEM_20160224_009823	Peinado Ondeado Voluminoso
@@ -9856,7 +9856,7 @@ ITEM_20160224_009855	Zweihander Slaake
 ITEM_20160224_009856	Espada de 2 Manos Lumas
 ITEM_20160224_009857	Espada del Ejecutor Magi
 ITEM_20160224_009858	Mandoble Artie
-ITEM_20160224_009859	Exterminadora Vienie
+ITEM_20160224_009859	Cuchillo Exterminador Vienie
 ITEM_20160224_009860	Doble Hoja Duris
 ITEM_20160224_009861	Espada de 2 Manos Eki Lumai
 ITEM_20160224_009862	Doble Hoja Vienie
