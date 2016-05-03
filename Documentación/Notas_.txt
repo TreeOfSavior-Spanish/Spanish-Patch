@@ -23,7 +23,7 @@
 - DEX --> DES -> Destreza
 - INT -> Inteligencia
 - CON -> Consistencia
-- SPR -> ESP -> Espiritu
+- SPR -> Espiritu
 
 >> Archer: Arquero
 >> Quarrel Shooter: Ballestero (NdT: Quarrel es un tipo de Saeta con punta cuadrada).
