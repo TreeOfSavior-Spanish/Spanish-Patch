@@ -1,0 +1,37 @@
+>> Ésta traducción es "Hispana", lo que quiere decir que el Español se mantendrá lo más neutral posible.
+-- Si encuentran una construcción gramatical dificil de entender o incomprensible en su variante de Español, favor notificarnos.
+
+>> Este proyecto apunta a ser una traducción al 100%, esto quiere decir que tanto nombres de Monstruos, Lugares, Objetos y Habilidades serán traducidos.
+
+>> Los nombres propios cómo "Vubbe" no serán traducidos, no así los nombres que sean compuestos:
+-- Vubbe Fighter -> Vubbe Luchador
+-- TempleShooter -> Disparador del Templo
+-- Dunkel Sword -> Espada Misteriosa
+-- Medzo Diena =
+* En caso de tener dudas en un nombre compuesto, será discutido en el equipo.
+
+>> La traducción se realizará con todos los signos de puntuación y acentos correspondientes al Español.
+-- Todos somos humanos y podemos cometer errores de puntuación y acentuación, se ruega reportarlos cómo issues en github.
+
+>> En ningún diálogo se emplearán dobles comillas ("texto aquí"), en su lugar se empleará el apóstrofe ('texto aquí').
+-- El uso de comillas causa errores en el juego.
+
+>> No se traducirá nada que se encuentre con guíones bajos (texto_aquí)
+-- Es altamente probable que sea una constante.
+
+>> La segunda persona será traducida cómo sigue:
+-- You -> Tú - Usted[formal] - Ustedes
+-- Your -> Tu(s) - Su(s)[formal]
+-- Yours -> Tuyo(s) - Suyo(s)[formal]
+-- Thou/Thee -> Vos
+-- Thy -> Vuestro
+-- Thine -> Vuestro[posesivo]
+-- Ye -> Vosotros
+
+>> En Inglés existe un orden fijo de adjetivos; no así en Español, por ende se usará el siguiente orden al traducir mobs:
+-- [Estatus] + [Profesión] + Nombre + [Color] + [Tamaño] + [Característica]
+
+>> La palabra "diosa(s)" en el juego se tratará de la siguiente forma:
+-- Diosa(s) -> Usado sólo en situaciones donde implique una "veneración" hacia la Diosa(s).
+-- diosa(s) -> Usado sólo en situaciones donde no implique una "veneración" hacia la diosa(s) o se hable en general.
+-- Esto se basa en que en Español usamos "Dios" para hablar del dios cristiano y "dios" para el resto.

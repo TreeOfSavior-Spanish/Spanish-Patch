@@ -1,0 +1,177 @@
+- Lv -> Nv
+- Character(s) -> Personaje(s)
+- Stats -> Estadísticas
+- Skill(s) -> Habilidad(es)
+- EXP -> Se conserva (EXPerience/EXPeriencia)
+- NPC -> PNJ
+- Tip -> Consejo
+- Silver -> Plata
+- Guild -> Clan
+- Advancement -> Ascenso
+- Cooldown -> Enfriamiento
+- Companion -> Compañero
+- Storage -> Banco
+- Los nombres de pisos como Crystal Mines 1F -> Mina de Crital P1 (P de Planta) 
+- OverKill -> Exterminio
+- Warrior -> Guerrero
+- Fighter -> Luchador
+
+- HP --> PS -> Puntos de Salud
+- SP --> PM -> Puntos de Magicos
+- STA --> RES -> Resistencia
+- STR --> FUE -> Fuerza
+- DEX --> DES -> Destreza
+- INT -> Inteligencia
+- CON -> Consistencia
+- SPR -> ESP -> Espiritu
+
+>> Archer: Arquero
+>> Quarrel Shooter: Ballestero (NdT: Quarrel es un tipo de Saeta con punta cuadrada).
+>> Ranger: Guardabosque
+>> Sapper: Zapador
+>> Hunter: Cazador
+>> Wugushi:  Arquero de Jade
+>> Scout: Explorador
+>> Fletcher: Flechero (Persona que se sirve de arco y flechas / Persona que fabrica flechas)
+>> Rogue: Pícaro
+>> Falconer: Halconero
+>> Schwarzer Reiter: = Schwarzer Reiter (NdT: La traducción desde el Alemán es "Jinete Negro", pero no se traduce al ser el "nombre propio" de una unidad de caballería especial de 1540)
+>> Cannoneer: Cañonero
+>> Musketeer: Mosquetero
+
+>> Swordman: Espadachín
+>> Highlander: Montañero
+>> Peltasta: =
+>> Hoplite: Hoplita
+>> Barbarian: Bárbaro
+>> Rodelero: =
+>> Cataphrac: Catafracto
+>> Squire: Escudero
+>> Corsair: Corsario
+>> Doppelsoeldner: Mercenario
+>> Fencer: Esgrimista (NdT: El término correcto es "Tirador" | NdT Thenestas: Se traduce literalmente como "Esgrimidor", la RAE acuña el término, "Esgrimista" es un alias de "Esgrimidor". "Tirador" es como algunos deportistas españoles llaman al practicante de esgrima, pero no está contemplado por la RAE )
+>> Dragoon: Dragón
+>> Templar: Templario
+>> Shinobi: Ninja
+
+>> Wizard: Mago
+>> Pyromancer: Piromante
+>> Cryomancer: Criomante
+>> Psychokino: Mentalista
+>> Linker: Vinculador
+>> Thaumaturge: Taumaturgo
+>> Elementalist: Elementalista
+>> Sorcerer: Hechicero
+>> Chronomancer: Cronomante
+>> Necromancer: Nigromante
+>> Alchemist: Alquimista
+>> Rune Caster: Conjurador Rúnico
+>> Warlock: Brujo
+>> Featherfoot: Chamán (Darkelfen: Tengo mis dudas acá, porque la tribú se llama "Kurdaitcha" y el nombre común es Featherfoot, si bien parecen Chámanes, cómo traducimos en caso que salga la clase "Shaman"?)
+>> Mimic:Mimico
+
+>> Cleric: Clérigo
+>> Krivis: =
+>> Priest: Sacerdote
+>> Bokor: =
+>> Dievdirbys: Escultor Santo
+>> Sadhu: =
+>> Paladin: Paladín
+>> Monk: Monje
+>> Pardoner: Redentor
+>> Chaplain: Capellán
+>> Druid: Druída
+>> Oracle: Oráculo
+>> Plague Doctor: Médico de plagas
+>> Kabbalist: Cabalista
+
+[ Nombres de monstruos ]
+Los nombres de los monstruos seran modificados, pero no así los nombres propios.
+
+El prefijo "Large" será traducido como "Gran".
+El prefijo "Big" será traducido como "Enorme".
+Esto debido a que existen monstruos de una misma familia que tienen los sufijos "Large" y "Big" y sólo les diferencia el nivel.
+Ejemplo:
+Large Kepa (nivel 2).
+Big Red Kepa (nivel 7)
+El prefijo "High" se ha traducido cómo "Alto" para evitar usar "Gran" que está siendo empleado.
+
+[ Nombres del Equipamiento ]
+Sword --> Espada
+Two Handed Sword --> Espada de 2 manos
+Twin blade => Hoja doble
+Blade => Hoja
+Scimitar => Cimitarra
+Staff --> Bastón
+Rod --> Vara
+Wand --> Varita
+Pistol --> Pistola
+Cannon --> Cañon
+Bow --> Arco
+Crossbow --> Ballesta
+Blunt --> Maza
+Two Handed Blunt --> Maza de dos manos
+Shield --> Escudo
+Top --> Pecho
+Botton --> Pantalón
+Gloves --> Guantes
+Shoes --> Botas
+bracelet --> Pulsera
+Costume --> Traje
+hair --> Cabello
+
+[ Nombres Propios de Equipo ]
+Epee => Florete
+Rapier => Estoque
+Pike => Pica
+Spear => Lanza
+Halberd => Alabarda
+Club => Garrote
+Mace => Maza
+Hammer => Martillo
+Sledgehammer => Almádena
+Crook --> Báculo
+Cane --> Cayado
+Compound Bow => Arco de Poleas
+Cutter => Cuchilla
+Chapparition => Chaparición
+
+Los nombres del equipamiento seran modificados, pero no los nombres propios.
+Ejemplos: 
+Excalibur Sword -> Espada Excalibur 
+Arde Dagger -> Daga Arde
+Bronze Armor -> Armadura de Bronce
+etc.
+
+[ ETC ]
+
+Aras --> Nivelado
+Dunkel --> Misterioso
+Crude --> Vulgar
+DeathWeaver --> Tejedora Letal
+
+[ Tipos de Ataque ]
+Strike --> Golpe
+Slash --> Corte
+Pierce --> Penetración
+Missile --> Proyectil
+[Slash]-type => tipo [Corte]
+[Stab]-type => tipo [Puñalada]
+[Strike]-type => tipo [Golpe] 
+
+[ ESTADOS ]
+[Effect] => [Efecto]
+[Bleeding] => [Sangrado]
+[Stun] => [Aturdido]
+[Decay] => [Descomposición]
+[Death Sentence] => [Sentencia de Muerte]
+[Fear] => [Miedo]
+[Freeze] => [Congelado]
+
+[ Objetos ]
+Scroll --> Pergamino
+
+[ Lore del Juego ] 
+Aspectos clave del juego cómo eventos y nombres propios no deberían ser traducidos (Ej: Medzio Diena)
+Sin embargo, el concepto de "Great Plant Cataclism" ha sido traducido cómo "Gran Cataclismo Silvano". //Darkelfen
+The Millenary => El Milenario (Se trata de un evento, "During the Millenary 90 years ago", que ocurrió 90 años atrás para conmemorar los 1.000 años del reino. A esa celebración de la conoce como "the Millenary" => "el Milenario")
