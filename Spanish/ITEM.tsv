@@ -121,7 +121,7 @@ ITEM_20150317_000120	Esta cuchilla amenaza gravemente tanto la vida de su enemig
 ITEM_20150317_000121	Fijado para borrar
 ITEM_20150317_000122	Espada de 2 manos [Corte]
 ITEM_20150317_000123	Espada Bastarda misteriosa
-ITEM_20150317_000124	Algunos maestros artesanos y soldados llaman a esto un "estilo mezclado espada de dos manos. ' Dicen que esto los justifica. 
+ITEM_20150317_000124	Algunos maestros artesanos y soldados llaman a esto un 'estilo mezclado espada de dos manos'. Dicen que esto los justifica. 
 ITEM_20150317_000125	Flamberge
 ITEM_20150317_000126	Si eres un experto en armas a dos manos, el borde en forma de onda puede causar un daño masivo. 
 ITEM_20150317_000127	Nodachi
@@ -129,7 +129,7 @@ ITEM_20150317_000128	Un Nodachi con una longitud 'justa' puede amplificar su pod
 ITEM_20150317_000129	Claymore
 ITEM_20150317_000130	Los Claymore de este reino se hacen con un énfasis en el peso y el poder.
 ITEM_20150317_000131	Espada Colosal
-ITEM_20150317_000132	La hoja en forma de abanico inusual ofrece un potencial que amplifica su potencia y versatilidad para ser adaptada a muchas técnicas. 
+ITEM_20150317_000132	La hoja en forma de abanico inusual ofrece un {nl}potencial que amplifica su potencia y versatilidad para ser adaptada a muchas técnicas. 
 ITEM_20150317_000133	Espada Centelleante
 ITEM_20150317_000134	Frecuentemente usada por soldados de altos cargos. 
 ITEM_20150317_000135	Quaddara
@@ -597,7 +597,7 @@ ITEM_20150317_000596	Sorprendentemente, reforzar rodelas con un borde de metal e
 ITEM_20150317_000597	Escudo de Lágrima de Madera
 ITEM_20150317_000598	El Maestre Peltasta refinó un nuevo escudo de usos multiples, después de examinar uno durante una emergencia.
 ITEM_20150317_000599	Escudo de Lágrima
-ITEM_20150317_000600	El escudo de lágrima de metal usado por la caballería ha sido perfeccionado y mejorado por los guerreros que preferían robustez por encima del peso sólido.
+ITEM_20150317_000600	El escudo de lágrima de metal usado por la {nl}caballería ha sido perfeccionado y mejorado por {nl}los guerreros que preferían robustez por encima del peso sólido.
 ITEM_20150317_000601	Escudo Redondo
 ITEM_20150317_000602	Con los avances en técnicas de combate, el peso de un escudo se ha convertido en una consideración secundaria. Este diseño del escudo está fuertemente influenciado por esta tendencia.
 ITEM_20150317_000603	Escudo de Lágrima de Acero
