@@ -1,7 +1,7 @@
 ETC_20150317_000001	Kepa
 ETC_20150317_000002	Kepa no es un monstruo fuerte. Sin embargo, atacarlo sin cuidado podría hacerte llorar.
-ETC_20150317_000003	Gran Kepa
-ETC_20150317_000004	Existen personas que a veces intentan comer Gran Kepa. No los dejes.
+ETC_20150317_000003	Kepa Grande
+ETC_20150317_000004	Existen personas que a veces intentan comer Kepas Grandes. No los dejes.
 ETC_20150317_000005	Kepa Rojo
 ETC_20150317_000006	Contrario a la creencia popular, los Kepas Rojos son los que más se parecen al Kepa original.
 ETC_20150317_000007	Kepa Envenenado
@@ -28,7 +28,7 @@ ETC_20150317_000027	Las almas de aquellos que se aventuraron al inframundo ahora
 ETC_20150317_000028	Banshee Roja
 ETC_20150317_000029	Espíritu Maligno
 ETC_20150317_000030	Un alma que no recibió la guía de la Diosa. Fue engendrado a través de control demoníaco.
-ETC_20150317_000031	Gran Banshee
+ETC_20150317_000031	Banshee Grande
 ETC_20150317_000032	Panal
 ETC_20150317_000033	Panal Azul
 ETC_20150317_000034	Panal Gris
@@ -45,9 +45,9 @@ ETC_20150317_000044	Fragaras Azul
 ETC_20150317_000045	Éste monstruo creció, pero no ha cambiado mucho. Incluso en el pasado, solía ser una planta despiadada y letal.
 ETC_20150317_000046	Fragaras Azul
 ETC_20150317_000047	Fragaras Roja
-ETC_20150317_000048	Vubbe Luchador
-ETC_20150317_000049	Vubbe Luchador Azul
-ETC_20150317_000050	Vubbe Luchador Rojo
+ETC_20150317_000048	Luchador Vubbe 
+ETC_20150317_000049	Luchador Vubbe Azul
+ETC_20150317_000050	Luchador Vubbe Rojo
 ETC_20150317_000051	Se desconoce si los Vubbes luchadores son entrenados o tienen una aptitud natural para el combate.
 ETC_20150317_000052	Golem
 ETC_20150317_000053	Golem Gris
@@ -68,7 +68,7 @@ ETC_20150317_000067	Los Puragis Azules aman matar y saquear.
 ETC_20150317_000068	Puragi Verde
 ETC_20150317_000069	Jamás nadie ha visto la cara oculta tras su máscara.
 ETC_20150317_000070	Puragi Rojo
-ETC_20150317_000071	Gran Puragi
+ETC_20150317_000071	Puragi Grande
 ETC_20150317_000072	Zigri
 ETC_20150317_000073	Zigri Café
 ETC_20150317_000074	Estos secuaces demoníacos disfrutan las matanzas.
@@ -95,7 +95,7 @@ ETC_20150317_000094	Griba Verde
 ETC_20150317_000095	Griba Rojo
 ETC_20150317_000096	A pesar de que sus colores los hacen muy llamativos, es muy difícil esquivar sus ataques.
 ETC_20150317_000097	Griba Amarillo
-ETC_20150317_000098	Gran Griba Rojo
+ETC_20150317_000098	Griba Rojo Grande
 ETC_20150317_000099	Griba Enorme
 ETC_20150317_000100	Este monstruo ha sido descrito como duro de bloquear y duro de comer.
 ETC_20150317_000101	Griba Azul Enorme
@@ -108,7 +108,7 @@ ETC_20150317_000107	Kepa Viejo de Gelsvas
 ETC_20150317_000108	Kepa Negro Viejo
 ETC_20150317_000109	Kepa Rojo Viejo
 ETC_20150317_000110	Su arruinado color por envejecer sólo reafirma su peligrosidad.
-ETC_20150317_000111	Gran Kepa Viejo
+ETC_20150317_000111	Kepa Grande Viejo
 ETC_20150317_000112	Rafflesia
 ETC_20150317_000113	Rafflesia Verde
 ETC_20150317_000114	Rafflesia Negra
@@ -166,8 +166,8 @@ ETC_20150317_000165	La caballería de roca del Mausoleo Real es una creación m�
 ETC_20150317_000166	Trufa
 ETC_20150317_000167	Por razones desconocidas, este monstruo le tiene un odio sin par a los humanos. Prefiere atacar humanos a otra presa más apropiada, incluso a costa de su propia supervivencia.
 ETC_20150317_000168	Trufalia
-ETC_20150317_000169	Zarza
-ETC_20150317_000170	Zarza Ego
+ETC_20150317_000169	Bramble
+ETC_20150317_000170	Bramble Ego
 ETC_20150317_000171	Sauce
 ETC_20150317_000172	Saucina
 ETC_20150317_000173	Hanaming
@@ -175,7 +175,7 @@ ETC_20150317_000174	Las hojas que se caen del cadáver de un Hanaming se marchit
 ETC_20150317_000175	Chupacabra
 ETC_20150317_000176	Sus números aumentaron luego del Gran Cataclismo Silvano; ahora tienden a competir con los humanos por territorio.
 ETC_20150317_000177	Chupacabra Gris
-ETC_20150317_000178	Gran Chupacabra Gris
+ETC_20150317_000178	Chupacabra Gris Grande
 ETC_20150317_000179	Los Chupacabras se mueven de manera muy sigilosa. Con eso dicho, es mucho más peligroso para los humanos si se trata de Chupacabras élite.
 ETC_20150317_000180	Chupacabra Amarillo
 ETC_20150317_000181	Popoleón
@@ -237,11 +237,11 @@ ETC_20150317_000236	Salindy
 ETC_20150317_000237	Salun
 ETC_20150317_000238	Golem de la Tumba
 ETC_20150317_000239	Originalmente fue creado con buenas intenciones, pero ahora el Golem vive poseído por una energía malvada.
-ETC_20150317_000240	Drake
+ETC_20150317_000240	Draco
 ETC_20150317_000241	Un demonio menor invocado por sus superiores para invadir las torres.
-ETC_20150317_000242	Drake Verde
+ETC_20150317_000242	Draco Verde
 ETC_20150317_000243	Hay incontables tipos de estos demonios menores debido a su gran número.
-ETC_20150317_000244	Drake Negro
+ETC_20150317_000244	Draco Negro
 ETC_20150317_000245	Alguna vez esta especie fue rara; sin embargo, sus numeros han aumentado significativamente.
 ETC_20150317_000246	Cockatrice Enorme
 ETC_20150317_000247	la Cockatrice Enorme es muy peligrosa, su mriada y aliento petrifican al enemigo. Enfrentar a esta criatura no debe ser tomado a la lígera.
@@ -286,7 +286,7 @@ ETC_20150317_000285	Oficial de los Mercenarios
 ETC_20150317_000286	Condotiero
 ETC_20150317_000287	Mercenario con Escudo
 ETC_20150317_000288	Armadura Fantasmal
-ETC_20150317_000289	Gran Armadura Fantasmal
+ETC_20150317_000289	Armadura Fantasmal Grande
 ETC_20150317_000290	Seguidor Fantasmal
 ETC_20150317_000291	Chico Fantasma
 ETC_20150317_000292	Madam Fantasma
@@ -308,7 +308,7 @@ ETC_20150317_000307	Babauzi
 ETC_20150317_000308	Zombie Nachi
 ETC_20150317_000309	Zombie Berserker
 ETC_20150317_000310	Velazombie
-ETC_20150317_000311	Zombie Disparador
+ETC_20150317_000311	Arquero Zombie
 ETC_20150317_000312	Zombie en Silla de Ruedas
 ETC_20150317_000313	Alto Arquero Vubbe
 ETC_20150317_000314	Desmodus
@@ -321,9 +321,9 @@ ETC_20150317_000320	A lo largo del tiempo, los Vubbes se han vuelto diversos e i
 ETC_20150317_000321	Ladrón Vubbe Azul
 ETC_20150317_000322	Vubbe Minero
 ETC_20150317_000323	Es difícil determinar si sus roles mineros son permanentes debido a que se sabe muy poco del sistema social de los Vubbes.
-ETC_20150317_000324	Vubbe Minero Rojo
-ETC_20150317_000325	Vubbe Minero Azul
-ETC_20150317_000326	Gran Vubbe Minero
+ETC_20150317_000324	Minero Vubbe Rojo
+ETC_20150317_000325	Minero Vubbe Azul
+ETC_20150317_000326	Vubbe Minero Grande
 ETC_20150317_000327	Arquero Vubbe
 ETC_20150317_000328	Los Arqueros Vubbe se especializan en usar armas de rango. Además hay personas que aseguran que los Vubbes tienen roles definidos.
 ETC_20150317_000329	Arquero Vubbe Rojo
@@ -351,7 +351,7 @@ ETC_20150317_000350	Hombre Apostáta (3D)
 ETC_20150317_000351	Mujer Apostáta (3D)
 ETC_20150317_000352	Modificación
 ETC_20150317_000353	Abominación
-ETC_20150317_000354	Alto Vubbe Luchador
+ETC_20150317_000354	Alto Luchador Vubbe
 ETC_20150317_000355	Monstruo Mago
 ETC_20150317_000356	Batería (temporal)
 ETC_20150317_000357	Bloque de Hielo
@@ -404,7 +404,7 @@ ETC_20150317_000403	Linkroller
 ETC_20150317_000404	Torturoca
 ETC_20150317_000405	Yekub
 ETC_20150317_000406	Hierba Rytas Venenosa
-ETC_20150317_000407	Ramblapedo
+ETC_20150317_000407	Ramlopendra
 ETC_20150317_000408	Inferbovino
 ETC_20150317_000409	Carnívora Salvaje
 ETC_20150317_000410	Señor de la Tumba
@@ -448,7 +448,7 @@ ETC_20150317_000447	Operador
 ETC_20150317_000448	Aunque mantuvo su forma original, el Operador ha desarrollado un comportamiento extremedamente violento y peligroso.
 ETC_20150317_000449	Chafperador
 ETC_20150317_000450	Un híbrido entre Avispa y Escarabajo gravemente mutado que comparte carácteristicas de ambos, operan en enjambres.
-ETC_20150317_000451	Ramblarva
+ETC_20150317_000451	Ramlarva
 ETC_20150317_000452	Antes de que fuese revelada cómo una planta, se especulaba que era la larva de un monstruo.
 ETC_20150317_000453	Infernovillo
 ETC_20150317_000454	Infrogalas
@@ -544,7 +544,7 @@ ETC_20150317_000543	Litorex
 ETC_20150317_000544	Moa
 ETC_20150317_000545	Escorpio
 ETC_20150317_000546	Tejedora Letal
-ETC_20150317_000547	Disparador del Templo
+ETC_20150317_000547	Ballestero del Templo
 ETC_20150317_000548	Chapparición
 ETC_20150317_000549	Minotauro
 ETC_20150317_000550	Cerbero
@@ -552,7 +552,7 @@ ETC_20150317_000551	Guante Demoníaco Maldito
 ETC_20150317_000552	Goblin de Madera Gigante
 ETC_20150317_000553	Reflejo de Helgasercle
 ETC_20150317_000554	Mago Hori
-ETC_20150317_000555	Vubbe Guerrero
+ETC_20150317_000555	Guerrero Vubbe
 ETC_20150317_000556	Secuaz Invocado
 ETC_20150317_000557	Espantapájaros
 ETC_20150317_000558	Aukuras
@@ -714,9 +714,9 @@ ETC_20150317_000713	While it was once a creature created by a wizard using the b
 ETC_20150317_000714	Black Shaman Doll
 ETC_20150317_000715	Yellow Shaman Doll
 ETC_20150317_000716	Wizard Shaman Doll
-ETC_20150317_000717	When the demons captured the Mage Tower, this doll was greatly affected. In particular, it instinctively hates magic users.
+ETC_20150317_000717	When the demons captured the Torre del Mago, this doll was greatly affected. In particular, it instinctively hates magic users.
 ETC_20150317_000718	Large Slime
-ETC_20150317_000719	The slime is an organism in the demon realm. Its population exploded after the time when the plant Geant, especially around the Mage Tower.
+ETC_20150317_000719	The slime is an organism in the demon realm. Its population exploded after the time when the plant Geant, especially around the Torre del Mago.
 ETC_20150317_000720	Green Large Slime
 ETC_20150317_000721	Yellow Large Slime
 ETC_20150317_000722	Black Large Slime
@@ -931,7 +931,7 @@ ETC_20150317_000930	Q1 Moa
 ETC_20150317_000931	Q1 Minotauro
 ETC_20150317_000932	Q2 Minotauro
 ETC_20150317_000933	Q4 Bearkaras
-ETC_20150317_000934	Q1 Vubbe Luchador
+ETC_20150317_000934	Q1 Luchador Vubbe
 ETC_20150317_000935	Q1 Biteregina
 ETC_20150317_000936	Q2 Salamander
 ETC_20150317_000937	Q1 Ruíseñor Sombrío
@@ -1150,7 +1150,7 @@ ETC_20150317_001149	Royal Territory
 ETC_20150317_001150	Orsha
 ETC_20150317_001151	Bosque Siauliai Oeste
 ETC_20150317_001152	Siauliai
-ETC_20150317_001153	Miners' Village
+ETC_20150317_001153	Aldea Minera
 ETC_20150317_001154	Mina de Cristal 1F
 ETC_20150317_001155	Mina de Cristal
 ETC_20150317_001156	Mina de Cristal 2F
@@ -1204,16 +1204,16 @@ ETC_20150317_001203	Catacombs
 ETC_20150317_001204	Catacombs 2
 ETC_20150317_001205	Catacombs 4
 ETC_20150317_001206	High Winding Road
-ETC_20150317_001207	Area of Ruins
+ETC_20150317_001207	Área en Ruinas
 ETC_20150317_001208	Diosa' Ancient Garden
 ETC_20150317_001209	Remaining Tree Dale
 ETC_20150317_001210	Crystal Brook
-ETC_20150317_001211	Mage Tower 1F
-ETC_20150317_001212	Mage Tower
-ETC_20150317_001213	Mage Tower 2F
-ETC_20150317_001214	Mage Tower 3F
-ETC_20150317_001215	Mage Tower 4F
-ETC_20150317_001216	Mage Tower 5F
+ETC_20150317_001211	Torre del Mago 1F
+ETC_20150317_001212	Torre del Mago
+ETC_20150317_001213	Torre del Mago 2F
+ETC_20150317_001214	Torre del Mago 3F
+ETC_20150317_001215	Torre del Mago 4F
+ETC_20150317_001216	Torre del Mago 5F
 ETC_20150317_001217	Romuva Sanctum
 ETC_20150317_001218	Starving Demon's Way
 ETC_20150317_001219	Camino del Peregrino
@@ -1357,14 +1357,14 @@ ETC_20150317_001356	Catacombs Raid
 ETC_20150317_001357	Bosque Espinoso Raid
 ETC_20150317_001358	Canyon Area Mission
 ETC_20150317_001359	Mausoleo Real Mission
-ETC_20150317_001360	Area of Ruins Mission
-ETC_20150317_001361	Mage Tower Mission
+ETC_20150317_001360	Área en Ruinas Mission
+ETC_20150317_001361	Torre del Mago Mission
 ETC_20150317_001362	Cathedral Mission
 ETC_20150317_001363	Seven Valley Mission
 ETC_20150317_001364	Gele Plateau Mission
 ETC_20150317_001365	Torre de la Tierra
 ETC_20150317_001366	Siege
-ETC_20150317_001367	Siege: Area of Ruins
+ETC_20150317_001367	Siege: Área en Ruinas
 ETC_20150317_001368	Infinite Map
 ETC_20150317_001369	PvP Tournament
 ETC_20150317_001370	Closed Town 18_1
@@ -2728,7 +2728,7 @@ ETC_20150317_002727	Precisión
 ETC_20150317_002728	Resistencia a Críticos
 ETC_20150317_002729	Splash Defense
 ETC_20150317_002730	INT
-ETC_20150317_002731	ESP
+ETC_20150317_002731	SPR
 ETC_20150317_002732	Ataque de Habilidad
 ETC_20150317_002733	Resistencia Mágica
 ETC_20150317_002734	Dugout Attack
@@ -3418,7 +3418,7 @@ ETC_20150317_003417	¡Poción de PS (Grande) adquirida!
 ETC_20150317_003418	¡Llave del Espacio adquirida!
 ETC_20150317_003419	Tontulia v2
 ETC_20150317_003420	Zinutena v2
-ETC_20150317_003421	Gran Saurmen Lancero
+ETC_20150317_003421	Lancero Saurmen Grande
 ETC_20150317_003422	Hacha de la compañia Ullman
 ETC_20150317_003423	Tontulionv2
 ETC_20150317_003424	Preguntar si tiene el antídoto
@@ -3429,7 +3429,7 @@ ETC_20150317_003428	Ya liberado.
 ETC_20150317_003429	Guardían de la Placa
 ETC_20150317_003430	Saurman Lancero
 ETC_20150317_003431	Jefe de la Zona n°28
-ETC_20150317_003432	Gran Saurman Hachero
+ETC_20150317_003432	Hachero Saurman Grande
 ETC_20150317_003433	¡Derrota a los sirvientes de Rexipher!
 ETC_20150317_003434	¡Deshaste de los monstruos y obten la pista!
 ETC_20150317_003435	Piedra Guardiana
@@ -3464,7 +3464,7 @@ ETC_20150317_003463	¡¿Si yo no lo hago, entonces quién?!
 ETC_20150317_003464	Recolectando musgo
 ETC_20150317_003465	Recolectando
 ETC_20150317_003466	Recolectando pasto descolorido
-ETC_20150317_003467	Vubbe Luchador Melinas
+ETC_20150317_003467	Luchador Vubbe Melinas
 ETC_20150317_003468	[Avance de las Tropas] debe ser completada para avanzar
 ETC_20150317_003469	Revisando Vagón
 ETC_20150317_003470	éste vagón ya fue revisado
@@ -3532,7 +3532,7 @@ ETC_20150317_003531	¡Deshaste de los Chinencys!
 ETC_20150317_003532	¡Derrota los Chinencys!
 ETC_20150317_003533	¡Deshaste de los Hanamings!
 ETC_20150317_003534	¡Persigue al Hamming!
-ETC_20150317_003535	¡Derrota al Gran Kepa!
+ETC_20150317_003535	¡Derrota al Kepa Grande!
 ETC_20150317_003536	¡Derrota al Golem sellado!
 ETC_20150317_003537	¡Deshaste de los Kepa bloqueando el paso!
 ETC_20150317_003538	Preguntar acerca del sueño
@@ -5183,7 +5183,7 @@ ETC_20150317_005182	¡Argh! ¡¡¡Ahí va!!!
 ETC_20150317_005183	Derrota a Ruíseñor Sombrío
 ETC_20150317_005184	¡Derrota a Minotauro!
 ETC_20150317_005185	Minotauro
-ETC_20150317_005186	Vubbe Luchador Destacable
+ETC_20150317_005186	Luchador Vubbe Destacable
 ETC_20150317_005187	¡Derrota al Maestro del Oracúlo!
 ETC_20150317_005188	Oh, ¡Éstas aquí!
 ETC_20150317_005189	¿A qué se debe?
@@ -5365,8 +5365,8 @@ ETC_20150317_005364	¿Por qué hay restos de Golem aquí?
 ETC_20150317_005365	¡¡¡Hey!!! ¡¡Es peligroso!! ¡¡Corre!!
 ETC_20150317_005366	¿Está muerto?
 ETC_20150317_005367	¡¡Huh...!!
-ETC_20150317_005368	¡Derrota al Gran Kepa!
-ETC_20150317_005369	¡Es un Gran Kepa!
+ETC_20150317_005368	¡Derrota al Kepa Grande!
+ETC_20150317_005369	¡Es un Kepa Grande!
 ETC_20150317_005370	Alquimista Vaidotas
 ETC_20150317_005371	Lote 2 Aviso de Cierre
 ETC_20150317_005372	¡Evacúa a los residentes!
@@ -6471,7 +6471,7 @@ ETC_20150317_006471	Supplies Camp
 ETC_20150317_006472	Bulves Farm
 ETC_20150317_006473	Nudeges Felled Area
 ETC_20150317_006474	Mina de Cristal Entrance
-ETC_20150317_006475	Miners' Village Square
+ETC_20150317_006475	Aldea Minera Square
 ETC_20150317_006476	Shelter
 ETC_20150317_006477	Twin Bridge
 ETC_20150317_006478	Vubbe Outpost
@@ -6827,10 +6827,10 @@ ETC_20150317_006827	Mausoleo Real 35
 ETC_20150317_006828	Mausoleo Real 36
 ETC_20150317_006829	Catacombs 1
 ETC_20150317_006830	Catacombs 3
-ETC_20150317_006831	Area of Ruins 37
-ETC_20150317_006832	Area of Ruins 38
-ETC_20150317_006833	Area of Ruins 39
-ETC_20150317_006834	Area of Ruins 40
+ETC_20150317_006831	Área en Ruinas 37
+ETC_20150317_006832	Área en Ruinas 38
+ETC_20150317_006833	Área en Ruinas 39
+ETC_20150317_006834	Área en Ruinas 40
 ETC_20150317_006835	Fire Wizard Tower 41
 ETC_20150317_006836	Fire Wizard Tower 42
 ETC_20150317_006837	Fire Wizard Tower 43
@@ -6847,7 +6847,7 @@ ETC_20150317_006847	Camino del Peregrino 55
 ETC_20150317_006848	Great Cathedral 56
 ETC_20150317_006849	Please enter 123
 ETC_20150317_006850	Please enter abc
-ETC_20150317_006851	Iron Ore
+ETC_20150317_006851	Mineral de Hierro
 ETC_20150317_006852	Receta - Gladius
 ETC_20150317_006853	Torre de la Tierra Hidden Trigger Monster
 ETC_20150317_006854	Torre de la Tierra Hidden Trigger
@@ -6898,7 +6898,7 @@ ETC_20150317_006898	Torre de la Tierra Medakia
 ETC_20150317_006899	Torre de la Tierra Rusrat
 ETC_20150317_006900	Torre de la Tierra Mauros
 ETC_20150317_006901	Torre de la Tierra Rubblem
-ETC_20150317_006902	Torre de la Tierra Drake
+ETC_20150317_006902	Torre de la Tierra Draco
 ETC_20150317_006903	Torre de la Tierra Phyracon
 ETC_20150317_006904	Torre de la Tierra Shaman Doll
 ETC_20150317_006905	Torre de la Tierra Large Slime
@@ -6911,242 +6911,242 @@ ETC_20150317_006911	Torre de la Tierra Black Desmodus
 ETC_20150317_006912	Torre de la Tierra Minivern
 ETC_20150317_006913	Torre de la Tierra Wizard Shaman Doll
 ETC_20150317_006914	Torre de la Tierra Flask
-ETC_20150317_006915	Torre de la Tierra Black Drake
+ETC_20150317_006915	Torre de la Tierra Black Draco
 ETC_20150317_006916	Torre de la Tierra Dimmer
 ETC_20150317_006917	Torre de la Tierra Black Shaman Doll
-ETC_20150317_006918	Item Merchant Emilia
-ETC_20150317_006919	Item Merchant
-ETC_20150317_006920	Eastern Woods Explorador
-ETC_20150317_006921	Head of Guard Troop
-ETC_20150317_006922	Western Woods Explorador
-ETC_20150317_006923	Village Woman
-ETC_20150317_006924	Female Officer
-ETC_20150317_006925	Fallen Soldier
-ETC_20150317_006926	Crux Knights Officer (Male)
-ETC_20150317_006927	Crux Knights Officer
-ETC_20150317_006928	Crux Knights Officer (Female)
-ETC_20150317_006929	Militia General Laudrup
+ETC_20150317_006918	Vendedor de Objetos Emilia
+ETC_20150317_006919	Vendedor de Objetos
+ETC_20150317_006920	Explorador del Bosque Este
+ETC_20150317_006921	Líder de las Tropas de Guardia
+ETC_20150317_006922	Explorador del Bosque Oeste
+ETC_20150317_006923	Aldeana
+ETC_20150317_006924	Oficial
+ETC_20150317_006925	Soldado Caído
+ETC_20150317_006926	Oficial de los Caballeros Crux (Chico)
+ETC_20150317_006927	Oficial de los Caballeros Crux
+ETC_20150317_006928	Oficial de los Caballeros Crux (Chica)
+ETC_20150317_006929	General de la Milicia Laudrup
 ETC_20150317_006930	Holger Danske
-ETC_20150317_006931	Innkeeper Genora
-ETC_20150317_006932	Weapons Merchant Akalabeth
-ETC_20150317_006933	Weapons Merchant
-ETC_20150317_006934	Knight Felix
-ETC_20150317_006935	Armor Merchant Alfonso
-ETC_20150317_006936	Armor Merchant
+ETC_20150317_006931	Posadera Genora
+ETC_20150317_006932	Vendedor de armas Akalabeth
+ETC_20150317_006933	Vendedor de armas
+ETC_20150317_006934	Caballero Felix
+ETC_20150317_006935	Vendedor de armaduras Alfonso
+ETC_20150317_006936	Vendedor de armaduras
 ETC_20150317_006937	Valdemar
-ETC_20150317_006938	Kingdom's Finance Minister Hippoltus
+ETC_20150317_006938	Ministro de finanzas del reino Hippoltus
 ETC_20150317_006939	Krimhilt
 ETC_20150317_006940	Anastasia
-ETC_20150317_006941	Roskilde Market Dioskorus
+ETC_20150317_006941	Dioskorus del Mercado de Roskilde
 ETC_20150317_006942	KawaEEThegirlandthebear
 ETC_20150317_006943	KawaEEThegirlandbearnotpresent
-ETC_20150317_006944	Mercenary Guild Female Employee
+ETC_20150317_006944	Empleada del Grmio de Mercenarios
 ETC_20150317_006945	Cesare
-ETC_20150317_006946	Gloves
+ETC_20150317_006946	Guantes
 ETC_20150317_006947	Ojars Rubenis
-ETC_20150317_006948	Bourgeois (Male)
+ETC_20150317_006948	Burgés (Chico)
 ETC_20150317_006949	Madam
 ETC_20150317_006950	Vanessa
-ETC_20150317_006951	Village Costume (Male)
-ETC_20150317_006952	Village Costume (Female)
-ETC_20150317_006953	Merchant 2 Sit
-ETC_20150317_006954	Merchant 1
-ETC_20150317_006955	Merchant 2
-ETC_20150317_006956	Mid Commander (Male)
-ETC_20150317_006957	Mid Commander (Female)
-ETC_20150317_006958	Minor Commander
-ETC_20150317_006959	Veteran Miner
-ETC_20150317_006960	Miners' Village Alquimista
-ETC_20150317_006961	Equipment Merchant
-ETC_20150317_006962	Old Lady
-ETC_20150317_006963	Village Old Lady
-ETC_20150317_006964	Village Gentleman 1
-ETC_20150317_006965	Village Gentleman 2
-ETC_20150317_006966	Liaison Offical(data exchange required)
-ETC_20150317_006967	Recorder(data exchange required)
-ETC_20150317_006968	Historian 1(data exchange required)
-ETC_20150317_006969	Historian 2(data exchange required)
-ETC_20150317_006970	Rexipher human(data exchange required)
-ETC_20150317_006971	Female Historian(data exchange required)
-ETC_20150317_006972	Mid Commander (Male 2)
-ETC_20150317_006973	Minor Commander 2
-ETC_20150317_006974	Minor Commander 3
+ETC_20150317_006951	Traje de Aldeano (Chico)
+ETC_20150317_006952	Traje de Aldeano (Chica)
+ETC_20150317_006953	Vendedor 2 Sit
+ETC_20150317_006954	Vendedor 1
+ETC_20150317_006955	Vendedor 2
+ETC_20150317_006956	Comandante del centro (Chico)
+ETC_20150317_006957	Comandante del centro (Chica)
+ETC_20150317_006958	Comandante menor
+ETC_20150317_006959	Minero Veterano 
+ETC_20150317_006960	Alquimista de la Aldea Minera
+ETC_20150317_006961	Vendedor de Equipo
+ETC_20150317_006962	Anciana
+ETC_20150317_006963	Aldeana Anciana
+ETC_20150317_006964	Hombre de la Aldea 1
+ETC_20150317_006965	Hombre de la Aldea 2
+ETC_20150317_006966	Oficial Liaison (requiere intercambio de info)
+ETC_20150317_006967	Grabador(requiere intercambio de info)
+ETC_20150317_006968	Historiador 1(requiere intercambio de info)
+ETC_20150317_006969	Historiador 2(requiere intercambio de info)
+ETC_20150317_006970	Rexipher humano(requiere intercambio de info)
+ETC_20150317_006971	Historiadora(requiere intercambio de info)
+ETC_20150317_006972	Comandante del centro (Chico 2)
+ETC_20150317_006973	Comandante menor 2
+ETC_20150317_006974	Comandante menor 3
 ETC_20150317_006975	Vacenin
-ETC_20150317_006976	Bokor Disciple (Male 1)
-ETC_20150317_006977	Bokor Disciple (Male 2)
-ETC_20150317_006978	Bokor Disciple (Female)
-ETC_20150317_006979	2D Cazador Master
-ETC_20150317_006980	Bokor Mama
-ETC_20150317_006981	Village Gentleman 3
-ETC_20150317_006982	Village Gentleman 4
+ETC_20150317_006976	Discipulo Bokor (Chico 1)
+ETC_20150317_006977	Discipulo Bokor (Chico 2)
+ETC_20150317_006978	Discipulo Bokor (Chica)
+ETC_20150317_006979	2D Cazador Maestro
+ETC_20150317_006980	Mamá Bokor
+ETC_20150317_006981	Hombre de la Aldea 3
+ETC_20150317_006982	Hombre de la Aldea 4
 ETC_20150317_006983	Auctioneer
-ETC_20150317_006984	Minor Commander 4
-ETC_20150317_006985	Minor Commander 5
-ETC_20150317_006986	Minor Commander 6
-ETC_20150317_006987	Minor Commander 7
-ETC_20150317_006988	Old Lady 2
-ETC_20150317_006989	Old Lady 3
-ETC_20150317_006990	Old Lady 4
-ETC_20150317_006991	Old Lady 5
-ETC_20150317_006992	Old Lady 6
-ETC_20150317_006993	Veteran Miner 2
-ETC_20150317_006994	Gentleman 5
-ETC_20150317_006995	Gentleman 6
-ETC_20150317_006996	Gentleman 7
-ETC_20150317_006997	Gentleman 8
-ETC_20150317_006998	Gentleman 9
-ETC_20150317_006999	Gentleman 10
-ETC_20150317_007000	Gentleman 11
-ETC_20150317_007001	Gentleman 12
-ETC_20150317_007002	Auctioneer Helper
-ETC_20150317_007003	Logging Soldier
-ETC_20150317_007004	City Middle-aged Woman
-ETC_20150317_007005	City Blacksmith
-ETC_20150317_007006	City Equipment Merchant
-ETC_20150317_007007	City Item Merchant
-ETC_20150317_007008	City Middle-aged Man
-ETC_20150317_007009	Item Merchant 1
-ETC_20150317_007010	Cazador Master(data exchange required)
-ETC_20150317_007011	Desk
-ETC_20150317_007012	Stone rolling
+ETC_20150317_006984	Comandante menor 4
+ETC_20150317_006985	Comandante menor 5
+ETC_20150317_006986	Comandante menor 6
+ETC_20150317_006987	Comandante menor 7
+ETC_20150317_006988	Anciana 2
+ETC_20150317_006989	Anciana 3
+ETC_20150317_006990	Anciana 4
+ETC_20150317_006991	Anciana 5
+ETC_20150317_006992	Anciana 6
+ETC_20150317_006993	Minero Veterano 2
+ETC_20150317_006994	Caballero 5
+ETC_20150317_006995	Caballero 6
+ETC_20150317_006996	Caballero 7
+ETC_20150317_006997	Caballero 8
+ETC_20150317_006998	Caballero 9
+ETC_20150317_006999	Caballero 10
+ETC_20150317_007000	Caballero 11
+ETC_20150317_007001	Caballero 12
+ETC_20150317_007002	Asistente del Martillero
+ETC_20150317_007003	Soldado Talando
+ETC_20150317_007004	Señora de mediana edad de la ciudad
+ETC_20150317_007005	Herrero de la ciudad
+ETC_20150317_007006	Vendedor de Equipo de la ciudad
+ETC_20150317_007007	Vendedor de Objetos de la ciudad
+ETC_20150317_007008	Señor de mediana edad de la ciudad
+ETC_20150317_007009	Vendedor de Objetos 1
+ETC_20150317_007010	Cazador Maestro(requiere intercambio de info)
+ETC_20150317_007011	Escritorio
+ETC_20150317_007012	Piedra rodante
 ETC_20150317_007013	Hiding Monster Box
-ETC_20150317_007014	Grating
-ETC_20150317_007015	Grating (prison)
+ETC_20150317_007014	Rejilla
+ETC_20150317_007015	Rejilla (prisión)
 ETC_20150317_007016	Enchant Raid Entrance
-ETC_20150317_007017	Enchant Symbol
-ETC_20150317_007018	Holy Place of Record
-ETC_20150317_007019	Holy Place of Recover
-ETC_20150317_007020	Item Combiner
-ETC_20150317_007021	Grill
-ETC_20150317_007022	Guard Fence
-ETC_20150317_007023	Carriage
-ETC_20150317_007024	Bulletin Board
-ETC_20150317_007025	Lever 1
-ETC_20150317_007026	Lever 2
-ETC_20150317_007027	Gabija's Torch
-ETC_20150317_007028	Writing Table
-ETC_20150317_007029	Statue of Diosa Laima
-ETC_20150317_007030	Statue of Diosa Zemyna
-ETC_20150317_007031	Statue of Diosa Ausrine
-ETC_20150317_007032	Kepa Dummy
+ETC_20150317_007017	Símbolo para Encantar
+ETC_20150317_007018	Santo lugar de Grabación
+ETC_20150317_007019	Santo lugar de Recuperación
+ETC_20150317_007020	Combinador de objetos
+ETC_20150317_007021	Parrilla
+ETC_20150317_007022	Cerca de Guardía
+ETC_20150317_007023	Carruaje
+ETC_20150317_007024	Tablón de Anuncios
+ETC_20150317_007025	Palanca 1
+ETC_20150317_007026	Palanca 2
+ETC_20150317_007027	Antorcha de Gabija
+ETC_20150317_007028	Tabla para Escribir
+ETC_20150317_007029	Estatua de la Diosa Laima
+ETC_20150317_007030	Estatua de la Diosa Zemyna
+ETC_20150317_007031	Estatua de la Diosa Ausrine
+ETC_20150317_007032	Kepa Falso
 ETC_20150317_007033	Casemate
-ETC_20150317_007034	Siege Supporting Arms
-ETC_20150317_007035	Statue
-ETC_20150317_007036	Puddle Trap
-ETC_20150317_007037	Handle Bar
-ETC_20150317_007038	Thorn Trap
-ETC_20150317_007039	Rockfall Trap
-ETC_20150317_007040	Gold Candle
-ETC_20150317_007041	Silver Candle
-ETC_20150317_007042	Sunfish
-ETC_20150317_007043	Stack of Spray
-ETC_20150317_007044	Test Wall 100
-ETC_20150317_007045	Test Wall 120
-ETC_20150317_007046	Test Wall 140
-ETC_20150317_007047	Test Wall 160
-ETC_20150317_007048	Kepa Wagon
-ETC_20150317_007049	Start Point of Golem
-ETC_20150317_007050	Empty Wagon
-ETC_20150317_007051	Supplies Wagon
-ETC_20150317_007052	Holy Ark
+ETC_20150317_007034	Armas para el asedio
+ETC_20150317_007035	Estatua
+ETC_20150317_007036	Trampa de Charco
+ETC_20150317_007037	Manija
+ETC_20150317_007038	Trampa de Púas
+ETC_20150317_007039	Trampa de Rocas
+ETC_20150317_007040	Vela Dorada
+ETC_20150317_007041	Vela Plateada
+ETC_20150317_007042	Pez Solar
+ETC_20150317_007043	Lote de Spray
+ETC_20150317_007044	Muralla de Pruebas 100
+ETC_20150317_007045	Muralla de Pruebas 120
+ETC_20150317_007046	Muralla de Pruebas 140
+ETC_20150317_007047	Muralla de Pruebas 160
+ETC_20150317_007048	Vagón Kepa
+ETC_20150317_007049	Punto de partida del Golem
+ETC_20150317_007050	Vagón vacío
+ETC_20150317_007051	Vagón con sumistros
+ETC_20150317_007052	Arca Sagrada
 ETC_20150317_007053	Altar
-ETC_20150317_007054	Red Crystal
-ETC_20150317_007055	Orange Crystal
-ETC_20150317_007056	Yellow Crystal
-ETC_20150317_007057	Green Crystal
-ETC_20150317_007058	Blue Crystal
-ETC_20150317_007059	Navy Crystal
-ETC_20150317_007060	Purple Crystal
-ETC_20150317_007061	Confirm
-ETC_20150317_007062	Bosque Espinoso Gate 1
-ETC_20150317_007063	Bosque Espinoso Gate 2
-ETC_20150317_007064	Bosque Espinoso Gate 3
-ETC_20150317_007065	Bosque Espinoso Gate 4
-ETC_20150317_007066	Bosque Espinoso Gate 5
-ETC_20150317_007067	Bosque Espinoso Gate 6
-ETC_20150317_007068	Mausoleo Real Entrance
-ETC_20150317_007069	Canyon Area Device 1
-ETC_20150317_007070	Canyon Area Device 2
-ETC_20150317_007071	Canyon Area Device 3
-ETC_20150317_007072	Canyon Area Device 4
-ETC_20150317_007073	Canyon Area Device 5
-ETC_20150317_007074	Canyon Area Device 6
-ETC_20150317_007075	Canyon Area Device 7
-ETC_20150317_007076	Magic Square of Bosque Espinoso
-ETC_20150317_007077	Magic Square of Petrified Town
-ETC_20150317_007078	Magic Square of Underground Base
-ETC_20150317_007079	Ruined Statue set by Boroko
-ETC_20150317_007080	Table 1
-ETC_20150317_007081	Lost Stuff of Vendor 1
-ETC_20150317_007082	Lost Stuff of Vendor 2
-ETC_20150317_007083	Soldier's Relic
-ETC_20150317_007084	Steel-barred Window
-ETC_20150317_007085	Steel-barred Window 1
-ETC_20150317_007086	Literature 1
-ETC_20150317_007087	Literature 2
-ETC_20150317_007088	Literature 3
-ETC_20150317_007089	Discolored Grass of Siauliai
-ETC_20150317_007090	Large Discolored Grass of Siauliai
-ETC_20150317_007091	Petrifaction 1
-ETC_20150317_007092	Petrifaction 2
-ETC_20150317_007093	Petrifaction 3
-ETC_20150317_007094	Stone 1
-ETC_20150317_007095	Stone 2
-ETC_20150317_007096	Pile of Stones
-ETC_20150317_007097	Crystal
-ETC_20150317_007098	Background Rock
-ETC_20150317_007099	Fence
-ETC_20150317_007100	Stack of Wagons
-ETC_20150317_007101	Dummy Pillar 1
-ETC_20150317_007102	Dummy Pillar 2
-ETC_20150317_007103	Crystal Pillar
-ETC_20150317_007104	Revelation Slate
-ETC_20150317_007105	Stack of Skulls
-ETC_20150317_007106	Gray Golem Rock
-ETC_20150317_007107	Stack of Furniture
-ETC_20150317_007108	Block the Bosque Espinoso Raid 1
-ETC_20150317_007109	Block the Bosque Espinoso Raid 2
-ETC_20150317_007110	Bouquet 1
-ETC_20150317_007111	Bouquet 2
-ETC_20150317_007112	Cat
-ETC_20150317_007113	Royal Cube
-ETC_20150317_007114	Royal Tombstone01
-ETC_20150317_007115	Royal Tombstone02
-ETC_20150317_007116	Royal Stone Lantern
-ETC_20150317_007117	Brickwall
-ETC_20150317_007118	Broken Moving Trap
-ETC_20150317_007119	Transparency Target
-ETC_20150317_007120	Destroyed Moving Trap
-ETC_20150317_007121	Mage Tower Defense
-ETC_20150317_007122	Mage Tower Gate
-ETC_20150317_007123	Mage Tower Offense
-ETC_20150317_007124	Path
-ETC_20150317_007125	Start Infinite Game
-ETC_20150317_007126	Warp to another area
-ETC_20150317_007127	Dropped Paper
-ETC_20150317_007128	Hogma Stone Statue
-ETC_20150317_007129	Hogma Captain Stone Statue
-ETC_20150317_007130	Hogma Stone Statue 2
-ETC_20150317_007131	Hogma Shaman Stone Statue
-ETC_20150317_007132	Hogma Stone Statue01
+ETC_20150317_007054	Cristal Rojo
+ETC_20150317_007055	Cristal Naranjo
+ETC_20150317_007056	Cristal Amarillo
+ETC_20150317_007057	Cristal Verde
+ETC_20150317_007058	Cristal Azul
+ETC_20150317_007059	Cristal Azul Marino
+ETC_20150317_007060	Cristal Morado
+ETC_20150317_007061	Confirmar
+ETC_20150317_007062	Bosque Espinoso Puerta 1
+ETC_20150317_007063	Bosque Espinoso Puerta 2
+ETC_20150317_007064	Bosque Espinoso Puerta 3
+ETC_20150317_007065	Bosque Espinoso Puerta 4
+ETC_20150317_007066	Bosque Espinoso Puerta 5
+ETC_20150317_007067	Bosque Espinoso Puerta 6
+ETC_20150317_007068	Entrada a Mausoleo Real
+ETC_20150317_007069	Dipositivo de área del cañón 1
+ETC_20150317_007070	Dipositivo de área del cañón 2
+ETC_20150317_007071	Dipositivo de área del cañón 3
+ETC_20150317_007072	Dipositivo de área del cañón 4
+ETC_20150317_007073	Dipositivo de área del cañón 5
+ETC_20150317_007074	Dipositivo de área del cañón 6
+ETC_20150317_007075	Dipositivo de área del cañón 7
+ETC_20150317_007076	Árena Mágica del Bosque Espinoso
+ETC_20150317_007077	Árena Mágica de la Ciudad Petrificada
+ETC_20150317_007078	Árena Mágica de la Base Subterránea
+ETC_20150317_007079	Estatua arruina dejada por Boroko
+ETC_20150317_007080	Mesa 1
+ETC_20150317_007081	Cosas perdidas del vendedor 1
+ETC_20150317_007082	Cosas perdidas del vendedor 2
+ETC_20150317_007083	Reliquia del Soldado
+ETC_20150317_007084	Ventana con barrotes de acero
+ETC_20150317_007085	Ventana con barrotes de acero 1
+ETC_20150317_007086	Literatura 1
+ETC_20150317_007087	Literatura 2
+ETC_20150317_007088	Literatura 3
+ETC_20150317_007089	Pasto descolorido de Siauliai
+ETC_20150317_007090	Pasto largo descolorido de Siauliai
+ETC_20150317_007091	Petrificación 1
+ETC_20150317_007092	Petrificación 2
+ETC_20150317_007093	Petrificación 3
+ETC_20150317_007094	Piedra 1
+ETC_20150317_007095	Piedra 2
+ETC_20150317_007096	Montón de Piedras
+ETC_20150317_007097	Cristal
+ETC_20150317_007098	Roca del fondo
+ETC_20150317_007099	Cerco
+ETC_20150317_007100	Pila de Vagones
+ETC_20150317_007101	Pilar de prueba 1
+ETC_20150317_007102	Pilar de prueba 2
+ETC_20150317_007103	Pilar de Cristal
+ETC_20150317_007104	Placa de la Revelación
+ETC_20150317_007105	Pila de Cráneos
+ETC_20150317_007106	Roca de Golem Gris
+ETC_20150317_007107	Pila de Muebles
+ETC_20150317_007108	Bloquea el asalto al Bosque Espinoso 1
+ETC_20150317_007109	Bloquea el asalto al Espinoso Raid 2
+ETC_20150317_007110	Ramo de flores 1
+ETC_20150317_007111	Ramo de flores 2
+ETC_20150317_007112	Gato
+ETC_20150317_007113	Cubo Real
+ETC_20150317_007114	Tumba real01
+ETC_20150317_007115	Tumba real02
+ETC_20150317_007116	Linterna de piedra Real
+ETC_20150317_007117	Muro de ladrillos
+ETC_20150317_007118	Trampa móvil rota
+ETC_20150317_007119	Objetivo transparente
+ETC_20150317_007120	Trampa móvil destruida
+ETC_20150317_007121	Defensa de la Torre del Mago
+ETC_20150317_007122	Puerta de la Torre del Mago
+ETC_20150317_007123	Ofensiva de la Torre del Mago
+ETC_20150317_007124	Camino
+ETC_20150317_007125	Iniciar juego infinito
+ETC_20150317_007126	Teletransportar a otra área
+ETC_20150317_007127	Papel Caído
+ETC_20150317_007128	Estatua de piedra de Hogma
+ETC_20150317_007129	Estatua de piedra de Cápitan Hogma
+ETC_20150317_007130	Estatua de piedra de Hogma 2
+ETC_20150317_007131	Estatua de piedra de Cháman Hogma
+ETC_20150317_007132	Estatua de piedra de Hogma01
 ETC_20150317_007133	Treasure Chest 3cm
-ETC_20150317_007134	Treasure Chest Kateen
-ETC_20150317_007135	Treasure Chest Area of Ruins
-ETC_20150317_007136	Treasure Chest Siauliai
-ETC_20150317_007137	Treasure Chest Isolation Highland
-ETC_20150317_007138	Broken Equipment
-ETC_20150317_007139	Iron Gates
-ETC_20150317_007140	Treasure Chest Valley
-ETC_20150317_007141	Treasure Chest Petrification City
-ETC_20150317_007142	Treasure Chest Prison
-ETC_20150317_007143	Mage Tower Chair
-ETC_20150317_007144	Mage Tower Cogwheel
-ETC_20150317_007145	Achat Piece
-ETC_20150317_007146	Demonic Form Rexipher
-ETC_20150317_007147	Cathedral Quest Gate
-ETC_20150317_007148	Cathedral Mini Chair
-ETC_20150317_007149	Belfry Rope
-ETC_20150317_007150	Cathedral Gate
+ETC_20150317_007134	Cofre del Tesoro de Kateen
+ETC_20150317_007135	Cofre del Tesoro de Área en Ruinas
+ETC_20150317_007136	Cofre del Tesoro de Siauliai
+ETC_20150317_007137	Cofre del Tesoro de Tierras Aísladas
+ETC_20150317_007138	Equipo Roto
+ETC_20150317_007139	Puertas de hierro
+ETC_20150317_007140	Cofre del Tesoro del Valle
+ETC_20150317_007141	Cofre del Tesoro de la Ciudad Petrificada
+ETC_20150317_007142	Cofre del Tesoro de la Prisión
+ETC_20150317_007143	Silla de la Torre del Mago
+ETC_20150317_007144	Engrane de la Torre del Mago
+ETC_20150317_007145	Pieza de Achat
+ETC_20150317_007146	Rexipher Forma Demoniaca
+ETC_20150317_007147	Puerta de Misión de la Catedral
+ETC_20150317_007148	Mini Asiento de la Catedral
+ETC_20150317_007149	Cuerda del Campanario
+ETC_20150317_007150	Puerta de la Catedral
 ETC_20150317_007151	Tools Tub
 ETC_20150317_007152	Cable Car Controller
 ETC_20150317_007153	Barrier of Paladín_Temple A
@@ -7270,11 +7270,11 @@ ETC_20150317_007270	Ordinary Husband
 ETC_20150317_007271	Ordinary Wife
 ETC_20150317_007272	Old Man
 ETC_20150317_007273	Secret Warp Portal
-ETC_20150317_007274	Old Lady (Aquamarine)
-ETC_20150317_007275	Old Lady (Blue)
-ETC_20150317_007276	Old Lady (Dark Brown)
-ETC_20150317_007277	Old Lady (Pink)
-ETC_20150317_007278	Old Lady (Purple)
+ETC_20150317_007274	Anciana (Aquamarine)
+ETC_20150317_007275	Anciana (Blue)
+ETC_20150317_007276	Anciana (Dark Brown)
+ETC_20150317_007277	Anciana (Pink)
+ETC_20150317_007278	Anciana (Purple)
 ETC_20150317_007279	Cable Car
 ETC_20150317_007280	Half-destroyed Altar
 ETC_20150317_007281	Sanctum Object
@@ -7287,7 +7287,7 @@ ETC_20150317_007287	Leaf Veil Plateau Cable Car
 ETC_20150317_007288	Program Cable Car
 ETC_20150317_007289	Stone Pole Platform Cable Car
 ETC_20150317_007290	Gele Plateau Cable Car
-ETC_20150317_007291	Bramble's Root
+ETC_20150317_007291	Raíz de Bramble
 ETC_20150317_007292	Skull Pile_1
 ETC_20150317_007293	Skull Pile_2
 ETC_20150317_007294	Skull Pile_3
@@ -7439,7 +7439,7 @@ ETC_20150317_007439	According to a rumor from Fedimian Suburbs, when Pilgrims pe
 ETC_20150317_007440	appeared at back and took the peregrinos.
 ETC_20150317_007441	If you defeat it, you will have both the respect and stolen items.
 ETC_20150317_007442	Timid Robber
-ETC_20150317_007443	Defeat Templeshooter
+ETC_20150317_007443	Defeat Ballestero del Templo
 ETC_20150317_007444	The ones who survived from the destroyed city are either losing their lives or being stolen from the Scattered Stairway that is on the way to Fedimian. According to what survivors said
 ETC_20150317_007445	Robber is mainly attacking the rich person.
 ETC_20150317_007446	If you defeat them, you have the booty.
@@ -7497,7 +7497,7 @@ ETC_20150317_007497	Obtain Purified Essence
 ETC_20150317_007498	Attach the Holy Bomb
 ETC_20150317_007499	Collect Spiritual Stone
 ETC_20150317_007500	Information for the barrier (3)
-ETC_20150317_007501	Siauliai Miners' Village (1)
+ETC_20150317_007501	Siauliai Aldea Minera (1)
 ETC_20150317_007502	Collect the Relief Supplies
 ETC_20150317_007503	Mine Mánager's Misunderstanding (1)
 ETC_20150317_007504	Gather stones for reinforcement
@@ -7610,14 +7610,14 @@ ETC_20150317_007610	Collect the Essence of Fire
 ETC_20150317_007611	Statue of Diosa Vakarine, Western Woods
 ETC_20150317_007612	Statue of Diosa Zemyna, Western Woods
 ETC_20150317_007613	Statue of Diosa Vakarine, Eastern Woods
-ETC_20150317_007614	Statue of Diosa Vakarine, Miners' Village
-ETC_20150317_007615	Statue of Diosa Zemyna, Miners' Village
+ETC_20150317_007614	Statue of Diosa Vakarine, Aldea Minera
+ETC_20150317_007615	Statue of Diosa Zemyna, Aldea Minera
 ETC_20150317_007616	First Scroll to save the reference
 ETC_20150317_007617	Second Scroll to save the reference
 ETC_20150317_007618	Third Scroll to save the reference
 ETC_20150317_007619	Fifth Scroll to save the reference
 ETC_20150317_007620	First Scroll to save the reference
-ETC_20150317_007621	Treat Patient from Miners' Village
+ETC_20150317_007621	Treat Patient from Aldea Minera
 ETC_20150317_007622	Achieved Lv. 6 enhancement on spear-type equipment
 ETC_20150317_007623	Achieved Lv. 6 enhancement on shield-type equipment
 ETC_20150317_007624	Track
@@ -7738,7 +7738,7 @@ ETC_20150317_007738	Purpose of the secret box
 ETC_20150317_007739	Passed Magician Owyn's quiz
 ETC_20150317_007740	Answer Cordelier's quiz
 ETC_20150317_007741	Answer Transmuter Furry Odd's quiz
-ETC_20150317_007742	Got a sheet from a wizard's book inside the laboratory at Mage Tower 3F.
+ETC_20150317_007742	Got a sheet from a wizard's book inside the laboratory at Torre del Mago 3F.
 ETC_20150317_007743	For Failure and Success
 ETC_20150317_007744	Enter numbers to the chat window.
 ETC_20150317_007745	For Open Sesame
@@ -8114,7 +8114,7 @@ ETC_20150317_008114	Kepa AI
 ETC_20150317_008115	Kepa AI2
 ETC_20150317_008116	Strike
 ETC_20150317_008117	Chaparición's Shadow
-ETC_20150317_008118	The Vubbe Luchador is very exhausted.
+ETC_20150317_008118	The Luchador Vubbe is very exhausted.
 ETC_20150317_008119	Destroy the Specter Monarch's summoned totem.
 ETC_20150317_008120	If not, the lightning from the Specter Monarch will never end.
 ETC_20150317_008121	Tombstone
@@ -8208,7 +8208,7 @@ ETC_20150317_008208	A recipe for making wood used for the wooden statues.
 ETC_20150317_008209	Receta - Ash Wood
 ETC_20150317_008210	Receta - Pine Wood
 ETC_20150317_008211	Receta - Cedar Wood
-ETC_20150317_008212	Receta - Drake Epaulet
+ETC_20150317_008212	Receta - Draco Epaulet
 ETC_20150317_008213	Recipe for crafting materials
 ETC_20150317_008214	Receta - White Mucus
 ETC_20150317_008215	Receta - Florr
@@ -8375,7 +8375,7 @@ ETC_20150317_008375	Receta - Valtas Morning Star
 ETC_20150317_008376	Receta - Suncus Maul
 ETC_20150317_008377	Receta - Holy Smasher
 ETC_20150317_008378	Receta - Kaloo Hammer
-ETC_20150317_008379	Receta - Drake Tail
+ETC_20150317_008379	Receta - Draco Tail
 ETC_20150317_008380	Receta - Royal Mace
 ETC_20150317_008381	Receta - Stunner
 ETC_20150317_008382	Receta - Valia
@@ -8511,15 +8511,15 @@ ETC_20150317_008511	Receta - Heavy Grima Boots
 ETC_20150317_008512	Receta - Heavy Grima Robe
 ETC_20150317_008513	Receta - Pokubon Leather Pants
 ETC_20150317_008514	Receta - Pokubon Leather Armor
-ETC_20150317_008515	Receta - Drake Leather Gloves
-ETC_20150317_008516	Receta - Drake Leather Boots
-ETC_20150317_008517	Receta - Drake Leather Leggings
-ETC_20150317_008518	Receta - Drake Leather Tunic
+ETC_20150317_008515	Receta - Draco Leather Gloves
+ETC_20150317_008516	Receta - Draco Leather Boots
+ETC_20150317_008517	Receta - Draco Leather Leggings
+ETC_20150317_008518	Receta - Draco Leather Tunic
 ETC_20150317_008519	Receta - Silver Plate Gauntlets
 ETC_20150317_008520	Receta - Silver Plate Greaves
 ETC_20150317_008521	Receta - Silver Plate Leggings
 ETC_20150317_008522	Receta - Silver Plate Armor
-ETC_20150317_008523	Receta - Vubbe Luchador Gauntlets
+ETC_20150317_008523	Receta - Luchador Vubbe Gauntlets
 ETC_20150317_008524	Receta - Shield Crasher
 ETC_20150317_008525	Receta - Vine Gloves
 ETC_20150317_008526	Receta - Vine Boots
@@ -9153,7 +9153,7 @@ ETC_20150317_009153	Laimonas 2 Trigger
 ETC_20150317_009154	Chase Trigger of Hanaming
 ETC_20150317_009155	Unexpected Accident 1
 ETC_20150317_009156	Golem track
-ETC_20150317_009157	Gran Kepa Trigger
+ETC_20150317_009157	Kepa Grande Trigger
 ETC_20150317_009158	Wagon Mánager
 ETC_20150317_009159	Leaf Bugv2
 ETC_20150317_009160	Candle Spiderv2
@@ -9179,7 +9179,7 @@ ETC_20150317_009179	[Explorador Master]{nl} Recon Rimgaile
 ETC_20150317_009180	[Sadhu Master]{nl} Agota Hanska
 ETC_20150317_009181	[Wugushi Master]{nl} Wor Pat
 ETC_20150317_009182	[Rogue Master]{nl}         Gema
-ETC_20150317_009183	[Item Merchant]{nl}            Anna
+ETC_20150317_009183	[Vendedor de Objetos]{nl}            Anna
 ETC_20150317_009184	[Equipment Merchant]{nl}                   Yorgis
 ETC_20150317_009185	[Hackapell Master]{nl} Flint Boulder
 ETC_20150317_009186	[Druída Master]{nl}   Gina Greene
@@ -9191,7 +9191,7 @@ ETC_20150317_009191	Practice Post (Fire)
 ETC_20150317_009192	Practice Post (Poison)
 ETC_20150317_009193	Practice Post (Lightning)
 ETC_20150317_009194	Practice Post (Earth)
-ETC_20150317_009195	[Item Merchant]{nl}         Mirina
+ETC_20150317_009195	[Vendedor de Objetos]{nl}         Mirina
 ETC_20150317_009196	[Equipment Merchant]{nl}                 Dunkel
 ETC_20150317_009197	[Accessory Merchant]{nl}                Ronesa
 ETC_20150317_009198	Klaipeda Estatua de Diosa
@@ -9488,7 +9488,7 @@ ETC_20150317_009488	Abandoned supplies
 ETC_20150317_009489	Shabby wooden box
 ETC_20150317_009490	Recapture the Eastern Woods (7)
 ETC_20150317_009491	Aras' Commission (6)
-ETC_20150317_009492	Miners' Village Entry (2)
+ETC_20150317_009492	Aldea Minera Entry (2)
 ETC_20150317_009493	[Zapador Master]{nl} Leonard Quicktongue
 ETC_20150317_009494	[Cazador Master]{nl}    Fiona Ieva
 ETC_20150317_009495	[Barbarian Master]{nl} Walder Junnot
@@ -10424,7 +10424,7 @@ ETC_20150401_010425	Earth Raflower
 ETC_20150401_010426	Earth Shredded
 ETC_20150401_010427	Earth Scap Nonato
 ETC_20150401_010428	Earth Hallowventer
-ETC_20150401_010429	Earth Templeshooter
+ETC_20150401_010429	Earth Ballestero del Templo
 ETC_20150401_010430	Earth Canceril
 ETC_20150401_010431	Earth Archon
 ETC_20150401_010432	Catacombs Candle Spider
@@ -10506,7 +10506,7 @@ ETC_20150401_010507	Companion Superior Quilt Coat
 ETC_20150401_010508	Companion Superior Leather Armor
 ETC_20150401_010509	Companion Superior Scale Mail
 ETC_20150401_010510	Aurelius
-ETC_20150401_010511	Fedimian Item Merchant
+ETC_20150401_010511	Fedimian Vendedor de Objetos
 ETC_20150401_010512	Fedimian Equipment Merchant
 ETC_20150401_010513	Fedimian Blacksmith
 ETC_20150401_010514	Fedimian Mercenary Post Mánager
@@ -10678,7 +10678,7 @@ ETC_20150401_010679	Farm Worker
 ETC_20150406_010680	Farm Ellum
 ETC_20150406_010681	Outer World Puragi
 ETC_20150406_010682	Outer World Kepa Raider
-ETC_20150406_010683	Outer World Vubbe Luchador
+ETC_20150406_010683	Outer World Luchador Vubbe
 ETC_20150406_010684	Outer World Rodelin
 ETC_20150406_010685	Outer World Cronewt
 ETC_20150406_010686	Outer World Large Panto Spearman
@@ -11243,7 +11243,7 @@ ETC_20150428_011244	The Mineloader is online!{nl}Defeat the Mineloader!
 ETC_20150428_011245	Defeat the monsters reacting to the Spell Stabilizer {n} and guard the Jewel of Prominence!
 ETC_20150428_011246	Defeat the Grinenter that Grita summoned {nl}and retrieve the Jewel of Prominence!
 ETC_20150428_011247	Defeat Yonazolem {nl}while Furry Ode is blocking the entrance!
-ETC_20150428_011248	Defeat Helgasercle, who is occupying the Mage Tower!
+ETC_20150428_011248	Defeat Helgasercle, who is occupying the Torre del Mago!
 ETC_20150428_011249	Defeat Bearkaras for Simon Shaw!
 ETC_20150428_011250	The Stone Whale guarding Hauberk has woken up. {nl}Defeat the Stone Whale!
 ETC_20150428_011251	Aaaagh!
@@ -11438,7 +11438,7 @@ ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the q
 ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Guarida before entering the world.
 ETC_20150428_011441	FAQ : Modo Descanso{nl}1) Press the INSERT key to switch to Modo Descanso. {nl}2) PS, PM, RES will be restored. {nl}3) You can light up a bonfire, craft items, enhance gems or combine cards in Modo Descanso.{nl} You need 'Firewood' to create a bonfire. {nl} PS, PM, RES is restored quicker when you use a bonfire.{nl}4) Other functions will be added in the near future.
 ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Decreases a little bit when you play with the equipment on.{nl}    When an item's durability decreases below a certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
-ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Item Merchant in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
+ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Vendedor de Objetos in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
 ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on what class you are. {nl} If you advance to a Highlander, you can learn the 'Use Two-handed Swords' attribute from the Highlander Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
 ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge Skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
 ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to 'Controller UI Mode' through game settings when you are using a controller. {nl}2) There is a special 'Low Mode' for PCs with minimum system requirements.
@@ -11727,7 +11727,7 @@ ETC_20150714_011728	Test Zone Material
 ETC_20150714_011729	Free
 ETC_20150714_011730	Valius' Eternal Resting Place
 ETC_20150714_011731	Underground Grave of Ritinis
-ETC_20150714_011732	Mage Tower
+ETC_20150714_011732	Torre del Mago
 ETC_20150714_011733	Viltis Forest
 ETC_20150714_011734	Glade Hillroad
 ETC_20150714_011735	Laukyme Swamp
@@ -11774,7 +11774,7 @@ ETC_20150714_011775	Avoid the Black Chaser pursuing you and obtain the Spatial M
 ETC_20150714_011776	Barrier Stone
 ETC_20150714_011777	Black Chaser
 ETC_20150714_011778	Sealed Spatial Magic Gem
-ETC_20150714_011779	Defeat Templeshooter and obtain the Spatial Magic Gem!
+ETC_20150714_011779	Defeat Ballestero del Templo and obtain the Spatial Magic Gem!
 ETC_20150714_011780	You've been spotted while destroying the Pot of Silence!{nl}Defeat all the demons that are rushing in!
 ETC_20150714_011781	Pot of Silence
 ETC_20150714_011782	Defend until the Contract of Flesh has finished burning!
@@ -12038,9 +12038,9 @@ ETC_20150714_012039	Petrified Box
 ETC_20150714_012040	Petrified Grass
 ETC_20150714_012041	Petrified Paper
 ETC_20150714_012042	Area of Ruins37 Hard pile of soil
-ETC_20150714_012043	Area of Ruins Temporal Documents2
-ETC_20150714_012044	Area of Ruins Temporal Pile of stones
-ETC_20150714_012045	Area of Ruins Temporal Vine
+ETC_20150714_012043	Área en Ruinas Temporal Documents2
+ETC_20150714_012044	Área en Ruinas Temporal Pile of stones
+ETC_20150714_012045	Área en Ruinas Temporal Vine
 ETC_20150714_012046	Area of Ruins_tombstone01
 ETC_20150714_012047	Area of Ruins_tombstone02
 ETC_20150714_012048	Area of Ruins_tombstone03
@@ -12052,7 +12052,7 @@ ETC_20150714_012053	Gold Plate03
 ETC_20150714_012054	Ground Vines
 ETC_20150714_012055	Stone Tower
 ETC_20150714_012056	Worktable
-ETC_20150714_012057	Vines in Area of Ruins
+ETC_20150714_012057	Vines in Área en Ruinas
 ETC_20150714_012058	Stone Tower2
 ETC_20150714_012059	Stone Tower3
 ETC_20150714_012060	The rope in Area of Ruin
@@ -12114,7 +12114,7 @@ ETC_20150714_012115	Red Spatial Magic Stone (1)
 ETC_20150714_012116	Red Spatial Magic Stone (2)
 ETC_20150714_012117	Condensed Spite
 ETC_20150714_012118	Blue Spatial Magic Stone (2)
-ETC_20150714_012119	Trace the location of Templeshooter Witch at the Shrine of Remembrance
+ETC_20150714_012119	Trace the location of Ballestero del Templo Witch at the Shrine of Remembrance
 ETC_20150714_012120	Yellow Spatial Magic Stone (2)
 ETC_20150714_012121	Clues that the spirits sensed
 ETC_20150714_012122	Expel the Pot of Silence's evil energy with the Purification Powder
@@ -12136,7 +12136,7 @@ ETC_20150714_012137	Don't eat it. Rub it.
 ETC_20150714_012138	Obtain the materials for combining
 ETC_20150714_012139	Clean the entrance route
 ETC_20150714_012140	Protect Goss while he is removing the barrier at Viltis Fountain
-ETC_20150714_012141	Put the string on the way to Miners' Village
+ETC_20150714_012141	Put the string on the way to Aldea Minera
 ETC_20150714_012142	Put the string on the lower way of Spalva Junction
 ETC_20150714_012143	Put the string at the Naslaite Cliff Path
 ETC_20150714_012144	Put the string on the Mairunas Knoll
@@ -13343,7 +13343,7 @@ ETC_20150717_013344	Reset
 ETC_20150717_013345	 button enables you to reset all items added for Buy and Sell.
 ETC_20150717_013346	{img mouseclick_right 40 40} on the item from 'My Sold Items' below to buy back item delete it from the list.
 ETC_20150717_013347	You require money and an anvil to enhance equipment.
-ETC_20150717_013348	 can be purchased from the Item Merchant or obtained from monsters.
+ETC_20150717_013348	 can be purchased from the Vendedor de Objetos or obtained from monsters.
 ETC_20150717_013349	Press {img mouseclick_right 40 40} on the anvil, then select an equipment item to open the Enhancement window. Select
 ETC_20150717_013350	 and
 ETC_20150717_013351	 will appear. Hit the
@@ -13430,11 +13430,11 @@ ETC_20150717_013431	 between characters will increase their closeness level caus
 ETC_20150717_013432	Add Magic Amulets on weapons and shields for additional effects.
 ETC_20150717_013433	You can receive additional EXP when Exterminio is triggered.
 ETC_20150717_013434	Magic Control Room
-ETC_20150717_013435	Item Merchant Emilia
-ETC_20150717_013436	City Item Merchant
+ETC_20150717_013435	Vendedor de Objetos Emilia
+ETC_20150717_013436	City Vendedor de Objetos
 ETC_20150717_013437	Item Merchant1
 ETC_20150717_013438	Silhouette Crystal
-ETC_20150717_013439	Fedimian Item Merchant
+ETC_20150717_013439	Fedimian Vendedor de Objetos
 ETC_20150717_013440	Grita Phoenix
 ETC_20150717_013441	NPC_Fire Lord
 ETC_20150717_013442	Empty NPC for Petrified City
@@ -13459,7 +13459,7 @@ ETC_20150717_013460	Release the petrified victims at Vienti Fortress
 ETC_20150717_013461	The Past of the Mina de Cristal [Alquimista Ascenso]
 ETC_20150717_013462	Pass the corridor by dispersing the monsters
 ETC_20150717_013463	Search through the corpses of the Royal Army guards and collect usable equipment
-ETC_20150717_013464	Obtain diluting solution from the Item Merchant in Fedimian
+ETC_20150717_013464	Obtain diluting solution from the Vendedor de Objetos in Fedimian
 ETC_20150717_013465	Lure InfroGalas Mages using the food boxes to collect sticky resin
 ETC_20150717_013466	Move to a safe place
 ETC_20150717_013467	Check the first petrification device
@@ -13493,7 +13493,7 @@ ETC_20150717_013494	Veteran
 ETC_20150717_013495	Expert
 ETC_20150717_013496	Challenger
 ETC_20150717_013497	Champion
-ETC_20150717_013498	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Item Merchant in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
+ETC_20150717_013498	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Vendedor de Objetos in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
 ETC_20150717_013499	Card Battle Tip
 ETC_20150717_013500	in the chat menu
 ETC_20150717_013501	You can start a Card Battle with another player.
@@ -13594,11 +13594,11 @@ ETC_20150717_013595	Item distribution has been changed to {Change}.
 ETC_20150717_013596	EXP distribution has been changed to {Change}.
 ETC_20150717_013597	Quest Sharing has been changed to {Change}.
 ETC_20150717_013598	You've sent an invitation message.
-ETC_20150717_013599	There is an instant shop registered {nl}Register instant shop through the Item Merchant.
+ETC_20150717_013599	There is an instant shop registered {nl}Register instant shop through the Vendedor de Objetos.
 ETC_20150717_013600	You have lit the bonfire!
 ETC_20150717_013601	It is already on fire!
-ETC_20150717_013602	[Item Merchant]{nl}     Anna
-ETC_20150717_013603	[Item Merchant]{nl}           Mirina
+ETC_20150717_013602	[Vendedor de Objetos]{nl}     Anna
+ETC_20150717_013603	[Vendedor de Objetos]{nl}           Mirina
 ETC_20150717_013604	Spell Control Magic Circle
 ETC_20150717_013605	The guard that fell behind
 ETC_20150717_013606	The corpse of the Royal Army Guard
@@ -13689,7 +13689,7 @@ ETC_20150729_013690	Press {img Alt 40 40} to immediately stop movement of your c
 ETC_20150729_013691	Press {img space 40 40} to face your target.
 ETC_20150729_013692	Use the map to check your current location and other important areas.
 ETC_20150729_013693	Press {img M 40 40} to view the map of your current area.
-ETC_20150729_013694	{nl} {nl}The minimap icon displays information and PNJ locations of the current map you are in.{nl} {nl}{img minimap_leader 25 25} indicates your current location. {nl}{img minimap_1_MAIN 25 25} indicates a targeted quest in progress. {nl}{img minimap_0 25 25} indicates the location of important PNJs. {nl}{img minimap_goddess 25 25} indicates the Estatua de Diosa for Warping. {nl}{img minimap_board 25 25} indicates the Bulletin Board containing various information. {nl}{img minimap_portal 25 25} indicates the path to move to other areas.{nl} {nl}
+ETC_20150729_013694	{nl} {nl}The minimap icon displays information and PNJ locations of the current map you are in.{nl} {nl}{img minimap_leader 25 25} indicates your current location. {nl}{img minimap_1_MAIN 25 25} indicates a targeted quest in progress. {nl}{img minimap_0 25 25} indicates the location of important PNJs. {nl}{img minimap_goddess 25 25} indicates the Estatua de Diosa for Warping. {nl}{img minimap_board 25 25} indicates the Tablón de Anuncios containing various information. {nl}{img minimap_portal 25 25} indicates the path to move to other areas.{nl} {nl}
 ETC_20150729_013695	Press {img N 40 40} to open the World Map.
 ETC_20150729_013696	Only the areas you have already discovered will be activated. Undiscovered areas are not shown on the World Map.
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
@@ -13768,7 +13768,7 @@ ETC_20150729_013769	Items sold to the shops can be purchased back.
 ETC_20150729_013770	{img mouseclick_right 40 40} on the item from 'My Sold Items' below {nl}to buy back an item or to delete it from the list.
 ETC_20150729_013771	Enhance your equipment to increase its power.
 ETC_20150729_013772	You need funds and an anvil to enhance your item.
-ETC_20150729_013773	 can be purchased from the Item Merchant or obtained from monsters.
+ETC_20150729_013773	 can be purchased from the Vendedor de Objetos or obtained from monsters.
 ETC_20150729_013774	{nl}{nl}{img mouseclick_right 40 40} on the anvil, then select an item to open Enhancement window.
 ETC_20150729_013775	{nl}{nl}When your equipment is enhanced, its power increases.
 ETC_20150729_013776	{nl}{nl}When enhancing a weapon beyond +5, Potential will be consumed on failure and the effects will be reset. The item will be destroyed when Potential drops to 0.
@@ -14227,7 +14227,7 @@ ETC_20150918_014228	Archmage Tower Dungeon
 ETC_20150918_014229	Prison62_1
 ETC_20150918_014230	Prison62_2
 ETC_20150918_014231	Prison62_3
-ETC_20150918_014232	Area of Ruins Dungeon
+ETC_20150918_014232	Área en Ruinas Dungeon
 ETC_20150918_014233	Naktis' servants have rushed in!
 ETC_20150918_014234	Obtain the natural Mano stones after defeating Rocktortuga!
 ETC_20150918_014235	The monsters that noticed some movements rushed in!
@@ -14640,7 +14640,7 @@ ETC_20150918_014641	You cannot summon the monster in this area.
 ETC_20150918_014642	You cannot use the skill in this region.
 ETC_20150918_014643	The client has been shutdown due to an error. {nl}We apologize for the inconvenience.{nl}By clicking the [Yes] button, details of the error will be sent to the developers.{nl}{nl} ※ The information that will be sent : error code, CPU, VGA and the memory driver information
 ETC_20150918_014644	[Rogue Master]{nl}       Gema
-ETC_20150918_014645	[Item Merchant]{nl}    Muras
+ETC_20150918_014645	[Vendedor de Objetos]{nl}    Muras
 ETC_20150918_014646	[Equipment Merchant]{nl}    Yorgis
 ETC_20150918_014647	[Blacksmith]{nl}       Anna
 ETC_20150918_014648	[Market Mánager]{nl}     Molun
@@ -15349,7 +15349,7 @@ ETC_20151001_015350	Capture the Hanaming before the other players!
 ETC_20151001_015351	Disuse
 ETC_20151001_015352	The game has ended.
 ETC_20151001_015353	{@st42}Goal
-ETC_20151001_015354	Mage Tower Formation Movement Magic Circle
+ETC_20151001_015354	Torre del Mago Formation Movement Magic Circle
 ETC_20151001_015355	4F
 ETC_20151001_015356	5F
 ETC_20151001_015357	6F
@@ -15472,12 +15472,12 @@ ETC_20151001_015473	Survive for 5 minutes!
 ETC_20151001_015474	Move to the next area
 ETC_20151001_015475	Destroy the Vubbe tribe flag within 10 minutes!
 ETC_20151001_015476	Defeat Ruíseñor Sombrío!
-ETC_20151001_015477	Monsters have invaded the Mage Tower.{nl}Only you can stop them!
+ETC_20151001_015477	Monsters have invaded the Torre del Mago.{nl}Only you can stop them!
 ETC_20151001_015478	All the players have died.{nl}Mission failed!
 ETC_20151001_015479	Archon is attacking!
-ETC_20151001_015480	Move to the next area through the Mage Tower Gate!
+ETC_20151001_015480	Move to the next area through the Torre del Mago Gate!
 ETC_20151001_015481	Gazing Golem is attacking!
-ETC_20151001_015482	Move to the next area through the Mage Tower Gate
+ETC_20151001_015482	Move to the next area through the Torre del Mago Gate
 ETC_20151001_015483	Yonazolem and Minotauro are attacking!
 ETC_20151001_015484	Salamander and Magburk are attacking!
 ETC_20151001_015485	A boss monster is attacking!
@@ -16434,7 +16434,7 @@ ETC_20151022_016435	Equip Rapier Dagger
 ETC_20151022_016436	Equip Rapier Sub
 ETC_20151022_016437	Equip Crossbow Pistol
 ETC_20151022_016438	Equip Crossbow Cannon
-ETC_20151022_016439	Item Merchant
+ETC_20151022_016439	Vendedor de Objetos
 ETC_20151022_016440	[Swordsman Submaster]{nl}              Codill
 ETC_20151022_016441	[Peltasta Submaster]{nl}      Nirin Dameoff
 ETC_20151022_016442	[Clérigo Submaster]{nl}     Tamara Easton
@@ -16621,7 +16621,7 @@ ETC_20151102_016622	Gema de Seedmia
 ETC_20151102_016623	Gema de Panto
 ETC_20151102_016624	Gema de Ultanun
 ETC_20151102_016625	Gema de Puragi
-ETC_20151102_016626	Gema de Vubbe Luchador
+ETC_20151102_016626	Gema de Luchador Vubbe
 ETC_20151102_016627	Gema de Mallardu
 ETC_20151102_016628	Gema de Brown Rodelin
 ETC_20151102_016629	Gema de Glagarton
@@ -16643,7 +16643,7 @@ ETC_20151102_016644	Gema de Chafperor
 ETC_20151102_016645	Gema de Thornball
 ETC_20151102_016646	Gema de Bite
 ETC_20151102_016647	Gema de Cemetery Golem
-ETC_20151102_016648	Gema de Black Drake
+ETC_20151102_016648	Gema de Black Draco
 ETC_20151102_016649	Gema de Catacombs Candle Spider
 ETC_20151102_016650	Gema de Pino
 ETC_20151102_016651	Gema de Ticen
@@ -16670,7 +16670,7 @@ ETC_20151102_016671	Gema de Rubabos
 ETC_20151102_016672	Gema de Tree Ambulo
 ETC_20151102_016673	Gema de High Vubbe
 ETC_20151102_016674	Gema de Old Kepa
-ETC_20151102_016675	Gema de Drake
+ETC_20151102_016675	Gema de Draco
 ETC_20151102_016676	Gema de Giant Bat
 ETC_20151102_016677	Gema de Blue Raffly
 ETC_20151102_016678	Gema de Nuka
@@ -17563,7 +17563,7 @@ ETC_20151224_017564	This arrogant monster betrayed the blessing of the Diosa is 
 ETC_20151224_017565	Among the ones who try to tame many different kinds of birds, many of them are not interested in Moas. Because this bird eats too much.
 ETC_20151224_017566	Although its name is not unique, this monster in fact will is the most faithful companion of death that you will encounter.
 ETC_20151224_017567	The history of Deathweaver became known to humans has been very long and many warriors and mages died in the net that were created by the monsters.
-ETC_20151224_017568	The most dramatic change the Goblin society experienced on Medzio Diena is the appearances of the strong individuals like the Templeshooter. However, they prioritize their individual benefits more than the Goblin tribe. Even if they serve for others, there's a certain possibility that they have hidden purposes.
+ETC_20151224_017568	The most dramatic change the Goblin society experienced on Medzio Diena is the appearances of the strong individuals like the Ballestero del Templo. However, they prioritize their individual benefits more than the Goblin tribe. Even if they serve for others, there's a certain possibility that they have hidden purposes.
 ETC_20151224_017569	It is known that Chaparicións were being created when the spirits of dead mages fell into evil deeds.
 ETC_20151224_017570	Minotauros used to exist from a long time ago and besides from the fact that one other species with wings came out from it, they are violent as usual.
 ETC_20151224_017571	Compared to the Diosas, the demons either grow or create demons that protect their territories. According to a legend, Cerberus didn't have the form it now has.
@@ -17662,7 +17662,7 @@ ETC_20151224_017663	It's hard for humans to look at it, but Digo likes to race w
 ETC_20151224_017664	Nuaele belongs to a low-level position. Surprisingly, many demons follow Nuaele so other Señor Demonios don't treat it lightly.
 ETC_20151224_017665	Dionis, the guardian tree of Diosa Vakarine has been accompanied with Vakarine since when she was born. That is why Dionis is always besides the statue of Diosa Vakarine. You can also see them at teleport statues that enable teleportation between different regions.
 ETC_20151224_017666	In substance, this is the kind of Golem and it is a creature that possesses the wish of the creator, magical power and the ego.
-ETC_20151224_017667	Like Templeshooters, they strive hard to reach for a higher status in the Goblin society.
+ETC_20151224_017667	Like Ballestero del Templos, they strive hard to reach for a higher status in the Goblin society.
 ETC_20151224_017668	Infro Holder Shaman
 ETC_20151224_017669	Infro Holder Arquero
 ETC_20151224_017670	Saltistters live in cold, rugged areas so their amount hardly increases. The instances where they appear in diverse transformations like Saltisdaughter are of course, after Medzio Diena.
@@ -17792,7 +17792,7 @@ ETC_20151224_017792	Guild Flag
 ETC_20151224_017793	The symbol of the organization.
 ETC_20151224_017794	Mission Red Vubbe Thief
 ETC_20151224_017795	Mission Red Vubbe Arquero
-ETC_20151224_017796	Mission Red Vubbe Luchador
+ETC_20151224_017796	Mission Red Luchador Vubbe
 ETC_20151224_017797	Mission Pag Wheeler
 ETC_20151224_017798	Mission Pag Nurse
 ETC_20151224_017799	Mission Pag Clamper
@@ -17823,7 +17823,7 @@ ETC_20151224_017823	Delmore Manor
 ETC_20151224_017824	Delmore Outskirts
 ETC_20151224_017825	Underground Catacombs Dungeon2
 ETC_20151224_017826	Deep Underground Prison Dungeon
-ETC_20151224_017827	Mage Tower Guild Mission
+ETC_20151224_017827	Torre del Mago Guild Mission
 ETC_20151224_017828	Guild Event
 ETC_20151224_017829	Bosque Espinoso Guild Mission
 ETC_20151224_017830	Mausoleo Real Guild Mission
@@ -18428,7 +18428,7 @@ ETC_20151224_018428	Nuodai Rondo
 ETC_20151224_018429	Nuodai Nuwort
 ETC_20151224_018430	PNJ for changing the Raid Track
 ETC_20151224_018431	Fan Control Device
-ETC_20151224_018432	Orsha Item Merchant Alf
+ETC_20151224_018432	Orsha Vendedor de Objetos Alf
 ETC_20151224_018433	Companion Trader Toras
 ETC_20151224_018434	Orsha Soldier Female
 ETC_20151224_018435	Orsha Soldier Male
@@ -18636,7 +18636,7 @@ ETC_20151224_018636	Destroy the reason that is causing Edmundas' pain
 ETC_20151224_018637	Look for the Hilbeth's backpack in Tebeti Small Corridor
 ETC_20151224_018638	Place the Holy Relics to purify the monastery
 ETC_20151224_018639	Hand over all the items to Edmundas that can be obtained from the Brown Hummingbird
-ETC_20151224_018640	Collect Demon Essences from Muerto Vivo Scaps at Novaha Institute
+ETC_20151224_018640	Collect Demon Essences from Scaps Nonatos at Novaha Institute
 ETC_20151224_018641	Fix the Pillar
 ETC_20151224_018642	Collect the fresh body fluid from the Infroburk
 ETC_20151224_018643	Collect the short leather string from the Orange Dandels
@@ -18997,8 +18997,8 @@ ETC_20151224_018997	Receta - Servant Rod
 ETC_20151224_018998	Receta - Corona Rod
 ETC_20151224_018999	Receta - Superior Corona Rod
 ETC_20151224_019000	Receta - Circle Rod
-ETC_20151224_019001	Receta - Drake Staff
-ETC_20151224_019002	Receta - Superior Drake Staff
+ETC_20151224_019001	Receta - Draco Staff
+ETC_20151224_019002	Receta - Superior Draco Staff
 ETC_20151224_019003	Receta - Cross Staff
 ETC_20151224_019004	Receta - Superior Cross Staff
 ETC_20151224_019005	Receta - Astro Staff
@@ -19318,7 +19318,7 @@ ETC_20151224_019318	Guild Raid
 ETC_20151224_019319	 List
 ETC_20151224_019320	Please select a guild event
 ETC_20151224_019321	About the information
-ETC_20151224_019322	It is first text information of the guild instance mission sample in the Mage Tower
+ETC_20151224_019322	It is first text information of the guild instance mission sample in the Torre del Mago
 ETC_20151224_019323	It is first text information of the guild instance mission sample in the Mausoleo Real
 ETC_20151224_019324	It is first text information of the guild instance mission sample in the Canyon Area
 ETC_20151224_019325	It is first text information of the guild instance mission sample in the Bosque Espinoso
@@ -20254,7 +20254,7 @@ ETC_20160224_020254	Pollen
 ETC_20160224_020255	Nuodai Poison
 ETC_20160224_020256	Through the Path of Fire
 ETC_20160224_020257	Diosa Gabija delivered a message through Grita. The specimens created by the wizards from the past fell in the hands of the demons, causing mayhem inside the tower. Diosa Gabija asks for the help of the Reveladores to gain control of the specimens.
-ETC_20160224_020258	After the end of Mirtis' reign over the Mina de Cristal, the TempleShooter is calling back the Vubbes. {nl}Defeat the TempleShooter and make the Mina de Cristal safe again.
+ETC_20160224_020258	After the end of Mirtis' reign over the Mina de Cristal, the Ballestero del Templo is calling back the Vubbes. {nl}Defeat the Ballestero del Templo and make the Mina de Cristal safe again.
 ETC_20160224_020259	The followers in charge of Tenet Church reported the appearance of an Abomination, which is causing difficulties in protecting the church. Defeat the Abomination and help the church's followers.
 ETC_20160224_020260	The soldiers searching for the missing residents of Cobalt Forest reported the appearance of a Poata. Defeat the Poata to allow the soldiers to search for the missing people of Cobalt Forest in safety.
 ETC_20160224_020261	The historians investigating the Akmens Ridge reported a Kirmeleech attack. Defeat the Kirmeleech to allow the historians to investigate the Akmens Ridge in safety.
@@ -20269,7 +20269,7 @@ ETC_20160224_020269	The Colimencia in the Absenta Reservoir is drinking the red 
 ETC_20160224_020270	With all its residents missing, the Delmore Castle was invaded by a Denóptico. Defeat it and help Mage Melchioras destroy the remnants of the Kruvina experiment in Delmore Castle.
 ETC_20160224_020271	There are rumors of a Mothstem appearing among the peregrinos passing by the Galeed Plateau. Keep the peregrinos safe by defeating the Mothstem.
 ETC_20160224_020272	The evil energy gathered at Bosque Kateen is attracting all sorts of dangerous monsters. The Blue Woodspirit in Saknis Plains is particularly threatening to the soldiers stationed there. Defeat the Blue Woodspirit and protect the soldiers.
-ETC_20160224_020273	The demons invading the Mage Tower are building up their forces. Defeat the Fire Lord that's occupying Mage Tower 2F to demoralize the demons.
+ETC_20160224_020273	The demons invading the Torre del Mago are building up their forces. Defeat the Fire Lord that's occupying Torre del Mago 2F to demoralize the demons.
 ETC_20160224_020274	Creation Turned Askew
 ETC_20160224_020275	The Escultor Santo Master received a letter from Tesla.{nl}Tesla created several Spirit Guide Owl Sculptures and the Sequoia to protect them. However, the Sequoia was corrupted by the demons' evil energy and is destroying the statues and setting fire to the forest. Tesla is now looking for a brave adventurer to defeat the Sequoia.
 ETC_20160224_020276	In A Forgotten Place
@@ -20738,8 +20738,8 @@ ETC_20160224_020737	Thorn Gate
 ETC_20160224_020738	Open
 ETC_20160224_020739	The thorn gate is open!
 ETC_20160224_020740	5 minutes from Phyracon
-ETC_20160224_020741	Mage Tower mission accomplished!
-ETC_20160224_020742	Guild raid rewards have been awarded{nl}Returning to Mage Tower 4F in 60 segundos
+ETC_20160224_020741	Torre del Mago mission accomplished!
+ETC_20160224_020742	Guild raid rewards have been awarded{nl}Returning to Torre del Mago 4F in 60 segundos
 ETC_20160224_020743	Protect the statue of Diosa Zemyna{nl}Defeat Kirmeleech!
 ETC_20160224_020744	Summoning Circle
 ETC_20160224_020745	Destroy all three summoning circles!
@@ -21193,7 +21193,7 @@ ETC_20160320_021192	Grants Token benefits to all your characters in the server f
 ETC_20160320_021193	Token: 60 días
 ETC_20160320_021194	Grants Token benefits to all your characters in the server for 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +30% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes realizar Intercambios Personales hasta 60 veces{nl} - 1 Entrada extra a Instancias de misiones y mazmorras
 ETC_20160320_021195	1 Entrada extra a Instancias de misiones y mazmorras
-ETC_20160323_021196	Mage Tower Instanced Dungeon
+ETC_20160323_021196	Torre del Mago Instanced Dungeon
 ETC_20160323_021197	Guild Mission 2
 ETC_20160323_021198	An Orange Crabil suddenly appeared!
 ETC_20160323_021199	Defeat the Orange Crabil and save Lutas!
