@@ -25,7 +25,7 @@
 - DEX --> DES -> Destreza
 - INT -> Inteligencia
 - CON -> Consistencia
-- SPR -> ESP -> Espiritu
+- SPR -> Espiritu
 
 [ Nombres de Clases ] - Ayuda para normbres(http://tosdatabase.com.br/classes)
 >> Archer: Arquero
