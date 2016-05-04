@@ -42,6 +42,8 @@
 >> Schwarzer Reiter: = Schwarzer Reiter (NdT: La traducción desde el Alemán es "Jinete Negro", pero no se traduce al ser el "nombre propio" de una unidad de caballería especial de 1540)
 >> Cannoneer: Cañonero
 >> Musketeer: Mosquetero
+>> Appraiser: Tasador
+>> Pied Piper: Flautista
 
 >> Swordman: Espadachín
 >> Highlander: Montañero
@@ -93,6 +95,7 @@
 >> Oracle: Oráculo
 >> Plague Doctor: Médico de plagas
 >> Kabbalist: Cabalista
+>> Shepherd: Pastor
 
 [ Nombres de monstruos ]
 Los nombres de los monstruos seran modificados, pero no así los nombres propios.
