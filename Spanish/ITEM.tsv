@@ -1052,13 +1052,13 @@ ITEM_20150317_001051	Pantalones Brigandine
 ITEM_20150317_001052	Fácil de mejorar y si se sabe cómo, se puede utilizar de muchas maneras. 
 ITEM_20150317_001053	Armadura Brigandine
 ITEM_20150317_001054	La defensa de la alta Minivern se convierte en un gran regalo para los artesanos tras su muerte, como esta armadura. 
-ITEM_20150317_001055	Guanteletes de Placa
+ITEM_20150317_001055	Guanteletes de Placas
 ITEM_20150317_001056	Es el mejor equipo de los fabricados con métodos tradicionales de elaboración. 
-ITEM_20150317_001057	Grebas de Placa
+ITEM_20150317_001057	Grebas de Placas
 ITEM_20150317_001058	With the recent discovery of a method to fuse bone and metal together, the quality of ordinary Plate Greaves have improved. 
-ITEM_20150317_001059	Pantalones de Placa
+ITEM_20150317_001059	Pantalones de Placas
 ITEM_20150317_001060	Con el reciente descubrimiento de un método para fusionar el hueso y metal en conjunto, la calidad de las Grebas de placas ordinarias han mejorado. 
-ITEM_20150317_001061	Armadura de Placa
+ITEM_20150317_001061	Armadura de Placas
 ITEM_20150317_001062	Armadura estándar dada a la guardia real antes de el Gran Cataclismo Silvano. 
 ITEM_20150317_001063	Pantalones Acolchados Pesados
 ITEM_20150317_001064	Armadura Acolchada Pesada
@@ -1124,8 +1124,8 @@ ITEM_20150317_001123	Botas Protas
 ITEM_20150317_001124	Pantalones Protas
 ITEM_20150317_001125	Guantes Rojos Veris
 ITEM_20150317_001126	Túnica Roja Veris
-ITEM_20150317_001127	Pantalones Ligeros de Placa
-ITEM_20150317_001128	Armadura Ligera de Placa
+ITEM_20150317_001127	Pantalones Ligeros de Placas
+ITEM_20150317_001128	Armadura Ligera de Placas
 ITEM_20150317_001129	Guantes Brillantes Pesados
 ITEM_20150317_001130	Botas Brillantes Pesadas
 ITEM_20150317_001131	Túnica Brillante Pesada
@@ -1135,10 +1135,10 @@ ITEM_20150317_001134	Guantes de Cuero de Draco
 ITEM_20150317_001135	Botas de Cuero de Draco
 ITEM_20150317_001136	Pantalones de de Cuero de Draco
 ITEM_20150317_001137	Tunica de Cuero de Draco
-ITEM_20150317_001138	Guanteles de Placa de Plata
-ITEM_20150317_001139	Grebas de Placa de Plata
-ITEM_20150317_001140	Pantalones de Placa de Plata
-ITEM_20150317_001141	Armadura de Placa de Plata
+ITEM_20150317_001138	Guanteles de Placas de Plata
+ITEM_20150317_001139	Grebas de Placas de Plata
+ITEM_20150317_001140	Pantalones de Placas de Plata
+ITEM_20150317_001141	Armadura de Placas de Plata
 ITEM_20150317_001142	Guantes de Cuero Salvaje
 ITEM_20150317_001143	Botas Pesadas
 ITEM_20150317_001144	Guantes Capria
@@ -1162,446 +1162,446 @@ ITEM_20150317_001161	Pantalones de Cafrisun
 ITEM_20150317_001162	Por favor no pruebes intencionadamente la defensa magica de estos pantalones. 
 ITEM_20150317_001163	Armadura de Cafrisun
 ITEM_20150317_001164	Aunque los ingredientes son desconocidos, esta armadura es bastante útil. 
-ITEM_20150317_001165	Dio Gloves 
-ITEM_20150317_001166	Dio Sandals 
-ITEM_20150317_001167	Dio Pants 
-ITEM_20150317_001168	Dio Robe 
-ITEM_20150317_001169	Dio Leather Gloves 
-ITEM_20150317_001170	Dio Leather Boots 
-ITEM_20150317_001171	Dio Leather Pants 
-ITEM_20150317_001172	Dio Leather Armor 
-ITEM_20150317_001173	Dio Chain Gauntlets 
-ITEM_20150317_001174	Dio Chain Boots 
-ITEM_20150317_001175	Dio Chain Pants 
-ITEM_20150317_001176	Dio Chainmail 
-ITEM_20150317_001177	Thresh Gloves 
-ITEM_20150317_001178	Thresh Sandals 
-ITEM_20150317_001179	Thresh Pants 
-ITEM_20150317_001180	Thresh Robe 
-ITEM_20150317_001181	Thresh Leather Gloves 
-ITEM_20150317_001182	Thresh Leather Boots 
-ITEM_20150317_001183	Thresh Leather Pants 
-ITEM_20150317_001184	Thresh Leather Armor 
-ITEM_20150317_001185	Thresh Chain Gloves 
-ITEM_20150317_001186	Thresh Chain Boots 
-ITEM_20150317_001187	Thresh Chain Pants 
-ITEM_20150317_001188	Thresh Chainmail 
-ITEM_20150317_001189	Sestas Gloves 
-ITEM_20150317_001190	Sestas Sandals 
-ITEM_20150317_001191	Sestas Pants 
-ITEM_20150317_001192	Sestas Greaves 
-ITEM_20150317_001193	Sestas Leather Gloves 
-ITEM_20150317_001194	Sestas Leather Boots 
-ITEM_20150317_001195	Sestas Leather Pants 
-ITEM_20150317_001196	Sestas Leather Armor 
-ITEM_20150317_001197	Sestas Chain Gloves 
-ITEM_20150317_001198	Sestas Chain Boots 
-ITEM_20150317_001199	Sestas Chain Pants 
-ITEM_20150317_001200	Sestas Chainmail 
-ITEM_20150317_001201	Dratt Gloves 
-ITEM_20150317_001202	Dratt Sandals 
-ITEM_20150317_001203	Dratt Pants 
-ITEM_20150317_001204	Dratt Robe 
-ITEM_20150317_001205	Dratt Leather Gloves 
-ITEM_20150317_001206	Dratt Leather Boots 
-ITEM_20150317_001207	Dratt Leather Pants 
-ITEM_20150317_001208	Dratt Leather Armor 
-ITEM_20150317_001209	Dratt Gauntlets 
-ITEM_20150317_001210	Dratt Greaves 
-ITEM_20150317_001211	Dratt Plate Leggings 
-ITEM_20150317_001212	Dratt Plate Armor 
-ITEM_20150317_001213	Aston Gloves 
-ITEM_20150317_001214	Aston Sandals 
-ITEM_20150317_001215	Aston Pants 
-ITEM_20150317_001216	Aston Robe 
-ITEM_20150317_001217	Aston Leather Gloves 
-ITEM_20150317_001218	Aston Leather Boots 
-ITEM_20150317_001219	Aston Leather Pants 
-ITEM_20150317_001220	Aston Leather Armor 
-ITEM_20150317_001221	Aston Gauntlets 
-ITEM_20150317_001222	Aston Greaves 
-ITEM_20150317_001223	Aston Plate Leggings 
-ITEM_20150317_001224	Aston Plate Armor 
-ITEM_20150317_001225	Devi Gloves 
-ITEM_20150317_001226	Devi Sandals 
-ITEM_20150317_001227	Devi Pants 
-ITEM_20150317_001228	Devi Greaves 
-ITEM_20150317_001229	Devi Leather Gloves 
-ITEM_20150317_001230	Devi Leather Boots 
-ITEM_20150317_001231	Devi Leather Pants 
-ITEM_20150317_001232	Devi Leather Armor 
-ITEM_20150317_001233	Devi Gauntlets 
-ITEM_20150317_001234	Devi Greaves 
-ITEM_20150317_001235	Devi Plate Leggings 
-ITEM_20150317_001236	Devi Plate Armor 
-ITEM_20150317_001237	Prima Gloves 
-ITEM_20150317_001238	Prima Sandals 
-ITEM_20150317_001239	Prima Pants 
-ITEM_20150317_001240	Prima Greaves 
-ITEM_20150317_001241	Prima Leather Gloves 
-ITEM_20150317_001242	Prima Leather Boots 
-ITEM_20150317_001243	Prima Leather Pants 
-ITEM_20150317_001244	Prima Leather Armor 
-ITEM_20150317_001245	Prima Gauntlets 
-ITEM_20150317_001246	Prima Greaves 
-ITEM_20150317_001247	Prima Plate Leggings 
-ITEM_20150317_001248	Prima Plate Armor 
-ITEM_20150317_001249	Tomb Gloves 
-ITEM_20150317_001250	Tomb Leather Gloves 
-ITEM_20150317_001251	Tomb Gauntlets 
-ITEM_20150317_001252	Caminante
-ITEM_20150317_001253	Formine Armor 
-ITEM_20150317_001254	Crafted by a recipe resulting from hundreds of years worth of miners' experience and wisdom. 
-ITEM_20150317_001255	Riena Pants 
-ITEM_20150317_001256	Riena Robe 
-ITEM_20150317_001257	Riena Leather Pants 
-ITEM_20150317_001258	Riena Leather Armor 
-ITEM_20150317_001259	Riena Plate Leggings 
-ITEM_20150317_001260	Riena Plate Armor 
-ITEM_20150317_001261	Vubbe Fighter Gauntlets 
-ITEM_20150317_001262	Shield Crasher 
-ITEM_20150317_001263	Vine Gloves 
-ITEM_20150317_001264	Vine Boots 
-ITEM_20150317_001265	Vine Pants 
-ITEM_20150317_001266	Vine Greaves 
-ITEM_20150317_001267	Saint Robe 
-ITEM_20150317_001268	Soul Chaser Gloves 
-ITEM_20150317_001269	Soul Chaser Boots 
-ITEM_20150317_001270	Soul Chaser Pants 
-ITEM_20150317_001271	Soul Chaser Armor 
-ITEM_20150317_001272	Bone Gauntlets 
-ITEM_20150317_001273	Bone Greaves 
-ITEM_20150317_001274	Bone Skirt 
-ITEM_20150317_001275	Bone Armor 
-ITEM_20150317_001276	Shade Hands 
-ITEM_20150317_001277	Shade Runner 
-ITEM_20150317_001278	Shade Skirt 
-ITEM_20150317_001279	Shade Dancer 
-ITEM_20150317_001280	Rokas Leather Armor 
-ITEM_20150317_001281	Rokas Mail 
-ITEM_20150317_001282	Rokas Robe 
-ITEM_20150317_001283	Wind Runner 
-ITEM_20150317_001284	Zachariel's Heart 
-ITEM_20150317_001285	Hydra Trousers 
-ITEM_20150317_001286	Banshee Veil 
+ITEM_20150317_001165	Guantes Dio
+ITEM_20150317_001166	Sandalias Dio
+ITEM_20150317_001167	Pantalones Dio
+ITEM_20150317_001168	Túnica Dio
+ITEM_20150317_001169	Guantes de Cuero Dio
+ITEM_20150317_001170	Botas de Cuero Dio
+ITEM_20150317_001171	Pantalones de Cuero Dio
+ITEM_20150317_001172	Armadura de Cuero Dio
+ITEM_20150317_001173	Guantes de Malla Dio
+ITEM_20150317_001174	Botas de Malla Dio
+ITEM_20150317_001175	Pantalones de Malla Dio
+ITEM_20150317_001176	Cota de Malla Dio
+ITEM_20150317_001177	Guantes Thresh
+ITEM_20150317_001178	Sandalias Thresh
+ITEM_20150317_001179	Pantalones Thresh
+ITEM_20150317_001180	Túnica Thresh
+ITEM_20150317_001181	Guantes de Cuero Thresh
+ITEM_20150317_001182	Botas de Cuero Thresh
+ITEM_20150317_001183	Pantalones de Cuero Thresh
+ITEM_20150317_001184	Armadura de Cuero Thresh
+ITEM_20150317_001185	Guantes de Malla Thresh
+ITEM_20150317_001186	Botas de Malla Thresh
+ITEM_20150317_001187	Pantalones de Malla Thresh
+ITEM_20150317_001188	Cota de Malla Thresh
+ITEM_20150317_001189	Guantes Sestas
+ITEM_20150317_001190	Sandalias Sestas
+ITEM_20150317_001191	Pantalones Sestas
+ITEM_20150317_001192	Túnica Sestas
+ITEM_20150317_001193	Guantes de Cuero Sestas
+ITEM_20150317_001194	Botas de Cuero Sestas
+ITEM_20150317_001195	Pantalones de Cuero Sestas
+ITEM_20150317_001196	Armadura de Cuero Sestas
+ITEM_20150317_001197	Guantes de Malla Sestas
+ITEM_20150317_001198	Botas de Malla Sestas
+ITEM_20150317_001199	Pantalones de Malla Sestas
+ITEM_20150317_001200	Cota de Malla Sestas
+ITEM_20150317_001201	Guantes Dratt
+ITEM_20150317_001202	Sandalias Dratt
+ITEM_20150317_001203	Pantalones Dratt
+ITEM_20150317_001204	Túnica Dratt
+ITEM_20150317_001205	Guantes de Cuero Dratt
+ITEM_20150317_001206	Botas de Cuero Dratt
+ITEM_20150317_001207	Pantalones de Cuero Dratt
+ITEM_20150317_001208	Armadura de Cuero Dratt
+ITEM_20150317_001209	Guanteletes Dratt
+ITEM_20150317_001210	Grebas Dratt
+ITEM_20150317_001211	Pantalones de Placas Dratt
+ITEM_20150317_001212	Armadura de Placas Dratt
+ITEM_20150317_001213	Guantes Aston
+ITEM_20150317_001214	Sandalias Aston
+ITEM_20150317_001215	Pantalones Aston
+ITEM_20150317_001216	Túnica Aston
+ITEM_20150317_001217	Guantes de Cuero Aston
+ITEM_20150317_001218	Botas de Cuero Aston
+ITEM_20150317_001219	Pantalones de Cuero Aston
+ITEM_20150317_001220	Armadura de Cuero Aston
+ITEM_20150317_001221	Guanteletes Aston
+ITEM_20150317_001222	Grebas Aston
+ITEM_20150317_001223	Pantalones de Placas Aston
+ITEM_20150317_001224	Armadura de Placas Aston
+ITEM_20150317_001225	Guantes Devi
+ITEM_20150317_001226	Sandalias Devi
+ITEM_20150317_001227	Pantalones Devi
+ITEM_20150317_001228	Túnica Devi
+ITEM_20150317_001229	Guantes de Cuero Devi
+ITEM_20150317_001230	Botas de Cuero Devi
+ITEM_20150317_001231	Pantalones de Cuero Devi
+ITEM_20150317_001232	Armadura de Cuero Devi
+ITEM_20150317_001233	Guanteletes Devi
+ITEM_20150317_001234	Grebas Devi
+ITEM_20150317_001235	Pantalones de Placas Devi
+ITEM_20150317_001236	Armadura de Placas Devi
+ITEM_20150317_001237	Guantes Prima
+ITEM_20150317_001238	Sandalias Prima
+ITEM_20150317_001239	Pantalones Prima
+ITEM_20150317_001240	Túnica Prima
+ITEM_20150317_001241	Guantes de Cuero Prima
+ITEM_20150317_001242	Botas de Cuero Prima
+ITEM_20150317_001243	Pantalones de Cuero Prima
+ITEM_20150317_001244	Armadura de Cuero Prima
+ITEM_20150317_001245	Guanteletes Prima
+ITEM_20150317_001246	Grebas Prima
+ITEM_20150317_001247	Pantalones de Placas Prima
+ITEM_20150317_001248	Armadura de Placas Prima
+ITEM_20150317_001249	Guantes de Tumba
+ITEM_20150317_001250	Guantes de Cuero de Tumba
+ITEM_20150317_001251	Guanteletes de Tumba
+ITEM_20150317_001252	Botas de Caminante
+ITEM_20150317_001253	Armadura Formina
+ITEM_20150317_001254	Fabricado por una receta que resulta ser el valor de cientos de años de la experiencia y la sabiduría de los mineros. 
+ITEM_20150317_001255	Pantalones Riena
+ITEM_20150317_001256	Túnica Riena
+ITEM_20150317_001257	Pantalones de Cuero Riena
+ITEM_20150317_001258	Armadura de Cuero Riena
+ITEM_20150317_001259	Pantalones de Placas Riena
+ITEM_20150317_001260	Armadura de Placas Riena
+ITEM_20150317_001261	Guanteletes de Luchador Vubbe
+ITEM_20150317_001262	Quiebra Escudos
+ITEM_20150317_001263	Guantes Vine
+ITEM_20150317_001264	Botas Vine
+ITEM_20150317_001265	Pantalones Vine
+ITEM_20150317_001266	Túnica Vine
+ITEM_20150317_001267	Túnica Santa
+ITEM_20150317_001268	Guantes de Cazador de Almas
+ITEM_20150317_001269	Botas de Cazador de Almas
+ITEM_20150317_001270	Pantalones de Cazador de Almas
+ITEM_20150317_001271	Armadura de Cazador de Almas
+ITEM_20150317_001272	Guanteletes de Huesos
+ITEM_20150317_001273	Grebas de Huesos
+ITEM_20150317_001274	Falda de Huesos
+ITEM_20150317_001275	Armadura de Huesos
+ITEM_20150317_001276	Manos de Sombras
+ITEM_20150317_001277	Zapatillas de Sombras
+ITEM_20150317_001278	Falda de Sombras
+ITEM_20150317_001279	Danzarina de Sombras
+ITEM_20150317_001280	Armadura de Cuero Rokas
+ITEM_20150317_001281	Cota de Malla Rokas
+ITEM_20150317_001282	Túnica Rokas
+ITEM_20150317_001283	Zapatillas del Viento
+ITEM_20150317_001284	Corazón de Zachariel
+ITEM_20150317_001285	Pantalones Hydra
+ITEM_20150317_001286	Velo de Banshee
 ITEM_20150317_001287	Pecho [Espectral] 
 ITEM_20150317_001288	Empty_Neck 
 ITEM_20150317_001289	Click derecho para equipar este objeto. 
-ITEM_20150317_001290	PS Necklace 
-ITEM_20150317_001291	Colgante 
-ITEM_20150317_001292	PM Necklace 
-ITEM_20150317_001293	RES Necklace 
-ITEM_20150317_001294	Panto Necklace 
-ITEM_20150317_001295	Bone Necklace 
-ITEM_20150317_001296	Hogma Leather Necklace 
-ITEM_20150317_001297	Strange Charm 
-ITEM_20150317_001298	Defense Necklace 
-ITEM_20150317_001299	Novice Necklace 
-ITEM_20150317_001300	The fact that such equipment is so affordable is a blessing for beginners. 
-ITEM_20150317_001301	Vubbe Talisman 
-ITEM_20150317_001302	This talisman is the reason why attacks sometimes have no effect on Vubbes. 
-ITEM_20150317_001303	Chupacabra Necklace 
-ITEM_20150317_001304	Rumor says that the teeth of a Chupacabra can whisper to each other while chattering. Regardless, they definitely contain some magical power. 
-ITEM_20150317_001305	Wooden Necklace 
-ITEM_20150317_001306	It's not recommended to take this off while you're carrying something. 
-ITEM_20150317_001307	Iron Necklace 
-ITEM_20150317_001308	You might feel like you became lighter, but in reality you will not have become any thinner. 
-ITEM_20150317_001309	Steel Necklace 
-ITEM_20150317_001310	In battle, a small factor may make the difference between life and death. You certainly won't regret wearing this necklace. 
-ITEM_20150317_001311	Talisman 
-ITEM_20150317_001312	Sadly it won't help you much when studying. 
-ITEM_20150317_001313	Klaipeda Chain 
-ITEM_20150317_001314	This necklace brings out the power of the wearer's soul. 
-ITEM_20150317_001315	Might Fedimian Chain 
-ITEM_20150317_001316	Handicrafts from Fedimian have had a strong reputation for hundreds of years. You can feel the difference when you compare them to non-Fedimian items. 
-ITEM_20150317_001317	Dex Fedimian Chain 
-ITEM_20150317_001318	Health Fedimian Chain 
-ITEM_20150317_001319	Intel Fedimian Chain 
-ITEM_20150317_001320	Mind Fedimian Chain 
-ITEM_20150317_001321	Jukopus Necklace 
-ITEM_20150317_001322	Increases the magic power of the wearer. 
-ITEM_20150317_001323	Vubbe Necklace 
-ITEM_20150317_001324	Magic Pendant 
-ITEM_20150317_001325	Ivory Pendant 
-ITEM_20150317_001326	Rune Pendant 
-ITEM_20150317_001327	Silver Talisman 
-ITEM_20150317_001328	Necklace bestowed with the blessings of the Cathedral. 
-ITEM_20150317_001329	Necklace of Sloth 
-ITEM_20150317_001330	Necklace of Fury 
-ITEM_20150317_001331	Necklace of Deceit 
-ITEM_20150317_001332	String Necklace 
-ITEM_20150317_001333	According to legend; after learning its secret recipe, Lydia Schaffen used to wear this necklace to polish her skills during her initial period as a poor apprentice. 
-ITEM_20150317_001334	Panto Talisman 
-ITEM_20150317_001335	It is said that a human wizard gave the recipe for this necklace to the Pantos a long time ago as a gift when the Pantos and humankind were not hostile to one another. 
-ITEM_20150317_001336	Pyrlight Pendant 
-ITEM_20150317_001337	Used to be awarded by the Pyromancer Master to beginners. This tradition ceased after the goddesses disappeared. 
-ITEM_20150317_001338	Cryolight Pendant 
-ITEM_20150317_001339	Since their assumption of office prior to the Great Plant Cataclysm, the Cryomancer Master has stopped the tradition of awarding this pendant to people. Now this pendant must be either obtained or crafted by the users themselves. 
-ITEM_20150317_001340	Magic Talisman 
-ITEM_20150317_001341	Fusing two magic objects becomes easy once you find the catalyst. Humans, however, are not the only race who can discover such catalyst. 
-ITEM_20150317_001342	Strength Pendant 
-ITEM_20150317_001343	Many new magic items that use the power of monsters have been invented since the Great Plant Cataclysm. 
-ITEM_20150317_001344	Pyluma Chain 
-ITEM_20150317_001345	The Pyromancer Master is unrelated to the creation of this item. 
-ITEM_20150317_001346	Icema Chain 
-ITEM_20150317_001347	According to a rumor, the Cryomancer Master makes a profit every time this item is sold. 
-ITEM_20150317_001348	Poizma Chain 
-ITEM_20150317_001349	The people primarily involved in manufacturing this item are wizards expelled from the Mage Tower. 
-ITEM_20150317_001350	Lightna Chain 
-ITEM_20150317_001351	According to a legend, Agailla Flurry prepared several dozen copies of this item and fought the Demon King until all of them were destroyed. 
-ITEM_20150317_001352	Health Stone 
-ITEM_20150317_001353	An item crafted by combining and condensing everything known to be good for one's health through magic. 
-ITEM_20150317_001354	Warrior Pendant 
-ITEM_20150317_001355	The recipe for this item has been around for many years in the kingdom, but a theory suggests its origin to be the hometown of the Barbarian Master. There is speculation that its crafting method in the two areas are different. 
-ITEM_20150317_001356	Cyclops Eye 
-ITEM_20150317_001357	The darkness of the demon realm seen by this eye has turned, and now it serves to protect you. 
-ITEM_20150317_001358	Bone Necklace 
-ITEM_20150317_001359	When a plan to return to this world as an undead was thwarted, the power and intent were contained into this necklace. 
-ITEM_20150317_001360	Carnivore Necklace 
-ITEM_20150317_001361	Misfortune may chase you if you carry something that is not yours. Worry not, since the name and the origin of this necklace is unknown. 
-ITEM_20150317_001362	Kepa Pendant 
-ITEM_20150317_001363	Formine Necklace 
-ITEM_20150317_001364	The remains of a noble soldier has found a new owner. 
-ITEM_20150317_001365	Conqueror 
-ITEM_20150317_001366	Its origin dates back to the gift presented by a wise man to the Great King Zachariel as a symbol of servitude during the founding period of the kingdom. A later king released the recipe, and many were crafted in the past. Now, however, it is difficult to find the recipe. 
+ITEM_20150317_001290	Collar de PS
+ITEM_20150317_001291	Collar
+ITEM_20150317_001292	Collar de PM
+ITEM_20150317_001293	Collar de RES
+ITEM_20150317_001294	Collar Panto
+ITEM_20150317_001295	Collar de Hueso
+ITEM_20150317_001296	Collar de Piel de Hogma
+ITEM_20150317_001297	Amuleto Extraño
+ITEM_20150317_001298	Collar de Defensa
+ITEM_20150317_001299	Collar de Novato
+ITEM_20150317_001300	El hecho de que este equipo es tan asequible es una bendición para los principiantes.
+ITEM_20150317_001301	Talismán Vubbe
+ITEM_20150317_001302	Este talismán es la razón por la cual los ataques a veces no tienen efecto en los Vubbes.
+ITEM_20150317_001303	Collar de Chupacabra
+ITEM_20150317_001304	El rumor dice que los dientes de un Chupacabra pueden susurrar a otro mientras charlan. A pesar de todo, contienen algo de poder mágico.
+ITEM_20150317_001305	Collar de Madera
+ITEM_20150317_001306	No es recomendable quitartelo mientras cargas con algo.
+ITEM_20150317_001307	Collar de Hierro
+ITEM_20150317_001308	Puedes notar como que si te sintieras más ligero, pero en realidad no has adelgazado.
+ITEM_20150317_001309	Collar de Acero
+ITEM_20150317_001310	En la batalla, un pequeño factor puede ser la diferencia entre la vida y la muerte. Indudablemente, no te arrepentiras de llevar equipado este collar.
+ITEM_20150317_001311	Talismán 
+ITEM_20150317_001312	Lamentablemente no te ayudará mucho en los estudios. 
+ITEM_20150317_001313	Cadena de Klaipeda
+ITEM_20150317_001314	Este collar expone el poder del alma de la persona usuaria. 
+ITEM_20150317_001315	Cadena de Femidian de Fuerza
+ITEM_20150317_001316	Las artesanías de Fedimian han tenido una gran reputación por cientos de años. Se puede sentir la diferencia cuando se comparan con los artículos que no son de Fedimian. 
+ITEM_20150317_001317	Cadena de Femidian de DES
+ITEM_20150317_001318	Cadena de Femidian de Vida
+ITEM_20150317_001319	Cadena de Femidian de Intel
+ITEM_20150317_001320	Cadena de Femidian de Espiritu
+ITEM_20150317_001321	Collar de Jukopus
+ITEM_20150317_001322	Incrementa el poder magico del portador. 
+ITEM_20150317_001323	Collar de Vubbe
+ITEM_20150317_001324	Colgante Mágico 
+ITEM_20150317_001325	Colgante de Marfil 
+ITEM_20150317_001326	Colgante de Runas
+ITEM_20150317_001327	Talismán de Plata
+ITEM_20150317_001328	Collar otorgado con las bendiciones de la catedral. 
+ITEM_20150317_001329	Collar de la Pereza
+ITEM_20150317_001330	Collar de la Furia
+ITEM_20150317_001331	Collar del Engaño
+ITEM_20150317_001332	Collar de Cadena
+ITEM_20150317_001333	De acuerdo con la leyenda; después de enterarse de su receta secreta, Lydia Schaffen solía usar este collar para pulir sus habilidades durante su período inicial como una pobre aprendiz. 
+ITEM_20150317_001334	Talismán Panto
+ITEM_20150317_001335	Se dice que un mago humano dio la receta de este collar a la Pantos hace mucho tiempo como un regalo cuando los Pantos y la humanidad no eran hostiles entre sí. 
+ITEM_20150317_001336	Colgante de Pirita 
+ITEM_20150317_001337	Se utilizaba para que el Maestre Piromante se lo entragara a los principiantes. Esta tradición cesó después de que las diosas desaparecieran. 
+ITEM_20150317_001338	Colgante de Criolita 
+ITEM_20150317_001339	Desde que se le dio prioridad al Gran Cataclismo Silvano, el Maestre Criomante dejo la tradición de entregar este colgante a la gente. Ahora este pendiente se debe obtener o dee ser elaborado por uno mismo. 
+ITEM_20150317_001340	Talismán Magico 
+ITEM_20150317_001341	La fusión de dos objetos mágicos se hace fácil una vez se encuentra el catalizador. Los seres humanos, sin embargo, no son la única raza que puede descubrir un catalizador. 
+ITEM_20150317_001342	Colgante de Fuerza
+ITEM_20150317_001343	Muchos de los nuevos objetos mágicos que utilizan el poder de los monstruos se han inventado tras el Gran Cataclismo Silvano. 
+ITEM_20150317_001344	Cadena de Piroma
+ITEM_20150317_001345	El Maestre Piromante no está relacionado con la creación de este objeto. 
+ITEM_20150317_001346	Cadena de Hieloma
+ITEM_20150317_001347	Según un rumor, el Maestre Criomante obtiene un beneficio cada vez que se vende este objeto. 
+ITEM_20150317_001348	Cadena de Venema 
+ITEM_20150317_001349	Las personas que participan en la fabricación de este objeto son magos expulsados de la Torre de Magos. 
+ITEM_20150317_001350	Cadena de Electrema
+ITEM_20150317_001351	Según una leyenda, Agailla Flurry preparó varias decenas de ejemplares de este objeto y luchó contra el rey demonio hasta que todos ellos fueron destruidos. 
+ITEM_20150317_001352	Piedra de Vida
+ITEM_20150317_001353	Un objeto creado al combinar y condensar todo lo que se sabe que es bueno para la salud a través de la magia. 
+ITEM_20150317_001354	Colgante de Guerrero
+ITEM_20150317_001355	La receta de este artículo ha estado por muchos años en el reino, pero una teoría sugiere su origen es la ciudad natal del Maestre Bárbaro. Se especula que su método de elaboración en las dos áreas es diferentes. 
+ITEM_20150317_001356	Ojo de Ciclope
+ITEM_20150317_001357	La oscuridad del reino de los demonios vista por este ojo se ha convertido, y ahora sirve para protegerte. 
+ITEM_20150317_001358	Collar de Hueso
+ITEM_20150317_001359	Cuando un plan para volver a este mundo como un no-muerto fue frustrado, el poder y la intención se han guardo en este collar. 
+ITEM_20150317_001360	Collar de Carnivoro 
+ITEM_20150317_001361	La desgracia te puede perseguir si vistes algo que no es tuyo. No te preocupes, ya que se desconoce el nombre y el origen de este collar. 
+ITEM_20150317_001362	Colgante Kepa 
+ITEM_20150317_001363	Colgante Formina
+ITEM_20150317_001364	Los restos de un soldado noble han encontrado un nuevo dueño. 
+ITEM_20150317_001365	Conquistador 
+ITEM_20150317_001366	Su origen se remonta a la donación presentada por un hombre prudente, el Gran Rey Zachariel como un símbolo de servidumbre durante el período de fundación del reino. Un rey anterior liberó la receta, y muchos fueron hechos a mano en el pasado. Ahora, sin embargo, es difícil encontrar la receta. 
 ITEM_20150317_001367	Petamion 
-ITEM_20150317_001368	Some people say that this item proves the theory that the demons were the first to find the secret method of increasing all abilities simultaneously, not the humans. 
+ITEM_20150317_001368	Algunas personas dicen que este objeto demuestra la teoría de que los demonios fueron los primeros en encontrar el método secreto de aumentar todas las habilidades simultaneamente, no los seres humanos. 
 ITEM_20150317_001369	Electus
-ITEM_20150317_001370	By combining two elements that normally do not mix, you can maximize the power of one of them. One must, however, consider the loss of other's benefits and traits resulting from this combination. 
-ITEM_20150317_001371	Saphie Necklace 
-ITEM_20150317_001372	Although this item could not protect its previous owner, it did remain with them until the end. Hopefully this necklace succeeds in both tasks for you. 
+ITEM_20150317_001370	Mediante la combinación de dos elementos que normalmente no se mezclan, se puede maximizar el poder de uno de ellos. Uno, sin embargo, debe tener en cuenta la pérdida de otros beneficios y rasgos resultante en esta combinación. 
+ITEM_20150317_001371	Collar de Saphie
+ITEM_20150317_001372	Si bien este objeto no pudo proteger a su dueño anterior, que se quedó con el hasta el final. Con suerte este collar tendra éxito en ambas tareas para ti. 
 ITEM_20150317_001373	Guardian 
-ITEM_20150317_001374	An item that contains the grace of Goddess Zemyna who disapproves any sort of dispute. It endows an incredible protection to the wearer, but at a severe cost to the wearer's offensive power. 
-ITEM_20150317_001375	Max Petamion 
-ITEM_20150317_001376	If you're seeking a way to improve every single ability of a person, the answer is already there. However, it is not easy to realize that answer for your own use. 
+ITEM_20150317_001374	Un objeto que contiene la gracia de la diosa Zemyna que desaprueba cualquier tipo de disputa. Dota una protección increíble para el portador, pero a un costo grave en el poder ofensivo del portador. 
+ITEM_20150317_001375	Petamion Máximo
+ITEM_20150317_001376	Si estás buscando una manera de mejorar cada habilidad de una persona, la respuesta ya está ahí. Sin embargo, no es fácil darse cuenta de la respuesta para su propio uso. 
 ITEM_20150317_001377	Animus 
-ITEM_20150317_001378	Rumors has it that the one who wears this item will leave a part of his soul in a different world. Despite the vast number of people who are still researching on this matter, the mechanism of this item remains a mystery. 
+ITEM_20150317_001378	Los rumores dicen que el que lleva este objeto dejará una parte de su alma en un mundo diferente. A pesar de la gran cantidad de personas que todavía están investigando sobre este asunto, el mecanismo de este objeto sigue siendo un misterio. 
 ITEM_20150317_001379	Empty_Ring 
-ITEM_20150317_001380	Grooved Bangle 
-ITEM_20150317_001381	Bracelet 
-ITEM_20150317_001382	The slot where the gem was attached is still clearly visible. 
-ITEM_20150317_001383	Leather Bangle 
-ITEM_20150317_001384	Some monster leathers, although they don't contain any magical attributes, can gain magical effects depending on how they are crafted. You should not dismiss this item based on its material. 
-ITEM_20150317_001385	Light Bangle 
-ITEM_20150317_001386	Some people hold a misconception that this item increases your muscle strength, which is completely inaccurate. 
-ITEM_20150317_001387	Heavy Bangle 
-ITEM_20150317_001388	An increase in your mental strength is not because of an amplification of your ability but a stronger bonding with your surroundings. This, in turn, will replenish your energy. 
-ITEM_20150317_001389	Ring Bracelet 
-ITEM_20150317_001390	Accuracy is, in essence, the ability to exert precise control over your body. The Accuracy Bangle enables that kind of self-control. 
-ITEM_20150317_001391	Noble Bracelet 
-ITEM_20150317_001392	It is said that the blessings of Zemyna, the goddess of the Earth, lie within this equipment. 
-ITEM_20150317_001393	Iron Bangle 
-ITEM_20150317_001394	Although devoid of any magical effect, it will certainly increase your defense. 
-ITEM_20150317_001395	Health Heavy Bangle 
-ITEM_20150317_001396	For equipment requiring little to no magic effect, Fedimian items are reputed to have a long history of great craftsmanship and quality. 
-ITEM_20150317_001397	Magi Heavy Bangle 
-ITEM_20150317_001398	Arcurus Heavy Bangle 
-ITEM_20150317_001399	Light Heavy Bangle 
-ITEM_20150317_001400	Light Iron Bangle 
-ITEM_20150317_001401	Most consider this item as the worn and damaged version of the Iron Bangle. 
-ITEM_20150317_001402	Klaipeda Bracelet 
-ITEM_20150317_001403	Wooden Bangle 
-ITEM_20150317_001404	It is made of a lightweight wood. 
-ITEM_20150317_001405	Vubbe Bangle 
-ITEM_20150317_001406	Forest Bangle 
-ITEM_20150317_001407	Rokas Bracelet 
-ITEM_20150317_001408	Rune Bracelet 
-ITEM_20150317_001409	Silver Bracelet 
-ITEM_20150317_001410	Crystal Bangle 
-ITEM_20150317_001411	This item used to be mainly made of crystals from the Crystal Mine. Production of this item has become difficult as the mine has been experiencing many difficulties as of late. 
-ITEM_20150317_001412	Shine Bracelet 
-ITEM_20150317_001413	According to the wearers of this item, one feels as though their life force and vitality are overflowing. 
-ITEM_20150317_001414	Battle Bracelet 
-ITEM_20150317_001415	This bracelet has sadly been used for more battles between humans in the past than battles against monsters. 
-ITEM_20150317_001416	Poison Bangle 
-ITEM_20150317_001417	This item has been manufactured with various poisons since its origin and, with the Great Plant Cataclysm, materials have become even easier to find. 
-ITEM_20150317_001418	Plants Bracelet 
-ITEM_20150317_001419	After quickly discovering the weaknesses of the Plants, the Winterspoon family has openly been sharing ways to use this information with people. 
-ITEM_20150317_001420	Control Bangle 
-ITEM_20150317_001421	When inorganic matter mutates and becomes a monster, there is a way to weaken them by manipulating their spirits. This equipment contains a mechanism that does that. 
-ITEM_20150317_001422	Hunter Bangle 
-ITEM_20150317_001423	This bangle has been well known among hunters for a long time. With the sudden proliferation of monsters in recent times, more people are using it. 
-ITEM_20150317_001424	Bracer of Archer
-ITEM_20150317_001425	The bloodthirsty instinct contained in one of its materials is said to impact the accuracy of the wearer. 
-ITEM_20150317_001426	Wizard Bracelet 
-ITEM_20150317_001427	A very old recipe of which the time of origin cannot be determined. Although rare, it has been found in many diverse locations.  
-ITEM_20150317_001428	Rapid Bangle 
-ITEM_20150317_001429	Originally from demons who passed the recipe down to Vubbes, this recipe was released by human warriors who stole it from the Vubbes.  
-ITEM_20150317_001430	Glass Bracelet 
-ITEM_20150317_001431	There is a rumor that the price of jewels are about to skyrocket thanks to the increasing number of people who want to wear this. 
-ITEM_20150317_001432	Merregina Bangle 
-ITEM_20150317_001433	Some say they can smell the scent of the sea from this item, but that's most likely just a psychological delusion. 
-ITEM_20150317_001434	Bearkaras Bracelet 
-ITEM_20150317_001435	You can tell where the Bearkaras' power comes from. 
-ITEM_20150317_001436	Novice Bangle 
-ITEM_20150317_001437	If this is your first time wearing something on your wrist, this is a good choice. 
-ITEM_20150317_001438	Gladiator Band 
-ITEM_20150317_001439	This band was invented during the rule of King Kadumel when gladiator games were popular. With the increasing threat from monsters, this recipe is garnering attention. 
-ITEM_20150317_001440	Bracelet of Linne 
-ITEM_20150317_001441	It was named after a scientist who discovered ways to deal with the new species that came after the Great Plant Cataclysm. 
+ITEM_20150317_001380	Brazalete Ranurado 
+ITEM_20150317_001381	Pulsera 
+ITEM_20150317_001382	La ranura donde estaba unida la gema es todavía claramente visible. 
+ITEM_20150317_001383	Brazalete de Cuero 
+ITEM_20150317_001384	Algunos cueros de monstruos, a pesar de que no contienen atributos mágicos, pueden ganar efectos mágicos dependiendo de la forma en que se hacen a mano. No se debe tirar este objeto basandote en su material. 
+ITEM_20150317_001385	Brazalete Ligero 
+ITEM_20150317_001386	Algunas personas tienen una idea errónea de que este objeto aumenta su fuerza muscular, que es completamente erronea. 
+ITEM_20150317_001387	Brazalete Pesado
+ITEM_20150317_001388	Un aumento en tu fuerza mental no es debido a una ampliación de tu habilidad, sino una unión más fuerte con tu entorno. Esto, a su vez, va a reponer tu energía. 
+ITEM_20150317_001389	Pulsera de Anillo
+ITEM_20150317_001390	La precisión es, en esencia, la capacidad de ejercer un control preciso sobre tu cuerpo. La exactitud del brazalete permite ese tipo de autocontrol. 
+ITEM_20150317_001391	Pulsera de Noble
+ITEM_20150317_001392	Se dice que las bendiciones de Zemyna, la diosa de la Tierra, se encuentran dentro de este equipo. 
+ITEM_20150317_001393	Brazalete de Hierro
+ITEM_20150317_001394	Aunque carece de todo efecto mágico, sin duda aumentará tu defensa. 
+ITEM_20150317_001395	Brazalete de Vida Pesado 
+ITEM_20150317_001396	Para equipos que requieren poco o ningún efecto mágico, Los objetos de Fedimian tienen fama de tener una larga historia de gran artesanía y calidad. 
+ITEM_20150317_001397	Brazalete Magi Pesado
+ITEM_20150317_001398	Brazalete Arcurus Pesado
+ITEM_20150317_001399	Brazalete Robusto Ligero 
+ITEM_20150317_001400	Brazalete de Hierro Ligero
+ITEM_20150317_001401	La mayoría considera este objeto como la versión desgastada y dañada del brazalete de hierro. 
+ITEM_20150317_001402	Pulsera de Klaipeda 
+ITEM_20150317_001403	Brazalete de Madera
+ITEM_20150317_001404	Está hecho de madera ligera. 
+ITEM_20150317_001405	Brazalete Vubbe
+ITEM_20150317_001406	Brazalete del Bosque
+ITEM_20150317_001407	Pulsera Rokas
+ITEM_20150317_001408	Pulsera de Runas
+ITEM_20150317_001409	Pulsera de Plata
+ITEM_20150317_001410	Brazalete de Cristal
+ITEM_20150317_001411	Este objeto usado se compone principalmente de cristales de la mina de cristal. La producción de este objeto se ha hecho difícil, ya que la mina ha estado experimentando muchas dificultades en los últimos tiempos. 
+ITEM_20150317_001412	Pulsera Brillante 
+ITEM_20150317_001413	De acuerdo con los portadores de este objetos, uno se siente como si su fuerza de vida y vitalidad se desbordaran. 
+ITEM_20150317_001414	Pulsera de Batalla
+ITEM_20150317_001415	Esta pulsera tristemente se ha utilizado durante más batallas entre los seres humanos en el pasado que en las batallas contra monstruos. 
+ITEM_20150317_001416	Brazalete de Veneno 
+ITEM_20150317_001417	Este objeto ha sido fabricado con varios venenos desde su origen y, con el Gran Cataclismo Silvano, los materiales se han vuelto aún más fáciles de encontrar. 
+ITEM_20150317_001418	Pulsera de Plantas
+ITEM_20150317_001419	Después de descubrir rápidamente las debilidades de las plantas, la familia Witherspoon abiertamente ha estado compartiendo con las personas formas de utilizar esta información. 
+ITEM_20150317_001420	Brazalete de Control
+ITEM_20150317_001421	Cuando la materia inorgánica muta y se convierte en un monstruo, hay una manera para debilitarlos mediante la manipulación de sus espíritus. Este equipo contiene un mecanismo que lo hace. 
+ITEM_20150317_001422	Brazalete de Cazador
+ITEM_20150317_001423	Este brazalete ha sido bien conocido entre los cazadores desde hace mucho tiempo. Con la repentina proliferación de monstruos en los últimos tiempos, más personas lo están utilizando. 
+ITEM_20150317_001424	Brazales del Arquero
+ITEM_20150317_001425	El instinto sanguinario contenido es uno de sus materiales, se dice que impacta en la punteria de la persona portadora. 
+ITEM_20150317_001426	Pulsera de Mago
+ITEM_20150317_001427	Una receta muy antigua de la cual su tiempo de origen no puede ser determinado. Aunque es rara, se ha encontrado en muchos lugares.  
+ITEM_20150317_001428	Brazalete Rápido
+ITEM_20150317_001429	Originalmente era de los demonios que pasaron la receta a los Vubbes, esta receta fue puesto en publicada por los guerreros humanos que se la robaron a los Vubbes.  
+ITEM_20150317_001430	Pulsera de Cristal
+ITEM_20150317_001431	Hay un rumor de que el precio de las joyas está a punto de dispararse gracias al creciente número de personas que quieren llevar esta pulsera. 
+ITEM_20150317_001432	Brazalete de Merregina
+ITEM_20150317_001433	Algunos dicen que pueden oler el aroma del mar en este objeto, pero es más probable que sólo sea una ilusión psicológica. 
+ITEM_20150317_001434	Pulsera de Bearkaras
+ITEM_20150317_001435	Se puede decir que el poder del Bearkaras proviene de esto. 
+ITEM_20150317_001436	Brazalete de Novato
+ITEM_20150317_001437	Si esta es la primera vez que llevas algo en la muñeca, esta es una buena opción. 
+ITEM_20150317_001438	Banda de Gladiador
+ITEM_20150317_001439	Esta banda fue inventada durante el gobierno del Rey Kadumel cuando los juegos de gladiadores eran muy populares. Con la creciente amenaza de los monstruos, esta receta está atrayendo la atención. 
+ITEM_20150317_001440	Pulsera de la Linea
+ITEM_20150317_001441	Se le dio nombre después de que un científico descubriera la manera de hacer frente a las nuevas especies que surgieron tras el Gran Cataclismo Silvano. 
 ITEM_20150317_001442	Pora 
-ITEM_20150317_001443	If you look closely, 
-ITEM_20150317_001444	Crafted by the first humans, blessed by the origins of life when light and darkness existed equally 
-ITEM_20150317_001445	you can read the following engraving: 
+ITEM_20150317_001443	Si lo miras mas de cerca, 
+ITEM_20150317_001444	Fabricado por los primeros humanos, bendito por los orígenes de la vida cuando la luz y la oscuridad existían igualmente 
+ITEM_20150317_001445	se puede leer el siguiente grabado: 
 ITEM_20150317_001446	Pore 
-ITEM_20150317_001447	Zachariel Bangle 
-ITEM_20150317_001448	It is told that this bangle is a memento dedicated to the Great King crafted by his followers after his death. 
-ITEM_20150317_001449	Sissel Bracelet 
-ITEM_20150317_001450	According to a legend, a warrior obtained this bracelet at the cost of relinquishing his sanity and humanity for pure frenzy, in order to seal away a very strong Demon King. 
-ITEM_20150317_001451	Skill 1 Bracelet 
-ITEM_20150317_001452	You can use a special skill. 
-ITEM_20150317_001453	Skill 2 Bracelet 
-ITEM_20150317_001454	Skill 3 Bracelet 
-ITEM_20150317_001455	Skill 4 Bracelet 
-ITEM_20150317_001456	Highlander Costume 
-ITEM_20150317_001457	Ropa
-ITEM_20150317_001458	It was made with elegance for the Royal Palace and formal events while not being restrictive to the movements of your limbs. 
-ITEM_20150317_001459	Peltasta Costume 
-ITEM_20150317_001460	Peltastas prefer a fancy outfit because they care more about flaunting their battle actions to their allies than the dangers of being spotted by an enemy. 
-ITEM_20150317_001461	Hoplite Costume
-ITEM_20150317_001462	A costume made for versatile leg movement such as jumping and throwing a spear. Also appropriate for events requiring formal attire. 
-ITEM_20150317_001463	Centurion Costume 
-ITEM_20150317_001464	This costume inherits a traditional look that has continued for a thousand years. 
-ITEM_20150317_001465	Barbarian Costume 
-ITEM_20150317_001466	Although Barbarians do not follow a particular style, this would be closest to their usual preference. 
-ITEM_20150317_001467	Cataphract Costume 
-ITEM_20150317_001468	Made to be appropriate for a horse rider. Also minimizes the burden to the mount. 
-ITEM_20150317_001469	Corsair Costume 
-ITEM_20150317_001470	This costume consists of several layers of independent clothes. It demonstrates the wisdom of the seafarers. 
-ITEM_20150317_001471	Doppelsoeldner Costume 
-ITEM_20150317_001472	It expresses their free spirit while maintaining the traditional look from the the Doppelsoeldners' place of origin. 
-ITEM_20150317_001473	Rodelero Costume 
-ITEM_20150317_001474	Made to weather any storm while also boasting defensive capabilities suitable for pitched battle. 
-ITEM_20150317_001475	Squire Costume 
-ITEM_20150317_001476	A traditional costume reflecting a Squire's requirement for clothing suited for long distance travel through various terrain. 
-ITEM_20150317_001477	Shinobi Costume 
-ITEM_20150317_001478	Murmillo Costume 
-ITEM_20150317_001479	Panzer Costume 
-ITEM_20150317_001480	Lancer Costume 
-ITEM_20150317_001481	Dragoon Costume 
+ITEM_20150317_001447	Brazalate Zachariel 
+ITEM_20150317_001448	Se dice que este brazalete es un recuerdo dedicado al gran rey hecho a mano por sus seguidores después de su muerte. 
+ITEM_20150317_001449	Pulsera Sissel
+ITEM_20150317_001450	Según una leyenda, un guerrero obtiene esta pulsera a costa de renunciar a su cordura y humanidad por la locura pura, con el fin de sellar lejos al muy fuerte Rey Demonio. 
+ITEM_20150317_001451	Habilidad 1 de Pulsera
+ITEM_20150317_001452	Puedes usar una Habilidad Especial. 
+ITEM_20150317_001453	Habilidad 2 de Pulsera
+ITEM_20150317_001454	Habilidad 3 de Pulsera
+ITEM_20150317_001455	Habilidad 4 de Pulsera
+ITEM_20150317_001456	Traje de Montañero
+ITEM_20150317_001457	Traje
+ITEM_20150317_001458	Se hizo con elegancia para el palacio real y eventos formales pero, sin ser restrictivo para los movimientos de sus extremidades. 
+ITEM_20150317_001459	Traje de Peltasta
+ITEM_20150317_001460	Los Peltastas prefieren un equipo de lujo, ya que se preocupan más en hacer alarde de sus acciones de combate a sus aliados que de los peligros de ser descubierto por un enemigo. 
+ITEM_20150317_001461	Traje de Hoplita
+ITEM_20150317_001462	Un traje hecho para un movimiento versatil de las piernas tales como saltar o lanzar una lanza. También apropiado para eventos que requieren traje formal. 
+ITEM_20150317_001463	Traje de Centurión
+ITEM_20150317_001464	Este traje hereda un aspecto tradicional que ha continuado durante mil años. 
+ITEM_20150317_001465	Traje de Bárbaro
+ITEM_20150317_001466	Aunque los bárbaros no siguen un estilo particular, esto sería lo más cercano a su preferencia habitual. 
+ITEM_20150317_001467	Traje de Catafracto
+ITEM_20150317_001468	Hecho para ser apropiado para un jinete. También reduce al mínimo la carga a la montura. 
+ITEM_20150317_001469	Traje de Corsario
+ITEM_20150317_001470	Este traje se compone de varias capas de ropa independientes. Esto demuestra la sabiduría de la gente de mar. 
+ITEM_20150317_001471	Traje de Mercenario
+ITEM_20150317_001472	Expresa su espíritu libre, manteniendo el aspecto tradicional de el lugar de origen de los Mercenarios. 
+ITEM_20150317_001473	Traje de Rodelero
+ITEM_20150317_001474	Hecho para superar cualquier tormenta y al mismo tiempo que cuenta con capacidades defensivas adecuadas para la batalla campal. 
+ITEM_20150317_001475	Traje de Escudero
+ITEM_20150317_001476	Un traje tradicional que refleja los requerimientos de un escudero, ropa adecuada para viajes de larga distancia a través de diversos terrenos. 
+ITEM_20150317_001477	Traje de Ninja
+ITEM_20150317_001478	Traje de Murmillo
+ITEM_20150317_001479	Traje de Panzer
+ITEM_20150317_001480	Traje de Lancero
+ITEM_20150317_001481	Traje de Dragón
 ITEM_20150317_001482	Traje de Piromante 
 ITEM_20150317_001483	Los piromantes creen que su traje representa tanto su imagen como mago y caballerosidad de clérigo. 
 ITEM_20150317_001484	Traje de Criomante 
 ITEM_20150317_001485	Fabricado para soportar no sólo una brisa fresca sino las bajas temperaturas. El traje ha sido modificado para que sea extremadamente práctico y refleja la personalidad del maestre actual. 
-ITEM_20150317_001486	Psychokino Costume 
-ITEM_20150317_001487	Despite its neat look, the costume is very loose when worn. This is because Psychokinos hate being confined, whether it is their soul or their body. 
-ITEM_20150317_001488	Traje de Alquimista 
+ITEM_20150317_001486	Traje de Mentalista
+ITEM_20150317_001487	A pesar de su aspecto elegante, el traje esta muy fragil en caso de desgastarse. Esto se debe a que los mentalistas odian estar confinados, si se trata de su alma o su cuerpo. 
+ITEM_20150317_001488	Traje de Alquimista
 ITEM_20150317_001489	Este traje de capas múltiples está diseñado de tal manera que se puede sacar capa por capa durante una emergencia. 
-ITEM_20150317_001490	Sorcerer Costume 
-ITEM_20150317_001491	For a spellcaster robe, it is quite battle-optimized. If one thinks about the creatures they have to deal with, however, it's very much justified. 
-ITEM_20150317_001492	Traje de Vinculador 
-ITEM_20150317_001493	Debido a su naturaleza de llevar a cabo las conexiones entre las cosas, Los Vinculadores prefieren un traje simple y sencillo que no le recuerde a nada en absoluto. Ellos dicen que hacen esto para que la gente no tenga una visión estandarizada de los Vinculadores. 
-ITEM_20150317_001494	Chronomancer Costume 
-ITEM_20150317_001495	Chronomancers claim that their costume was Agailla Flurry's favorite style. 
+ITEM_20150317_001490	Traje de Hechicero
+ITEM_20150317_001491	Para una túnica de hechicero, esta bastante optimizada para la batalla. Si se piensa en las criaturas con las que tiene que tratar, esta justificado. 
+ITEM_20150317_001492	Traje de Vinculador
+ITEM_20150317_001493	Debido a su naturaleza de llevar a cabo las conexiones entre las cosas, Los vinculadores prefieren un traje simple y sencillo que no le recuerde a nada en absoluto. Ellos dicen que hacen esto para que la gente no tenga una visión estandarizada de los Vinculadores. 
+ITEM_20150317_001494	Traje de Cronomante
+ITEM_20150317_001495	Los cronomantes dicen que el estilo de su ropa era el favorito de Agailla Flurry. 
 ITEM_20150317_001496	Traje de Nigromante
 ITEM_20150317_001497	Aunque los nigromantes no quieren verse sombríos, su traje es lo suficientemente oscuro como para llevar a cabo un funeral. 
 ITEM_20150317_001498	Traje de Taumaturgo
 ITEM_20150317_001499	En verdad, su traje no coincide con la magia que practican, pero la tradición es un factor muy fuerte que no puede ser ignorada. 
-ITEM_20150317_001500	Traje de Elementalista 
+ITEM_20150317_001500	Traje de Elementalista
 ITEM_20150317_001501	Fue creado con una cuidadosa consideración a fin de no identificarse con ninguna rama en particular de la magia. 
-ITEM_20150317_001502	Mimic Costume 
-ITEM_20150317_001503	Taoist Costume 
-ITEM_20150317_001504	Traje de Cazador 
+ITEM_20150317_001502	Traje de Mímico
+ITEM_20150317_001503	Traje de Taoísta
+ITEM_20150317_001504	Traje de Cazador
 ITEM_20150317_001505	Un traje optimizado y diseñado para la supervivencia a largo plazo en el bosque. 
-ITEM_20150317_001506	Quarrel Shooter Costume 
-ITEM_20150317_001507	It once used to be a uniform of the guards of a large city. However the costume remained the same even after Quarrel Shooters were long disassociated with such a role. 
-ITEM_20150317_001508	Ranger Costume 
-ITEM_20150317_001509	The Ranger's costume is an evolutionary change of the Quarrel Shooter's costume. 
-ITEM_20150317_001510	Sapper Costume 
-ITEM_20150317_001511	Although Sappers are related to the Army, their outfit is unregulated due to their specialist role. 
-ITEM_20150317_001512	Wugushi Costume 
-ITEM_20150317_001513	A very traditional costume from their hometown reflecting their history. 
-ITEM_20150317_001514	Hackapell Costume 
-ITEM_20150317_001515	This costume allows the wearer to freely turn their torso while mounted, and has been designed to be comfortable for the wearer's legs. 
-ITEM_20150317_001516	Scout Costume 
-ITEM_20150317_001517	A costume designed with a focused consideration on the time of activity rather than the environment. 
-ITEM_20150317_001518	Rogue Costume 
-ITEM_20150317_001519	Similarly designed to the Scout's costume but with better mobility. It is clearly inappropriate for formal events. 
-ITEM_20150317_001520	Schwarzer Reiter Costume 
-ITEM_20150317_001521	A solemn and valiant costume that gives reassurance and a trustworthy feeling to others. 
-ITEM_20150317_001522	Fletcher Costume 
-ITEM_20150317_001523	It offers a surprising defensive capability due to the thick fabrics used. Considering its wearer's role, mobility can be sacrificed without issue. 
-ITEM_20150317_001524	Falconer Costume 
-ITEM_20150317_001525	Appraiser Costume 
-ITEM_20150317_001526	Pied Piper Costume 
-ITEM_20150317_001527	Musketeer Costume 
-ITEM_20150317_001528	Traje de Sacerdote 
+ITEM_20150317_001506	Traje de Ballestero
+ITEM_20150317_001507	Una vez fue el uniforme de los guardias de una gran ciudad. Sin embargo el traje sigue siendo el mismo, incluso después de que los ballesteros fuerón retirados de su función. 
+ITEM_20150317_001508	Traje de Guardabosque
+ITEM_20150317_001509	El traje de guardabosque es un cambio evolutivo del traje de ballestero. 
+ITEM_20150317_001510	Traje de Zapador
+ITEM_20150317_001511	Aunque los zapadores están relacionados con el ejército, su traje no está regulado debido a su función especializada. 
+ITEM_20150317_001512	Traje de Arquero de Jade
+ITEM_20150317_001513	Un traje muy tradicional de su ciudad natal que refleja su historia. 
+ITEM_20150317_001514	Traje de Hackapell
+ITEM_20150317_001515	Este traje permite al usuario girar libremente su torso mientras está montado, y ha sido diseñado para ser cómodo para las piernas del usuario. 
+ITEM_20150317_001516	Traje de Explorador
+ITEM_20150317_001517	Un traje diseñado con consideración en el momento de la actividad en el entorno. 
+ITEM_20150317_001518	Traje de Picaro
+ITEM_20150317_001519	Con un diseño similar al traje de explorador pero con mejor movilidad. Es claramente inapropiado para eventos formales. 
+ITEM_20150317_001520	Traje de Schwarzer Reiter
+ITEM_20150317_001521	Un traje solemne y valiente que da un sentimiento de confianza a los demás. 
+ITEM_20150317_001522	Traje de Flechero
+ITEM_20150317_001523	Ofrece una capacidad defensiva sorprendente debido a las gruesas telas usadas. Teniendo en cuenta la función de su portador, la movilidad puede ser sacrificada sin problemas. 
+ITEM_20150317_001524	Traje de Halconero
+ITEM_20150317_001525	Traje de Tasador
+ITEM_20150317_001526	Traje de Flautista
+ITEM_20150317_001527	Traje de Msoquetero
+ITEM_20150317_001528	Traje de Sacerdote
 ITEM_20150317_001529	Los sacerdotes creen que son los más neutrales y  tradicionales entre los clérigos, su vestuario refleja su creencia. 
-ITEM_20150317_001530	Krivis Costume 
-ITEM_20150317_001531	The Krivis proudly claim that they are the guardians of the oldest traditional faith. Their costume dates back to the Great King Zachariel's rule. 
-ITEM_20150317_001532	Bokor Costume 
-ITEM_20150317_001533	A costume fitting for any activity, whether it's for looking into a crystal ball, for knitting, or for swinging a weapon. 
-ITEM_20150317_001534	Druid Costume 
-ITEM_20150317_001535	The long drape used in this costume is said to be helpful for ourdoor living. 
-ITEM_20150317_001536	Sadhu Costume 
-ITEM_20150317_001537	This outfit was heavily influenced by the location of origin of its wearer. 
-ITEM_20150317_001538	Dievdirbys Costume 
-ITEM_20150317_001539	Needless to say, clothes uncomfortable for sculpting are not even considered.  
-ITEM_20150317_001540	Oracle Costume 
-ITEM_20150317_001541	Soft and light, this costume is said to comfort and calm your body and soul. 
-ITEM_20150317_001542	Monk Costume 
-ITEM_20150317_001543	A costume emphasizing the solemnity of a cleric while being comfortable enough for physical training. 
-ITEM_20150317_001544	Pardoner Costume 
-ITEM_20150317_001545	Like their suits, this costume gives a sense of faith to others. 
+ITEM_20150317_001530	Traje de Krivis
+ITEM_20150317_001531	Los krivis afirman con orgullo que son los guardianes de la fe tradicional más antigua. Su traje se remonta a las fechas del Gran Rey Zachariel. 
+ITEM_20150317_001532	Traje de Bokor
+ITEM_20150317_001533	Un traje para cualquier tipo de actividad, ya sea para mirar en una bola de cristal, para tejer, o para hacer oscilar un arma. 
+ITEM_20150317_001534	Traje de Druida
+ITEM_20150317_001535	Los largos adornos utilizados en este traje se dice que son útiles para la vida al aire libre.
+ITEM_20150317_001536	Traje de Sadhu
+ITEM_20150317_001537	Este traje fue fuertemente afectado por la ubicación del origen de su portador. 
+ITEM_20150317_001538	Traje de Escultor Santo
+ITEM_20150317_001539	Ni que decir tiene, ropa incómoda hasta para esculpir.  
+ITEM_20150317_001540	Traje de Oraculo
+ITEM_20150317_001541	Suave y ligero, se dice que este traje tan comodo que calma tu cuerpo y alma. 
+ITEM_20150317_001542	Traje de Monje
+ITEM_20150317_001543	Un traje haciendo hincapié en la solemnidad de un clérigo y lo suficientemente cómodo para el entrenamiento físico. 
+ITEM_20150317_001544	Traje de Redentor
+ITEM_20150317_001545	Al igual que sus trajes, este traje le da un sentido de la fe a los demás. 
 ITEM_20150317_001546	Traje de Paladin
 ITEM_20150317_001547	Los paladines tienen dos conjuntos de trajes para diferentes propósitos: uno para la oración interior y otra al aire libre para la batalla. Esta es para este último. 
-ITEM_20150317_001548	Shepherd Costume 
-ITEM_20150317_001549	Chaplain Costume 
+ITEM_20150317_001548	Traje de Pastor
+ITEM_20150317_001549	Traje de Capellán
 ITEM_20150317_001550	Empty_Hat 
 ITEM_20150317_001551	Accesorio de cabello 
 ITEM_20150317_001552	Un accesorio para la ranura de cabello.{nl}Click derecho para equipar. 
 ITEM_20150317_001553	Orejas de Gato 
 ITEM_20150317_001554	Esto se va a ganar tu afecto hacia cierto animal. 
-ITEM_20150317_001555	Crystal Headband 
-ITEM_20150317_001556	Pony Tail 
+ITEM_20150317_001555	Cinta de Cristal
+ITEM_20150317_001556	Cola de Poni
 ITEM_20150317_001557	Gafas usadas para proteger tus ojos. 
-ITEM_20150317_001558	Steel Visor 
-ITEM_20150317_001559	Wings Visor 
+ITEM_20150317_001558	Visera de Acero
+ITEM_20150317_001559	Visera con Alas
 ITEM_20150317_001560	Fedora 
 ITEM_20150317_001561	Gafas de Protección 
-ITEM_20150317_001562	Allows you to keep your eyes open in any condition. Fogging might be an issue, though. 
-ITEM_20150317_001563	Lepusbunny Headband 
-ITEM_20150317_001564	Headgear based on the ears of a Lepusbunny. Using this won't improve your hearing. 
-ITEM_20150317_001565	Ginkgo Leaf 
-ITEM_20150317_001566	Easily found during autumn. It may smell like the Ginkgo fruit. 
-ITEM_20150317_001567	Tiger Swallowtail 
-ITEM_20150317_001568	Experience the sensation of a Tiger Swallowtail landing on your head. 
-ITEM_20150317_001569	Eagle Feather 
-ITEM_20150317_001570	Can be used as a writing tool if needed. 
-ITEM_20150317_001571	Muscharia Hat 
-ITEM_20150317_001572	A mushroom might grow on your head. 
-ITEM_20150317_001573	Crown 
-ITEM_20150317_001574	With great power comes great responsibility. 
-ITEM_20150317_001575	White Flower Hairpin 
-ITEM_20150317_001576	You might be mistaken for a flower child.
-ITEM_20150317_001577	Tiger Mask 
-ITEM_20150317_001578	A mask with a silly tiger face on it. 
-ITEM_20150317_001579	Teeny Doll 
-ITEM_20150317_001580	If you face the real Teeny, it will be very different from a doll. 
-ITEM_20150317_001581	Wing Helmet 
-ITEM_20150317_001582	A helmet with a wing decoration. 
-ITEM_20150317_001583	Wing Decoration 
-ITEM_20150317_001584	Inspired by a goddess' wing. 
+ITEM_20150317_001562	te permite mantener los ojos abiertos en cualquier condición. El empañamiento puede ser un problema. 
+ITEM_20150317_001563	Cinta de Lepusbunny
+ITEM_20150317_001564	Cinta basda en las orejas de lo Lepusbunny. Usando esto no mejoraras tu capacidad auditiva. 
+ITEM_20150317_001565	Hoja de Ginkgo
+ITEM_20150317_001566	Facilmente encontrado en otoño. Huele como la fruta de Ginkgo. 
+ITEM_20150317_001567	Mariposa Tigre
+ITEM_20150317_001568	Experimenta la sensacón de llevar una mariposa tigre sobre tu cabeza. 
+ITEM_20150317_001569	Pluma de Aguila 
+ITEM_20150317_001570	Se puede usar como herramienta de escritura si lo necesitas. 
+ITEM_20150317_001571	Sombrero de Muscharia
+ITEM_20150317_001572	Una seta crece con fuerza en tu cabeza. 
+ITEM_20150317_001573	Corona 
+ITEM_20150317_001574	Un gran poder conlleva una gran responsabilidad. 
+ITEM_20150317_001575	Horquilla de Flor Blanca
+ITEM_20150317_001576	Puedes ser confundido con un hijo de las flores.
+ITEM_20150317_001577	Mascara de Tigre
+ITEM_20150317_001578	Una máscara con una cara de tigre tonto. 
+ITEM_20150317_001579	Muñeco Teeny
+ITEM_20150317_001580	Si miras al Teeny real, veras que es muy diferente del muñeco. 
+ITEM_20150317_001581	Casco Alado
+ITEM_20150317_001582	Un casco decorado con alas. 
+ITEM_20150317_001583	Decoración de Alas 
+ITEM_20150317_001584	Inspirado en las alas de la diosa. 
 ITEM_20150317_001585	Huevo Anidado 
 ITEM_20150317_001586	Nadie sabe por que anidarón el huevo en la cabeza de alguien. 
 ITEM_20150317_001587	Polluelo Anidado 
 ITEM_20150317_001588	Si no se alimentan correctamente, es posible que quede sin plumas debido al hambre. 
 ITEM_20150317_001589	Gallina Anidada
 ITEM_20150317_001590	Ahora siempre tendras huevos para el desayuno. 
-ITEM_20150317_001591	Campaign Hat 
-ITEM_20150317_001592	A hat used for a special event or when marching. 
-ITEM_20150317_001593	Gentleman's Dignity 
-ITEM_20150317_001594	A very fancy, pompous hat. 
-ITEM_20150317_001595	Stylish Glasses 
-ITEM_20150317_001596	The latest, trending glasses. It has a pair of colored lenses. 
-ITEM_20150317_001597	Ice Bag 
-ITEM_20150317_001598	Very good when you have a fever or for cooling your head. 
+ITEM_20150317_001591	Sombrero de Campaña
+ITEM_20150317_001592	Un sombrero usado para un evento especial o al marchar. 
+ITEM_20150317_001593	Dignidad de caballero
+ITEM_20150317_001594	Un sombrero muy elegante y pomposo. 
+ITEM_20150317_001595	Gafas estilosas
+ITEM_20150317_001596	Gafas de la ultimas tendencias. Tiene un par de lentes de colores. 
+ITEM_20150317_001597	Bolsa de Hielo
+ITEM_20150317_001598	Muy buena cuando tienes fiebre o quieres enfriarte la cabeza. 
 ITEM_20150317_001599	Rosa Rugosa 
-ITEM_20150317_001600	Smells very pleasant. 
-ITEM_20150317_001601	Feather Hat 
-ITEM_20150317_001602	Don't mind the feather being larger than the hat. 
-ITEM_20150317_001603	Maple Leaf 
-ITEM_20150317_001604	Head decoration made to look like a maple leaf. Keep it away from fire. 
+ITEM_20150317_001600	Huele muy bien. 
+ITEM_20150317_001601	Sombrero de Pluma
+ITEM_20150317_001602	No importa que la pluma sea más grande que el sombrero. 
+ITEM_20150317_001603	Hoja de Arce
+ITEM_20150317_001604	Decoración para la cabeza hecha para parecerse a una hoja de arce. Mantener alejada del fuego. 
 ITEM_20150317_001605	Red Tassel Hat 
 ITEM_20150317_001606	An ornate hat with tassels. Used sometimes by a high ranking official or by reputable people. 
 ITEM_20150317_001607	Nurse Headband 
@@ -1652,7 +1652,7 @@ ITEM_20150317_001651	It is said to be a mask used in a faraway land.
 ITEM_20150317_001652	White Tiger Mask 
 ITEM_20150317_001653	A mask based on the white tiger, a very rare animal. 
 ITEM_20150317_001654	Gafas 
-ITEM_20150317_001655	Ayuda a tu vista. 
+ITEM_20150317_001655	Ayudan a tu vista. 
 ITEM_20150317_001656	Unicorn Horn 
 ITEM_20150317_001657	The horn of a Unicorn. It is considered a mythical item. 
 ITEM_20150317_001658	Red Horn 
@@ -4264,7 +4264,7 @@ ITEM_20150401_004263	Crude Kaskara
 ITEM_20150401_004264	Old Shamshir 
 ITEM_20150401_004265	Old Scimitar 
 ITEM_20150401_004266	Old Kaskara 
-ITEM_20150401_004267	Superior Gladius 
+ITEM_20150401_004267	Gladius Superior 
 ITEM_20150401_004268	Superior Falchion 
 ITEM_20150401_004269	Superior Cinquedea 
 ITEM_20150401_004270	Superior Sabre 
