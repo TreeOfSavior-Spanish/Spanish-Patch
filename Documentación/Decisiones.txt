@@ -127,7 +127,9 @@ Shoes --> Botas
 bracelet --> Pulsera
 Costume --> Traje
 hair --> Cabello
-necklace --> Colgante
+necklace --> Collar
+pendant --> Colgante
+Charm --> Amuleto
 
 [ Nombres Propios de Equipo ]
 Epee => Florete
