@@ -52,7 +52,7 @@
 >> Squire: Escudero
 >> Corsair: Corsario
 >> Doppelsoeldner: Mercenario
->> Fencer: Esgrimista (NdT: El término correcto es "Tirador" | NdT Thenestas: Se traduce literalmente como "Esgrimidor", la RAE acuña el término, "Esgrimista" es un alias de "Esgrimidor". "Tirador" es como algunos deportistas españoles llaman al practicante de esgrima, pero no está contemplado por la RAE )
+>> Fencer: Esgrimista (NdT: El término correcto es "Tirador" | NdT Thenestas: Se traduce literalmente como "Esgrimidor", la RAE acuña el término, "Esgrimista" es un alias de "Esgrimidor". "Tirador" es como algunos deportistas españoles llaman al practicante de esgrima, pero no está contemplado por la RAE | NdT Darkloud: Se dejara como esgrimista por el genero Neutro)
 >> Dragoon: Dragón
 >> Templar: Templario
 >> Shinobi: Ninja
