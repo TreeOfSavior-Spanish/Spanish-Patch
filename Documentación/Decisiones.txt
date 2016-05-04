@@ -44,6 +44,7 @@
 
 >> Swordman: Espadachín
 >> Highlander: Montañero
+>> Centurion: Centurión
 >> Peltasta: =
 >> Hoplite: Hoplita
 >> Barbarian: Bárbaro
