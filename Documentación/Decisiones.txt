@@ -57,6 +57,9 @@
 >> Dragoon: Dragón
 >> Templar: Templario
 >> Shinobi: Ninja
+>> Murmillo: =
+>> Panzer: ????
+>> Lancer: Lancero
 
 >> Wizard: Mago
 >> Pyromancer: Piromante
