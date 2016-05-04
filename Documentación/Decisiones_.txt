@@ -1,26 +1,26 @@
->> …sta traducciÛn es "Hispana", lo que quiere decir que el EspaÒol se mantendr· lo m·s neutral posible.
--- Si encuentran una construcciÛn gramatical dificil de entender o incomprensible en su variante de EspaÒol, favor notificarnos.
+>> √âsta traducci√≥n es "Hispana", lo que quiere decir que el Espa√±ol se mantendr√° lo m√°s neutral posible.
+-- Si encuentran una construcci√≥n gramatical dificil de entender o incomprensible en su variante de Espa√±ol, favor notificarnos.
 
->> Este proyecto apunta a ser una traducciÛn al 100%, esto quiere decir que tanto nombres de Monstruos, Lugares, Objetos y Habilidades ser·n traducidos.
+>> Este proyecto apunta a ser una traducci√≥n al 100%, esto quiere decir que tanto nombres de Monstruos, Lugares, Objetos y Habilidades ser√°n traducidos.
 
->> Los nombres propios cÛmo "Vubbe" no ser·n traducidos, no asÌ los nombres que sean compuestos:
--- Vubbe Fighter -> Vubbe Luchador
+>> Los nombres propios c√≥mo "Vubbe" no ser√°n traducidos, no as√≠ los nombres que sean compuestos:
+-- Vubbe Fighter -> Luchador Vubbe
 -- TempleShooter -> Disparador del Templo
 -- Dunkel Sword -> Espada Misteriosa
 -- Medzo Diena =
-* En caso de tener dudas en un nombre compuesto, ser· discutido en el equipo.
+* En caso de tener dudas en un nombre compuesto, ser√° discutido en el equipo.
 
->> La traducciÛn se realizar· con todos los signos de puntuaciÛn y acentos correspondientes al EspaÒol.
--- Todos somos humanos y podemos cometer errores de puntuaciÛn y acentuaciÛn, se ruega reportarlos cÛmo issues en github.
+>> La traducci√≥n se realizar√° con todos los signos de puntuaci√≥n y acentos correspondientes al Espa√±ol.
+-- Todos somos humanos y podemos cometer errores de puntuaci√≥n y acentuaci√≥n, se ruega reportarlos c√≥mo issues en github.
 
->> En ning˙n di·logo se emplear·n dobles comillas ("texto aquÌ"), en su lugar se emplear· el apÛstrofe ('texto aquÌ').
+>> En ning√∫n di√°logo se emplear√°n dobles comillas ("texto aqu√≠"), en su lugar se emplear√° el ap√≥strofe ('texto aqu√≠').
 -- El uso de comillas causa errores en el juego.
 
->> No se traducir· nada que se encuentre con guÌones bajos (texto_aquÌ)
+>> No se traducir√° nada que se encuentre con gu√≠ones bajos (texto_aqu√≠)
 -- Es altamente probable que sea una constante.
 
->> La segunda persona ser· traducida cÛmo sigue:
--- You -> T˙ - Usted[formal] - Ustedes
+>> La segunda persona ser√° traducida c√≥mo sigue:
+-- You -> T√∫ - Usted[formal] - Ustedes
 -- Your -> Tu(s) - Su(s)[formal]
 -- Yours -> Tuyo(s) - Suyo(s)[formal]
 -- Thou/Thee -> Vos
@@ -28,10 +28,10 @@
 -- Thine -> Vuestro[posesivo]
 -- Ye -> Vosotros
 
->> En InglÈs existe un orden fijo de adjetivos; no asÌ en EspaÒol, por ende se usar· el siguiente orden al traducir mobs:
--- [Estatus] + [ProfesiÛn] + Nombre + [Color] + [TamaÒo] + [CaracterÌstica]
+>> En Ingl√©s existe un orden fijo de adjetivos; no as√≠ en Espa√±ol, por ende se usar√° el siguiente orden al traducir mobs:
+-- [Estatus] + [Profesi√≥n] + Nombre + [Color] + [Tama√±o] + [Caracter√≠stica]
 
->> La palabra "diosa(s)" en el juego se tratar· de la siguiente forma:
--- Diosa(s) -> Usado sÛlo en situaciones donde implique una "veneraciÛn" hacia la Diosa(s).
--- diosa(s) -> Usado sÛlo en situaciones donde no implique una "veneraciÛn" hacia la diosa(s) o se hable en general.
--- Esto se basa en que en EspaÒol usamos "Dios" para hablar del dios cristiano y "dios" para el resto.
+>> La palabra "diosa(s)" en el juego se tratar√° de la siguiente forma:
+-- Diosa(s) -> Usado s√≥lo en situaciones donde implique una "veneraci√≥n" hacia la Diosa(s).
+-- diosa(s) -> Usado s√≥lo en situaciones donde no implique una "veneraci√≥n" hacia la diosa(s) o se hable en general.
+-- Esto se basa en que en Espa√±ol usamos "Dios" para hablar del dios cristiano y "dios" para el resto.
