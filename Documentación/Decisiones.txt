@@ -34,6 +34,7 @@
 >> Sapper: Zapador
 >> Hunter: Cazador
 >> Wugushi:  Arquero de Jade
+>> Hackapell: = (https://es.wikipedia.org/wiki/Hakkapeliitta)
 >> Scout: Explorador
 >> Fletcher: Flechero (Persona que se sirve de arco y flechas / Persona que fabrica flechas)
 >> Rogue: Pícaro
