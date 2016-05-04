@@ -75,7 +75,8 @@
 >> Rune Caster: Conjurador Rúnico
 >> Warlock: Brujo
 >> Featherfoot: Chamán
->> Mimic:Mimico
+>> Mimic: Mímico
+>> Taoist: Taoísta
 
 >> Cleric: Clérigo
 >> Krivis: =
