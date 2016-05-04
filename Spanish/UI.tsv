@@ -263,11 +263,11 @@ UI_20150317_000262	Monedas gastadas : 0
 UI_20150317_000263	Introducción
 UI_20150317_000264	{@st43}Inventario{/}
 UI_20150317_000265	{@st59}Cerrar{/}
-UI_20150317_000266	{@st59b}Equipamiento {nl} {@st59s}- Cabello/Ropa: Equipamiento para cambiar la apariencia del personaje. {nl} - Arma: Se puede equipar armas de una mano o de dos manos {nl} (arma secundaria/escudo pueden ser equipada con armas de una mano) {nl} - Armadura: Pecho, Pantalón, Guantes, botas. {nl} - Accesorios: Se pueden equipar 1 Collar y 2 Pulseras. {nl} {/}
+UI_20150317_000266	{@st59b}Equipamiento {nl} {@st59s}- Cabello/Traje: Equipamiento para cambiar la apariencia del personaje. {nl} - Arma: Se puede equipar armas de una mano o de dos manos {nl} (arma secundaria/escudo pueden ser equipada con armas de una mano) {nl} - Armadura: Pecho, Pantalón, Guantes, botas. {nl} - Accesorios: Se pueden equipar 1 Collar y 2 Pulseras. {nl} {/}
 UI_20150317_000267	{@st59}Acc de cabello 1{/}
 UI_20150317_000268	{@st59}Acc de cabello 2{/}
 UI_20150317_000269	{@st59}Collar{/}
-UI_20150317_000270	{@st59}Ropa{/}
+UI_20150317_000270	{@st59}Traje{/}
 UI_20150317_000271	{@st59}Pecho{/}
 UI_20150317_000272	{@st59}Guantes{/}
 UI_20150317_000273	{@st59}Pantalones{/}
@@ -424,9 +424,9 @@ UI_20150317_000423	¡Felicidades! Has subido de nivel.
 UI_20150317_000424	Alarma de objeto
 UI_20150317_000425	{@st64}Detalles{/}
 UI_20150317_000426	Como jugar
-UI_20150317_000427	{@st42b}          Mueve una vez con cada una de las                        teclas{/}
-UI_20150317_000428	{@st42b}       Haz un ataque básico{/}
-UI_20150317_000429	{@st42b}                Salta    {/}
+UI_20150317_000427	{@st42b}         Mueve una vez con cada una de las {nl}          teclas{/}
+UI_20150317_000428	{@st42b}     Haz un ataque básico{/}
+UI_20150317_000429	{@st42b}                   Salta    {/}
 UI_20150317_000430	{@st42b}  Pulsa dos teclas de dirección para moverte en diagonal.{/}
 UI_20150317_000431	Herramienta de niebla en mapa
 UI_20150317_000432	Herramienta para matar monstruos
@@ -1564,7 +1564,7 @@ UI_20150714_001563	{@st41b}Quitar mesa de refrigerios
 UI_20150714_001564	{@st42}Mi habilidad de invocación
 UI_20150714_001565	{@st42}Estadística
 UI_20150714_001566	{@st42}Localización actual : %s{/}
-UI_20150714_001567	{@st59b}Equipo {nl}{@st59s} - Cabello/Ropa: Equipamiento para cambiar la apariencia del personaje. {nl} - Armas: De una mano o de dos manos {nl} (Arma Secundaria/Escudo se pueden equipar con armas de una mano) {nl} - Armadura: Pecho, Pantalón, Guantes, botas. {nl} - Accesorios: 1 Collar y 2 Pulseras. {nl} {/}
+UI_20150714_001567	{@st59b}Equipo {nl}{@st59s} - Cabello/Traje: Equipamiento para cambiar la apariencia del personaje. {nl} - Armas: De una mano o de dos manos {nl} (Arma Secundaria/Escudo se pueden equipar con armas de una mano) {nl} - Armadura: Pecho, Pantalón, Guantes, botas. {nl} - Accesorios: 1 Collar y 2 Pulseras. {nl} {/}
 UI_20150714_001568	{@st43}Tienda %s abierta {/}
 UI_20150714_001569	{@st41b}Hornear{/}
 UI_20150714_001570	{@st66}Seleccionar todo
@@ -1738,7 +1738,7 @@ UI_20150729_001737	{@st43}Hornear gema{/}
 UI_20150729_001738	{@st59b}Creando objeto{nl}{@st59s} - Los objetos pueden ser creados usando recetas.{nl} - Introduce la receta y los materiales necesarios en los espacios para empezar a crear el objeto. {nl} - Puedes ponerle un nombre y un memo al objeto.{/}
 UI_20150729_001739	{@st59}Cerrar creación de flechas{/}
 UI_20150729_001740	Fragmentos necesarios : Mutante %s / Beastia %s / Planta %s
-UI_20150729_001741	{@st42b}         Los Espadachines pueden correr {nl}         pulsando dos veces en una {nl}         misma dirección{/}
+UI_20150729_001741	{@st42b}         Los espadachines pueden correr {nl}          pulsando dos veces en una {nl}          misma dirección{/}
 UI_20150729_001742	{@st41}Opciones de grupo
 UI_20150729_001743	{@st41}Reclutamiento de grupo
 UI_20150729_001744	{@st42}Buscar miembros de grupo{/}
