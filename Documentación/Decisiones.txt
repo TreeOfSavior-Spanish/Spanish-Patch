@@ -16,6 +16,7 @@
 - OverKill -> Exterminio
 - Warrior -> Guerrero
 - Fighter -> Luchador
+- Aggro -> Odio
 
 [ Estadistícas ]
 - HP --> PS -> Puntos de Salud
