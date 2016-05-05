@@ -191,7 +191,7 @@ Missile --> Proyectil
 
 [ Objetos ]
 Scroll --> Pergamino
-Token (No el Premium)-> Simbolo
+Token (No el Premium)-> Símbolo
 
 [ Lore del Juego ] 
 Aspectos clave del juego cómo eventos y nombres propios no deberían ser traducidos (Ej: Medzio Diena)
