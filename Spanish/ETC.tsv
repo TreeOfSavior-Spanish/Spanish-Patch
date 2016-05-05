@@ -2027,7 +2027,7 @@ ETC_20150317_002026	{Auto_1} Mes {Auto_2} día
 ETC_20150317_002027	Failed hidden recorded
 ETC_20150317_002028	Mercenario Arquero
 ETC_20150317_002029	{Auto_1} izquierda
-ETC_20150317_002030	{Auto_1} ha destruído la torre enemiga. Se premiará con iCoins al equipo.
+ETC_20150317_002030	{Auto_1} ha destruído la torre enemiga. Se premiará con TP al equipo.
 ETC_20150317_002031	{Auto_1} ha destruído la torre alíada.
 ETC_20150317_002032	{Auto_1} ha aparecido. Derrótalo para obtener recompenzas.
 ETC_20150317_002033	{Auto_1} ha derrotado a {Auto_2}.
@@ -2628,16 +2628,16 @@ ETC_20150317_002627	{@st41b} Privado {/}
 ETC_20150317_002628	Mi Página
 ETC_20150317_002629	Última Visita
 ETC_20150317_002630	Abrir tablero
-ETC_20150317_002631	Ciclo de iCoins
-ETC_20150317_002632	No tienes iCoins para regalar.
-ETC_20150317_002633	Ingresa el número de iCoins que quieres regalar.
+ETC_20150317_002631	Ciclo de TP
+ETC_20150317_002632	No tienes TP para regalar.
+ETC_20150317_002633	Ingresa el número de TP que quieres regalar.
 ETC_20150317_002634	{Auto_2} ~ {Auto_1} u
-ETC_20150317_002635	Has recibido {Count} iCoins como un regalo de {Giver}.
-ETC_20150317_002636	Regalé {Count} iCoins a {Receiver}.
-ETC_20150317_002637	{Giver} no tiene suficientes iCoins para regalar.
-ETC_20150317_002638	{Receiver} no puede recibir más iCoins hoy.
+ETC_20150317_002635	Has recibido {Count} TP como un regalo de {Giver}.
+ETC_20150317_002636	Regalé {Count} TP a {Receiver}.
+ETC_20150317_002637	{Giver} no tiene suficientes TP para regalar.
+ETC_20150317_002638	{Receiver} no puede recibir más TP hoy.
 ETC_20150317_002639	Cuerpo Astral de {Auto_1}
-ETC_20150317_002640	Insusficientes iCoins.
+ETC_20150317_002640	Insusficientes TP.
 ETC_20150317_002641	Tu Grito no puede exceder los {MaxByte} bytes.
 ETC_20150317_002642	Ese grupo no existe.
 ETC_20150317_002643	Expulsar
@@ -4146,7 +4146,7 @@ ETC_20150317_004145	Ver Información
 ETC_20150317_004146	Contratar Mercenario
 ETC_20150317_004147	Despedir Mercenario
 ETC_20150317_004148	Cerrar
-ETC_20150317_004149	¿Quieres contratar un Mercenario? {nl}Consume iCoins por minuto {img medal 32 32}
+ETC_20150317_004149	¿Quieres contratar un Mercenario? {nl}Consume TP por minuto {img medal 32 32}
 ETC_20150317_004150	Consumible
 ETC_20150317_004151	Poción
 ETC_20150317_004152	Posible
@@ -4205,7 +4205,7 @@ ETC_20150317_004204	Has obtenido el logro [{Auto_1}].
 ETC_20150317_004205	Lista de Subasta
 ETC_20150317_004206	Cabina
 ETC_20150317_004207	Grabando Vídeo
-ETC_20150317_004208	¿Quieres cambiar tu peinado? (Requiere 100 iCoins)
+ETC_20150317_004208	¿Quieres cambiar tu peinado? (Requiere 100 TP)
 ETC_20150317_004209	 d
 ETC_20150317_004210	 h
 ETC_20150317_004211	 m
@@ -4314,7 +4314,7 @@ ETC_20150317_004313	{@st41}Selecciona una Recompensa
 ETC_20150317_004314	{@st41}Recompensa{/}
 ETC_20150317_004315	{s16} {ol} {Auto_1} {Auto_2} u
 ETC_20150317_004316	{@st41b} Aumentar número seleccionado
-ETC_20150317_004317	(Consumo de {Auto_1} iCoins)
+ETC_20150317_004317	(Consumo de {Auto_1} TP)
 ETC_20150317_004318	Precio Total: {Auto_1}
 ETC_20150317_004319	Aprender
 ETC_20150317_004320	{@st42b} Re-comprar
@@ -4555,7 +4555,7 @@ ETC_20150317_004554	TxGiveItem function
 ETC_20150317_004555	TxTakeItem function
 ETC_20150317_004556	Misión Completada
 ETC_20150317_004557	Activation of script of the first play
-ETC_20150317_004558	No tienes suficientes iCoins...
+ETC_20150317_004558	No tienes suficientes TP...
 ETC_20150317_004559	Cambiar Peinado
 ETC_20150317_004560	Has fallado en cambiar tu peinado
 ETC_20150317_004561	Nombre/
@@ -4874,7 +4874,7 @@ ETC_20150317_004873	Iniciar Petición
 ETC_20150317_004874	Para iniciar petición
 ETC_20150317_004875	Por favor usa el objeto
 ETC_20150317_004876	Plata insuficiente
-ETC_20150317_004877	iCoins insuficientes
+ETC_20150317_004877	TP insuficientes
 ETC_20150317_004878	Este objeto no es suficiente
 ETC_20150317_004879	Comenzar siguiente paso
 ETC_20150317_004880	Manteniendo
@@ -5501,7 +5501,7 @@ ETC_20150317_005500	Derrotado a 300 monstruos jefe.
 ETC_20150317_005501	Cazador de Jefes
 ETC_20150317_005502	Derrotado a 500 monstruos jefe.
 ETC_20150317_005503	The Walking Dead
-ETC_20150317_005504	Logrado al resucitar al menos 100 veces usando iCoins.
+ETC_20150317_005504	Logrado al resucitar al menos 100 veces usando TP.
 ETC_20150317_005505	Artesano Novato
 ETC_20150317_005506	Creado objetos éxitosamente 10 veces. Se siente bien.
 ETC_20150317_005507	Artesano Aprendíz
@@ -10021,7 +10021,7 @@ ETC_20150323_010022	Crafter is still using the skill.
 ETC_20150323_010023	Item refinement has been completed.
 ETC_20150323_010024	Consume
 ETC_20150323_010025	Hire as a Mercenary
-ETC_20150323_010026	{Price} iCoins will be consumed to hire for {Minute} minutes. Do you wish to continue?
+ETC_20150323_010026	{Price} TP will be consumed to hire for {Minute} minutes. Do you wish to continue?
 ETC_20150323_010027	Fire the Mercenary
 ETC_20150323_010028	Hiring fee will not be refunded. Are you sure you want to dismiss?
 ETC_20150323_010029	Wrong equipment. Please check the title.
@@ -11431,7 +11431,7 @@ ETC_20150428_011432	Receta - Superior Key Pendant
 ETC_20150428_011433	Receta - Sage Necklace
 ETC_20150428_011434	Receta - Superior Rune Bracelet
 ETC_20150428_011435	Receta - Star Bracelet
-ETC_20150428_011436	FAQ : Guarida{nl}1) Puedes cambiar el nombre de tu Guarida dandole click a 'Configuración de Guarida'. {nl}2) Puedes comprar aspectos para tu Guarida usando iCoins al darle click a 'Cambiar Guarida'.{nl}3) Puedes elegir el canal al que deseas ingresar desde tu Guarida.
+ETC_20150428_011436	FAQ : Guarida{nl}1) Puedes cambiar el nombre de tu Guarida dandole click a 'Configuración de Guarida'. {nl}2) Puedes comprar aspectos para tu Guarida usando TP al darle click a 'Cambiar Guarida'.{nl}3) Puedes elegir el canal al que deseas ingresar desde tu Guarida.
 ETC_20150428_011437	FAQ : Character PS, PM, RES {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) RES: This is stamina. When your RES is 0, you can only walk and cannot run anymore. {nl} RES is also used when learning certain attributes. {nl} RES can be recovered by destroying Raíces Cristal del Árbol or by using Resistencia Pills. {nl} Resistencia Pills can be purchased from shops, earned by completing quests or by defeating boss monsters.
 ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15.
 ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3) You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
@@ -13255,7 +13255,7 @@ ETC_20150717_013256	Below are the item that the character holds.
 ETC_20150717_013257	Items in the inventory are sorted by item types.
 ETC_20150717_013258	Click on Sort to sort the inventory by name.
 ETC_20150717_013259	Use the search function to quickly find items.
-ETC_20150717_013260	The lower area shows total carry weight of your items, funds, and iCoins.
+ETC_20150717_013260	The lower area shows total carry weight of your items, funds, and TP.
 ETC_20150717_013261	Available quests are found in the Quest window.
 ETC_20150717_013262	Press {img F5 40 40} to view the quests in progress.
 ETC_20150717_013263	Select an entry from the Quests in Progress list for detailed information.
@@ -13420,7 +13420,7 @@ ETC_20150717_013421	Community
 ETC_20150717_013422	Socialization
 ETC_20150717_013423	Use the Social Function to interact with other players.
 ETC_20150717_013424	[Helper] You can leave your character to be used as a Helper when you log out. You need to be at least Rank 3 and iCoin is consumed.
-ETC_20150717_013425	Other players may hire you as Helpers by paying iCoins.
+ETC_20150717_013425	Other players may hire you as Helpers by paying TP.
 ETC_20150717_013426	A Helper will follow the host character and assist in combat.
 ETC_20150717_013427	[Friend] Press F7 to open the Friends window. Players can add each other to Friends List.
 ETC_20150717_013428	Friends can see each other's online status and location.
@@ -13714,7 +13714,7 @@ ETC_20150729_013715	Press {img F2 40 40} to open the Inventory window.
 ETC_20150729_013716	The upper part of the Inventory window displays equipped items on the character.
 ETC_20150729_013717	Items in the inventory are sorted by item types. {nl}Click Sort to sort the inventory by name.
 ETC_20150729_013718	{nl}{nl}Use the search function to find specific items{nl} in your inventory.
-ETC_20150729_013719	{nl}{nl}The lower part displays the total carry weight of your items, funds, and iCoins.
+ETC_20150729_013719	{nl}{nl}The lower part displays the total carry weight of your items, funds, and TP.
 ETC_20150729_013720	Available quests can be found in the Quest window.
 ETC_20150729_013721	Press {img F5 40 40} to view available quests {nl}or quests that are in progress.
 ETC_20150729_013722	{nl}{nl}You can restart abandoned quests by pressing the
@@ -19117,7 +19117,7 @@ ETC_20151224_019117	Receta - Tribal Chief Head Decoration
 ETC_20151224_019118	Receta - Cat Ears
 ETC_20151224_019119	Receta - Cannon
 ETC_20151224_019120	Receta - Superior Cannon
-ETC_20151224_019121	FAQ : Guarida{nl}1) Puedes cambiar el nombre de tu Guarida dandole click a 'Configuración de Guarida'. {nl}2) Puedes comprar aspectos para tu Guarida usando iCoins al darle click a 'Cambiar Guarida'.{nl}3) Puedes elegir el canal al que deseas ingresar desde tu Guarida.
+ETC_20151224_019121	FAQ : Guarida{nl}1) Puedes cambiar el nombre de tu Guarida dandole click a 'Configuración de Guarida'. {nl}2) Puedes comprar aspectos para tu Guarida usando TP al darle click a 'Cambiar Guarida'.{nl}3) Puedes elegir el canal al que deseas ingresar desde tu Guarida.
 ETC_20151224_019122	Enter '/y' in the chat window to send a world message. (Requires a Megaphone)
 ETC_20151224_019123	Level Reset
 ETC_20151224_019124	/guildinvite
