@@ -2603,7 +2603,7 @@ ETC_20150317_002602	{Auto_1} Asalto Grupal ha comenzado {nl} Presiona el botón 
 ETC_20150317_002603	Te has unido al grupo de {Auto_1}
 ETC_20150317_002604	Has creado el Grupo {Auto_1}.
 ETC_20150317_002605	{Inviter} te ha invitado a su grupo.{nl}¿Deseas unirte?
-ETC_20150317_002606	{PJ} ya es miembro de un grupo
+ETC_20150317_002606	{PC} ya es miembro de un grupo
 ETC_20150317_002607	No eres miembro de un grupo
 ETC_20150317_002608	¿Quieres abandonar este grupo?
 ETC_20150317_002609	Tu líder de grupo quiere desarmar el grupo {nl} ¿Seguro de desarmar el grupo?
@@ -2689,7 +2689,7 @@ ETC_20150317_002688	¡Has puesto un objeto en la subasta!
 ETC_20150317_002689	{Bidder} es el mejor postor para {ItemName}.{/}
 ETC_20150317_002690	Eres el mejor postor para {Auto_1}.{/}
 ETC_20150317_002691	{ItemName} está siendo subastado en {MapName}.
-ETC_20150317_002692	{PJ} ha ganado {ItemName} de la subasta.
+ETC_20150317_002692	{PC} ha ganado {ItemName} de la subasta.
 ETC_20150317_002693	No puedes pujar más que el precio de venta fijado.
 ETC_20150317_002694	¿Confirmar compra?
 ETC_20150317_002695	¿Quienes adoptar este Compañero?
@@ -19629,7 +19629,7 @@ ETC_20151224_019629	Enter Guild Description
 ETC_20151224_019630	Joined {Auto_1}'s guild
 ETC_20151224_019631	Created the {Auto_1} guild
 ETC_20151224_019632	{Inviter}{nl}has sent you a party invite.{nl}Would you like to join?
-ETC_20151224_019633	{PJ} is already in a party.
+ETC_20151224_019633	{PC} is already in a party.
 ETC_20151224_019634	You are not in a party and in a guild.
 ETC_20151224_019635	Are you sure you want to leave this guild?
 ETC_20151224_019636	Are you sure you want to disband this guild?
@@ -19698,7 +19698,7 @@ ETC_20151224_019698	Currently Online: {Cur}/{Max}
 ETC_20151224_019699	Do you want to use{nl}{SkillName}?
 ETC_20151224_019700	The guild master used{nl}{SkillName}{nl}Will you accept?
 ETC_20151224_019701	Guild Master
-ETC_20151224_019702	{PJ} is already affiliated with another guild.
+ETC_20151224_019702	{PC} is already affiliated with another guild.
 ETC_20151224_019703	You need to be a {Name} in order to create a guild.
 ETC_20151224_019704	{Price} silver will be charged to create a guild.
 ETC_20151224_019705	You cannot disband a guild while you are at war.
