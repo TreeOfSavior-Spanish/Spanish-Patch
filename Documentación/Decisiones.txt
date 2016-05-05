@@ -194,6 +194,7 @@ Scroll --> Pergamino
 Token (No el Premium)-> Símbolo
 Core -> Núcleo
 Shell --> Caparazón
+Eyeball --> Globo Ocular
 
 [ Lore del Juego ] 
 Aspectos clave del juego cómo eventos y nombres propios no deberían ser traducidos (Ej: Medzio Diena)
