@@ -7,7 +7,6 @@ Miembros:
 - Razku
 - Alex-GS (Thenestas)
 - DkAngelS
-- Kikinavu
 
 ## Archivos a Traducir:
 - ETC.tsv - Darkelfen (elfengirox00)
