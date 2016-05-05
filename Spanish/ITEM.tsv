@@ -1455,9 +1455,9 @@ ITEM_20150317_001454	Habilidad 3 de Pulsera
 ITEM_20150317_001455	Habilidad 4 de Pulsera
 ITEM_20150317_001456	Traje de Montañero
 ITEM_20150317_001457	Traje
-ITEM_20150317_001458	Se hizo con elegancia para el palacio real y eventos formales pero, sin ser restrictivo para los movimientos de sus extremidades. 
+ITEM_20150317_001458	Se hizo con elegancia para el palacio real y eventos formales pero, sin ser restrictivo {nl}para los movimientos de sus extremidades. 
 ITEM_20150317_001459	Traje de Peltasta
-ITEM_20150317_001460	Los Peltastas prefieren un equipo de lujo, ya que se preocupan más en hacer alarde de sus acciones de combate a sus aliados que de los peligros de ser descubierto por un enemigo. 
+ITEM_20150317_001460	Los Peltastas prefieren un equipo de lujo, {nl}ya que se preocupan más en hacer alarde de {nl}sus acciones de combate a sus aliados que de los peligros de ser descubierto por un enemigo. 
 ITEM_20150317_001461	Traje de Hoplita
 ITEM_20150317_001462	Un traje hecho para un movimiento versatil de las piernas tales como saltar o lanzar una lanza. También apropiado para eventos que requieren traje formal. 
 ITEM_20150317_001463	Traje de Centurión
@@ -2103,7 +2103,7 @@ ITEM_20150317_002102	Tallo de Kepa
 ITEM_20150317_002103	Objeto obtenido de un monstruo.
 ITEM_20150317_002104	Un tallo largo que tiene un sabor ligeramente picante. {nl}Obtenido de Kepas. 
 ITEM_20150317_002105	Caparazón de Insecto Hoja
-ITEM_20150317_002106	Un caprazón de españlda delgado. Un patrón débil es visible. {nl}Obtenido de Leaf Bugs. 
+ITEM_20150317_002106	Un caprazón de españlda delgado. Un patrón {nl}débil es visible. {nl}Obtenido de Leaf Bugs. 
 ITEM_20150317_002107	Hoja de Chinency
 ITEM_20150317_002108	Una hoja que tiene un sabor ligeramente amargo. Se vuelve mas gruesa cuando se acerca al tallo. {nl}Obtenido de Chinencys. 
 ITEM_20150317_002109	Caparazón de Infro Rocktor
@@ -2162,13 +2162,13 @@ ITEM_20150317_002161	Es ligera y frágil debido a su núcleo vacío. {nl}Obtenid
 ITEM_20150317_002162	Aguijón de Operor 
 ITEM_20150317_002163	Debido a su pequeño tamaño, los artesanos experimentados son los unicos capaces de utilizarlos. {nl}Obtenido de Operors. 
 ITEM_20150317_002164	Caparazón de Gusano Saco
-ITEM_20150317_002165	Aunque es demasiado blando para ser llamado un 'caparazón', se puede hacer una tela con el. {nl}Obtenido de Bagworms. 
+ITEM_20150317_002165	Aunque es demasiado blando para ser llamado {nl}un 'caparazón', se puede hacer una tela con el. {nl}Obtenido de Bagworms. 
 ITEM_20150317_002166	Cristal de Truffle
 ITEM_20150317_002167	Este cristal se formó por la solidificación de la savia dentro de la planta. {nl}Obtenido de Truffles. 
 ITEM_20150317_002168	Tallo de Matsum
-ITEM_20150317_002169	La gente a veces se hierve esta raíz para hacer una bebida que frena el hambre. {nl}Obtenido de Matsums. 
+ITEM_20150317_002169	La gente a veces hierve esta raíz para hacer una bebida que frena el hambre. {nl}Obtenido de Matsums. 
 ITEM_20150317_002170	Corazón de Merog
-ITEM_20150317_002171	No se utiliza como alimento, pero a menudo se utiliza para la investigación mágica. {nl}Obtenido de Merogs. 
+ITEM_20150317_002171	No se utiliza como alimento, pero a menudo se {nl}utiliza para la investigación mágica. {nl}Obtenido de Merogs. 
 ITEM_20150317_002172	Ala de Chafperor
 ITEM_20150317_002173	Un ala transparente. {nl}Obtenido de Chafperors. 
 ITEM_20150317_002174	Caparazón de Insecto Hoja de las Catacumbas
@@ -2281,7 +2281,7 @@ ITEM_20150317_002280	Un pico usado en las minas. Puede ser usado como arma si se
 ITEM_20150317_002281	Capucha de Vubbe
 ITEM_20150317_002282	De acuerdo con una teoría, Vubbes usan esto para verse lujosos. {nl}Obtenido de Vubbe Mages and Vubbe Shamans. 
 ITEM_20150317_002283	Ala de Dandel
-ITEM_20150317_002284	Parece similar a un ala de muercielago, pero en realidad es tallo de planta. {nl}Obtenido de Dandels. 
+ITEM_20150317_002284	Parece similar a un ala de muercielago, pero en realidad es un tallo de planta. {nl}Obtenido de Dandels. 
 ITEM_20150317_002285	Ceja de Panto
 ITEM_20150317_002286	Eje de Lanza Panto
 ITEM_20150317_002287	Lanza usada por los Pantos. {nl}Obtenido de Panto Spearmen. 
@@ -2314,7 +2314,7 @@ ITEM_20150317_002313	Madera de Fresno
 ITEM_20150317_002314	Madera de Pino
 ITEM_20150317_002315	Madera de Cedro
 ITEM_20150317_002316	Tallo de Coliflower
-ITEM_20150317_002317	Es difícil de procesar debido a la abundancia de púas en el tallo. {nl}Obtenido de Coliflowers. 
+ITEM_20150317_002317	Es difícil de procesar debido a la abundancia de {nl}púas en el tallo. {nl}Obtenido de Coliflowers. 
 ITEM_20150317_002318	Núcleo Alterado de Sauga 
 ITEM_20150317_002319	Núcleo que ha sido modificado para una mayor rendimiento. {nl}Obtenido de Saugas. 
 ITEM_20150317_002320	Cristal de Dandel
@@ -2368,7 +2368,7 @@ ITEM_20150317_002367	Los Murciélagos usan sus colmillos para chuparle la sangre
 ITEM_20150317_002368	Trozo de Tela de Shredded
 ITEM_20150317_002369	Un  viejo trozo de tela. {nl}Obtenido de Shreddeds. 
 ITEM_20150317_002370	Materia de Espíritu de Shredded
-ITEM_20150317_002371	Una manifestación física de un espíritu fuerte. Podrias ser poseído, si llevas un dispositivo de seguridad. {nl}Obtenido de Shreddeds. 
+ITEM_20150317_002371	Una manifestación física de un espíritu fuerte. {nl}Podrias ser poseído, si llevas un dispositivo de seguridad. {nl}Obtenido de Shreddeds. 
 ITEM_20150317_002372	Diente de Yekubite
 ITEM_20150317_002373	Un diente que se ha desarrollado para triturar la carne. {nl}Obtenido de Yekubites. 
 ITEM_20150317_002374	Cristal de Yekubite
@@ -2390,7 +2390,7 @@ ITEM_20150317_002389	Ten cuidado siempre con las alas de un insecto. {nl}Obtenid
 ITEM_20150317_002390	Antena de Leafly 
 ITEM_20150317_002391	Huevo de Leafly
 ITEM_20150317_002392	Semilla de Seedmia
-ITEM_20150317_002393	¿Cómo es crecera una Seedmia? {nl}Obtenido de Seedmias. 
+ITEM_20150317_002393	¿Cómo crecera una Seedmia? {nl}Obtenido de Seedmias. 
 ITEM_20150317_002394	Polen de Seedmia
 ITEM_20150317_002395	Hombrera de Draco
 ITEM_20150317_002396	Piel de Firent
@@ -2400,7 +2400,7 @@ ITEM_20150317_002399	Podría ser útil si se repara. {nl}Obtenido de Panto Fight
 ITEM_20150317_002400	Pezuña de Panto
 ITEM_20150317_002401	Decoracón de  Varita de Panto Shaman
 ITEM_20150317_002402	Carne de Mallardu
-ITEM_20150317_002403	Una buena fuenta de proteinas. {nl}Obtenido de Mallardus. 
+ITEM_20150317_002403	Una buena fuente de proteinas. {nl}Obtenido de Mallardus. 
 ITEM_20150317_002404	Pluma de Mallardu
 ITEM_20150317_002405	Pico de Mallardu
 ITEM_20150317_002406	Flor Violeta
@@ -2441,10 +2441,10 @@ ITEM_20150317_002440	Obtenido de Pescador.
 ITEM_20150317_002441	Núcleo de Pescador
 ITEM_20150317_002442	Cuchillo de Cocina
 ITEM_20150317_002443	Un cuchillo de cocina dentado. {nl}Obtenido de Brown Zigris. 
-ITEM_20150317_002444	Grancho Grande
+ITEM_20150317_002444	Gancho Grande
 ITEM_20150317_002445	Si no necesitas un gancho, puedes fundirlo para hacer otra cosa. {nl}Obtenido de Green Puragis. 
 ITEM_20150317_002446	Materia de Espíritu de Banshee  
-ITEM_20150317_002447	Una manifestación física de un espíritu fuerte. Podrias ser poseído, si llevas un dispositivo de seguridad. {nl}Obtenido de Banshees. 
+ITEM_20150317_002447	Una manifestación física de un espíritu fuerte. {nl}Podrias ser poseído, si llevas un dispositivo de seguridad. {nl}Obtenido de Banshees. 
 ITEM_20150317_002448	Flecha Pluplu
 ITEM_20150317_002449	El ruido que hace esta flecha puede ser usado para alertar de peligros o comunicarse con otros. 
 ITEM_20150317_002450	Ojo Rojo de Shtayim 
