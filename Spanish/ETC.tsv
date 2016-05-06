@@ -1055,7 +1055,7 @@ ETC_20150317_001054	The Reveladores are addled.
 ETC_20150317_001055	Addled Explorador
 ETC_20150317_001056	Addled Rodelero
 ETC_20150317_001057	Addled Monje
-ETC_20150317_001058	Addled Barbarian
+ETC_20150317_001058	Addled Bárbaro
 ETC_20150317_001059	Riteris
 ETC_20150317_001060	Yellow Gazing Golem
 ETC_20150317_001061	Yellow Firent
@@ -1142,7 +1142,7 @@ ETC_20150317_001141	Fedimian Territory
 ETC_20150317_001142	City
 ETC_20150317_001143	Klaipeda Region
 ETC_20150317_001144	Klaipeda
-ETC_20150317_001145	Highlander Master's Training Hall
+ETC_20150317_001145	Montañés Master's Training Hall
 ETC_20150317_001146	Bokor Master's Home
 ETC_20150317_001147	Piromante Master's Lab
 ETC_20150317_001148	Mercenary Post
@@ -5437,8 +5437,8 @@ ETC_20150317_005436	Requiere 2do círculo de Piromante
 ETC_20150317_005437	Requiere 3er círculo de Piromante
 ETC_20150317_005438	Requiere 2do círculo de Criomante
 ETC_20150317_005439	Requiere 3er círculo de Criomante
-ETC_20150317_005440	Requiere 2do círculo de Highlander
-ETC_20150317_005441	Requiere 3er círculo de Highlander
+ETC_20150317_005440	Requiere 2do círculo de Montañés
+ETC_20150317_005441	Requiere 3er círculo de Montañés
 ETC_20150317_005442	Requiere 2do círculo de Hoplita
 ETC_20150317_005443	Requiere 3er círculo de Hoplita
 ETC_20150317_005444	Requiere 2do círculo de Krivis
@@ -5477,7 +5477,7 @@ ETC_20150317_005476	Puntuación del Test
 ETC_20150317_005477	Mejor Daño
 ETC_20150317_005478	Máximo Daño
 ETC_20150317_005479	Inicio del Salvador
-ETC_20150317_005480	Este título es entregado a los jugadores que participated in the CBT.
+ETC_20150317_005480	Título entregado por participated in the CBT.
 ETC_20150317_005481	Jefe de Monstruos
 ETC_20150317_005482	Derrotado a 100 monstruos.
 ETC_20150317_005483	Conquistador de Monstruos
@@ -6243,7 +6243,7 @@ ETC_20150317_006243	{s18}{#001100}¡¡¡Caerán objetos al derrotar a este Monst
 ETC_20150317_006244	{s18}{#001100}Puedes progresar la misión apretando la Barra Espaciadora cerca de la bandera roja de un PNJ.{/}
 ETC_20150317_006245	{s18}{#001100}Puedes aumentar varias características completando una Colección. {/}
 ETC_20150317_006246	Los Espadachínes son guerreros con una gran fuerza física.{nl}Usan varias armas para enfrentar a los enemigos de cerca{nl}y ser la primera línea.
-ETC_20150317_006247	Highlander
+ETC_20150317_006247	Montañés
 ETC_20150317_006248	Los Highlanders son fieros guerreros que usan espadas de dos manos. Hacen que sus enemigos se estrellen contra si mismos o contra el terreno, así que son perfectos para enfrentarse a varios enemigos.
 ETC_20150317_006249	Peltasta
 ETC_20150317_006250	Los Peltasta son guerreros defensivos que usan sus escudos para bloquear y provocar a los enemigos.
@@ -6529,7 +6529,7 @@ ETC_20150317_006529	Bonewide Cliff
 ETC_20150317_006530	Duokliu Hall
 ETC_20150317_006531	Sudetas Valley
 ETC_20150317_006532	Stone Hill
-ETC_20150317_006533	Cradle of Squire
+ETC_20150317_006533	Cradle of Escudero
 ETC_20150317_006534	Mine Worker's Resting Place
 ETC_20150317_006535	District 2
 ETC_20150317_006536	District 3
@@ -7129,7 +7129,7 @@ ETC_20150317_007129	Estatua de piedra de Cápitan Hogma
 ETC_20150317_007130	Estatua de piedra de Hogma 2
 ETC_20150317_007131	Estatua de piedra de Cháman Hogma
 ETC_20150317_007132	Estatua de piedra de Hogma01
-ETC_20150317_007133	Treasure Chest 3cm
+ETC_20150317_007133	Cofre del Tesoro 3cm
 ETC_20150317_007134	Cofre del Tesoro de Kateen
 ETC_20150317_007135	Cofre del Tesoro de Área en Ruinas
 ETC_20150317_007136	Cofre del Tesoro de Siauliai
@@ -7214,7 +7214,7 @@ ETC_20150317_007214	Vubbe Caído
 ETC_20150317_007215	Cargador de la Mina inmóvil
 ETC_20150317_007216	Aldeana
 ETC_20150317_007217	Vagón de la Mina
-ETC_20150317_007218	Mini Cube de la Tumba
+ETC_20150317_007218	Mini Cubo de la Tumba
 ETC_20150317_007219	Apicultor1
 ETC_20150317_007220	Apicultor2
 ETC_20150317_007221	Apicultor3
@@ -7266,87 +7266,87 @@ ETC_20150317_007266	Rama de Árbol
 ETC_20150317_007267	Panal de Abejas
 ETC_20150317_007268	Panal Roto
 ETC_20150317_007269	Panal
-ETC_20150317_007270	Ordinary Husband
-ETC_20150317_007271	Ordinary Wife
-ETC_20150317_007272	Old Man
-ETC_20150317_007273	Secret Warp Portal
+ETC_20150317_007270	Esposo
+ETC_20150317_007271	Esposa
+ETC_20150317_007272	Anciano
+ETC_20150317_007273	Portal Secreto
 ETC_20150317_007274	Anciana (Aquamarine)
 ETC_20150317_007275	Anciana (Blue)
 ETC_20150317_007276	Anciana (Dark Brown)
 ETC_20150317_007277	Anciana (Pink)
 ETC_20150317_007278	Anciana (Purple)
 ETC_20150317_007279	Carro
-ETC_20150317_007280	Half-destroyed Altar
-ETC_20150317_007281	Santuario Object
+ETC_20150317_007280	Altar a medio destruir
+ETC_20150317_007281	Objeto del Santuario
 ETC_20150317_007282	Peregrino PNJ Woman's tomb
-ETC_20150317_007283	Black Market Exclusive Object
-ETC_20150317_007284	Tree Stump
-ETC_20150317_007285	Skinny Tree
-ETC_20150317_007286	Holy Tree
-ETC_20150317_007287	Leaf Veil Plateau Carro
-ETC_20150317_007288	Program Carro
-ETC_20150317_007289	Plataforma Pilar de Roca Carro
-ETC_20150317_007290	Meseta Gele Carro
+ETC_20150317_007283	Objeto Exclusivo del Mercado Negro
+ETC_20150317_007284	Tocón
+ETC_20150317_007285	Árbol Delgado
+ETC_20150317_007286	Árbol Sagrado
+ETC_20150317_007287	Carro de Meseta Velo de Hojas
+ETC_20150317_007288	Programar Carro
+ETC_20150317_007289	Carro de Plataforma Pilar de Roca
+ETC_20150317_007290	Carro de Meseta Gele
 ETC_20150317_007291	Raíz de Bramble
 ETC_20150317_007292	Skull Pile_1
 ETC_20150317_007293	Skull Pile_2
 ETC_20150317_007294	Skull Pile_3
-ETC_20150317_007295	Demons' Prison Warp
-ETC_20150317_007296	Big Bouquet1
-ETC_20150317_007297	Big Bouquet2
-ETC_20150317_007298	Small Treasure Chest
+ETC_20150317_007295	Teletransporte a Prisión de los Demonios
+ETC_20150317_007296	Gran Ramo1
+ETC_20150317_007297	Gran Ramo2
+ETC_20150317_007298	Cofre del Tesoro Pequeño
 ETC_20150317_007299	Velheider
-ETC_20150317_007300	Monsters have appeared near Rafflesia.
+ETC_20150317_007300	Han aparecido monstruos cerca de la Rafflesia.
 ETC_20150317_007301	Hoglan
-ETC_20150317_007302	Accessory Shop
-ETC_20150317_007303	Miscellaneous Items
-ETC_20150317_007304	Skip Tutorial
-ETC_20150317_007305	Use Druída Attributes
-ETC_20150317_007306	Use Sadhu Attributes
-ETC_20150317_007307	Use Wugushi Attributes
-ETC_20150317_007308	Use Rodelero Attributes
-ETC_20150317_007309	Use Squire Attributes
-ETC_20150317_007310	Use Taumaturgo Attributes
-ETC_20150317_007311	Use Elementalista Attributes
-ETC_20150317_007312	Use Explorador Attributes
-ETC_20150317_007313	Use Barbarian Attributes
-ETC_20150317_007314	Use Hoplite Attributes
-ETC_20150317_007315	Use Mentalista Attributes
-ETC_20150317_007316	The Vinculador Attributes
-ETC_20150317_007317	Use Zapador Attributes
-ETC_20150317_007318	Use Cazador Attributes
-ETC_20150317_007319	Use Escultor Santo Attributes
-ETC_20150317_007320	Buy Escultor Santo Items
-ETC_20150317_007321	Use Alquimista Attributes
-ETC_20150317_007322	Use Sacerdote Attributes
-ETC_20150317_007323	Buy Sacerdote Items
-ETC_20150317_007324	Use Krivis Attributes
-ETC_20150317_007325	Use Clérigo Attributes
-ETC_20150317_007326	Use Paladín Attributes
-ETC_20150317_007327	Use Flechero Attributes
-ETC_20150317_007328	Use Corsair Attributes
-ETC_20150317_007329	Use Rogue Attributes
-ETC_20150317_007330	Use Schwarzer Reiter Attributes
-ETC_20150317_007331	Use Hackapell Attributes
-ETC_20150317_007332	Use Oráculo Attributes
-ETC_20150317_007333	Use Bokor Attributes
-ETC_20150317_007334	Use Peltasta Attributes
-ETC_20150317_007335	Use Highlander Attributes
-ETC_20150317_007336	Use Piromante Attributes
-ETC_20150317_007337	Buy Piromante Items
-ETC_20150317_007338	Use Criomante Attributes
-ETC_20150317_007339	Use Swordsman Attributes
-ETC_20150317_007340	Use Wizard Attributes
-ETC_20150317_007341	Use Arquero Attributes
-ETC_20150317_007342	Use Ballestero Attributes
-ETC_20150317_007343	Use Guardabosque Attributes
-ETC_20150317_007344	Use Monje Attributes
-ETC_20150317_007345	Use Redentor Attributes
-ETC_20150317_007346	Buy Redentor Items
-ETC_20150317_007347	Use Hechicero Attributes
-ETC_20150317_007348	Use Nigromante Attributes
-ETC_20150317_007349	Use Mercenario Attributes
-ETC_20150317_007350	Use Cronomante Attributes
+ETC_20150317_007302	Tienda de Accesorios
+ETC_20150317_007303	Objetos Miscelaneos
+ETC_20150317_007304	Saltar Tutorial
+ETC_20150317_007305	Usar Atributos de Druída
+ETC_20150317_007306	Usar Atributos de Sadhu
+ETC_20150317_007307	Usar Atributos de Wugushi
+ETC_20150317_007308	Usar Atributos de Rodelero
+ETC_20150317_007309	Usar Atributos de Escudero
+ETC_20150317_007310	Usar Atributos de Taumaturgo
+ETC_20150317_007311	Usar Atributos de Elementalista
+ETC_20150317_007312	Usar Atributos de Explorador
+ETC_20150317_007313	Usar Atributos de Bárbaro
+ETC_20150317_007314	Usar Atributos de Hoplita
+ETC_20150317_007315	Usar Atributos de Mentalista
+ETC_20150317_007316	de Vinculador
+ETC_20150317_007317	Usar Atributos de Zapador
+ETC_20150317_007318	Usar Atributos de Cazador
+ETC_20150317_007319	Usar Atributos de Escultor Santo
+ETC_20150317_007320	Comprar Objetos de Escultor Santo
+ETC_20150317_007321	Usar Atributos de Alquimista
+ETC_20150317_007322	Usar Atributos de Sacerdote
+ETC_20150317_007323	Comprar Objetos de Sacerdote
+ETC_20150317_007324	Usar Atributos de Krivis
+ETC_20150317_007325	Usar Atributos de Clérigo
+ETC_20150317_007326	Usar Atributos de Paladín
+ETC_20150317_007327	Usar Atributos de Flechero 
+ETC_20150317_007328	Usar Atributos de Corsario 
+ETC_20150317_007329	Usar Atributos de Rogue 
+ETC_20150317_007330	Usar Atributos de Schwarzer Reiter 
+ETC_20150317_007331	Usar Atributos de Hackapell 
+ETC_20150317_007332	Usar Atributos de Oráculo 
+ETC_20150317_007333	Usar Atributos de Bokor 
+ETC_20150317_007334	Usar Atributos de Peltasta 
+ETC_20150317_007335	Usar Atributos de Montañés 
+ETC_20150317_007336	Usar Atributos de Piromante 
+ETC_20150317_007337	Comprar Objetos de Piromante 
+ETC_20150317_007338	Usar Atributos de Criomante 
+ETC_20150317_007339	Usar Atributos de Espadachín 
+ETC_20150317_007340	Usar Atributos de Wizard 
+ETC_20150317_007341	Usar Atributos de Arquero 
+ETC_20150317_007342	Usar Atributos de Ballestero 
+ETC_20150317_007343	Usar Atributos de Guardabosque 
+ETC_20150317_007344	Usar Atributos de Monje 
+ETC_20150317_007345	Usar Atributos de Redentor 
+ETC_20150317_007346	Comprar Objetos de Redentor 
+ETC_20150317_007347	Usar Atributos de Hechicero 
+ETC_20150317_007348	Usar Atributos de Nigromante 
+ETC_20150317_007349	Usar Atributos de Mercenario 
+ETC_20150317_007350	Usar Atributos de Cronomante 
 ETC_20150317_007351	Attack +%d
 ETC_20150317_007352	Critical Hit Rating +%d
 ETC_20150317_007353	STR +%d
@@ -7730,7 +7730,7 @@ ETC_20150317_007730	Manage the Statue of Diosa Vakarine in Fedimian
 ETC_20150317_007731	Manage the Statue of Diosa Vakarine in Klaipeda
 ETC_20150317_007732	Remove the source of corruption
 ETC_20150317_007733	Use the Crest of Emptiness towards the girl near the portal
-ETC_20150317_007734	Santuario of Secrecy - Swordsman type_conditions
+ETC_20150317_007734	Santuario of Secrecy - Espadachín type_conditions
 ETC_20150317_007735	Santuario of Secrecy - Wizard type_conditions
 ETC_20150317_007736	Santuario of Secrecy - Arquero type_conditions
 ETC_20150317_007737	Santuario of Secrecy - Clérigo type_conditions
@@ -7936,7 +7936,7 @@ ETC_20150317_007936	Find the cathedral's things
 ETC_20150317_007937	Petrified Book Rubbing
 ETC_20150317_007938	Quest Buff
 ETC_20150317_007939	Move to Fallen Worry Forest through Gate Route and Spineheart Dale
-ETC_20150317_007940	Move to Leaf Veil Plateau
+ETC_20150317_007940	Move to Meseta Velo de Hojas
 ETC_20150317_007941	I will move to Fedimian
 ETC_20150317_007942	Get leather from Jukopus
 ETC_20150317_007943	Get leather from Vubbe Thief
@@ -7969,7 +7969,7 @@ ETC_20150317_007969	N/A
 ETC_20150317_007970	N/A
 ETC_20150317_007971	N/A
 ETC_20150317_007972	Kill countdown (for suicide)
-ETC_20150317_007973	Essence of Fire [Highlander Ascenso]
+ETC_20150317_007973	Essence of Fire [Montañés Ascenso]
 ETC_20150317_007974	Second Thorn Gate (3)
 ETC_20150317_007975	Interrupt Strategy
 ETC_20150317_007976	Completed Power (1)
@@ -8635,17 +8635,17 @@ ETC_20150317_008635	Play with a pre-made team with the appropriate level.
 ETC_20150317_008636	Solo (Rank)
 ETC_20150317_008637	Team (Rank)
 ETC_20150317_008638	System-wide
-ETC_20150317_008639	Swordsman Ascenso
-ETC_20150317_008640	Highlander Ascenso
+ETC_20150317_008639	Espadachín Ascenso
+ETC_20150317_008640	Montañés Ascenso
 ETC_20150317_008641	Peltasta Ascenso
-ETC_20150317_008642	Hoplite Ascenso
+ETC_20150317_008642	Hoplita Ascenso
 ETC_20150317_008643	Centurion Ascenso
-ETC_20150317_008644	Barbarian Ascenso
+ETC_20150317_008644	Bárbaro Ascenso
 ETC_20150317_008645	Cataphract Ascenso
-ETC_20150317_008646	Corsair Ascenso
+ETC_20150317_008646	Corsario Ascenso
 ETC_20150317_008647	Mercenario Ascenso
 ETC_20150317_008648	Rodelero Ascenso
-ETC_20150317_008649	Squire Ascenso
+ETC_20150317_008649	Escudero Ascenso
 ETC_20150317_008650	Murmillo Ascenso
 ETC_20150317_008651	Shinobi Ascenso
 ETC_20150317_008652	Wizard Ascenso
@@ -8818,7 +8818,7 @@ ETC_20150317_008818	Warp move_1 Tip
 ETC_20150317_008819	You can move to other areas through the Statue of Diosa Vakarine.
 ETC_20150317_008820	Warp move_2 Tip
 ETC_20150317_008821	You can move to other areas using the Pergamino de Teletranporte if there is no Statue of Diosa Vakarine nearby.
-ETC_20150317_008822	Treasure Chest Tip
+ETC_20150317_008822	Cofre del Tesoro Tip
 ETC_20150317_008823	During your adventure, you can find hidden treasure chests. Some treasure chests may require keys that match the level of the chest.
 ETC_20150317_008824	Video Recording Tip
 ETC_20150317_008825	Press F12 to record gameplay videos.
@@ -8876,8 +8876,8 @@ ETC_20150317_008876	An Arquero's basic attack can cause more damage to Flying-ty
 ETC_20150317_008877	Wizard Tip
 ETC_20150317_008878	When a Wizard-type class is attacked during skill casting, the skill can be canceled.
 ETC_20150317_008879	Magic defense increases when a Wizard-type class gains a level.
-ETC_20150317_008880	Swordsman Tip
-ETC_20150317_008881	Physical defense increases when a Swordsman-type class gains a level.
+ETC_20150317_008880	Espadachín Tip
+ETC_20150317_008881	Physical defense increases when a Espadachín-type class gains a level.
 ETC_20150317_008882	Clérigo Tip
 ETC_20150317_008883	The placed magic circles on the ground from a Clérigo-type class may not be effective on Flying-type monsters.
 ETC_20150317_008884	PM and PM recovery rate increases when a Clérigo-type class gains a level.
@@ -9056,12 +9056,12 @@ ETC_20150317_009056	Accessory Merchant
 ETC_20150317_009057	Announcement (Great Cathedral ad)
 ETC_20150317_009058	Ladies excited
 ETC_20150317_009059	Manage the hide and seek
-ETC_20150317_009060	Highlander Master Room
+ETC_20150317_009060	Montañés Master Room
 ETC_20150317_009061	Piromante Master Room
 ETC_20150317_009062	Ascenso Quest Trigger of Criomante
 ETC_20150317_009063	Holidía Guide
 ETC_20150317_009064	Mercenary Post Mánager Rota
-ETC_20150317_009065	Hoplite 4th Ascenso
+ETC_20150317_009065	Hoplita 4th Ascenso
 ETC_20150317_009066	Small Cathedral Ground First Floor
 ETC_20150317_009067	Paladín Master Follower (A)
 ETC_20150317_009068	Paladín Master Follower (B)
@@ -9172,7 +9172,7 @@ ETC_20150317_009172	Specter Cazador
 ETC_20150317_009173	Equipment Trade Point Shop
 ETC_20150317_009174	Soul Peak_1_2
 ETC_20150317_009175	[Rodelero Master]{nl} Kamiya
-ETC_20150317_009176	[Squire Master]{nl} Justina Legwyn
+ETC_20150317_009176	[Escudero Master]{nl} Justina Legwyn
 ETC_20150317_009177	[Taumaturgo Master]{nl} Larisa
 ETC_20150317_009178	[Elementalista Master]{nl} Wican Celestic
 ETC_20150317_009179	[Explorador Master]{nl} Recon Rimgaile
@@ -9185,8 +9185,8 @@ ETC_20150317_009185	[Hackapell Master]{nl} Flint Boulder
 ETC_20150317_009186	[Druída Master]{nl}   Gina Greene
 ETC_20150317_009187	[Officer]{nl} Dalrine
 ETC_20150317_009188	[Piromante Master]{nl} Abreh Melinn
-ETC_20150317_009189	[Highlander Master]{nl}       Douglas Black
-ETC_20150317_009190	Highlander Hidden Quest
+ETC_20150317_009189	[Montañés Master]{nl}       Douglas Black
+ETC_20150317_009190	Montañés Hidden Quest
 ETC_20150317_009191	Practice Post (Fire)
 ETC_20150317_009192	Practice Post (Poison)
 ETC_20150317_009193	Practice Post (Lightning)
@@ -9200,7 +9200,7 @@ ETC_20150317_009200	[Peltasta Master]{nl}     Maria Leed
 ETC_20150317_009201	[Criomante Master]{nl}    Aleister Crowley
 ETC_20150317_009202	[Ballestero Master]{nl}              Ream Toiler
 ETC_20150317_009203	[Guardabosque Master]{nl}       Nemoken
-ETC_20150317_009204	[Swordsman Master]{nl}              Rashua
+ETC_20150317_009204	[Espadachín Master]{nl}              Rashua
 ETC_20150317_009205	[Wizard Master]{nl}        Lucia
 ETC_20150317_009206	[Arquero Master]{nl} Edmundas Tiller
 ETC_20150317_009207	[Clérigo Master]{nl}       Rozalija
@@ -9491,7 +9491,7 @@ ETC_20150317_009491	Aras' Commission (6)
 ETC_20150317_009492	Aldea Minera Entry (2)
 ETC_20150317_009493	[Zapador Master]{nl} Leonard Quicktongue
 ETC_20150317_009494	[Cazador Master]{nl}    Fiona Ieva
-ETC_20150317_009495	[Barbarian Master]{nl} Walder Junnot
+ETC_20150317_009495	[Bárbaro Master]{nl} Walder Junnot
 ETC_20150317_009496	For the 4th Bokor Ascenso
 ETC_20150317_009497	Hidden trigger for 5th Ascenso of Wizard, Piromante, Criomante
 ETC_20150317_009498	Rankis Seal Tower
@@ -9515,7 +9515,7 @@ ETC_20150317_009515	Hidden trigger for 5th Ascenso Mentalista_Vinculador_Alquimi
 ETC_20150317_009516	Mine Mánager Brinker
 ETC_20150317_009517	Start Trigger
 ETC_20150317_009518	Medium Boss Golem Trigger
-ETC_20150317_009519	[Hoplite Master]{nl}    Adidas Baylor
+ETC_20150317_009519	[Hoplita Master]{nl}    Adidas Baylor
 ETC_20150317_009520	For Krivis' 4th Ascenso quest track
 ETC_20150317_009521	Rocktortuga Spawn Trigger
 ETC_20150317_009522	Maggot
@@ -9534,11 +9534,11 @@ ETC_20150323_009534	Silva Griffin
 ETC_20150323_009535	Gold Hairpin
 ETC_20150323_009536	Bug
 ETC_20150323_009537	Summon
-ETC_20150323_009538	Squire Armor Repair Prop
-ETC_20150323_009539	Squire Armor Repair Signboard
-ETC_20150323_009540	Squire Sign Board
-ETC_20150323_009541	Squire Work Table
-ETC_20150323_009542	Squire Anvil
+ETC_20150323_009538	Escudero Armor Repair Prop
+ETC_20150323_009539	Escudero Armor Repair Signboard
+ETC_20150323_009540	Escudero Sign Board
+ETC_20150323_009541	Escudero Work Table
+ETC_20150323_009542	Escudero Anvil
 ETC_20150323_009543	Mass Egg
 ETC_20150323_009544	Armaos
 ETC_20150323_009545	Glutton
@@ -9573,7 +9573,7 @@ ETC_20150323_009573	Dvasia Peak
 ETC_20150323_009574	Ramstis Ridge
 ETC_20150323_009575	Akmens Ridge
 ETC_20150323_009577	Rukas Plateau
-ETC_20150323_009576	Tiltas Valley
+ETC_20150323_009576	Valle Tiltas
 ETC_20150323_009578	Zachariel Crossroads
 ETC_20150323_009579	Stele Road
 ETC_20150323_009580	Escanciu Village
@@ -10554,7 +10554,7 @@ ETC_20150401_010555	Finished cooking food
 ETC_20150401_010556	Charge amount: {Value}
 ETC_20150401_010557	Repair has been completed
 ETC_20150401_010558	The gem is higher than the seller's skill
-ETC_20150401_010559	Squire Shop
+ETC_20150401_010559	Escudero Shop
 ETC_20150401_010560	Gem Roasting Shop
 ETC_20150401_010561	Offering items that can only be sold in town.
 ETC_20150401_010562	Repairing
@@ -10915,7 +10915,7 @@ ETC_20150414_010916	Charge Monster Power
 ETC_20150414_010917	Spider Web
 ETC_20150414_010918	Highlanders are tough fighters who use two-handed swords. They make enemies collide against each other or against terrain, so they are great for handling multiple enemies.
 ETC_20150414_010919	Centurions command the battle with formations. They control their allies and use different formations depending on the situation.
-ETC_20150414_010920	Corsairs are specialized in dual-wielding and ambushing enemies from behind. Anyone who joins a Corsair's party becomes a pirate.
+ETC_20150414_010920	Corsairs are specialized in dual-wielding and ambushing enemies from behind. Anyone who joins a Corsario's party becomes a pirate.
 ETC_20150414_010921	Attack, Party
 ETC_20150414_010922	Mercenarios are mercenaries who endure high risk for high rewards. They dangerously expose themselves to enemies to receive high attack power or high EXP.
 ETC_20150414_010923	Squires are warriors who support their allies. They support by repairing and enhancing others' weapons, or by setting up a base camp to aid their team.
@@ -10973,7 +10973,7 @@ ETC_20150414_010974	Druída Male
 ETC_20150414_010975	Druída Female
 ETC_20150414_010976	Hawk
 ETC_20150414_010977	Buy Wugushi Items
-ETC_20150414_010978	Buy Squire Items
+ETC_20150414_010978	Buy Escudero Items
 ETC_20150414_010979	Use Alquimista Attribute
 ETC_20150414_010980	Buy Alquimista Items
 ETC_20150414_010981	Buy Flechero Items
@@ -11439,7 +11439,7 @@ ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by cli
 ETC_20150428_011441	FAQ : Modo Descanso{nl}1) Press the INSERT key to switch to Modo Descanso. {nl}2) PS, PM, RES will be restored. {nl}3) You can light up a bonfire, craft items, enhance gems or combine cards in Modo Descanso.{nl} You need 'Firewood' to create a bonfire. {nl} PS, PM, RES is restored quicker when you use a bonfire.{nl}4) Other functions will be added in the near future.
 ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Decreases a little bit when you play with the equipment on.{nl}    When an item's durability decreases below a certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
 ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Vendedor de Objetos in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
-ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on what class you are. {nl} If you advance to a Highlander, you can learn the 'Use Two-handed Swords' attribute from the Highlander Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
+ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on what class you are. {nl} If you advance to a Montañés, you can learn the 'Use Two-handed Swords' attribute from the Montañés Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
 ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge Skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
 ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to 'Controller UI Mode' through game settings when you are using a controller. {nl}2) There is a special 'Low Mode' for PCs with minimum system requirements.
 ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter '/y' before your message to show your message to all the players in the game. {nl} It requires a Megaphone item to do so. {nl}2) Party Chat: Enter '/p' before your message to chat with the party members in your party. {nl}Whisper: Enter '/w Team Name' before your message to talk privately with the player of that Team Name.
@@ -11586,7 +11586,7 @@ ETC_20150428_011587	Raging Peregrino's Soul
 ETC_20150428_011588	Altar-bound Peregrino's Soul
 ETC_20150428_011589	Merge-bound Soul
 ETC_20150428_011590	Wastebasket
-ETC_20150428_011591	Hidden Treasure Chest
+ETC_20150428_011591	Hidden Cofre del Tesoro
 ETC_20150428_011592	[Monje Master]{nl} Olfas Grimm
 ETC_20150428_011593	[Schwarzer Reiter Master]{nl} Warsis Creak
 ETC_20150511_011594	Return to the creation site
@@ -11827,18 +11827,18 @@ ETC_20150714_011828	Contributed 50 times
 ETC_20150714_011829	Senior Redentor
 ETC_20150714_011830	The benefits you received by contributing are countless, right?
 ETC_20150714_011831	Contributed 100 times
-ETC_20150714_011832	The Greatest Heir
-ETC_20150714_011833	Este título es entregado a los jugadores que have completed the main story quest of Tiltas Valley.
+ETC_20150714_011832	El más grande Heredero
+ETC_20150714_011833	Título entregado por completar las misiones del Valle Tiltas.
 ETC_20150714_011834	Tenant's Friend
-ETC_20150714_011835	Este título es entregado a los jugadores que have completed the main story quest of Tenants' Farm.
+ETC_20150714_011835	Título entregado por have completed the main story quest of Tenants' Farm.
 ETC_20150714_011836	Epigraphist
-ETC_20150714_011837	Este título es entregado a los jugadores que have completed the main story quest of Escanciu Village.
+ETC_20150714_011837	Título entregado por have completed the main story quest of Escanciu Village.
 ETC_20150714_011838	Philipas' Honorable Soldier
-ETC_20150714_011839	Este título es entregado a los jugadores que have completed the main story quest of Saknis Plains.
+ETC_20150714_011839	Título entregado por have completed the main story quest of Saknis Plains.
 ETC_20150714_011840	Sunset Flag Bearer
-ETC_20150714_011841	Este título es entregado a los jugadores que have completed the main story quest of Sunset Flag Forest.
+ETC_20150714_011841	Título entregado por have completed the main story quest of Sunset Flag Forest.
 ETC_20150714_011842	Purifying Mediator
-ETC_20150714_011843	Este título es entregado a los jugadores que have completed the main story quest of Shaton Reservoir.
+ETC_20150714_011843	Título entregado por have completed the main story quest of Shaton Reservoir.
 ETC_20150714_011844	Never Die
 ETC_20150714_011845	Resurrect 1,000 times
 ETC_20150714_011846	Contribution Level
@@ -12243,7 +12243,7 @@ ETC_20150714_012244	Your character's level is not high enough.
 ETC_20150714_012245	The connection with the server has been disconnected. Reconnecting...
 ETC_20150714_012246	The error from the server has occurred so it restored automatically.
 ETC_20150714_012247	Attached Items
-ETC_20150714_012248	Do you want to give this item to {PJ}?
+ETC_20150714_012248	Do you want to give this item to {PC}?
 ETC_20150714_012249	You have received the item(s).
 ETC_20150714_012250	You are too close to the Base Camp.
 ETC_20150714_012251	You are far away from the refreshment table.
@@ -12308,8 +12308,8 @@ ETC_20150714_012309	You already possess lots of Food Scraps!
 ETC_20150714_012310	You've failed the quest since the stamina of the refugees ran out!{nl}You can't start the quest within the next 5 minutes.
 ETC_20150714_012311	You've failed the quest since the time ran out!{nl}You can't start the quest within the next 5 minutes.
 ETC_20150714_012312	Use this near a pillar with a similar pattern like the Seal of Space
-ETC_20150714_012313	You've returned all the evil energy into the Treasure Chest
-ETC_20150714_012314	The evil energy was absorbed by the Treasure Chest
+ETC_20150714_012313	You've returned all the evil energy into the Cofre del Tesoro
+ETC_20150714_012314	The evil energy was absorbed by the Cofre del Tesoro
 ETC_20150714_012315	You have succeeded in destroying the Demon Summoning Circle
 ETC_20150714_012316	You've put the handkerchief back into the box{nl} You can pull it out again
 ETC_20150714_012317	There's no key that works{nl}Try finding the key from the monsters
@@ -12671,7 +12671,7 @@ ETC_20150714_012672	{Name} te ha invitado a {PVPName}. ¿Deseas unirte?
 ETC_20150714_012673	You've invited the party members. Wait for their responses.
 ETC_20150714_012674	{Killer} derrotó a {Killee}
 ETC_20150714_012675	{Killee} fue derrotado por {Killer}
-ETC_20150714_012676	Viendo a ({PJ})
+ETC_20150714_012676	Viendo a ({PC})
 ETC_20150714_012677	¿Estás seguro que quieres ver este juego?
 ETC_20150714_012678	Comprar puntos
 ETC_20150714_012679	The name of the party is either too long or too short.
@@ -13003,7 +13003,7 @@ ETC_20150714_013004	Hitme Experience
 ETC_20150714_013005	Reputation Point
 ETC_20150714_013006	EX4> JobChange:First:M (Only given to males upon first job Ascenso to target job)
 ETC_20150714_013007	EX3> JobChange:First (Given upon first job Ascenso to target job)
-ETC_20150714_013008	EX2> WIZ:M/WAR:F (Only given to Wizard males and Swordsman females)
+ETC_20150714_013008	EX2> WIZ:M/WAR:F (Only given to Wizard males and Espadachín females)
 ETC_20150714_013009	Number 20
 ETC_20150714_013010	Number 19
 ETC_20150714_013011	Number 18
@@ -13231,7 +13231,7 @@ ETC_20150717_013232	Choose the control mode from Game Settings.
 ETC_20150717_013233	For the controller, use the Control Pad to move.
 ETC_20150717_013234	For the mouse, click on an area to move your character.
 ETC_20150717_013235	When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40} and {img D 40 40} keys
-ETC_20150717_013236	Press the same arrow key twice to dash when using Swordsman types.
+ETC_20150717_013236	Press the same arrow key twice to dash when using Espadachín types.
 ETC_20150717_013237	Sprint increases your movement speed but also consumes Resistencia faster.
 ETC_20150717_013238	Use jump to cross over obstacles or up higher places.
 ETC_20150717_013239	Press {img X 40 40} to jump.
@@ -13589,7 +13589,7 @@ ETC_20150717_013590	All Equipment
 ETC_20150717_013591	This game is rated ESRB Teen.
 ETC_20150717_013592	There is no empty slot
 ETC_20150717_013593	When you are mounted on a companion, card duels are not possible.
-ETC_20150717_013594	Mouse Mode may not be feasible{nl}for Swordsman and Clérigo-type classes.
+ETC_20150717_013594	Mouse Mode may not be feasible{nl}for Espadachín and Clérigo-type classes.
 ETC_20150717_013595	Item distribution has been changed to {Change}.
 ETC_20150717_013596	EXP distribution has been changed to {Change}.
 ETC_20150717_013597	Quest Sharing has been changed to {Change}.
@@ -13676,7 +13676,7 @@ ETC_20150729_013677	 are used for character movement. {nl} {img arrowkey_up 40 4
 ETC_20150729_013678	Controller : Press {img move_all 40 40} or {img stic_L 40 40} to move.
 ETC_20150729_013679	Mouse : {img mouseclick_left 40 40} on the area where you want to move the character.
 ETC_20150729_013680	When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40}, {img D 40 40} keys
-ETC_20150729_013681	For Swordsman types, double tap a directional key to 'Dash'.
+ETC_20150729_013681	For Espadachín types, double tap a directional key to 'Dash'.
 ETC_20150729_013682	To view this help list again, press {img F10 40 40}
 ETC_20150729_013683	Use Jump to cross over obstacles or up higher places.
 ETC_20150729_013684	Press {img X 40 40} to jump.
@@ -13913,7 +13913,7 @@ ETC_20150729_013914	When Party Leader accepts Team Battle League, you can compet
 ETC_20150729_013915	DoTimeAction:Collecting:2:SITGROPE:None
 ETC_20150729_013916	DoTimeAction:Extracting the core of the Monster:3:SITGROPE:None
 ETC_20150729_013917	Notice:NOTICE_Dm_!:You haven't obtained anything:5/NPCDead
-ETC_20150729_013918	The Secret of the Chamber - Swordsman type_Conditions
+ETC_20150729_013918	The Secret of the Chamber - Espadachín type_Conditions
 ETC_20150729_013919	The Secret of the Chamber - Wizard type_Conditions
 ETC_20150729_013920	The Secret of the Chamber - Arquero type_Conditions
 ETC_20150729_013921	The Secret of the Chamber - Clérigo type_Conditions
@@ -14004,7 +14004,7 @@ ETC_20150729_014005	Clérigo Type
 ETC_20150729_014006	My Rank
 ETC_20150729_014007	Kill Rank
 ETC_20150729_014008	Damage Rank
-ETC_20150729_014009	Mouse Mode may not be feasible for Swordsman, Clérigo type classes.
+ETC_20150729_014009	Mouse Mode may not be feasible for Espadachín, Clérigo type classes.
 ETC_20150729_014010	Team Battle League Shop
 ETC_20150729_014011	When you cancel the game, the ticket will be expired. Do you want to continue?
 ETC_20150729_014012	Team Battle League has started. Participate via Diario de Aventuras Ranking Page.
@@ -14020,7 +14020,7 @@ ETC_20150729_014021	Field Gen x
 ETC_20150729_014022	Old piles of bones
 ETC_20150729_014023	The luggage of someone
 ETC_20150729_014024	[Centurion Master]{nl}       Krajicek
-ETC_20150729_014025	[Corsair Master]{nl}    Hayraven
+ETC_20150729_014025	[Corsario Master]{nl}    Hayraven
 ETC_20150729_014026	Outside
 ETC_20150729_014027	2 Area
 ETC_20150729_014028	Grave Keeper Sigis
@@ -14064,7 +14064,7 @@ ETC_20150730_014065	Member Grazina
 ETC_20150730_014066	Member Alina
 ETC_20150730_014067	Peregrino Agatas
 ETC_20150730_014068	Redentor Erikas
-ETC_20150730_014069	Squire Williya
+ETC_20150730_014069	Escudero Williya
 ETC_20150730_014070	Legwyn Gailus
 ETC_20150730_014071	Believer Gintas
 ETC_20150730_014072	Margiris
@@ -14116,7 +14116,7 @@ ETC_20150803_014117	Tell Amanda about the circumstances
 ETC_20150803_014118	Dig through the grass bushes to find something to eat
 ETC_20150803_014119	Throw the core to the terminal
 ETC_20150803_014120	The channel is full
-ETC_20150803_014121	Swordsman class
+ETC_20150803_014121	Espadachín class
 ETC_20150803_014122	Arquero class
 ETC_20150803_014123	Clérigo class
 ETC_20150803_014124	Wizard class
@@ -14968,7 +14968,7 @@ ETC_20151001_014969	Obtain the black and blue herb from greenery
 ETC_20151001_014970	Neutralize Magic
 ETC_20151001_014971	Protect Hauberk while he's reunifying
 ETC_20151001_014972	Soul Scent Collect
-ETC_20151001_014973	Return to Squire Wiliya
+ETC_20151001_014973	Return to Escudero Wiliya
 ETC_20151001_014974	Activate on appointed Altar only
 ETC_20151001_014975	Cremate the revived body
 ETC_20151001_014976	Pull out Grave Keeper's Magic Doll from the Grave Keeper's Chest
@@ -15729,11 +15729,11 @@ ETC_20151016_015730	The stones with out obb
 ETC_20151016_015731	The sanctum object without obb
 ETC_20151016_015732	Spirit Condenser2_1
 ETC_20151016_015733	Spirit Condenser2_2
-ETC_20151016_015734	Swordsman Submaster
+ETC_20151016_015734	Espadachín Submaster
 ETC_20151016_015735	Peltasta Submaster
-ETC_20151016_015736	Highlander Submaster
-ETC_20151016_015737	Hoplite Submaster
-ETC_20151016_015738	Barbarian Submaster
+ETC_20151016_015736	Montañés Submaster
+ETC_20151016_015737	Hoplita Submaster
+ETC_20151016_015738	Bárbaro Submaster
 ETC_20151016_015739	Rodelero Submaster
 ETC_20151016_015740	Cataphract Submaster
 ETC_20151016_015741	Wizard Submaster
@@ -16189,8 +16189,8 @@ ETC_20151022_016190	Spirits overlapped
 ETC_20151022_016191	Spirits are coming.
 ETC_20151022_016192	Sadhu's Energy
 ETC_20151022_016193	When you hunt for the monster that is haunted by this energy, you will be able to absorb that spirit.
-ETC_20151022_016194	Barbarian's Potion Effect
-ETC_20151022_016195	Your powers have been reduced by half due to the Barbarian's Training Potion effect.
+ETC_20151022_016194	Bárbaro's Potion Effect
+ETC_20151022_016195	Your powers have been reduced by half due to the Bárbaro's Training Potion effect.
 ETC_20151022_016196	Chill Air Trap
 ETC_20151022_016197	You've been trapped by the Chill Air trap that protects the device
 ETC_20151022_016198	Mokuton
@@ -16259,12 +16259,12 @@ ETC_20151022_016260	The Statue of Diosa Vakarine at Lemprasa Pond
 ETC_20151022_016261	The Statue of Diosa Zemyna at Lemprasa Pond
 ETC_20151022_016262	The Statue of Diosa Vakarine at Woods of the Linked Bridges
 ETC_20151022_016263	The Statue of Diosa Vakarine at Paupys Crossing
-ETC_20151022_016264	Defeat the monsters using Highlander skills
+ETC_20151022_016264	Defeat the monsters using Montañés skills
 ETC_20151022_016265	Defeat the monsters at Feretory Hills without any buffs
 ETC_20151022_016266	Defeat the beast monsters on Feretory Hills
 ETC_20151022_016267	Defeat the monsters at Feretory Hills
 ETC_20151022_016268	Absorb the spirits of the monsters
-ETC_20151022_016269	Defeat the monsters after drinking Barbarian's potion
+ETC_20151022_016269	Defeat the monsters after drinking Bárbaro's potion
 ETC_20151022_016270	Defeat the monsters using skills that doesn't use a shield
 ETC_20151022_016271	Defeat the monsters while mounted on a companion
 ETC_20151022_016272	Manage Orsha's Statue of Diosa Vakarine
@@ -16417,7 +16417,7 @@ ETC_20151022_016418	You've successfully purified the monsters
 ETC_20151022_016419	Combining the spirits of the monsters
 ETC_20151022_016420	You've absorbed the spirits of the monsters
 ETC_20151022_016421	You've failed to absorb the spirits of the monsters
-ETC_20151022_016422	Drinking the liquid medicine of Barbarian
+ETC_20151022_016422	Drinking the liquid medicine of Bárbaro
 ETC_20151022_016423	Attack has decreased a little bit due to the effects of the liquid medicine!
 ETC_20151022_016424	Inspecting the journal
 ETC_20151022_016425	You can't find anything about the giant bracken
@@ -16435,7 +16435,7 @@ ETC_20151022_016436	Equip Rapier Sub
 ETC_20151022_016437	Equip Crossbow Pistol
 ETC_20151022_016438	Equip Crossbow Cannon
 ETC_20151022_016439	Vendedor de Objetos
-ETC_20151022_016440	[Swordsman Submaster]{nl}              Codill
+ETC_20151022_016440	[Espadachín Submaster]{nl}              Codill
 ETC_20151022_016441	[Peltasta Submaster]{nl}      Nirin Dameoff
 ETC_20151022_016442	[Clérigo Submaster]{nl}     Tamara Easton
 ETC_20151022_016443	[Krivis Submaster]{nl}     Mellinda Dicherin
@@ -16464,13 +16464,13 @@ ETC_20151022_016465	[Kedoran Merchant Alliance]{nl} Margellius
 ETC_20151022_016466	[Kedoran Merchant Alliance]{nl}     Gerda
 ETC_20151022_016467	[Kedoran Merchant Alliance]{nl}   Serapinas
 ETC_20151022_016468	[Esgrimista Master]{nl}  Sorscha Hutton
-ETC_20151022_016469	[Barbarian Submaster]{nl}        Twinhal Koreont
+ETC_20151022_016469	[Bárbaro Submaster]{nl}        Twinhal Koreont
 ETC_20151022_016470	[Escultor Santo Submaster]{nl}        Zenoa Gallant
 ETC_20151022_016471	Padded Leg Herb
 ETC_20151022_016472	Smoking Glue
 ETC_20151022_016473	Smelly Cart
 ETC_20151022_016474	Habitat
-ETC_20151022_016475	[Highlander Submaster]{nl}        Rahelia Black
+ETC_20151022_016475	[Montañés Submaster]{nl}        Rahelia Black
 ETC_20151022_016476	Injured Refugees
 ETC_20151022_016477	Shelter Bonfire
 ETC_20151022_016478	Shelter Pyre
@@ -16888,8 +16888,8 @@ ETC_20151102_016889	Red Long-tailed Chickadee
 ETC_20151102_016890	Flamingo
 ETC_20151102_016891	Rank 7 Ascenso (Test)
 ETC_20151102_016892	Use Ballestero Attributes
-ETC_20151102_016893	Hoplite Attributes
-ETC_20151102_016894	Barbarian Attributes
+ETC_20151102_016893	Hoplita Attributes
+ETC_20151102_016894	Bárbaro Attributes
 ETC_20151102_016895	Use Cataphract Attributes
 ETC_20151102_016896	Piromante Sub-Master's Advice
 ETC_20151102_016897	Mentalista Master's Advice
@@ -18015,7 +18015,7 @@ ETC_20151224_018015	Defeat Dullahan
 ETC_20151224_018016	Returning Crisis (Tenet Garden)
 ETC_20151224_018017	Guild Raid Sample
 ETC_20151224_018018	Rampage of Faultiness (Karolis Springs)
-ETC_20151224_018019	A Forgotten Place (Tiltas Valley)
+ETC_20151224_018019	A Forgotten Place (Valle Tiltas)
 ETC_20151224_018020	Demons' Revolt {Aqueduct Bridge Area}
 ETC_20151224_018021	Birds' Tomb (Main Chamber)
 ETC_20151224_018022	Test Raid
@@ -18025,7 +18025,7 @@ ETC_20151224_018025	Able to use Guild Events
 ETC_20151224_018026	Outsiders allowed to enter the Guild Hangout
 ETC_20151224_018027	Obtain Attribute Points
 ETC_20151224_018028	{nl} {nl}You can select the controls through the game settings.
-ETC_20151224_018029	{nl} {nl}Swordsman-type classes are able to sprint if you press the same directional key twice.
+ETC_20151224_018029	{nl} {nl}Espadachín-type classes are able to sprint if you press the same directional key twice.
 ETC_20151224_018030	{nl} {nl}Use {img space 40 40} to control the the mouse.
 ETC_20151224_018031	{nl} {nl}Press {img ctrl 40 40} to lock a target.
 ETC_20151224_018032	{nl} {nl}Press {img Alt 40 40} to immediately stop movement of your character.
@@ -19155,7 +19155,7 @@ ETC_20151224_019155	Loading the intro...
 ETC_20151224_019156	Do you want to see the intro again?
 ETC_20151224_019157	Current Location
 ETC_20151224_019158	There is an existing item that can be obtained.{nl}You can delete it after receiving all items.
-ETC_20151224_019159	Do you want to receive this item on {PJ}? The item cannot be refunded or returned after retrieval.
+ETC_20151224_019159	Do you want to receive this item on {PC}? The item cannot be refunded or returned after retrieval.
 ETC_20151224_019160	You cannot use the Warpstone right now.
 ETC_20151224_019161	Contains words that cannot be used.
 ETC_20151224_019162	While a shop is open, you cannot delete your character.
@@ -19815,8 +19815,8 @@ ETC_20151224_019815	D-pad Left
 ETC_20151224_019816	D-pad Right
 ETC_20151224_019817	TP Payment/Delete(when minus)(above items rules apply when retry)
 ETC_20151224_019818	TP Payment/Delete(when minus)
-ETC_20151224_019819	EX2> WIZ:M/WAR:F (Male Wizard, Female Swordsman Only)
-ETC_20151224_019820	EX1> WIZ/WAR (Wizard, Swordsman only Supply)
+ETC_20151224_019819	EX2> WIZ:M/WAR:F (Male Wizard, Female Espadachín Only)
+ETC_20151224_019820	EX1> WIZ/WAR (Wizard, Espadachín only Supply)
 ETC_20151224_019821	Fetching Stat Usage Data...
 ETC_20151224_019822	Fetching Skill Usage data...
 ETC_20151224_019823	Fetching TP Usage data...
@@ -19884,7 +19884,7 @@ ETC_20151224_019884	Hairstyle17
 ETC_20151224_019885	Hairstyle18
 ETC_20151224_019886	Underground Catacombs Dungeon Entrance
 ETC_20151224_019887	[TP Trader]{nl}   Leticia
-ETC_20151224_019888	[Maestre Templarioio]{nl}Uska Comandante de los Caballeros
+ETC_20151224_019888	[Maestre Templario]{nl}Uska Comandante de los Caballeros
 ETC_20151224_019889	[Maestre Criomante]{nl}  Aleister Crowley
 ETC_20151224_019890	[Herrería]{nl}   Ilanai
 ETC_20151224_019891	[Vendedor de Equipo]{nl}      Jura
@@ -19957,11 +19957,11 @@ ETC_20151224_019957	Esgrimista Sword Pell
 ETC_20151224_019958	[Dragón Master]{nl}  Valeska Himil
 ETC_20151224_019959	[Cabalista Master]{nl}    Libgar Hippathia
 ETC_20151224_019960	[Médico de Plagas]{nl}Philip Aurellius
-ETC_20151224_019961	[Rodelero Submaster]{nl}            Trogen
-ETC_20151224_019962	[Cataphract Master]{nl}           Dirk Drigg
-ETC_20151224_019963	[Taumaturgo Master]{nl}         Larisa
-ETC_20151224_019964	[Explorador Master]{nl}    Recon Rimgaile
-ETC_20151224_019965	[Wugushi Submaster]{nl}          May Patt
+ETC_20151224_019961	[Vice-maestre Rodelero]{nl}            Trogen
+ETC_20151224_019962	[Maestre Cataphract]{nl}           Dirk Drigg
+ETC_20151224_019963	[Maestre Taumaturgo]{nl}         Larisa
+ETC_20151224_019964	[Maestre Explorador]{nl}    Recon Rimgaile
+ETC_20151224_019965	[Vice-maestre Wugushi]{nl}          May Patt
 ETC_20151224_019966	Canyon Guild Mission
 ETC_20151224_019967	[Elementalista Submaster]{nl}              Zeddie Berrant
 ETC_20151224_019968	Historic Site Ruins Dungeon
@@ -19973,7 +19973,7 @@ ETC_20151224_019973	Scared Settler
 ETC_20151224_019974	Somebody's Diary
 ETC_20151224_019975	[Mentalista Submaster]{nl}          Cielle Gudan
 ETC_20151224_019976	[Vinculador Submaster]{nl}      Roddie Kuska
-ETC_20151224_019977	[Hoplite Submaster]{nl}        Vysiege Thurmore
+ETC_20151224_019977	[Hoplita Submaster]{nl}        Vysiege Thurmore
 ETC_20151224_019978	[Shinobi Master]{nl}  Yura Swanjone
 ETC_20151224_019979	Shinobi Master Trigger
 ETC_20151224_019980	Revived Believer
@@ -20178,25 +20178,25 @@ ETC_20160224_020178	Light Magic Astral Lamp 300 times
 ETC_20160224_020179	Astral Lamp of the Legwyn Family Residence (3)
 ETC_20160224_020180	Demon Prison Exploradorer
 ETC_20160224_020181	Open 35 treasure chests with a blue crystal in Demon Prison
-ETC_20160224_020182	2nd Demon Prison's Treasure Chest
+ETC_20160224_020182	2nd Demon Prison's Cofre del Tesoro
 ETC_20160224_020183	Demon Prison Explorer
 ETC_20160224_020184	Open 105 treasure chests with a blue crystal in Demon Prison
-ETC_20160224_020185	2nd Demon Prison's Treasure Chest (2)
+ETC_20160224_020185	2nd Demon Prison's Cofre del Tesoro (2)
 ETC_20160224_020186	Demon Prison Treasure Cazador
 ETC_20160224_020187	Open 210 treasure chests with a blue crystal in Demon Prison
-ETC_20160224_020188	2nd Demon Prison's Treasure Chest (3)
+ETC_20160224_020188	2nd Demon Prison's Cofre del Tesoro (3)
 ETC_20160224_020189	Topes Fortress Exploradorer
 ETC_20160224_020190	Open 25 demon treasure chests in Topes Fortress
-ETC_20160224_020191	Topes Fortress' Demon Treasure Chest
+ETC_20160224_020191	Topes Fortress' Demon Cofre del Tesoro
 ETC_20160224_020192	Topes Fortress Adventurer
 ETC_20160224_020193	Open 75 demon treasure chests in Topes Fortress
-ETC_20160224_020194	Topes Fortress' Demon Treasure Chest (2)
+ETC_20160224_020194	Topes Fortress' Demon Cofre del Tesoro (2)
 ETC_20160224_020195	Topes Fortress Treasure Cazador
 ETC_20160224_020196	Open 150 demon treasure chests in Topes Fortress
-ETC_20160224_020197	Topes Fortress' Demon Treasure Chest (3)
+ETC_20160224_020197	Topes Fortress' Demon Cofre del Tesoro (3)
 ETC_20160224_020198	Nevellet Quarry Exploradorer
 ETC_20160224_020199	Open 25 treasure chests in Nevellet Quarry
-ETC_20160224_020200	Nevellet Quarry's Treasure Chest
+ETC_20160224_020200	Nevellet Quarry's Cofre del Tesoro
 ETC_20160224_020201	Nevellet Quarry Adventurer
 ETC_20160224_020202	Open 75 treasure chests in Nevellet Quarry
 ETC_20160224_020203	Nevellet Quarry's Treasure Cazador (2)
