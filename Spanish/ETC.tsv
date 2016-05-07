@@ -191,8 +191,8 @@ ETC_20150317_000190	Vekarabe
 ETC_20150317_000191	Comparado con otra especies animales, El Vekarabe no cambió mucho cuando se conviritó en monstruo. Sin embargo, su agresividad es definitivamente nueva.
 ETC_20150317_000192	Geppetto
 ETC_20150317_000193	El nombre de este monstruo se adecúa a su apariencia, pero no refleja del todo su naturaleza.
-ETC_20150317_000194	Liuburo
-ETC_20150317_000195	El Liuburo es uno de los muchos sistemas defensivos dejados por Zachariel el Grande en el Mausoleo Real.
+ETC_20150317_000194	Boowook
+ETC_20150317_000195	El Boowook es uno de los muchos sistemas defensivos dejados por Zachariel el Grande en el Mausoleo Real.
 ETC_20150317_000196	Bearkaras
 ETC_20150317_000197	Pino
 ETC_20150317_000198	Pino fue nombrado así por sus primeros descubridores, tras notar que guardaba relación con Geppetto.
@@ -666,7 +666,7 @@ ETC_20150317_000665	Crazy Woodspirit
 ETC_20150317_000666	Pale Rikaus
 ETC_20150317_000667	Solid Carapace
 ETC_20150317_000668	Impregnable Cyclops
-ETC_20150317_000669	Fearless Blue Sequoia
+ETC_20150317_000669	Fearless Blue Secoya
 ETC_20150317_000670	Thorned Ruíseñor Sombrío
 ETC_20150317_000671	Rock Armor Rocktortuga
 ETC_20150317_000672	Cast Iron Horn Inferbovino
@@ -945,10 +945,10 @@ ETC_20150317_000944	Summoned Poata
 ETC_20150317_000945	Q3 Poata
 ETC_20150317_000946	Q1 Harpeia
 ETC_20150317_000947	Q2 Rocktortuga
-ETC_20150317_000948	Statue of Diosa Zemyna D
-ETC_20150317_000949	Statue of Diosa Zemyna E
-ETC_20150317_000950	Statue of Diosa Vakarine D
-ETC_20150317_000951	Statue of Diosa Vakarine E
+ETC_20150317_000948	Estatua de la Diosa Zemyna D
+ETC_20150317_000949	Estatua de la Diosa Zemyna E
+ETC_20150317_000950	Estatua de la Diosa Vakarine D
+ETC_20150317_000951	Estatua de la Diosa Vakarine E
 ETC_20150317_000952	Romuva D
 ETC_20150317_000953	Romuva E
 ETC_20150317_000954	Mission Gazing Golem
@@ -1083,7 +1083,7 @@ ETC_20150317_001082	Green Candle Spider
 ETC_20150317_001083	White Stumpy Tree
 ETC_20150317_001084	Green Minotauro
 ETC_20150317_001085	White Harpeia
-ETC_20150317_001086	White Sequoia
+ETC_20150317_001086	White Secoya
 ETC_20150317_001087	Green Carcashu
 ETC_20150317_001088	Orange Upent
 ETC_20150317_001089	Old Orange Hook
@@ -1167,7 +1167,7 @@ ETC_20150317_001166	Grassy Brookside
 ETC_20150317_001167	Siete Valles
 ETC_20150317_001168	Rhombuspaving Dale
 ETC_20150317_001169	Seventune Mesa
-ETC_20150317_001170	Kateen
+ETC_20150317_001170	Katyn
 ETC_20150317_001171	Owl Burial Ground
 ETC_20150317_001172	Mina de Cristal Lot 2 - 1F
 ETC_20150317_001173	Mina de Cristal Lot 2 - 2F
@@ -1215,10 +1215,10 @@ ETC_20150317_001214	Torre del Mago 3F
 ETC_20150317_001215	Torre del Mago 4F
 ETC_20150317_001216	Torre del Mago 5F
 ETC_20150317_001217	Romuva Santuario
-ETC_20150317_001218	Starving Demon's Way
+ETC_20150317_001218	Ruta del Demonio Hambriento
 ETC_20150317_001219	Camino del Peregrino
 ETC_20150317_001220	Rayfallen Land
-ETC_20150317_001221	Purple Tree Fault Forest
+ETC_20150317_001221	Bosque Fallido de Árboles Morados
 ETC_20150317_001222	Great Cathedral
 ETC_20150317_001223	Grand Corridor
 ETC_20150317_001224	Penitence Route of Great Cathedral
@@ -1323,7 +1323,7 @@ ETC_20150317_001322	Field of Ruins 37_2
 ETC_20150317_001323	Field of Ruins 37_3
 ETC_20150317_001324	Camino del Peregrino 48
 ETC_20150317_001325	Camino del Peregrino 49
-ETC_20150317_001326	East Siauliai Woods -past
+ETC_20150317_001326	Bosque Siauliai Este -past
 ETC_20150317_001327	Forgotten Port -past
 ETC_20150317_001328	Woods of Attached Bridge -past
 ETC_20150317_001329	Siauliai 50_1
@@ -2522,9 +2522,9 @@ ETC_20150317_002521	Ya encontraste la Joya de Prominencia
 ETC_20150317_002522	Has encontrado la Joya de Prominencia
 ETC_20150317_002523	Información del Purificador Central en el 1er piso
 ETC_20150317_002524	Información del Purificador de Pasillo en el 1er Piso
-ETC_20150317_002525	Información del Purificador Auxiliar en el 2nd Piso
+ETC_20150317_002525	Información del Purificador Auxiliar en el 2do Piso
 ETC_20150317_002526	Has derrotado a Bearkaras. {nl} Encontraste partes útiles en el purificador de repuesto.
-ETC_20150317_002527	Información del Purificador Principal en el 2nd Piso
+ETC_20150317_002527	Información del Purificador Principal en el 2do Piso
 ETC_20150317_002528	El compás no responde
 ETC_20150317_002529	Este purifcador funciona bien.
 ETC_20150317_002530	Puedes escuchar el sonido de maquinas a traves. {nl}Pueden haber lubricantes en el Distrito 5.
@@ -3182,7 +3182,7 @@ ETC_20150317_003181	Tomarlo
 ETC_20150317_003182	Comerlo
 ETC_20150317_003183	Intentar comerlo
 ETC_20150317_003184	No puedo aguantarme... Debo... darle... una probada...
-ETC_20150317_003185	Maravillas del Bosque Kateen
+ETC_20150317_003185	Maravillas del Bosque Katyn
 ETC_20150317_003186	El poder de sólo 6 piedras no es suficiente
 ETC_20150317_003187	Vubbe Minero de Rocas
 ETC_20150317_003188	Vubbet Minero con Pico
@@ -3263,13 +3263,13 @@ ETC_20150317_003262	¡El efecto de las piedras activas ha sido deshabilitado!
 ETC_20150317_003263	¡El efecto de las piedras activas ha sido deshabilitado!{nl} Puedes recibir el Buff activado nuevamente si regresas al manual de Supresor del Mausoleo
 ETC_20150317_003264	Absorviendo Energía
 ETC_20150317_003265	Removiendo
-ETC_20150317_003266	Liuburo Despierto
+ETC_20150317_003266	Boowook Despierto
 ETC_20150317_003267	Despertando
 ETC_20150317_003268	Liberando
 ETC_20150317_003269	Llave de la tropa local faltante
 ETC_20150317_003270	¡Ofrecido a la tropa local!
 ETC_20150317_003271	Consagrando la fuente de poder
-ETC_20150317_003272	¡Tienes que consagrar la Fuente de poder!
+ETC_20150317_003272	¡Has consagrado la fuente de poder!
 ETC_20150317_003273	La fuente de poder no es suficiente
 ETC_20150317_003274	Deshazte de las Almas Ominosas
 ETC_20150317_003275	Apagando dispositivo guardían
@@ -3390,7 +3390,7 @@ ETC_20150317_003389	Busca grabado oculto
 ETC_20150317_003390	¡Derrota a los monstruos alrededor del marcador!
 ETC_20150317_003391	¡Debes derrotar los monstruos alrededor del artefacto!
 ETC_20150317_003392	Has obtenido Metos del Cañón
-ETC_20150317_003393	Has obtenido suplementos para ayudar a la investigación
+ETC_20150317_003393	Has obtenido suministros para ayudar a la investigación
 ETC_20150317_003394	Has obtenido flores del área del cañón
 ETC_20150317_003395	Recolectando savia de árbol
 ETC_20150317_003396	No has recolectado suficiente savia de árbol
@@ -3486,9 +3486,9 @@ ETC_20150317_003485	[Atrae a Sparnas] debe ser completada para avanzar
 ETC_20150317_003486	Alto Pokubu de Gelsbas
 ETC_20150317_003487	¡PELIGRO! ¡PRECAUCIÓN!{nl}¡Camino equivocado!
 ETC_20150317_003488	Suena cómo una buena canción, a copiarla
-ETC_20150317_003489	¡Derrota a los Chupacabras que invadieron la base de suplementos!
+ETC_20150317_003489	¡Derrota a los Chupacabras que invadieron la base de suministros!
 ETC_20150317_003490	¡Derrota a los monstruos!
-ETC_20150317_003491	Has recuperado los suplementos
+ETC_20150317_003491	Has recuperado los suministros
 ETC_20150317_003492	Este caja es sospechosa. ¡Alejate!
 ETC_20150317_003493	Comprar Equipo
 ETC_20150317_003494	Comprar Herramientas
@@ -3501,8 +3501,8 @@ ETC_20150317_003500	Es imposible.
 ETC_20150317_003501	Dando tratamiento
 ETC_20150317_003502	¡Paciente tratado!
 ETC_20150317_003503	Soldado tratado
-ETC_20150317_003504	Obtenida caja de suplementos
-ETC_20150317_003505	Has adquirido suplementos para aliviar
+ETC_20150317_003504	Obtenida caja de suministros
+ETC_20150317_003505	Has adquirido suministros para aliviar
 ETC_20150317_003506	Has obtenido una roca para reforzar el muro
 ETC_20150317_003507	Esparciendo
 ETC_20150317_003508	Pareciera que debemos regresar rápido
@@ -4125,7 +4125,7 @@ ETC_20150317_004124	Cambiando las propiedades de la ventana
 ETC_20150317_004125	Borrar ventana
 ETC_20150317_004126	Tiempo Restante:
 ETC_20150317_004127	No recuperaré PS y PM.
-ETC_20150317_004128	Aumentar STR e INT.
+ETC_20150317_004128	Aumentar FUE e INT.
 ETC_20150317_004129	{@st42b}Ver úbicación del servidor{/}
 ETC_20150317_004130	{@st42b}View Node{/}
 ETC_20150317_004131	{@st42b}XAC Texture Path{/}
@@ -4466,7 +4466,7 @@ ETC_20150317_004465	banshee_purple_event: Banshee Jibyu: 34
 ETC_20150317_004466	Bube_Goblin_Spear: High Vubbe Spearman: 37 / Bube_Goblin_Spear: High Vubbe Spearman: 37 / HighBube_Spear: High Vubbe Spearman: 37 / HighBube_Archer: High Vubbe Arqueros: 37
 ETC_20150317_004467	Mushroom_boy_red: Ludas Mini Griba: 33
 ETC_20150317_004468	Mushroom_boy_red: Ludas Mini Griba: 35
-ETC_20150317_004469	¡Los suplementos han arrivado!
+ETC_20150317_004469	¡Los suministros han arrivado!
 ETC_20150317_004470	¡El hambre me está matando!
 ETC_20150317_004471	Sigo bien...
 ETC_20150317_004472	The third argument UnHideNPC EX>
@@ -5120,7 +5120,7 @@ ETC_20150317_005119	¡Retírense a la dortalece!
 ETC_20150317_005120	Fuerte del Portal de la Tierra
 ETC_20150317_005121	¡Asiste a los guardias y derrota a las Ballenas de Piedra!
 ETC_20150317_005122	Guardía de la Armada Real
-ETC_20150317_005123	Gracias por los suplementos.
+ETC_20150317_005123	Gracias por los suministros.
 ETC_20150317_005124	¿Qué es este lío?
 ETC_20150317_005125	¿Qué es eso?
 ETC_20150317_005126	Por cierto, sabia un poco quemado
@@ -5275,7 +5275,7 @@ ETC_20150317_005274	Raptorpedo atacó por sorpresa{nl}¡Derrota al Raptorpedo!
 ETC_20150317_005275	Señal
 ETC_20150317_005276	¡Mira allá! Me estaré escondiendo detrás.
 ETC_20150317_005277	Artefacto del Mausoleo Real
-ETC_20150317_005278	¡Protege al Archivador Jonas de los monstruos hasta que se le pase su dolor de cabeza!
+ETC_20150317_005278	¡Protege al Archivero Jonas de los monstruos hasta que se le pase su dolor de cabeza!
 ETC_20150317_005279	¡Es Molich! ¡Corran!
 ETC_20150317_005280	¡Han aparecido monstruos mientras tratabas de abrir el sello!{nl}¡Debes mantenerte con vida hasta que acabe el tiempo!
 ETC_20150317_005281	Primer Sello del Santuario
@@ -6138,10 +6138,10 @@ ETC_20150317_006138	PNJs en la ciudad.
 ETC_20150317_006139	Puedes elegir donde empezar la Fogata.
 ETC_20150317_006140	Añadir Leña
 ETC_20150317_006141	Cocinando
-ETC_20150317_006142	Suplementos Esparcidos
-ETC_20150317_006143	Como recuperar la caja de suplementos
+ETC_20150317_006142	Suministros Esparcidos
+ETC_20150317_006143	Como recuperar la caja de suministros
 ETC_20150317_006144	Las primeras cajas se encuentran esparcidas en el Bosque al Este.
-ETC_20150317_006145	Presiona {img SPACE 40 40} frente a las cajas de suplementos para recuperarlas.
+ETC_20150317_006145	Presiona {img SPACE 40 40} frente a las cajas de suministros para recuperarlas.
 ETC_20150317_006146	Compañero
 ETC_20150317_006147	Compañeros
 ETC_20150317_006148	Adopta y entrena Compañeros para ayudarte en combate y transportarte.
@@ -6510,7 +6510,7 @@ ETC_20150317_006510	Malkos Felled Area
 ETC_20150317_006511	Fourth Supply Room
 ETC_20150317_006512	Third Supply Room
 ETC_20150317_006513	Central Plaza
-ETC_20150317_006514	Bosque Kateen Camp
+ETC_20150317_006514	Bosque Katyn Camp
 ETC_20150317_006515	Peledos Crossroads
 ETC_20150317_006516	Uzesy Hill
 ETC_20150317_006517	Purple Fountain
@@ -6560,9 +6560,9 @@ ETC_20150317_006560	Alkune Stairway
 ETC_20150317_006561	Vienisa Highland
 ETC_20150317_006562	Ratas Fork
 ETC_20150317_006563	Nutoles Cliff
-ETC_20150317_006564	Rodoma 1st Ruins
+ETC_20150317_006564	Rodoma 1er Ruins
 ETC_20150317_006565	Tomb Guard's Cabin
-ETC_20150317_006566	Rodoma 2nd Ruins
+ETC_20150317_006566	Rodoma 2do Ruins
 ETC_20150317_006567	Collapsed Stone Pillar Bridge
 ETC_20150317_006568	Zibintu Uphill
 ETC_20150317_006569	Geltonas Highland
@@ -6738,15 +6738,15 @@ ETC_20150317_006738	Office
 ETC_20150317_006739	Place for Debate
 ETC_20150317_006740	Laboratory
 ETC_20150317_006741	Central Control Room
-ETC_20150317_006742	1st Library
+ETC_20150317_006742	1er Library
 ETC_20150317_006743	Boiling Balcony
 ETC_20150317_006744	Laboratory
 ETC_20150317_006745	Melting Square
 ETC_20150317_006746	Large Central Brazier
 ETC_20150317_006747	Magic Stabilizing Device
-ETC_20150317_006748	1st Machinery Room
+ETC_20150317_006748	1er Machinery Room
 ETC_20150317_006749	Rest Room
-ETC_20150317_006750	2nd Machinery Room
+ETC_20150317_006750	2do Machinery Room
 ETC_20150317_006751	Hall of Fire
 ETC_20150317_006752	Great Hall of Keturidu
 ETC_20150317_006753	Akasya Field
@@ -6769,8 +6769,8 @@ ETC_20150317_006769	Vulvini Farm
 ETC_20150317_006770	Hoga Road
 ETC_20150317_006771	Abandoned Bee Farm
 ETC_20150317_006772	Arkllui Crossroads
-ETC_20150317_006773	1st Apicultor Camp
-ETC_20150317_006774	2nd Apicultor Camp
+ETC_20150317_006773	1er Apicultor Camp
+ETC_20150317_006774	2do Apicultor Camp
 ETC_20150317_006775	Vaskas Village
 ETC_20150317_006776	Palama Cliff
 ETC_20150317_006777	Stulr Road
@@ -7130,7 +7130,7 @@ ETC_20150317_007130	Estatua de piedra de Hogma 2
 ETC_20150317_007131	Estatua de piedra de Cháman Hogma
 ETC_20150317_007132	Estatua de piedra de Hogma01
 ETC_20150317_007133	Cofre del Tesoro 3cm
-ETC_20150317_007134	Cofre del Tesoro de Kateen
+ETC_20150317_007134	Cofre del Tesoro de Katyn
 ETC_20150317_007135	Cofre del Tesoro de Área en Ruinas
 ETC_20150317_007136	Cofre del Tesoro de Siauliai
 ETC_20150317_007137	Cofre del Tesoro de Tierras Aísladas
@@ -7347,334 +7347,334 @@ ETC_20150317_007347	Usar Atributos de Hechicero
 ETC_20150317_007348	Usar Atributos de Nigromante 
 ETC_20150317_007349	Usar Atributos de Mercenario 
 ETC_20150317_007350	Usar Atributos de Cronomante 
-ETC_20150317_007351	Attack +%d
-ETC_20150317_007352	Critical Hit Rating +%d
-ETC_20150317_007353	STR +%d
+ETC_20150317_007351	Ataque +%d
+ETC_20150317_007352	Probabilidad de Crítico +%d
+ETC_20150317_007353	FUE +%d
 ETC_20150317_007354	DES +%d
 ETC_20150317_007355	Resistencia +%d
 ETC_20150317_007356	INT +%d
-ETC_20150317_007357	Critical Damage +%d
+ETC_20150317_007357	Daño Crítico +%d
 ETC_20150317_007358	Max PS +%d
 ETC_20150317_007359	Max PM +%d
-ETC_20150317_007360	Accuracy +%d
-ETC_20150317_007361	Defense +%d
-ETC_20150317_007362	Defense +%d
-ETC_20150317_007363	Critical Damage Resistance +%d
-ETC_20150317_007364	Evasion +%d
-ETC_20150317_007365	Devil-type +%d
-ETC_20150317_007366	Devil-type Resistance +%d
-ETC_20150317_007367	Plant-type +%d
-ETC_20150317_007368	Plant-type Resistance +%d
-ETC_20150317_007369	Mutant-type +%d
-ETC_20150317_007370	Mutant-type Resistance +%d
-ETC_20150317_007371	Beast-type +%d
-ETC_20150317_007372	Beast-type Resistance +%d
-ETC_20150317_007373	Pierce Damage +%d
-ETC_20150317_007374	Pierce Resistance +%d
-ETC_20150317_007375	Slash Damage +%d
-ETC_20150317_007376	Slash Resistance +%d
-ETC_20150317_007377	Strike Damage +%d
-ETC_20150317_007378	Strike Resistance +%d
-ETC_20150317_007379	Fire Damage +%d
-ETC_20150317_007380	Fire Resistance +%d
-ETC_20150317_007381	Ice Damage +%d
-ETC_20150317_007382	Ice Resistance +%d
-ETC_20150317_007383	Wind Damage +%d
-ETC_20150317_007384	Wind Resistance +%d
-ETC_20150317_007385	Damage over Time +%d
-ETC_20150317_007386	Damage over Time Resistance +%d
-ETC_20150317_007387	Poison Damage +%d
-ETC_20150317_007388	Poison Resistance +%d
-ETC_20150317_007389	Magic Damage +%d
-ETC_20150317_007390	Magic Resistance +%d
-ETC_20150317_007391	Dark Damage +%d
-ETC_20150317_007392	Dark Resistance +%d
+ETC_20150317_007360	Precisión +%d
+ETC_20150317_007361	Defensa +%d
+ETC_20150317_007362	Defensa +%d
+ETC_20150317_007363	Resistencia a críticos +%d
+ETC_20150317_007364	Evasión +%d
+ETC_20150317_007365	Tipo Demonio +%d
+ETC_20150317_007366	Resistencia a Demonios +%d
+ETC_20150317_007367	Tipo Planta +%d
+ETC_20150317_007368	Resistencia a Plantas +%d
+ETC_20150317_007369	Tipo Mutante +%d
+ETC_20150317_007370	Resistencia a Mutantes +%d
+ETC_20150317_007371	Tipo Bestia +%d
+ETC_20150317_007372	Resistencia a Bestias +%d
+ETC_20150317_007373	Daño Penetrante +%d
+ETC_20150317_007374	Resistencia a Penetrantes +%d
+ETC_20150317_007375	Daño Corte +%d
+ETC_20150317_007376	Resistencia a Cortes +%d
+ETC_20150317_007377	Daño Golpe +%d
+ETC_20150317_007378	Resistencia a Golpes +%d
+ETC_20150317_007379	Daño Fuego +%d
+ETC_20150317_007380	Resistencia a Fuego +%d
+ETC_20150317_007381	Daño Hielo +%d
+ETC_20150317_007382	Resistencia a Hielo +%d
+ETC_20150317_007383	Daño a Viento +%d
+ETC_20150317_007384	Resistencia a Viento +%d
+ETC_20150317_007385	Daño Continuo +%d
+ETC_20150317_007386	Resistencia a Daño Continuo +%d
+ETC_20150317_007387	Daño Veneno +%d
+ETC_20150317_007388	Resistencia a Veneno +%d
+ETC_20150317_007389	Daño Mágico +%d
+ETC_20150317_007390	Resistencia a Magias +%d
+ETC_20150317_007391	Daño Oscuridad +%d
+ETC_20150317_007392	Resistencia a Oscuridad +%d
 ETC_20150317_007393	I_force011_green #head
-ETC_20150317_007394	Vubbe Hunting
-ETC_20150317_007395	Field Boss hunting
-ETC_20150317_007396	Hunt the boss monster together with party members.
-ETC_20150317_007397	Certain players can speak
-ETC_20150317_007398	%s player %s (this) that
-ETC_20150317_007399	Nothing
-ETC_20150317_007400	Nothing to say
-ETC_20150317_007401	A player has requested a conversation
-ETC_20150317_007402	%s conversation request
-ETC_20150317_007403	A player has joined the area
-ETC_20150317_007404	%s players nearby
-ETC_20150317_007405	A player has left the area
-ETC_20150317_007406	%s player leaves the area
-ETC_20150317_007407	A certain player give the items
-ETC_20150317_007408	%s players zoom the items
-ETC_20150317_007409	Talk to player
-ETC_20150317_007410	I say that player %s to
-ETC_20150317_007411	Hello.
-ETC_20150317_007412	Normal attack in front
-ETC_20150317_007413	Give the experience of a certain percentage
+ETC_20150317_007394	Caza de Vubbes
+ETC_20150317_007395	Cacería de Jefe
+ETC_20150317_007396	Caza al monstruo jefe junto a tus miembros de grupo.
+ETC_20150317_007397	Ciertos jugadores pueden hablar
+ETC_20150317_007398	%s jugador %s (esto) eso
+ETC_20150317_007399	Nada
+ETC_20150317_007400	Nada que decir
+ETC_20150317_007401	Un jugador ha solicitado conversar
+ETC_20150317_007402	%s petición de conversación
+ETC_20150317_007403	Un jugador se ha unido al área
+ETC_20150317_007404	%s jugadores cercanos
+ETC_20150317_007405	Un jugador ha dejado el área
+ETC_20150317_007406	%s ha dejado el área
+ETC_20150317_007407	Cierto jugador dió el objeto
+ETC_20150317_007408	%s jugadores identificaron el objeto
+ETC_20150317_007409	Hablar a jugador
+ETC_20150317_007410	Le dije al jugador %s que
+ETC_20150317_007411	Hola.
+ETC_20150317_007412	Ataque normal al frente
+ETC_20150317_007413	Dar cierto % de EXP
 ETC_20150317_007414	%s% of the experience value cycle
-ETC_20150317_007415	Logout
-ETC_20150317_007416	Love
-ETC_20150317_007417	Victory
-ETC_20150317_007418	Best
-ETC_20150317_007419	Follow
-ETC_20150317_007420	Help
-ETC_20150317_007421	Hi
-ETC_20150317_007422	No!
-ETC_20150317_007423	Sorry
-ETC_20150317_007424	Thanks
-ETC_20150317_007425	Good
-ETC_20150317_007426	Greetings
-ETC_20150317_007427	Salute
-ETC_20150317_007428	Cheer
-ETC_20150317_007429	Hearts
+ETC_20150317_007415	Salir
+ETC_20150317_007416	Amor
+ETC_20150317_007417	Victoria
+ETC_20150317_007418	Lo mejor
+ETC_20150317_007419	Seguir
+ETC_20150317_007420	Ayuda
+ETC_20150317_007421	Hola
+ETC_20150317_007422	¡No!
+ETC_20150317_007423	Lo siento
+ETC_20150317_007424	Gracias
+ETC_20150317_007425	Bien
+ETC_20150317_007426	Saludos
+ETC_20150317_007427	Saludo Militar
+ETC_20150317_007428	Animar
+ETC_20150317_007429	Corazones
 ETC_20150317_007430	Hadouken
-ETC_20150317_007431	Surprised
-ETC_20150317_007432	Cry
-ETC_20150317_007433	Red Tree Rumor
-ETC_20150317_007434	Defeat Goblin de Madera Rojo Gigante
-ETC_20150317_007435	According to the travelers who passed through the Starving Demon's Way a few días ago,
-ETC_20150317_007436	appeared and attacked the person.  The rumor is the stolen item is going to be returned
-ETC_20150317_007437	Once defeat them.
-ETC_20150317_007438	Spider under darkness
-ETC_20150317_007439	According to a rumor from Fedimian Suburbs, when Pilgrims peregrinoage on the Ray-lit Land
-ETC_20150317_007440	appeared at back and took the peregrinos.
-ETC_20150317_007441	If you defeat it, you will have both the respect and stolen items.
-ETC_20150317_007442	Timid Robber
-ETC_20150317_007443	Defeat Ballestero del Templo
-ETC_20150317_007444	The ones who survived from the destroyed city are either losing their lives or being stolen from the Scattered Stairway that is on the way to Fedimian. According to what survivors said
-ETC_20150317_007445	Robber is mainly attacking the rich person.
-ETC_20150317_007446	If you defeat them, you have the booty.
-ETC_20150317_007447	Santuario Pilgrimage
-ETC_20150317_007448	Activate Santuario Device
-ETC_20150317_007449	Lots of Reveladores are traveling various collapsed places in the world to look for the arrangement of the Diosas. While they were doing so, they found a place that looks to be the sanctum at Scattered Stairway. If you could recover and use it, you will be the hero to the ones who travel to that region.
-ETC_20150317_007450	Suspicious spell device
-ETC_20150317_007451	Activate spell device
-ETC_20150317_007452	According to what Exploradors reported, they found the magical device that they didn't see before at the hillside of Purple Tree Fault Forest. They tried to activate it, but since there are too many monsters nearby, they just fled away. Someone should try activating it and see what effects there will be.
-ETC_20150317_007453	Hire Mercenary!
-ETC_20150317_007454	Protect big merchant Gilliam
-ETC_20150317_007455	There is news that Gilliam, a big merchant who did not sell items to anyone, has been placed at the crossroad of a new city.
-ETC_20150317_007456	Basic Session
+ETC_20150317_007431	Sorpresa
+ETC_20150317_007432	Llanto
+ETC_20150317_007433	Rumor de un Árbol Rojo
+ETC_20150317_007434	Derrota a Goblin de Madera Rojo Gigante
+ETC_20150317_007435	De acuerdo a los viajeros que pasaron por la Ruta del Demonio Hambriento unos días atrás,
+ETC_20150317_007436	apareció y atacó.  El rumor dice que los objetos robados serán retornados
+ETC_20150317_007437	Una vez los derrotes.
+ETC_20150317_007438	Araña bajo la oscuridad
+ETC_20150317_007439	De acuerdo a un rumor en los Suburbios de Fedimian, cuando los Peregrinos comenzaron su peregrinación en la Tierra Iluminada por los Rayos
+ETC_20150317_007440	apareció por atrás y raptó a los Peregrinos.
+ETC_20150317_007441	Si lo derrotas, obtendrás ambas respeto y los bienes robados.
+ETC_20150317_007442	Ladrón Tímido
+ETC_20150317_007443	Derrota al Ballestero del Templo
+ETC_20150317_007444	Los supervivientes de la ciudad en ruinas están o perdiendo sus vidas o siendo robados en la Escalonada Dispersa en su camino a Fedimian. De acuerdo a los supervivientes
+ETC_20150317_007445	El ladrón ataca principalmente a los ricos.
+ETC_20150317_007446	Si los derrotas, obtendrás la recompenza.
+ETC_20150317_007447	Santuario Peregrino
+ETC_20150317_007448	Activar Dispositivo del Santuario
+ETC_20150317_007449	Muchos Reveladores están viajando a diversos lugares colapsados en el mundo para ver la distribución de las Diosas. Mientras lo hacían, encontraron un lugar parecido a un santuario en la Escalonada Dispersa. Si puedes recuperarlo y usarlo, serás el heróe de aquellos que viajan por esa región.
+ETC_20150317_007450	Dispositivo de hechizos sospechoso
+ETC_20150317_007451	Activar dispositivo de hechizos
+ETC_20150317_007452	De acuerdo a lo que los exploradores reportaron, encontraron un dispositivo mágico no identificado en un cerro en el Bosque Fallido de Árboles Morados. Intentaron activarlo, pero cómo habían muchos monstruos cerca, simplemente huyeron. Alguien debería tratar de activarlo y ver que sucede.
+ETC_20150317_007453	¡Contratar Mercenario!
+ETC_20150317_007454	Proteje al gran mercader Gilliam
+ETC_20150317_007455	Hay noticias de que Gilliam, un gran mercader que no le vende objetos a nadie, se ha emplazado en el cruce de una nueva ciudad.
+ETC_20150317_007456	Sesión Básica
 ETC_20150317_007457	Quest Hitme Reward
-ETC_20150317_007458	Run away from the monster-safe area
-ETC_20150317_007459	Make
-ETC_20150317_007460	Attached Effect
-ETC_20150317_007461	Trap Box
-ETC_20150317_007462	Mina de Cristal Diary
-ETC_20150317_007463	Create code
+ETC_20150317_007458	Huye del área libre de monstruos
+ETC_20150317_007459	Hacer
+ETC_20150317_007460	Efecto unido
+ETC_20150317_007461	Caja de Trampas
+ETC_20150317_007462	Diario de la Mina de Cristal
+ETC_20150317_007463	Crear código
 ETC_20150317_007464	Modo Descanso
-ETC_20150317_007465	Create bonfire (2)
-ETC_20150317_007466	Create bonfire (3)
-ETC_20150317_007467	Create bonfire (4)
-ETC_20150317_007468	Commander Vacenin (3)
-ETC_20150317_007469	Trading Info
-ETC_20150317_007470	Collect Abandoned Graverobbing Equipment
-ETC_20150317_007471	Bait for Demon (4)
-ETC_20150317_007472	Search for relics (1)
-ETC_20150317_007473	Search for relics (2)
-ETC_20150317_007474	Unended request (5)
-ETC_20150317_007475	Styptic of monster
-ETC_20150317_007476	Disappeared Guard
-ETC_20150317_007477	Collect Canyon Apynys
-ETC_20150317_007478	Detour block (1)
-ETC_20150317_007479	Detour block (2)
-ETC_20150317_007480	Perfect defense (1)
-ETC_20150317_007481	Perfect defense (2)
-ETC_20150317_007482	Perfect defense (3)
-ETC_20150317_007483	Absorb the Guardian Energy
-ETC_20150317_007484	Additional Pollution Prevention
-ETC_20150317_007485	Search for follower Tomas (1)
-ETC_20150317_007486	Search for follower Tomas (2)
-ETC_20150317_007487	Obtain Coben's brother's diary
-ETC_20150317_007488	Obtain Cockatrice Fat
-ETC_20150317_007489	Check the monument using Cockatrice Fat
-ETC_20150317_007490	Collect Hallowventer Charcoal
-ETC_20150317_007491	Check the monument using Hallowventer Charcoal
-ETC_20150317_007492	Charge the Strong Magical Power Absorption Jar
-ETC_20150317_007493	Check the contents of the monument
-ETC_20150317_007494	Illusion Tower (1)
-ETC_20150317_007495	Illusion Tower (2)
-ETC_20150317_007496	Illusion Tower (3)
-ETC_20150317_007497	Obtain Purified Essence
-ETC_20150317_007498	Attach the Holy Bomb
-ETC_20150317_007499	Collect Spiritual Stone
-ETC_20150317_007500	Information for the barrier (3)
-ETC_20150317_007501	Siauliai Aldea Minera (1)
-ETC_20150317_007502	Collect the Relief Supplies
-ETC_20150317_007503	Mine Mánager's Misunderstanding (1)
-ETC_20150317_007504	Gather stones for reinforcement
-ETC_20150317_007505	Mine Mánager's Misunderstanding (2)
-ETC_20150317_007506	Take the refugee couple to the Healer Lady
-ETC_20150317_007507	Rescue the Kidnapped Villagers (1)
-ETC_20150317_007508	Vubbe Sentinel
-ETC_20150317_007509	Rescue the Kidnapped Villagers (2)
-ETC_20150317_007510	Rescue the Kidnapped Villagers (3)
-ETC_20150317_007511	To the Mines (3)
-ETC_20150317_007512	Disturbance of the monster blocked the way (2)
-ETC_20150317_007513	Disturbance of the monster blocked the way (6)
-ETC_20150317_007514	Disturbance of the monster blocked the way (8)
-ETC_20150317_007515	Search the northern areas
-ETC_20150317_007516	Expel Sequoia
-ETC_20150317_007517	Receive the Ghost's Essence in Kateen
-ETC_20150317_007518	Blue Soul Stone Acquisition
-ETC_20150317_007519	Red Soul Stone Acquisition
-ETC_20150317_007520	Help an Ardent Owl Statue
-ETC_20150317_007521	Lost Package Collection
-ETC_20150317_007522	Peregrino memorial stone Writing
-ETC_20150317_007523	Recover Soldier's Body
-ETC_20150317_007524	Collect Butterfly Fragrance at Butterfly Tomb
-ETC_20150317_007525	Check the neglected wagon
-ETC_20150317_007526	Memorial Ceremony (4)
-ETC_20150317_007527	Guided Soul
-ETC_20150317_007528	Save the soul
-ETC_20150317_007529	Induce the souls
-ETC_20150317_007530	Incorrect Salvation (3)
-ETC_20150317_007531	Recover the Urn
-ETC_20150317_007532	Confirm Soul Gate
-ETC_20150317_007533	Remove Trap
-ETC_20150317_007534	Search for a Great Pillar (1)
-ETC_20150317_007535	Search for a Great Pillar (2)
-ETC_20150317_007536	Search for a Great Pillar (3)
-ETC_20150317_007537	Defeat Boowooks near a Royal Cube so it can absorb them
-ETC_20150317_007538	Trial of King Zachariel the Great (1)
-ETC_20150317_007539	Put the Power Sources in the containers
-ETC_20150317_007540	Trial of King Zachariel the Great (2)
-ETC_20150317_007541	Recharge the soul pot by luring Madakia
-ETC_20150317_007542	Listen to the advice of King Zachariel the Great
-ETC_20150317_007543	Charge the Absorbing Gem
-ETC_20150317_007544	Fill the Jewel with Flame Vapor
-ETC_20150317_007545	Fill the Jewel with Essence of Fire
-ETC_20150317_007546	Information on Magic Control Valves
-ETC_20150317_007547	Destroy Trap
-ETC_20150317_007548	Rescue Paladín (3)
-ETC_20150317_007549	Listen to the next plan from Commander Raimondas
-ETC_20150317_007550	Find the animal's dead body
-ETC_20150317_007551	Deliver the Divine Sphere to Paladín (1)
-ETC_20150317_007552	Deliver the Divine Sphere to Paladín (2)
-ETC_20150317_007553	Charge the Tree Guard Post Barrier with demon souls
-ETC_20150317_007554	Deliver the Divine Sphere to Paladín (3)
-ETC_20150317_007555	Deliver the Divine Sphere to Paladín (8)
-ETC_20150317_007556	Identity of the great evil
-ETC_20150317_007557	Deliver the Divine Sphere to Paladín (8)
-ETC_20150317_007558	Deliver the Divine Sphere to Paladín (5)
-ETC_20150317_007559	Deliver the Divine Sphere to Paladín (6)
-ETC_20150317_007560	Manipulate the Demon Summoning Circles
-ETC_20150317_007561	Destroy the rebel force's document
-ETC_20150317_007562	Guard Keepsake Collection
-ETC_20150317_007563	Move to Katyne Forest though Jardín del Árbol Caído
-ETC_20150317_007564	Good Quality Whetstone Collection
-ETC_20150317_007565	Use Smoke Bomb
-ETC_20150317_007566	Defeat Abomination
-ETC_20150317_007567	Provoke the enemy to use a provocation mine concession
-ETC_20150317_007568	Use a rope for cop
-ETC_20150317_007569	Ruklys of memorial (3)
-ETC_20150317_007570	Curiosity kills a epigraphist (1)
-ETC_20150317_007571	Curiosity kills a epigraphist (2)
-ETC_20150317_007572	Lydia Schaffen is leaving zeolite (1)
-ETC_20150317_007573	Activated Guard Device
-ETC_20150317_007574	Rexipher treatment
-ETC_20150317_007575	Chafer's Attack
-ETC_20150317_007576	 - Press this to open Skill window and learn skills
-ETC_20150317_007577	Bait for Demons (1)
-ETC_20150317_007578	Bait for Demons (2)
-ETC_20150317_007579	Bait for Demons (3)
-ETC_20150317_007580	Defeat the monster to use a experimental bait
-ETC_20150317_007581	Bait for Demons (5)
-ETC_20150317_007582	By corner of Katin Forest
-ETC_20150317_007583	Retrieve Supplies
-ETC_20150317_007584	A stray soldier
-ETC_20150317_007585	Wake up the sleeping Boowook
-ETC_20150317_007586	Negotiation (3)
-ETC_20150317_007587	Trap
-ETC_20150317_007588	Revealment
-ETC_20150317_007589	First Soldier
-ETC_20150317_007590	Request from Drasius
-ETC_20150317_007591	Second Soldier
-ETC_20150317_007592	Offer worship to the Statue of Diosa Zemyna
-ETC_20150317_007593	Advice of Laimonas (4)
-ETC_20150317_007594	To Klaipeda
-ETC_20150317_007595	Third Soldier
-ETC_20150317_007596	For Combat Soldier (3)
-ETC_20150317_007597	Collect the stone parts
-ETC_20150317_007598	Rescuing Aras (4)
-ETC_20150317_007599	Rescuing Aras (5)
-ETC_20150317_007600	Recapture the Eastern Woods (3)
-ETC_20150317_007601	Recapture the Eastern Woods (4)
-ETC_20150317_007602	Find a clue from Popoleóns
-ETC_20150317_007603	Commission of Aras (4)
-ETC_20150317_007604	Attacked Adventurer
-ETC_20150317_007605	Memorial Stone of adventure (1)
-ETC_20150317_007606	Use the research result
-ETC_20150317_007607	Check the research result
-ETC_20150317_007608	Collect Stone to craft with
-ETC_20150317_007609	Fine the trace of Explorador
-ETC_20150317_007610	Collect the Essence of Fire
-ETC_20150317_007611	Statue of Diosa Vakarine, Western Woods
-ETC_20150317_007612	Statue of Diosa Zemyna, Western Woods
-ETC_20150317_007613	Statue of Diosa Vakarine, Eastern Woods
-ETC_20150317_007614	Statue of Diosa Vakarine, Aldea Minera
-ETC_20150317_007615	Statue of Diosa Zemyna, Aldea Minera
-ETC_20150317_007616	First Scroll to save the reference
-ETC_20150317_007617	Second Scroll to save the reference
-ETC_20150317_007618	Third Scroll to save the reference
-ETC_20150317_007619	Fifth Scroll to save the reference
-ETC_20150317_007620	First Scroll to save the reference
-ETC_20150317_007621	Treat Patient from Aldea Minera
-ETC_20150317_007622	Achieved Lv. 6 enhancement on spear-type equipment
-ETC_20150317_007623	Achieved Lv. 6 enhancement on shield-type equipment
-ETC_20150317_007624	Track
-ETC_20150317_007625	Recapture the Eastern Woods (1)
-ETC_20150317_007626	1 sheet of Magic Research Reference
-ETC_20150317_007627	2 sheet of Magic Research Reference
-ETC_20150317_007628	3 sheet of Magic Research Reference
-ETC_20150317_007629	Test the bombs on monsters in East Siauliai Woods
-ETC_20150317_007630	Boss Monster Card
-ETC_20150317_007631	Put the sun's pot to the center of reading room
-ETC_20150317_007632	First Shield of Fedimian
-ETC_20150317_007633	Second Shield of Fedimian
-ETC_20150317_007634	Third Shield of Fedimian
-ETC_20150317_007635	Treat the injured people
-ETC_20150317_007636	Find the document related with Naktis
-ETC_20150317_007637	Bokor Master's Answer
-ETC_20150317_007638	Open Piromante's Box
-ETC_20150317_007639	Crazy but Faithful Archivist
-ETC_20150317_007640	Request of the Archivist (2)
-ETC_20150317_007641	Historian sacrificed
-ETC_20150317_007642	Archive the Mausoleo Real Artifact
-ETC_20150317_007643	Collect Dry Bosque Espinoso Wood
-ETC_20150317_007644	Place to fire
-ETC_20150317_007645	Guard Citizen
-ETC_20150317_007646	Story of an Old Owl Statue
-ETC_20150317_007647	Recurrent Grudge
-ETC_20150317_007648	Awaken the memories of the Sleeping Owl Sculptures
-ETC_20150317_007649	Mercenary of valley
-ETC_20150317_007650	Special Device of Valley
-ETC_20150317_007651	Disappeared Research Grop (3)
-ETC_20150317_007652	Remove the Western Barrier
-ETC_20150317_007653	Remove the Eastern Barrier
-ETC_20150317_007654	Remove the Northern Barrier
-ETC_20150317_007655	A Girl lost path (1)
-ETC_20150317_007656	Find clues of the missing by looking through Saugas' pockets
-ETC_20150317_007657	A Girl lost path (2)
-ETC_20150317_007658	Disappeared Research Grop (4)
-ETC_20150317_007659	Disappeared Research Grop (5)
-ETC_20150317_007660	Request of the Archivist
-ETC_20150317_007661	Parchment of the Archivist
-ETC_20150317_007662	Ink of the Archivist
-ETC_20150317_007663	Protect Archivist Jonas
-ETC_20150317_007664	The Archivist and the Liaison Officer
-ETC_20150317_007665	Hidden Archives
-ETC_20150317_007666	Fear of the Archivist
-ETC_20150317_007667	Request of Archivist
-ETC_20150317_007668	Check the beacon mound
-ETC_20150317_007669	Rousing Medicine
-ETC_20150317_007670	Historian's Danger
-ETC_20150317_007671	Retrieve Research Aid Supplies
-ETC_20150317_007672	Activate 1st purification device
-ETC_20150317_007673	Purifier held by the monster
-ETC_20150317_007674	Hidden Purifier parts
-ETC_20150317_007675	Activate purifier in 1st Gallery passage
+ETC_20150317_007465	Prender fogata (2)
+ETC_20150317_007466	Prender fogata (3)
+ETC_20150317_007467	Prender fogata (4)
+ETC_20150317_007468	Comandante Vacenin (3)
+ETC_20150317_007469	Info de Intercambio
+ETC_20150317_007470	Recolectar Equipo para Saquear Tumbas Abandonado
+ETC_20150317_007471	Cebo para Demonios (4)
+ETC_20150317_007472	Busqueda de reliquias (1)
+ETC_20150317_007473	Busqueda de reliquias (2)
+ETC_20150317_007474	Petición inconclusa (5)
+ETC_20150317_007475	Astringente de monstruo
+ETC_20150317_007476	Guardia desaparecido
+ETC_20150317_007477	Recolectar Apynys del Cañon
+ETC_20150317_007478	Bloqueo de ruta (1)
+ETC_20150317_007479	Bloqueo de ruta (2)
+ETC_20150317_007480	La defensa perfecta (1)
+ETC_20150317_007481	La defensa perfecta (2)
+ETC_20150317_007482	La defensa perfecta (3)
+ETC_20150317_007483	Absorve la energía del guardian
+ETC_20150317_007484	Prevención Adicional contra la Polución
+ETC_20150317_007485	Buscando al díscipulo Tomas (1)
+ETC_20150317_007486	Buscando al díscipulo Tomas (2)
+ETC_20150317_007487	Obtener diario del hermano de Coben
+ETC_20150317_007488	Obtener grasa de Cockatrice
+ETC_20150317_007489	Inspecciona el monumento usando Grasa de Cockatrice
+ETC_20150317_007490	Recolecta Carbón de Hallowventer
+ETC_20150317_007491	Inspecciona el monumento usando Carbón de Hallowventer
+ETC_20150317_007492	Carga la Jarra con Poderosa Capacidad de Absorción Mágica
+ETC_20150317_007493	Revisa el contenido del monumento
+ETC_20150317_007494	Torre Ilusoria (1)
+ETC_20150317_007495	Torre Ilusoria (2)
+ETC_20150317_007496	Torre Ilusoria (3)
+ETC_20150317_007497	Obtén Escencia Purificada
+ETC_20150317_007498	Instala la Bomba Santa
+ETC_20150317_007499	Recolectar Piedra Espíritual
+ETC_20150317_007500	Información for the barrier (3)
+ETC_20150317_007501	Aldea Minera de Siauliai (1)
+ETC_20150317_007502	Recolecta los sumistros para aliviar
+ETC_20150317_007503	Mal entendido del administrador de la mina (1)
+ETC_20150317_007504	Recolectar piedras para reforzar
+ETC_20150317_007505	Mal entendido del administrador de la mina (2)
+ETC_20150317_007506	Lleva a la pareja de refugiados con la Curandera
+ETC_20150317_007507	Rescata a los Aldeanos Raptados (1)
+ETC_20150317_007508	Vubbe Sentinela
+ETC_20150317_007509	Rescata a los Aldeanos Raptados (2)
+ETC_20150317_007510	Rescata a los Aldeanos Raptados (3)
+ETC_20150317_007511	Hacia las Minas (3)
+ETC_20150317_007512	La interrupción del monstruo bloqueó el camino (2)
+ETC_20150317_007513	La interrupción del monstruo bloqueó el camino (6)
+ETC_20150317_007514	La interrupción del monstruo bloqueó el camino (8)
+ETC_20150317_007515	Busqueda en las áreas al norte
+ETC_20150317_007516	Expulsar Secoya
+ETC_20150317_007517	Recibe la Escencia Fantasmal en Katyn
+ETC_20150317_007518	Adquiriendo Piedra de Alma Azul
+ETC_20150317_007519	Adquiriendo Piedra de Alma Roja
+ETC_20150317_007520	Ayuda a la Estatua de Búho Ferviente
+ETC_20150317_007521	Colección de Paquetes Perdidos
+ETC_20150317_007522	Escritura en la piedra memorial de los Peregrinos
+ETC_20150317_007523	Recupera el Cuerpo del Soldado
+ETC_20150317_007524	Recolecta Fragancia de Mariposa en la Tumba Mariposa
+ETC_20150317_007525	Revisa el vagón descuidado
+ETC_20150317_007526	Ceremonia Conmemorativa (4)
+ETC_20150317_007527	Alma guíada
+ETC_20150317_007528	Salva el alma
+ETC_20150317_007529	Guía a las almas
+ETC_20150317_007530	Salvación Incorrecta (3)
+ETC_20150317_007531	Recupera la Urna
+ETC_20150317_007532	Confirma Puerta del Alma
+ETC_20150317_007533	Remueve Trampa
+ETC_20150317_007534	Buscando un Gran Pilar (1)
+ETC_20150317_007535	Buscando un Gran Pilar (2)
+ETC_20150317_007536	Buscando un Gran Pilar (3)
+ETC_20150317_007537	Derrota a los Boowooks cerca del Cubo Real para que los absorva
+ETC_20150317_007538	Prueba del Rey Zachariel el Grande (1)
+ETC_20150317_007539	Pon las Fuentes de Poder en los contenedores
+ETC_20150317_007540	Prueba del Rey Zachariel el Grande (2)
+ETC_20150317_007541	Recarga la vasija de almas atrayendo Madakias
+ETC_20150317_007542	Escucha el consejo del Rey Zachariel el Grande
+ETC_20150317_007543	Carga la Gema Absorvedora
+ETC_20150317_007544	Llena la Joya con Vapor Ígneo
+ETC_20150317_007545	Llena la Joya con Escencia de Fuego
+ETC_20150317_007546	Información de las Válvulas de Control Mágico
+ETC_20150317_007547	Destruir Trampa
+ETC_20150317_007548	Rescatar al Paladín (3)
+ETC_20150317_007549	Escuchar al siguiente plan de Comandante Raimondas
+ETC_20150317_007550	Encuentra el cádaver del animal
+ETC_20150317_007551	Entrega la Esfera Divina al Paladín (1)
+ETC_20150317_007552	Entrega la Esfera Divina al Paladín (2)
+ETC_20150317_007553	Carga la barrera del Puesto de Guardía en el Árbol con almas de demonios
+ETC_20150317_007554	Entrega la Esfera Divina al Paladín (3)
+ETC_20150317_007555	Entrega la Esfera Divina al Paladín (8)
+ETC_20150317_007556	Identidad del gran mal
+ETC_20150317_007557	Entrega la Esfera Divina al Paladín (8)
+ETC_20150317_007558	Entrega la Esfera Divina al Paladín (5)
+ETC_20150317_007559	Entrega la Esfera Divina al Paladín (6)
+ETC_20150317_007560	Manipula los Círculos de Invocación Demoniacos
+ETC_20150317_007561	Destruye los documentos de la fuerza rebelde
+ETC_20150317_007562	Collección del memorial del Guardía
+ETC_20150317_007563	Ve a Bosque Katyn a través del Jardín del Árbol Caído
+ETC_20150317_007564	Colección de Piedra de Afilar de Buena Calidad
+ETC_20150317_007565	Usar Bomba de Humo
+ETC_20150317_007566	Derrota a la Abominación
+ETC_20150317_007567	Provoca al enemigo para usar una concesión de la provocación minera
+ETC_20150317_007568	Usa una cuerda para atrapar
+ETC_20150317_007569	Ruklys del memorial (3)
+ETC_20150317_007570	La curiosidad mató al epigrafista (1)
+ETC_20150317_007571	La curiosidad mató al epigrafista (2)
+ETC_20150317_007572	Lydia Schaffen está dejando zeolita (1)
+ETC_20150317_007573	Dispositivo de Guardia Activado
+ETC_20150317_007574	Tratamiento de Rexipher
+ETC_20150317_007575	Ataque de Chafer
+ETC_20150317_007576	 - Presiona esto para abrir la ventana de Habilidades y aprenderlas
+ETC_20150317_007577	Cebo para Demonios (1)
+ETC_20150317_007578	Cebo para Demonios (2)
+ETC_20150317_007579	Cebo para Demonios (3)
+ETC_20150317_007580	Derrota al monstruo para usar un cebo experimental
+ETC_20150317_007581	Cebo para Demonios (5)
+ETC_20150317_007582	En un rincón del Bosque Katyn
+ETC_20150317_007583	Recuperar suministros
+ETC_20150317_007584	Un Soldado extravíado
+ETC_20150317_007585	Despierta a los dormidos Boowook
+ETC_20150317_007586	Negociación (3)
+ETC_20150317_007587	Trampa
+ETC_20150317_007588	Revelación
+ETC_20150317_007589	Primer Soldado
+ETC_20150317_007590	Petición de Drasius
+ETC_20150317_007591	Segundo Soldado
+ETC_20150317_007592	Venerar la Estatua de la Diosa Zemyna
+ETC_20150317_007593	Consejo de Laimonas (4)
+ETC_20150317_007594	A Klaipeda
+ETC_20150317_007595	Tercer Soldado
+ETC_20150317_007596	Por el Soldado de Combate (3)
+ETC_20150317_007597	Recolectar trozos de roca
+ETC_20150317_007598	Recatando a Aras (4)
+ETC_20150317_007599	Recatando a Aras (5)
+ETC_20150317_007600	Recapturando los Bosques al Oeste (3)
+ETC_20150317_007601	Recapturando los Bosques al Oeste (4)
+ETC_20150317_007602	Encuentra una pista de los Popoleóns
+ETC_20150317_007603	Encargo de Aras (4)
+ETC_20150317_007604	Aventurero Atacado
+ETC_20150317_007605	Piedra Memorial de la aventura (1)
+ETC_20150317_007606	Emplea los resultados de la investigación
+ETC_20150317_007607	Revisa los resultados de la investigación
+ETC_20150317_007608	Recolectar piedras para crear con ella
+ETC_20150317_007609	Lígero rastro del Explorador
+ETC_20150317_007610	Recolecta la Escencia de Fuego
+ETC_20150317_007611	Estatua de la Diosa Vakarine, Bosques al Oeste
+ETC_20150317_007612	Estatua de la Diosa Zemyna, Bosques al Oeste
+ETC_20150317_007613	Estatua de la Diosa Vakarine, Bosques al Este
+ETC_20150317_007614	Estatua de la Diosa Vakarine, Aldea Minera
+ETC_20150317_007615	Estatua de la Diosa Zemyna, Aldea Minera
+ETC_20150317_007616	Primer Pergamino para guardar la referencia
+ETC_20150317_007617	Segundo Pergamino para guardar la referencia
+ETC_20150317_007618	Tercer Pergamino para guardar la referencia
+ETC_20150317_007619	Quinto Pergamino para guardar la referencia
+ETC_20150317_007620	Primer Pergamino para guardar la referencia
+ETC_20150317_007621	Trata al Paciente de la Aldea Minera
+ETC_20150317_007622	Lograda mejora de Nv. 6 en una lanza
+ETC_20150317_007623	Lograda mejora de Nv. 6 en un escudo
+ETC_20150317_007624	Seguir
+ETC_20150317_007625	Recapturar los Bosques al Este (1)
+ETC_20150317_007626	1 hoja de Referencia de Investigación Mágica
+ETC_20150317_007627	2 hoja de Referencia de Investigación Mágica
+ETC_20150317_007628	3 hoja de Referencia de Investigación Mágica
+ETC_20150317_007629	Prueba la bombas en monstruos de Bosque Siauliai Este
+ETC_20150317_007630	Carta de Monstruo Jefe
+ETC_20150317_007631	Pon la vasija del sol al centro del cuarto de lectura
+ETC_20150317_007632	Primer Escudo de Fedimian
+ETC_20150317_007633	Segundo Escudo de Fedimian
+ETC_20150317_007634	Tercer Escudo de Fedimian
+ETC_20150317_007635	Trata a los heridos
+ETC_20150317_007636	Encuentra el documento relacionado a Naktis
+ETC_20150317_007637	Respuesta de la Maestre Bokor
+ETC_20150317_007638	Abrir Caja de Piromante
+ETC_20150317_007639	Loco pero Confiable Archivero
+ETC_20150317_007640	Petición del Archivero (2)
+ETC_20150317_007641	Historiador sacrificado
+ETC_20150317_007642	Archiva el artifacto del Mausoleo Real
+ETC_20150317_007643	Recolecta Madera Seca del Bosque Espinoso
+ETC_20150317_007644	Lugar para incendiar
+ETC_20150317_007645	Proteje al Ciudadano
+ETC_20150317_007646	Cuento de una Vieja Estatua de Búho
+ETC_20150317_007647	Rencor Recurrente
+ETC_20150317_007648	Despierta los recuerdos durmientes de las Esculturas de Búho
+ETC_20150317_007649	Mercenario del valle
+ETC_20150317_007650	Dispositivo Especial del Valle
+ETC_20150317_007651	Grupo de Investigación Desaparecido (3)
+ETC_20150317_007652	Remueve la Barrera Oeste
+ETC_20150317_007653	Remueve la Barrera Este
+ETC_20150317_007654	Remueve la Barrera Norte
+ETC_20150317_007655	El camino perdido de una chica (1)
+ETC_20150317_007656	Encuentra pistas de los desaparecidos revisando las bolsas de los Saugas
+ETC_20150317_007657	El camino perdido de una chica (2)
+ETC_20150317_007658	Grupo de Investigación Desaparecido (4)
+ETC_20150317_007659	Grupo de Investigación Desaparecido (5)
+ETC_20150317_007660	Petición del Archivero
+ETC_20150317_007661	Pergamino del Archivero
+ETC_20150317_007662	Tinta del Archivero
+ETC_20150317_007663	Proteje al Archivero Jonas
+ETC_20150317_007664	El Archivero y el Oficial Liaison
+ETC_20150317_007665	Archivos Ocultos
+ETC_20150317_007666	El miedo del Archivero
+ETC_20150317_007667	Petición del Archivero
+ETC_20150317_007668	Comprueba el montículo de la señal
+ETC_20150317_007669	Revolviendo Medicina
+ETC_20150317_007670	Historiador en Peligro
+ETC_20150317_007671	Recupera Sumistros para Ayudar a la Investigación
+ETC_20150317_007672	Activa el 1er dispositivo de purificación
+ETC_20150317_007673	Purificador cargado por el monstruo
+ETC_20150317_007674	Partes Ocultas de Purificador
+ETC_20150317_007675	Activa el purificador en el 1er pasaje de la Galeria
 ETC_20150317_007676	Miner's master keeping the path
-ETC_20150317_007677	Activate purifier in 1st Gallery passage (3)
-ETC_20150317_007678	Problem of the circulation purifier in 2nd mine
+ETC_20150317_007677	Activate purifier in 1er Gallery passage (3)
+ETC_20150317_007678	Problem of the circulation purifier in 2do mine
 ETC_20150317_007679	Problem of energy transmission device
 ETC_20150317_007680	Destroyer of the main purifier (4)
 ETC_20150317_007681	Repair Scarecrow
@@ -7683,7 +7683,7 @@ ETC_20150317_007683	Repair the Scarecrow
 ETC_20150317_007684	Pointed Sense
 ETC_20150317_007685	Secret Place (1)
 ETC_20150317_007686	Girl's Soul
-ETC_20150317_007687	Katin Middle Boss
+ETC_20150317_007687	Katyn Middle Boss
 ETC_20150317_007688	Temporarily stop event
 ETC_20150317_007689	N/A
 ETC_20150317_007690	N/A
@@ -7725,9 +7725,9 @@ ETC_20150317_007725	Find the Paladín Master again (1)
 ETC_20150317_007726	Mission of the Paladín Master
 ETC_20150317_007727	Verification Damage (1)
 ETC_20150317_007728	Pick the herb asked by Clérigo Master
-ETC_20150317_007729	Offer worship to the Statue of Diosa Vakarine in Fedimian
-ETC_20150317_007730	Manage the Statue of Diosa Vakarine in Fedimian
-ETC_20150317_007731	Manage the Statue of Diosa Vakarine in Klaipeda
+ETC_20150317_007729	Offer worship to the Estatua de la Diosa Vakarine in Fedimian
+ETC_20150317_007730	Manage the Estatua de la Diosa Vakarine in Fedimian
+ETC_20150317_007731	Manage the Estatua de la Diosa Vakarine in Klaipeda
 ETC_20150317_007732	Remove the source of corruption
 ETC_20150317_007733	Use the Crest of Emptiness towards the girl near the portal
 ETC_20150317_007734	Santuario of Secrecy - Espadachín type_conditions
@@ -7771,9 +7771,9 @@ ETC_20150317_007771	Collect material of drug with monster live on reed root
 ETC_20150317_007772	Prepare First Sap Pot
 ETC_20150317_007773	Prepare Second Sap Pot
 ETC_20150317_007774	Prepare Third Sap Pot
-ETC_20150317_007775	1st Collect a sap pot
+ETC_20150317_007775	1er Collect a sap pot
 ETC_20150317_007776	2st Collect a sap pot
-ETC_20150317_007777	3rd Collect a sap pot
+ETC_20150317_007777	3er Collect a sap pot
 ETC_20150317_007778	Owl's Eternal (1)
 ETC_20150317_007779	Destroyer (1)
 ETC_20150317_007780	Protect yourself from monsters is attacking
@@ -7786,7 +7786,7 @@ ETC_20150317_007786	Recapture Eastern Woods (2)
 ETC_20150317_007787	Guard of Royal Path(2)
 ETC_20150317_007788	Secret Place (2)
 ETC_20150317_007789	Help of the messenger Nian
-ETC_20150317_007790	To Historian Cyrenia Odell
+ETC_20150317_007790	To Historiador Cyrenia Odell
 ETC_20150317_007791	Decoy Material
 ETC_20150317_007792	Fleeing Odell (2)
 ETC_20150317_007793	Forger Sweep (5)
@@ -7808,11 +7808,11 @@ ETC_20150317_007808	Ruklys re-evaluation (1)
 ETC_20150317_007809	Ruklys re-evaluation (2)
 ETC_20150317_007810	Collect Stumpy Tree Sap
 ETC_20150317_007811	Obtain a buried ruins fragment
-ETC_20150317_007812	Lydia Schaffen is leaving zeolite (2)
+ETC_20150317_007812	Lydia Schaffen está dejando zeolita (2)
 ETC_20150317_007813	Collect Long-Branched Tree Charcoal
 ETC_20150317_007814	Third Rubbing
-ETC_20150317_007815	Lydia Schaffen is leaving zeolite (4)
-ETC_20150317_007816	Lydia Schaffen is leaving zeolite (5)
+ETC_20150317_007815	Lydia Schaffen está dejando zeolita (4)
+ETC_20150317_007816	Lydia Schaffen está dejando zeolita (5)
 ETC_20150317_007817	Flurry's Epitaph (7)
 ETC_20150317_007818	Request of solicitor Eden
 ETC_20150317_007819	N/A
@@ -7969,7 +7969,7 @@ ETC_20150317_007969	N/A
 ETC_20150317_007970	N/A
 ETC_20150317_007971	N/A
 ETC_20150317_007972	Kill countdown (for suicide)
-ETC_20150317_007973	Essence of Fire [Montañés Ascenso]
+ETC_20150317_007973	Escencia de Fuego [Montañés Ascenso]
 ETC_20150317_007974	Second Thorn Gate (3)
 ETC_20150317_007975	Interrupt Strategy
 ETC_20150317_007976	Completed Power (1)
@@ -8179,7 +8179,7 @@ ETC_20150317_008179	Resurrection PS %:
 ETC_20150317_008180	Enter PS
 ETC_20150317_008181	Resurrection coordinates:
 ETC_20150317_008182	Enter coordinates
-ETC_20150317_008183	The 7th bishop of the Ignatius Cathedral closed the Cathedral after the appearance of ghosts, and now resides in Klaipeda.
+ETC_20150317_008183	The 7mo bishop of the Ignatius Cathedral closed the Cathedral after the appearance of ghosts, and now resides in Klaipeda.
 ETC_20150317_008184	Fidelmia
 ETC_20150317_008185	The girl in charge of the mercenary guild's request desk. {nl}Attacked by monsters during escape, she was saved by the captain of the mercenary guild.{nl}She soon joined the mercenaries and is now a proud mercenary herself.
 ETC_20150317_008186	Saint Ignatius
@@ -8352,7 +8352,7 @@ ETC_20150317_008352	Receta - Grand Cross
 ETC_20150317_008353	Receta - Medina Crossbow
 ETC_20150317_008354	Receta - Grave Crossbow
 ETC_20150317_008355	Receta - Shooting Star
-ETC_20150317_008356	Receta - Kateen Blaster
+ETC_20150317_008356	Receta - Katyn Blaster
 ETC_20150317_008357	Receta - Grajus
 ETC_20150317_008358	Receta - Isbality
 ETC_20150317_008359	Receta - Morto
@@ -8770,8 +8770,8 @@ ETC_20150317_008770	Jump Tip
 ETC_20150317_008771	Press X to jump. Some attacks can be avoided by jumping.
 ETC_20150317_008772	Attack Tip
 ETC_20150317_008773	Press Z to attack.
-ETC_20150317_008774	STR Stat Tip
-ETC_20150317_008775	The STR stat increases your physical damage and critical damage.
+ETC_20150317_008774	FUE Stat Tip
+ETC_20150317_008775	The FUE stat increases your physical damage and critical damage.
 ETC_20150317_008776	CON Stat Tip
 ETC_20150317_008777	The CON stat increases your max PS, PS recovery rate, inventory weight, critical resistance and shield block rate.
 ETC_20150317_008778	INT Stat Tip
@@ -8815,9 +8815,9 @@ ETC_20150317_008815	Shiny Monsters can drop items up to more than ten times than
 ETC_20150317_008816	Village Tip
 ETC_20150317_008817	Various merchants and Master PNJs for classes can be found in a village.
 ETC_20150317_008818	Warp move_1 Tip
-ETC_20150317_008819	You can move to other areas through the Statue of Diosa Vakarine.
+ETC_20150317_008819	You can move to other areas through the Estatua de la Diosa Vakarine.
 ETC_20150317_008820	Warp move_2 Tip
-ETC_20150317_008821	You can move to other areas using the Pergamino de Teletranporte if there is no Statue of Diosa Vakarine nearby.
+ETC_20150317_008821	You can move to other areas using the Pergamino de Teletranporte if there is no Estatua de la Diosa Vakarine nearby.
 ETC_20150317_008822	Cofre del Tesoro Tip
 ETC_20150317_008823	During your adventure, you can find hidden treasure chests. Some treasure chests may require keys that match the level of the chest.
 ETC_20150317_008824	Video Recording Tip
@@ -9061,7 +9061,7 @@ ETC_20150317_009061	Piromante Master Room
 ETC_20150317_009062	Ascenso Quest Trigger of Criomante
 ETC_20150317_009063	Holidía Guide
 ETC_20150317_009064	Mercenary Post Mánager Rota
-ETC_20150317_009065	Hoplita 4th Ascenso
+ETC_20150317_009065	Hoplita 4to Ascenso
 ETC_20150317_009066	Small Cathedral Ground First Floor
 ETC_20150317_009067	Paladín Master Follower (A)
 ETC_20150317_009068	Paladín Master Follower (B)
@@ -9080,10 +9080,10 @@ ETC_20150317_009080	Invisible Trigger
 ETC_20150317_009081	Suspicious Wheels
 ETC_20150317_009082	Cofre del Tesoro Nv3
 ETC_20150317_009083	Hauberk
-ETC_20150317_009084	1st Spell Power Suppressor
-ETC_20150317_009085	2nd Spell Power Suppressor
-ETC_20150317_009086	3rd Spell Power Suppressor
-ETC_20150317_009087	4th Spell Power Suppressor
+ETC_20150317_009084	1er Spell Power Suppressor
+ETC_20150317_009085	2do Spell Power Suppressor
+ETC_20150317_009086	3er Spell Power Suppressor
+ETC_20150317_009087	4to Spell Power Suppressor
 ETC_20150317_009088	1 Follower
 ETC_20150317_009089	Attract Place of Chafer
 ETC_20150317_009090	Thorn Gate 1(no obb)
@@ -9091,18 +9091,18 @@ ETC_20150317_009091	Thorn Gate 2(no obb)
 ETC_20150317_009092	Thorn Gate 3(no obb)
 ETC_20150317_009093	Charging Spell Power
 ETC_20150317_009094	No field creation
-ETC_20150317_009095	1st Thorn Gate Pillar_1
+ETC_20150317_009095	1er Thorn Gate Pillar_1
 ETC_20150317_009096	2st Thorn Gate Pillar_1
-ETC_20150317_009097	3rd Thorn Gate Pillar
-ETC_20150317_009098	1st Thorn Gate Pillar_2
+ETC_20150317_009097	3er Thorn Gate Pillar
+ETC_20150317_009098	1er Thorn Gate Pillar_2
 ETC_20150317_009099	2st Thorn Gate Pillar_2
 ETC_20150317_009100	Cofre del Tesoro Nv1
 ETC_20150317_009101	Jibyu Griba
 ETC_20150317_009102	Alan
 ETC_20150317_009103	Wise
-ETC_20150317_009104	The First Examiner Owl Statue
-ETC_20150317_009105	The Second Examiner Owl Statue
-ETC_20150317_009106	A Third Examiner Owl Statue
+ETC_20150317_009104	The First Examiner Estatua de Búho
+ETC_20150317_009105	The Second Examiner Estatua de Búho
+ETC_20150317_009106	A Third Examiner Estatua de Búho
 ETC_20150317_009107	Gaigalas Summoning Area
 ETC_20150317_009108	Useless Report Trigger
 ETC_20150317_009109	Blame Trigger of Commander
@@ -9262,11 +9262,11 @@ ETC_20150317_009262	District 2 Purifier Pipe
 ETC_20150317_009263	Magic Supply Device
 ETC_20150317_009264	Closed Area
 ETC_20150317_009265	Outside the Closed Area
-ETC_20150317_009266	(Temporary)Mina de Cristal 3rd Defense
+ETC_20150317_009266	(Temporary)Mina de Cristal 3er Defense
 ETC_20150317_009267	Presences of Mystery
-ETC_20150317_009268	2nd Transport Magic Circle
+ETC_20150317_009268	2do Transport Magic Circle
 ETC_20150317_009269	Closure Devices of Top of Wizard
-ETC_20150317_009270	1st Transport Magic Circle
+ETC_20150317_009270	1er Transport Magic Circle
 ETC_20150317_009271	No Field Gen
 ETC_20150317_009272	Suspicious Book
 ETC_20150317_009273	Suspicious Woods
@@ -9383,8 +9383,8 @@ ETC_20150317_009383	Wide leaves' bushes
 ETC_20150317_009384	Place to set the baits
 ETC_20150317_009385	4th_ClericAscensoQuest
 ETC_20150317_009386	In order of Age of Nicotia
-ETC_20150317_009387	Trigger 4th Ascenso of Redentor
-ETC_20150317_009388	For the 4th Nigromante Ascenso
+ETC_20150317_009387	Trigger 4to Ascenso of Redentor
+ETC_20150317_009388	For the 4to Nigromante Ascenso
 ETC_20150317_009389	Evil Aura
 ETC_20150317_009390	Peregrino Julius turned into a Drapeliun!
 ETC_20150317_009391	Making a grave for Liliya
@@ -9394,7 +9394,7 @@ ETC_20150317_009394	Variant Laziness Raíz Cristal del Árbol*
 ETC_20150317_009395	Traces of Pollution
 ETC_20150317_009396	Scattered Raíz Cristal del Árbol Core
 ETC_20150317_009397	Summoned transformed Raíces Cristal del Árbol*
-ETC_20150317_009398	Purple Tree Fault Forest
+ETC_20150317_009398	Bosque Fallido de Árboles Morados
 ETC_20150317_009399	Camino del Peregrino Gate
 ETC_20150317_009400	Peregrino Grachius
 ETC_20150317_009401	Soul restrained to the altar
@@ -9423,7 +9423,7 @@ ETC_20150317_009423	[Cataphract Master]{nl}    Memet Culag
 ETC_20150317_009424	Pile of Firewood
 ETC_20150317_009425	Unique Lithograph
 ETC_20150317_009426	Buried Remains
-ETC_20150317_009427	Hechicero, Cronomante 5th Ascenso trigger
+ETC_20150317_009427	Hechicero, Cronomante 5to Ascenso trigger
 ETC_20150317_009428	Jar of Sacrifice
 ETC_20150317_009429	Destroyed inscription wreckage
 ETC_20150317_009430	Military Backpack
@@ -9433,16 +9433,16 @@ ETC_20150317_009433	Abandoned Bag
 ETC_20150317_009434	Old Chest
 ETC_20150317_009435	[Redentor Master]{nl}Mistes Goldmund
 ETC_20150317_009436	[Hechicero Master]{nl}Dame Circe
-ETC_20150317_009437	For the 4th Redentor Ascenso
-ETC_20150317_009438	For the 4th Hechicero Ascenso
+ETC_20150317_009437	For the 4to Redentor Ascenso
+ETC_20150317_009438	For the 4to Hechicero Ascenso
 ETC_20150317_009439	Eyes of the Great King
 ETC_20150317_009440	Gorge Area Device
-ETC_20150317_009441	Historian Gorath
-ETC_20150317_009442	Historian Badat
+ETC_20150317_009441	Historiador Gorath
+ETC_20150317_009442	Historiador Badat
 ETC_20150317_009443	Tree Sap Pot
 ETC_20150317_009444	Canyon Amalas
-ETC_20150317_009445	1st Disciple of Gustas
-ETC_20150317_009446	2nd Disciple of Gustas
+ETC_20150317_009445	1er Disciple of Gustas
+ETC_20150317_009446	2do Disciple of Gustas
 ETC_20150317_009447	Device
 ETC_20150317_009448	Abandoned Graverobbing Equipment
 ETC_20150317_009449	Place to install the stone
@@ -9471,7 +9471,7 @@ ETC_20150317_009471	Bokor Fray's favor (3)
 ETC_20150317_009472	Prepare for the Giant Tree (1)
 ETC_20150317_009473	Prepare for the Giant Tree (2)
 ETC_20150317_009474	Disband the ghost gathering (4)
-ETC_20150317_009475	Boarding Information
+ETC_20150317_009475	Boarding Información
 ETC_20150317_009476	Boss track
 ETC_20150317_009477	Mi- Boss track
 ETC_20150317_009478	Neglected wagon
@@ -9492,8 +9492,8 @@ ETC_20150317_009492	Aldea Minera Entry (2)
 ETC_20150317_009493	[Zapador Master]{nl} Leonard Quicktongue
 ETC_20150317_009494	[Cazador Master]{nl}    Fiona Ieva
 ETC_20150317_009495	[Bárbaro Master]{nl} Walder Junnot
-ETC_20150317_009496	For the 4th Bokor Ascenso
-ETC_20150317_009497	Hidden trigger for 5th Ascenso of Wizard, Piromante, Criomante
+ETC_20150317_009496	For the 4to Bokor Ascenso
+ETC_20150317_009497	Hidden trigger for 5to Ascenso of Wizard, Piromante, Criomante
 ETC_20150317_009498	Rankis Seal Tower
 ETC_20150317_009499	Ranka Seal Tower
 ETC_20150317_009500	Spring Flower Trigger
@@ -9511,12 +9511,12 @@ ETC_20150317_009511	Wagon Explosion
 ETC_20150317_009512	Hidden house of Krivis
 ETC_20150317_009513	[Mentalista Master]{nl} Ili Terid
 ETC_20150317_009514	[Vinculador Master]{nl} Winona Ende
-ETC_20150317_009515	Hidden trigger for 5th Ascenso Mentalista_Vinculador_Alquimista
+ETC_20150317_009515	Hidden trigger for 5to Ascenso Mentalista_Vinculador_Alquimista
 ETC_20150317_009516	Mine Mánager Brinker
 ETC_20150317_009517	Start Trigger
 ETC_20150317_009518	Medium Boss Golem Trigger
 ETC_20150317_009519	[Hoplita Master]{nl}    Adidas Baylor
-ETC_20150317_009520	For Krivis' 4th Ascenso quest track
+ETC_20150317_009520	For Krivis' 4to Ascenso quest track
 ETC_20150317_009521	Rocktortuga Spawn Trigger
 ETC_20150317_009522	Maggot
 ETC_20150317_009523	Inner Catacombs
@@ -9577,7 +9577,7 @@ ETC_20150323_009576	Valle Tiltas
 ETC_20150323_009578	Zachariel Crossroads
 ETC_20150323_009579	Stele Road
 ETC_20150323_009580	Escanciu Village
-ETC_20150323_009581	Fedimian Suburbs
+ETC_20150323_009581	Suburbios de Fedimian
 ETC_20150323_009582	Peregrino Path
 ETC_20150323_009583	Altar Way
 ETC_20150323_009584	Forest of Prayer
@@ -9608,7 +9608,7 @@ ETC_20150323_009608	Fallen City Dungeon
 ETC_20150323_009609	White Tree Forest
 ETC_20150323_009610	Maple Forest
 ETC_20150323_009611	Grynas Trails
-ETC_20150323_009612	Bosque Kateen
+ETC_20150323_009612	Bosque Katyn
 ETC_20150323_009613	Grynas Training Camp
 ETC_20150323_009614	Grynas Hills
 ETC_20150323_009615	Greene Manor
@@ -9722,8 +9722,8 @@ ETC_20150323_009722	Releasing the last seal.
 ETC_20150323_009723	Follow me
 ETC_20150323_009724	Dionys, the Diosa is waiting for you
 ETC_20150323_009725	I curse you all!
-ETC_20150323_009726	Elementalista 2nd Circle required
-ETC_20150323_009727	Elementalista 3rd Circle required
+ETC_20150323_009726	Elementalista 2do Circle required
+ETC_20150323_009727	Elementalista 3er Circle required
 ETC_20150323_009728	Completed 10 overkills.
 ETC_20150323_009729	Beginner Exterminioer
 ETC_20150323_009730	Completed 50 overkills
@@ -9904,7 +9904,7 @@ ETC_20150323_009905	According to rumors around Fedimian, when the peregrinos pas
 ETC_20150323_009906	According to the survivors, survivors of the Fallen City lost their belongings or their lives in the Altar Way while going to Fedimian.
 ETC_20150323_009907	Reveladores are exploring the different fallen parts of the world to find assignments of the Diosa. What seems to be a sanctuary was found in the Altar Way. If you can find something restore and use it again, you will be a hero to those who travel this area.
 ETC_20150323_009908	According to the Explorador's reports, there were spell devices found in the Forest of Prayer. They tried to activate it but there were too many monsters around so they had to run for their lives. Someone has to activate the spell device and check what powers it has.
-ETC_20150323_009909	Pass through Tenet Garden and move to the Entrance of Bosque Kateen
+ETC_20150323_009909	Pass through Tenet Garden and move to the Entrance of Bosque Katyn
 ETC_20150323_009910	Place the Sun Essence in Ramstis Ridge
 ETC_20150323_009911	Find reference related to Naktis
 ETC_20150323_009912	Get Asellu Leaf Buds
@@ -9923,7 +9923,7 @@ ETC_20150323_009924	Get an antidote from the people at Akmens Ridge
 ETC_20150323_009925	Remove the seal of Viesa Altar
 ETC_20150323_009926	Find documents about the method of demon transformation in the Sanctuary
 ETC_20150323_009927	Defend against the demons while the Demon Transformation Scroll is being completed
-ETC_20150323_009928	Obtain the 4th key of Maven from Apgaule Altar
+ETC_20150323_009928	Obtain the 4to key of Maven from Apgaule Altar
 ETC_20150323_009929	Remove demonic objects
 ETC_20150323_009930	Unknown device
 ETC_20150323_009931	Win against the Sacerdote of Evidence
@@ -10132,7 +10132,7 @@ ETC_20150323_010133	Soul of the Peregrino is attacking the crystal!
 ETC_20150323_010134	The monster's PS is too high!
 ETC_20150323_010135	The altar has cooled enough!
 ETC_20150323_010136	Destroying the magic circle
-ETC_20150323_010137	Cannot be used in the Fedimian Suburbs!
+ETC_20150323_010137	Cannot be used in the Suburbios de Fedimian!
 ETC_20150323_010138	Out of time to use it
 ETC_20150323_010139	Get the patterned stones gain entrance.
 ETC_20150323_010140	Approach the fainted Scorpio and extract its venom!
@@ -10443,7 +10443,7 @@ ETC_20150401_010444	Russian Blue
 ETC_20150401_010445	Grape Ellum
 ETC_20150401_010446	Farm Keposeed
 ETC_20150401_010447	Guards Graveyard
-ETC_20150401_010448	2nd Demon Prison
+ETC_20150401_010448	2do Demon Prison
 ETC_20150401_010449	Mausoleo Real Workers Lodge
 ETC_20150401_010450	Mausoleo Real Guard
 ETC_20150401_010451	Mausoleo Real Storage
@@ -10455,18 +10455,18 @@ ETC_20150401_010456	Take kindling from the Orange Dandel to keep the fire alive!
 ETC_20150401_010457	What is this taste?
 ETC_20150401_010458	The crops suddenly dies and turns dark!
 ETC_20150401_010459	Oh.. no..
-ETC_20150401_010460	Need the 2nd circle of Alquimista
-ETC_20150401_010461	Need the 3rd circle of Alquimista
-ETC_20150401_010462	Need the 2nd circle of Druída
-ETC_20150401_010463	Need the 3rd circle of Druída
-ETC_20150401_010464	Flechero 2nd Circle required
-ETC_20150401_010465	Need the 3rd circle of Flechero
-ETC_20150401_010466	Monje 2nd Circle required
-ETC_20150401_010467	Need the 3rd circle of Monje
-ETC_20150401_010468	Need the 2nd circle of Nigromante
-ETC_20150401_010469	Need the 3rd circle of Nigromante
-ETC_20150401_010470	Rogue 2nd Circle required
-ETC_20150401_010471	Need the 3rd circle of Rogue
+ETC_20150401_010460	Need the 2do circle of Alquimista
+ETC_20150401_010461	Need the 3er circle of Alquimista
+ETC_20150401_010462	Need the 2do circle of Druída
+ETC_20150401_010463	Need the 3er circle of Druída
+ETC_20150401_010464	Flechero 2do Circle required
+ETC_20150401_010465	Need the 3er circle of Flechero
+ETC_20150401_010466	Monje 2do Circle required
+ETC_20150401_010467	Need the 3er circle of Monje
+ETC_20150401_010468	Need the 2do circle of Nigromante
+ETC_20150401_010469	Need the 3er circle of Nigromante
+ETC_20150401_010470	Rogue 2do Circle required
+ETC_20150401_010471	Need the 3er circle of Rogue
 ETC_20150401_010472	Let's kill the monsters
 ETC_20150401_010473	Let's use the black hair
 ETC_20150401_010474	Icon Image + Black Hair Open
@@ -10636,8 +10636,8 @@ ETC_20150401_010637	Released the Seal of Protection!
 ETC_20150401_010638	Released the Seal of Blessing!
 ETC_20150401_010639	Absorbing
 ETC_20150401_010640	Controlling altar
-ETC_20150401_010641	The Abomination's stench is starting to fill the Catacombs!
-ETC_20150401_010642	The Abomination's stench has filled the Catacombs!
+ETC_20150401_010641	The Abominación's stench is starting to fill the Catacombs!
+ETC_20150401_010642	The Abominación's stench has filled the Catacombs!
 ETC_20150401_010643	The trace of light around you will soon disappear!
 ETC_20150401_010644	All seals of the residence are recovered!
 ETC_20150401_010645	Demons are gathering in the Guards Graveyard again!
@@ -10694,8 +10694,8 @@ ETC_20150406_010695	Outer World Fire Lord
 ETC_20150406_010696	Outer World Inferbovino
 ETC_20150406_010697	Outer World Manticen
 ETC_20150406_010698	Outer World Mushwort
-ETC_20150406_010699	Statue of Diosa Ausrine D
-ETC_20150406_010700	Statue of Diosa Ausrine E
+ETC_20150406_010699	Estatua de la Diosa Ausrine D
+ETC_20150406_010700	Estatua de la Diosa Ausrine E
 ETC_20150406_010701	Piromante Room
 ETC_20150406_010702	Banquet Hall
 ETC_20150406_010703	Get kindlings from Orange Dandel and keep the fire alive!
@@ -10900,7 +10900,7 @@ ETC_20150414_010901	Hurry, tell the Diosa about Hauberk's escape!
 ETC_20150414_010902	Come this way...
 ETC_20150414_010903	Dionys! The Diosa has been looking for you.
 ETC_20150414_010904	Kupoles. {nl}Begin the ritual.
-ETC_20150414_010905	Need the 3rd circle of Taumaturgo
+ETC_20150414_010905	Need the 3er circle of Taumaturgo
 ETC_20150414_010906	You've obtained 100 recipes
 ETC_20150414_010907	You've tried 25 party quests.
 ETC_20150414_010908	You've completed the Manacle Grave quest.
@@ -10953,7 +10953,7 @@ ETC_20150414_010954	Peregrino (M) 1 - Existing Hair 1
 ETC_20150414_010955	Peregrino (M) 1 - Existing Hair 2
 ETC_20150414_010956	Peregrino (M) 1 - Existing Hair 3
 ETC_20150414_010957	Peregrino (M) 1 - Existing Hair 4
-ETC_20150414_010958	Historian (F)
+ETC_20150414_010958	Historiador (F)
 ETC_20150414_010959	Sack of Crops
 ETC_20150414_010960	Engine
 ETC_20150414_010961	Warehouse entrance
@@ -11232,7 +11232,7 @@ ETC_20150428_011233	Dark Chaparición
 ETC_20150428_011234	Mausoleo Real Constructors' Chapel
 ETC_20150428_011235	Ugh... What is this taste?
 ETC_20150428_011236	Defeat all the monsters!
-ETC_20150428_011237	Destroy the 2nd Transport Magic Circle restraining Grita!
+ETC_20150428_011237	Destroy the 2do Transport Magic Circle restraining Grita!
 ETC_20150428_011238	This is restraining magic...{nl}It's a trap!
 ETC_20150428_011239	Defeat the Salamander that appeared in the defense shield device!
 ETC_20150428_011240	Defeat the Golem guarding the seal stone!
@@ -11310,7 +11310,7 @@ ETC_20150428_011311	Summon familiar spirits
 ETC_20150428_011312	Stick to target and explode when touched
 ETC_20150428_011313	Hide underground
 ETC_20150428_011314	Glitter Buff
-ETC_20150428_011315	{s18}{#001100}Usa el botón de Retorno para volver donde un PNJ cuando completas una misión.{/}
+ETC_20150428_011315	{s18}{#001100}Usa el botón de Retorno para regresar al PNJ tras completar una misión.{/}
 ETC_20150428_011316	{s18}{#001100}Recupera tu Resistencia destruyendo esta Raíz Cristal del Árbol.{/}
 ETC_20150428_011317	{s18}{#001100}¡Puedes adquirir recompensas especiales al derrotar un Monstruo del Tesoro!{/}
 ETC_20150428_011318	First Room of Barrier
@@ -11362,10 +11362,10 @@ ETC_20150428_011363	Validate the effect of the charm on Panto Arqueros
 ETC_20150428_011364	Open your inventory and use the Spirit's Scripture
 ETC_20150428_011365	Use Hauberk's Seal Fragment
 ETC_20150428_011366	Cross Srautas Gorge and go to Meseta Gele
-ETC_20150428_011367	Move to Starving Demon's Way
+ETC_20150428_011367	Move to Ruta del Demonio Hambriento
 ETC_20150428_011368	Move to Demon Prison District 1
 ETC_20150428_011369	Guard PNJ
-ETC_20150428_011370	Abomination Set
+ETC_20150428_011370	Abominación Set
 ETC_20150428_011371	All Stats +3
 ETC_20150428_011372	Earth Cloth Armor Set
 ETC_20150428_011373	CON Stat +5
@@ -11591,9 +11591,9 @@ ETC_20150428_011592	[Monje Master]{nl} Olfas Grimm
 ETC_20150428_011593	[Schwarzer Reiter Master]{nl} Warsis Creak
 ETC_20150511_011594	Return to the creation site
 ETC_20150511_011595	DoTimeAction:Picking Niole roots:1:WEEDING:None
-ETC_20150511_011596	Activate the 1st sealed device
-ETC_20150511_011597	Activate the 2nd sealed device
-ETC_20150511_011598	Activate the 3rd sealed device
+ETC_20150511_011596	Activate the 1er sealed device
+ETC_20150511_011597	Activate the 2do sealed device
+ETC_20150511_011598	Activate the 3er sealed device
 ETC_20150511_011599	FAQ : Durability & Potential{nl}1) Durability : Starts to decrease slowly when you play with equipped equipment.{nl}    When an item's durability is below a certain value, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't be benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
 ETC_20150511_011600	]{nl}¡Misión Completada!
 ETC_20150511_011601	Why now...!
@@ -12122,9 +12122,9 @@ ETC_20150714_012123	Defeat the demons that rushed in
 ETC_20150714_012124	Jane's Story
 ETC_20150714_012125	The Reason You Came
 ETC_20150714_012126	The Way towards Release
-ETC_20150714_012127	Stop the 1st Magic Generating Stone
-ETC_20150714_012128	Stop the 2nd Magic Generating Stone
-ETC_20150714_012129	Stop the 3rd Magic Generating Stone
+ETC_20150714_012127	Stop the 1er Magic Generating Stone
+ETC_20150714_012128	Stop the 2do Magic Generating Stone
+ETC_20150714_012129	Stop the 3er Magic Generating Stone
 ETC_20150714_012130	Stop all the Magic Generating Stones
 ETC_20150714_012131	Rubbing of the petrified book
 ETC_20150714_012132	Cure the poisoned Monjes
@@ -12257,7 +12257,7 @@ ETC_20150714_012258	Magic Amplification
 ETC_20150714_012259	Minimum Magic Attack
 ETC_20150714_012260	Maximum Magic Attack
 ETC_20150714_012261	Add {Value} Tasa Crítico to your Companion
-ETC_20150714_012262	Add {Value} Evasion to your Companion
+ETC_20150714_012262	Add {Value} Evasión to your Companion
 ETC_20150714_012263	You don't have the attribute to mount this Companion.
 ETC_20150714_012264	Regresar a la Guarida.
 ETC_20150714_012265	Normal Attack
@@ -12476,7 +12476,7 @@ ETC_20150714_012477	You have found the Jewel of Prominence!
 ETC_20150714_012478	You defeated Bearkaras!{nl}Search for the parts from the spare purifier nearby.
 ETC_20150714_012479	Purification pipes on this side are working properly
 ETC_20150714_012480	You hear the sounds of working machinery!{nl}Go to District 5 and search for a lubricant
-ETC_20150714_012481	You can clearly hear the sounds of devices!{nl}When you go to 5th area, a lubricant should be present there
+ETC_20150714_012481	You can clearly hear the sounds of devices!{nl}When you go to 5to area, a lubricant should be present there
 ETC_20150714_012482	You've found the lubricant!{nl}Go back to repair the Magic Supply Device
 ETC_20150714_012483	Now all pipes are working properly!{nl}Activate circulating purification device again
 ETC_20150714_012484	You've found all materials that are needed for the repair!{nl}Go back to the main purification device and repair
@@ -12767,7 +12767,7 @@ ETC_20150714_012768	This pillar already has a fragment inserted
 ETC_20150714_012769	 being defeated gave you confidence{nl}Use the Demon Transform Scroll!
 ETC_20150714_012770	You've been detected by Corylus!{nl}You've been identified!
 ETC_20150714_012771	You've found a spot to explore!
-ETC_20150714_012772	You've removed the Demon Summoning Circles{nl}Report to Follower Kayetonas!
+ETC_20150714_012772	You've removed the Círculos de Invocación Demoniacos{nl}Report to Follower Kayetonas!
 ETC_20150714_012773	You don't have enough of the Long-Branched Tree Charcoal
 ETC_20150714_012774	You've obtained the third rubbing.
 ETC_20150714_012775	You've obtained the petrified good
@@ -13191,7 +13191,7 @@ ETC_20150717_013192	Hohen Mage
 ETC_20150717_013193	Hohen Orben
 ETC_20150717_013194	Hohen Gulak
 ETC_20150717_013195	Grim Reaper
-ETC_20150717_013196	2nd Demon Prison
+ETC_20150717_013196	2do Demon Prison
 ETC_20150717_013197	Where did that kind of monster appear from...
 ETC_20150717_013198	Hold up little more!{nl}I will gather some people!
 ETC_20150717_013199	The Petrifying Frost is coming!{nl}Destroy the obstacles or jump over them to move to a safe place!
@@ -13202,7 +13202,7 @@ ETC_20150717_013203	Intensive Spirits' Device has been destroyed and lots of mon
 ETC_20150717_013204	Defeat Salamanders that are going after Protective Shell activating the device
 ETC_20150717_013205	As the magic stabilizing device activated, the monsters rushed in!
 ETC_20150717_013206	Protect Grita while she is controlling the magic of the tower!
-ETC_20150717_013207	Defeat Grinender that blocked the stairs to the 5th floor!
+ETC_20150717_013207	Defeat Grinender that blocked the stairs to the 5to floor!
 ETC_20150717_013208	Well done, Grita.
 ETC_20150717_013209	Royal Army Guard Delus
 ETC_20150717_013210	Weapon Box
@@ -13623,13 +13623,13 @@ ETC_20150729_013624	Batallas por Equipo
 ETC_20150729_013625	This way!
 ETC_20150729_013626	Let's go!!
 ETC_20150729_013627	Something is wrong with the holy relics!
-ETC_20150729_013628	Defeat Abomination!
+ETC_20150729_013628	Defeat Abominación!
 ETC_20150729_013629	Diosa Zemyna, the Diosa of Earth..
 ETC_20150729_013630	The delegates were sieged by the Werewolf{nl}Defeat the Werewolf!
 ETC_20150729_013631	Special Scent
 ETC_20150729_013632	The Jewel of Prominence is unstable.
-ETC_20150729_013633	Barrier Effect : STR
-ETC_20150729_013634	Receiving increased STR from the activated barrier.
+ETC_20150729_013633	Barrier Effect : FUE
+ETC_20150729_013634	Receiving increased FUE from the activated barrier.
 ETC_20150729_013635	Barrier Effect : CON
 ETC_20150729_013636	Receiving increased CON from the activated barrier.
 ETC_20150729_013637	Barrier Effect : INT
@@ -13694,8 +13694,8 @@ ETC_20150729_013695	Press {img N 40 40} to open the World Map.
 ETC_20150729_013696	Only the areas you have already discovered will be activated. Undiscovered areas are not shown on the World Map.
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
 ETC_20150729_013698	Use Status Points obtained through leveling up to upgrade your character's abilities.
-ETC_20150729_013699	Press {img F1 40 40} to open the Character Information window to view info about your character.
-ETC_20150729_013700	Use STR/CON/INT/SPR/DES to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max PS, PS Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max PM and PM Recovery, Magic Defense and Block Penetration {nl} {nl} DES : Increase in Accuracy, Evasion and Critical Chance {nl}
+ETC_20150729_013699	Press {img F1 40 40} to open the Character Información window to view info about your character.
+ETC_20150729_013700	Use FUE/CON/INT/SPR/DES to make your character stronger. {nl} {nl} FUE : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max PS, PS Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max PM and PM Recovery, Magic Defense and Block Penetration {nl} {nl} DES : Increase in Accuracy, Evasión and Critical Chance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
 ETC_20150729_013702	You can manage the skills of your character through the Skill window.
 ETC_20150729_013703	Press {img F3 40 40} to open the Skill window.
@@ -13724,7 +13724,7 @@ ETC_20150729_013725	Check your character's game progress and rankings{nl} in you
 ETC_20150729_013726	Your character's progress is recorded in the Diario de Aventuras. Press {img F4 40 40} to view.
 ETC_20150729_013727	You can earn Adventure Index through Items, Monsters, Crafting, Map, and Game Progression.
 ETC_20150729_013728	You can receive rewards from
-ETC_20150729_013729	Press {img F1 40 40} to open Character Information window and choose the Achievement tab to view character's achievements.
+ETC_20150729_013729	Press {img F1 40 40} to open Character Información window and choose the Achievement tab to view character's achievements.
 ETC_20150729_013730	Revive your character's death by using Resurrection.
 ETC_20150729_013731	A character will die when its PS reaches 0 and becomes
 ETC_20150729_013732	. {nl}{nl}The durability of equipped items will decrease drastically when a character becomes incapable of combat.
@@ -13795,7 +13795,7 @@ ETC_20150729_013796	You can use the Market through the Market Mánager.
 ETC_20150729_013797	You can look at items offered by other players, and purchase items from the list.
 ETC_20150729_013798	You can also put up your items to sell.
 ETC_20150729_013799	{img mouseclick_right 40 40} on the item you want to sell from your inventory, set a quantity and its selling price.
-ETC_20150729_013800	{nl}{nl}[Buy-in Shop] Press {img F1 40 40} to open the Information window and click on Character to open Buy-in Shop.
+ETC_20150729_013800	{nl}{nl}[Buy-in Shop] Press {img F1 40 40} to open the Información window and click on Character to open Buy-in Shop.
 ETC_20150729_013801	Select the items you need, then set a quantity and price for other players to sell items to you.
 ETC_20150729_013802	The Buy-in Shop will remain even if you log off from the server.
 ETC_20150729_013803	Use Warp to quickly move to an area of your choice.
@@ -14036,7 +14036,7 @@ ETC_20150730_014037	Damage taken will be shared with the connected objects.
 ETC_20150730_014038	Buff effects will be shared with the connected objects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DES.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, PS Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, PM Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DES : Increase in Accuracy, Evasion and Tasa Crítico{nl}
+ETC_20150730_014041	You can make your character stronger by allocating Status Points into FUE/CON/INT/SPR/DES.{nl} {nl} - FUE : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, PS Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, PM Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DES : Increase in Accuracy, Evasión and Tasa Crítico{nl}
 ETC_20150730_014042	DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
@@ -14271,7 +14271,7 @@ ETC_20150918_014272	Drapeliun fall lifeless!
 ETC_20150918_014273	Steal the liveliness
 ETC_20150918_014274	This demon is losing its vitality to the bone that is endowed with the magical power
 ETC_20150918_014275	When you catch it, you will accumulate lots of EXP points
-ETC_20150918_014276	You can check Party Information Window using {img F6 40 40}.{nl} {nl}When you don't belong to a party, press Create a Party button at the bottom of the screen to create a party.
+ETC_20150918_014276	You can check Party Información Window using {img F6 40 40}.{nl} {nl}When you don't belong to a party, press Create a Party button at the bottom of the screen to create a party.
 ETC_20150918_014277	You can put the name of your party and its description and it will also display your party members' information.{nl} {nl}When you press Party Invite Tag, a tag of your party will be displayed in the chat window.
 ETC_20150918_014278	Each content will be exposed in the Party Event tab whenever you fulfill certain requirements, and you'll be able to participate in them with your party members.
 ETC_20150918_014279	In Settings, the rules for distributing items and EXP can be set along with Party Recruit Settings.
@@ -14295,7 +14295,7 @@ ETC_20150918_014296	Fedimian Storage Keeper (Temporary)
 ETC_20150918_014297	InstancedDungeonEntryPNJ
 ETC_20150918_014298	InstancedDungeonEntryPNJ
 ETC_20150918_014299	Conditions for the trap
-ETC_20150918_014300	Persuade the souls to the Owl Sculpture
+ETC_20150918_014300	Persuade the souls to the Escultura de Búho
 ETC_20150918_014301	Lure monsters with the decoy and defeat them
 ETC_20150918_014302	Find a clue on the disappearances from Sauga's Bag
 ETC_20150918_014303	Defeat the demons that were lured to flares
@@ -14334,8 +14334,8 @@ ETC_20150918_014335	Bring the spirit and find out what happend at then
 ETC_20150918_014336	The Past of the Spirits (5)
 ETC_20150918_014337	Please bring the spirits
 ETC_20150918_014338	Blissful State (2)
-ETC_20150918_014339	Set the Owl Sculpture
-ETC_20150918_014340	Guide the souls near the Owl Sculpture
+ETC_20150918_014339	Set the Escultura de Búho
+ETC_20150918_014340	Guide the souls near the Escultura de Búho
 ETC_20150918_014341	Repair Parts
 ETC_20150918_014342	Look for the parts that are needed to repair the device
 ETC_20150918_014343	Preparation (1)
@@ -14366,7 +14366,7 @@ ETC_20150918_014367	Resistencia {img green_up_arrow 16 16} 10
 ETC_20150918_014368	Darkness Property Resistance {img green_up_arrow 16 16} 10
 ETC_20150918_014369	SPR {img green_up_arrow 16 16} 6
 ETC_20150918_014370	Agvenipa Set
-ETC_20150918_014371	[Backstab] Attack x4{nl}Evasion {img red_down_arrow 16 16} 188
+ETC_20150918_014371	[Backstab] Attack x4{nl}Evasión {img red_down_arrow 16 16} 188
 ETC_20150918_014372	Bokor Zombie Count
 ETC_20150918_014373	blowSound volume except for my character
 ETC_20150918_014374	Character Ascenso Rank Limit
@@ -14563,8 +14563,8 @@ ETC_20150918_014564	Set the bone that is endowed with demonic power
 ETC_20150918_014565	The bone that is endowed with demonic power
 ETC_20150918_014566	Using the symbol of the restraint
 ETC_20150918_014567	Am I going to the Diosas?
-ETC_20150918_014568	Placing the Owl Sculpture
-ETC_20150918_014569	The Owl Sculpture has been placed
+ETC_20150918_014568	Placing the Escultura de Búho
+ETC_20150918_014569	The Escultura de Búho has been placed
 ETC_20150918_014570	Mercenary Higgs
 ETC_20150918_014571	Let's hurry!
 ETC_20150918_014572	Good...! Thank you!
@@ -14619,7 +14619,7 @@ ETC_20150918_014620	While defeating Vubbes, set the bombs on the secret hallway
 ETC_20150918_014621	Stop the monsters that are trying to ruin the seal ceremony!
 ETC_20150918_014622	You have found Dry Bosque Espinoso Wood!
 ETC_20150918_014623	Defeat the ominous spirit!
-ETC_20150918_014624	Defeat the boss monster on the 2nd Piso of the Mausoleo Real!
+ETC_20150918_014624	Defeat the boss monster on the 2do Piso of the Mausoleo Real!
 ETC_20150918_014625	You have successfully tested the decoy!
 ETC_20150918_014626	You have failed to protect the Estatua de Diosa!
 ETC_20150918_014627	You have succeeded in the experiment of anesthetic
@@ -14627,7 +14627,7 @@ ETC_20150918_014628	You have successfully defeated Stone Whale!{nl}Yekub becomes
 ETC_20150918_014629	You have failed to defeating Stone Whale!{nl}Yekub becomes stronger
 ETC_20150918_014630	You have succeeded in defeating Carapace!{nl}Yekub becomes weaker
 ETC_20150918_014631	You have failed in defeating Carapace!
-ETC_20150918_014632	You have failed to protect the Statue of Diosa Vakarine!
+ETC_20150918_014632	You have failed to protect the Estatua de la Diosa Vakarine!
 ETC_20150918_014633	There aren't enough keepsakes of the spirits!
 ETC_20150918_014634	Madakia has been absorbed!
 ETC_20150918_014635	You've installed the bomb!
@@ -14861,7 +14861,7 @@ ETC_20151001_014862	DB error happended. Please check the follow information.
 ETC_20151001_014863	Failed to reset the Redis DB. Please check the WorldTable to have the correct information.
 ETC_20151001_014864	Unable to find the property of IES object that match the classkey read from DB.
 ETC_20151001_014865	DSN file is incorrect. Please check the serverDB.int file is exists and the information.
-ETC_20151001_014866	Information of ID, PW to connect DB is incorrect. Please check the server.int is exists and the information.
+ETC_20151001_014866	Información of ID, PW to connect DB is incorrect. Please check the server.int is exists and the information.
 ETC_20151001_014867	Failed to create the field boss creation. Unable to find the server and zone from the mapID.
 ETC_20151001_014868	The error related with Redis server happened. Please check the error message.
 ETC_20151001_014869	Failed to the running PM. Please check the PM information and error code.
@@ -14875,7 +14875,7 @@ ETC_20151001_014876	File Reloaded
 ETC_20151001_014877	Transferred Packet Log
 ETC_20151001_014878	Received Packet Log
 ETC_20151001_014879	Incorrect value. Please refer to the following information.
-ETC_20151001_014880	Developmental Information
+ETC_20151001_014880	Developmental Información
 ETC_20151001_014881	Kingdom Camp
 ETC_20151001_014882	Leima Small Square
 ETC_20151001_014883	Mailruma Steeple
@@ -14932,11 +14932,11 @@ ETC_20151001_014933	Stone Wall02
 ETC_20151001_014934	Intensive Spirit Device1
 ETC_20151001_014935	Intensive Spirit Device2
 ETC_20151001_014936	No Shadow NPC_Tall
-ETC_20151001_014937	Historian (Male) 01
-ETC_20151001_014938	Historian (Male) 02
-ETC_20151001_014939	Historian (Male) 03
-ETC_20151001_014940	Historian (Male) 04
-ETC_20151001_014941	Historian (Female) 02
+ETC_20151001_014937	Historiador (Male) 01
+ETC_20151001_014938	Historiador (Male) 02
+ETC_20151001_014939	Historiador (Male) 03
+ETC_20151001_014940	Historiador (Male) 04
+ETC_20151001_014941	Historiador (Female) 02
 ETC_20151001_014942	Rock_Pilgrim's Way
 ETC_20151001_014943	Peregrino (Female)_02
 ETC_20151001_014944	Peregrino (Female)_03
@@ -15272,10 +15272,10 @@ ETC_20151001_015273	PILGRIM_48_SQ_050Trigger for quest
 ETC_20151001_015274	PILGRIM_48_SQ_060For quest
 ETC_20151001_015275	Thorny Vines Forest Dungeon
 ETC_20151001_015276	Soldier's Corpse
-ETC_20151001_015277	1st Pillar
-ETC_20151001_015278	2nd Pillar
-ETC_20151001_015279	3rd Pillar
-ETC_20151001_015280	4th Pillar to summon
+ETC_20151001_015277	1er Pillar
+ETC_20151001_015278	2do Pillar
+ETC_20151001_015279	3er Pillar
+ETC_20151001_015280	4to Pillar to summon
 ETC_20151001_015281	Bracken Forest63_1
 ETC_20151001_015282	Chaser Talbasi
 ETC_20151001_015283	Chaser Sendal
@@ -15369,45 +15369,45 @@ ETC_20151001_015370	19F
 ETC_20151001_015371	20F
 ETC_20151001_015372	Lobby
 ETC_20151001_015373	Cleared the 1er Piso!{nl}Break the door to move to the next floor!
-ETC_20151001_015374	Cleared the 2nd Piso!{nl}Break the door to move to the next floor!
-ETC_20151001_015375	Cleared the 3rd floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015376	Cleared the 4th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015377	Cleared the 5th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015378	Cleared the 6th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015379	Cleared the 7th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015380	Cleared the 8th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015381	Cleared the 9th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015382	Cleared the 10th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015383	Cleared the 11th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015384	Cleared the 12th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015385	Cleared the 13th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015386	Cleared the 14th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015387	Cleared the 15th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015388	Cleared the 16th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015389	Cleared the 17th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015390	Cleared the 18th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015391	Cleared the 19th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015392	Cleared the 20th floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015374	Cleared the 2do Piso!{nl}Break the door to move to the next floor!
+ETC_20151001_015375	Cleared the 3er floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015376	Cleared the 4to floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015377	Cleared the 5to floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015378	Cleared the 6to floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015379	Cleared the 7mo floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015380	Cleared the 8vo floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015381	Cleared the 9no floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015382	Cleared the 10mo floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015383	Cleared the 11vo floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015384	Cleared the 12vo floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015385	Cleared the 13vo floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015386	Cleared the 14vo floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015387	Cleared the 15vo floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015388	Cleared the 16vo floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015389	Cleared the 17vo floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015390	Cleared the 18vo floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015391	Cleared the 19no floor!{nl}Break the door to move to the next floor!
+ETC_20151001_015392	Cleared the 20vo floor!{nl}Break the door to move to the next floor!
 ETC_20151001_015393	Monsters will appear on the 1er Piso after 10 segundos!
-ETC_20151001_015394	Monsters will appear on the 2nd Piso after 10 segundos!
-ETC_20151001_015395	Monsters will appear on the 3rd floor after 10 segundos!
-ETC_20151001_015396	Monsters will appear on the 4th floor after 10 segundos!
-ETC_20151001_015397	Monsters will appear on the 5th floor after 10 segundos!
-ETC_20151001_015398	Monsters will appear on the 6th floor after 10 segundos!
-ETC_20151001_015399	Monsters will appear on the 7th floor after 10 segundos!
-ETC_20151001_015400	Monsters will appear on the 8th floor after 10 segundos!
-ETC_20151001_015401	Monsters will appear on the 9th floor after 10 segundos!
-ETC_20151001_015402	Monsters will appear on the 10th floor after 10 segundos!
-ETC_20151001_015403	Monsters will appear on the 11th floor after 10 segundos!
-ETC_20151001_015404	Monsters will appear on the 12th floor after 10 segundos!
-ETC_20151001_015405	Monsters will appear on the 13th floor after 10 segundos!
-ETC_20151001_015406	Monsters will appear on the 14th floor after 10 segundos!
-ETC_20151001_015407	Monsters will appear on the 15th floor after 10 segundos!
-ETC_20151001_015408	Monsters will appear on the 16th floor after 10 segundos!
-ETC_20151001_015409	Monsters will appear on the 17th floor after 10 segundos!
-ETC_20151001_015410	Monsters will appear on the 18th floor after 10 segundos!
-ETC_20151001_015411	Monsters will appear on the 19th floor after 10 segundos!
-ETC_20151001_015412	Monsters will appear on the 20th floor after 10 segundos!
+ETC_20151001_015394	Monsters will appear on the 2do Piso after 10 segundos!
+ETC_20151001_015395	Monsters will appear on the 3er floor after 10 segundos!
+ETC_20151001_015396	Monsters will appear on the 4to floor after 10 segundos!
+ETC_20151001_015397	Monsters will appear on the 5to floor after 10 segundos!
+ETC_20151001_015398	Monsters will appear on the 6to floor after 10 segundos!
+ETC_20151001_015399	Monsters will appear on the 7mo floor after 10 segundos!
+ETC_20151001_015400	Monsters will appear on the 8vo floor after 10 segundos!
+ETC_20151001_015401	Monsters will appear on the 9no floor after 10 segundos!
+ETC_20151001_015402	Monsters will appear on the 10mo floor after 10 segundos!
+ETC_20151001_015403	Monsters will appear on the 11vo floor after 10 segundos!
+ETC_20151001_015404	Monsters will appear on the 12vo floor after 10 segundos!
+ETC_20151001_015405	Monsters will appear on the 13vo floor after 10 segundos!
+ETC_20151001_015406	Monsters will appear on the 14vo floor after 10 segundos!
+ETC_20151001_015407	Monsters will appear on the 15vo floor after 10 segundos!
+ETC_20151001_015408	Monsters will appear on the 16vo floor after 10 segundos!
+ETC_20151001_015409	Monsters will appear on the 17vo floor after 10 segundos!
+ETC_20151001_015410	Monsters will appear on the 18vo floor after 10 segundos!
+ETC_20151001_015411	Monsters will appear on the 19no floor after 10 segundos!
+ETC_20151001_015412	Monsters will appear on the 20vo floor after 10 segundos!
 ETC_20151001_015413	Go to the portal nearby to use the Seal of Space!
 ETC_20151001_015414	Starting in 10 segundos
 ETC_20151001_015415	Start!
@@ -15435,10 +15435,10 @@ ETC_20151001_015436	Decaying Blue Stoulet
 ETC_20151001_015437	Decaying Black Pawnd
 ETC_20151001_015438	Harpeia has appeared!
 ETC_20151001_015439	The barrier of the chapel is in danger. Please save the chapel.
-ETC_20151001_015440	Chapel's 1st Barrier
-ETC_20151001_015441	Chapel's 2nd Barrier
-ETC_20151001_015442	Chapel's 3rd Barrier
-ETC_20151001_015443	Chapel's 4th Barrier
+ETC_20151001_015440	Chapel's 1er Barrier
+ETC_20151001_015441	Chapel's 2do Barrier
+ETC_20151001_015442	Chapel's 3er Barrier
+ETC_20151001_015443	Chapel's 4to Barrier
 ETC_20151001_015444	Tenacious Loftlem
 ETC_20151001_015445	Tenacious Stoulet
 ETC_20151001_015446	The first barrier began to work.
@@ -15581,34 +15581,34 @@ ETC_20151001_015582	The request to protect magic power device has completed{nl}R
 ETC_20151001_015583	Request Failed
 ETC_20151001_015584	The request to protect the altar has started!
 ETC_20151001_015585	The request to protect the altar has succeeded!{nl}You will temporarily receive the power of the altar
-ETC_20151001_015586	Start the 1st phase of the request!
-ETC_20151001_015587	The 1st phase of the request has started!
-ETC_20151001_015588	Start the 2nd phase of the request!
-ETC_20151001_015589	The 2nd phase of the request has started!
-ETC_20151001_015590	Start the 3rd phase of the request!
-ETC_20151001_015591	The 3rd phase of the request has started!
-ETC_20151001_015592	Start the 4th phase of the request!
-ETC_20151001_015593	The 4th phase of the request has started!
-ETC_20151001_015594	Start the 5th phase of the request!
-ETC_20151001_015595	The 5th phase of the request has started!
-ETC_20151001_015596	Start the 6th phase of the request!
-ETC_20151001_015597	The 6th phase of the request has started!{nl}When the wagon of the merchants get destroyed, the request will be failed
-ETC_20151001_015598	Start the 7th phase of the request!
-ETC_20151001_015599	The 7th phase of the request has started!{nl}When the wagon of the merchants get destroyed, the request will be failed
+ETC_20151001_015586	Start the 1er phase of the request!
+ETC_20151001_015587	The 1er phase of the request has started!
+ETC_20151001_015588	Start the 2do phase of the request!
+ETC_20151001_015589	The 2do phase of the request has started!
+ETC_20151001_015590	Start the 3er phase of the request!
+ETC_20151001_015591	The 3er phase of the request has started!
+ETC_20151001_015592	Start the 4to phase of the request!
+ETC_20151001_015593	The 4to phase of the request has started!
+ETC_20151001_015594	Start the 5to phase of the request!
+ETC_20151001_015595	The 5to phase of the request has started!
+ETC_20151001_015596	Start the 6to phase of the request!
+ETC_20151001_015597	The 6to phase of the request has started!{nl}When the wagon of the merchants get destroyed, the request will be failed
+ETC_20151001_015598	Start the 7mo phase of the request!
+ETC_20151001_015599	The 7mo phase of the request has started!{nl}When the wagon of the merchants get destroyed, the request will be failed
 ETC_20151001_015600	The request has failed since you were not able to protect the wagon!
 ETC_20151001_015601	Return to Gilliam to proceed to the next phase!
 ETC_20151001_015602	Zinutekas Summon Stone
 ETC_20151001_015603	{@st43}The monsters are rushing out from the Mina de Cristal again. You will be of great help.
 ETC_20151001_015604	Defeat the boss monster!
 ETC_20151001_015605	Survive for 5 minutes as you fight against the added boss monsters!
-ETC_20151001_015606	Cleared 2nd Room!
+ETC_20151001_015606	Cleared 2do Room!
 ETC_20151001_015607	Destroy the monster summon stone within 5 minutes
 ETC_20151001_015608	Defeat the last boss monster!
 ETC_20151001_015609	When you either defeat the boss or the time expires,{nl}the final boss will appear
 ETC_20151001_015610	Mission Failed{nl}You will return to the previous zone after 10 segundos
 ETC_20151001_015611	Mission Success!{nl}You will return to the previous zone after 1 minute
 ETC_20151001_015612	You will return to the zone in 30 segundos
-ETC_20151001_015613	When the Owl Sculpture shines,{nl}transmit the power to reduce time!
+ETC_20151001_015613	When the Escultura de Búho shines,{nl}transmit the power to reduce time!
 ETC_20151001_015614	You will return to the zone in 10 segundos
 ETC_20151001_015615	Defeat all the servants of Hauberk!
 ETC_20151001_015616	Defeat all the servants of Hauberk!{nl}Pursue Hauberk!
@@ -16255,10 +16255,10 @@ ETC_20151022_016256	Receive the blessing from the Clérigo Submaster
 ETC_20151022_016257	Receive the blessing from the Krivis Submaster
 ETC_20151022_016258	Receive the blessing from the Bokor Submaster
 ETC_20151022_016259	Cure the refugees that fell down
-ETC_20151022_016260	The Statue of Diosa Vakarine at Lemprasa Pond
-ETC_20151022_016261	The Statue of Diosa Zemyna at Lemprasa Pond
-ETC_20151022_016262	The Statue of Diosa Vakarine at Woods of the Linked Bridges
-ETC_20151022_016263	The Statue of Diosa Vakarine at Paupys Crossing
+ETC_20151022_016260	The Estatua de la Diosa Vakarine at Lemprasa Pond
+ETC_20151022_016261	The Estatua de la Diosa Zemyna at Lemprasa Pond
+ETC_20151022_016262	The Estatua de la Diosa Vakarine at Woods of the Linked Bridges
+ETC_20151022_016263	The Estatua de la Diosa Vakarine at Paupys Crossing
 ETC_20151022_016264	Defeat the monsters using Montañés skills
 ETC_20151022_016265	Defeat the monsters at Feretory Hills without any buffs
 ETC_20151022_016266	Defeat the beast monsters on Feretory Hills
@@ -16267,7 +16267,7 @@ ETC_20151022_016268	Absorb the spirits of the monsters
 ETC_20151022_016269	Defeat the monsters after drinking Bárbaro's potion
 ETC_20151022_016270	Defeat the monsters using skills that doesn't use a shield
 ETC_20151022_016271	Defeat the monsters while mounted on a companion
-ETC_20151022_016272	Manage Orsha's Statue of Diosa Vakarine
+ETC_20151022_016272	Manage Orsha's Estatua de la Diosa Vakarine
 ETC_20151022_016273	Look for the basket of beef jerkies
 ETC_20151022_016274	Pollute the beef jerkies
 ETC_20151022_016275	Set the blocks of woods that are casted with the spell
@@ -16346,9 +16346,9 @@ ETC_20151022_016347	You've found the crystal of Karolis!
 ETC_20151022_016348	You didn't find any crystals of Karolis nearby
 ETC_20151022_016349	Illuminating Karolis' light
 ETC_20151022_016350	Karolis' light has already been illuminated!
-ETC_20151022_016351	This Owl Sculpture already gave its power to you
-ETC_20151022_016352	Using the power of the Owl Sculptures
-ETC_20151022_016353	The power of the Owl Sculptures is too far away from the Mind Control Tower
+ETC_20151022_016351	This Escultura de Búho already gave its power to you
+ETC_20151022_016352	Using the power of the Esculturas de Búho
+ETC_20151022_016353	The power of the Esculturas de Búho is too far away from the Mind Control Tower
 ETC_20151022_016354	You can't see Letas' Sacred Tree and the monsters that reacted to the energy of the forest are rushing in!
 ETC_20151022_016355	You didn't find Letas' Sacred Tree
 ETC_20151022_016356	Letas' Sacred Tree has shown up
@@ -16478,7 +16478,7 @@ ETC_20151022_016479	Leftover Goods
 ETC_20151022_016480	Lost Settler
 ETC_20151022_016481	Mission Failed: Returning to starting zone in 30 segundos.
 ETC_20151022_016482	The mission will start in 60 segundos.
-ETC_20151022_016483	The 5th room has been opened. {nl} Defeat all of the bosses within the time limit.
+ETC_20151022_016483	The 5to room has been opened. {nl} Defeat all of the bosses within the time limit.
 ETC_20151022_016484	Defeat all of the monsters!
 ETC_20151022_016485	Defeat Jack O'Lantern!
 ETC_20151022_016486	Defeat Moldyhorn!
@@ -16905,7 +16905,7 @@ ETC_20151102_016906	Earth Property Monster
 ETC_20151102_016907	Chest in the Castlefield 65_1
 ETC_20151102_016908	Chest in the Castlefield 65_2
 ETC_20151102_016909	Chest in the Castlefield 65_3
-ETC_20151102_016910	Defeat the monsters in Starving Demon's Way
+ETC_20151102_016910	Defeat the monsters in Ruta del Demonio Hambriento
 ETC_20151102_016911	Defeat the monsters in Peregrino Path
 ETC_20151102_016912	Defeat the monsters in Altar Way
 ETC_20151102_016913	Explorador Magic Tower 1F
@@ -16944,7 +16944,7 @@ ETC_20151102_016945	Retrieve the sacred objects destroyed by the Demons
 ETC_20151102_016946	Deliver an item that can overload the device to Edmundas
 ETC_20151102_016947	Find the Experiment Journal written by a mysterious wizard
 ETC_20151102_016948	Deactivate the Giant Bracken Spore Breeding device
-ETC_20151102_016949	Increases [Backstab] damage by 4x when attacking an enemy from behind{nl}Evasion {img red_down_arrow 16 16} 188
+ETC_20151102_016949	Increases [Backstab] damage by 4x when attacking an enemy from behind{nl}Evasión {img red_down_arrow 16 16} 188
 ETC_20151102_016950	Player's Max Level
 ETC_20151102_016951	OptDesc/ - Thrust Skill Lv +1
 ETC_20151102_016952	OptDesc/ - Bash Skill Lv +1
@@ -17134,7 +17134,7 @@ ETC_20151102_017135	OptDesc/ - Feint Skill Lv +1
 ETC_20151102_017136	OptDesc/ - Capture Skill Lv +1
 ETC_20151102_017137	OptDesc/ - Vendetta Skill Lv +1
 ETC_20151102_017138	OptDesc/ - Burrow Skill Lv +1
-ETC_20151102_017139	OptDesc/ - Evasion Skill Lv +1
+ETC_20151102_017139	OptDesc/ - Evasión Skill Lv +1
 ETC_20151102_017140	OptDesc/ - Lachrymator Skill Lv +1
 ETC_20151102_017141	OptDesc/ - Backstab Skill Lv +1
 ETC_20151102_017142	OptDesc/ - Concentrated Fire Skill Lv +1
@@ -17195,13 +17195,13 @@ ETC_20151102_017196	OptDesc/ - Out of Body Skill Lv +1
 ETC_20151102_017197	OptDesc/ - Astral Body Explosion Skill Lv +1
 ETC_20151102_017198	OptDesc/ - Vashita Siddhi Skill Lv +1
 ETC_20151102_017199	OptDesc/ - Possession Skill Lv +1
-ETC_20151102_017200	OptDesc/ - Statue of Diosa Vakarine Skill Lv +1
-ETC_20151102_017201	OptDesc/ - Statue of Diosa Zemyna Skill Lv +1
-ETC_20151102_017202	OptDesc/ - Statue of Diosa Laima Skill Lv +1
+ETC_20151102_017200	OptDesc/ - Estatua de la Diosa Vakarine Skill Lv +1
+ETC_20151102_017201	OptDesc/ - Estatua de la Diosa Zemyna Skill Lv +1
+ETC_20151102_017202	OptDesc/ - Estatua de la Diosa Laima Skill Lv +1
 ETC_20151102_017203	OptDesc/ - Carve Attack Skill Lv +1
 ETC_20151102_017204	OptDesc/ - Carve Owl Skill Lv +1
 ETC_20151102_017205	OptDesc/ - Carve World Tree Skill Lv +1
-ETC_20151102_017206	OptDesc/ - Statue of Diosa Ausrine Skill Lv +1
+ETC_20151102_017206	OptDesc/ - Estatua de la Diosa Ausrine Skill Lv +1
 ETC_20151102_017207	OptDesc/ - Arcane Energy Skill Lv +1
 ETC_20151102_017208	OptDesc/ - Change Skill Lv +1
 ETC_20151102_017209	OptDesc/ - Counter Spell Skill Lv +1
@@ -17409,18 +17409,18 @@ ETC_20151102_017410	XX Villager (5)
 ETC_20151102_017411	XX Villager (6)
 ETC_20151102_017412	Experiment Victim
 ETC_20151102_017413	Demons' Experimental Tools
-ETC_20151102_017414	5th Zone Cursed Totem
-ETC_20151102_017415	2nd Zone Cursed Totem
-ETC_20151102_017416	3rd Zone Cursed Totem
-ETC_20151102_017417	4th Zone Cursed Totem
+ETC_20151102_017414	5to Zone Cursed Totem
+ETC_20151102_017415	2do Zone Cursed Totem
+ETC_20151102_017416	3er Zone Cursed Totem
+ETC_20151102_017417	4to Zone Cursed Totem
 ETC_20151102_017418	Cursed Totem Sculpture
 ETC_20151102_017419	Hidden Chamber Entrance
-ETC_20151102_017420	4th Zone Observation Totem
-ETC_20151102_017421	5th Zone Observation Totem
+ETC_20151102_017420	4to Zone Observation Totem
+ETC_20151102_017421	5to Zone Observation Totem
 ETC_20151102_017422	Hermit Spot
 ETC_20151102_017423	Draznie's Fleet
-ETC_20151102_017424	2nd Ward Cursed Totem
-ETC_20151102_017425	1st Ward Cursed Totem
+ETC_20151102_017424	2do Ward Cursed Totem
+ETC_20151102_017425	1er Ward Cursed Totem
 ETC_20151102_017426	Missing Pastor's Articles
 ETC_20151102_017427	Laswi
 ETC_20151102_017428	Hard Building Stone
@@ -17894,8 +17894,8 @@ ETC_20151224_017894	Chaparición has appeared!
 ETC_20151224_017895	Avoid the magic dissolving pole and move the magic condensed sphere{nl}to magic sensing region!
 ETC_20151224_017896	Magic Sensing Region
 ETC_20151224_017897	Attack the practice pole when it shines!
-ETC_20151224_017898	It seems that the monsters are using the{nl}Owl Sculptures to send light beads to somewhere else.
-ETC_20151224_017899	The Owl Sculpture is asking for ¡Ayuda!
+ETC_20151224_017898	It seems that the monsters are using the{nl}Esculturas de Búho to send light beads to somewhere else.
+ETC_20151224_017899	The Escultura de Búho is asking for ¡Ayuda!
 ETC_20151224_017900	S-Someone... help me, please!
 ETC_20151224_017901	Avoid the surveillance sphere and eliminate{nl}the Surveillance Sphere Magic Circle across!
 ETC_20151224_017902	Surveillance Sphere Magic Circle
@@ -18032,7 +18032,7 @@ ETC_20151224_018032	{nl} {nl}Press {img Alt 40 40} to immediately stop movement 
 ETC_20151224_018033	{nl} {nl}Places you've never been are not shown on the World Map.
 ETC_20151224_018034	{nl} {nl}You can view the World Map by pressing {img N 40 40}.
 ETC_20151224_018035	{nl} {nl}Hover your mouse cursor on the marked areas,{nl}to view maps which your character has completed so far.
-ETC_20151224_018036	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DES.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack, PS Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, PM Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DES : Increase in Accuracy, Evasion and Tasa Crítico{nl}
+ETC_20151224_018036	You can make your character stronger by allocating Status Points into FUE/CON/INT/SPR/DES.{nl} {nl} - FUE : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack, PS Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, PM Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DES : Increase in Accuracy, Evasión and Tasa Crítico{nl}
 ETC_20151224_018037	{nl} {nl}The effects of the status that you want to invest can be previewed below in the character window.
 ETC_20151224_018038	{nl} {nl}Your skill level increases after clicking on the + button.
 ETC_20151224_018039	{nl} {nl}Some attributes can be turned on or off depending on the circumstances.
@@ -18236,9 +18236,9 @@ ETC_20151224_018236	Failed to initialize the GM server. Check the information re
 ETC_20151224_018237	The commander is already processing, but it is trying another one.
 ETC_20151224_018238	Failed to initialize the Nexon Session Server. The value of SN and world table's SN is different from each other.
 ETC_20151224_018239	Failed to save log at MongoLog Failover.
-ETC_20151224_018240	Memory Debug Information
+ETC_20151224_018240	Memory Debug Información
 ETC_20151224_018241	File list and size loaded by client,when perceive the changed IPF
-ETC_20151224_018242	Resources Load Information
+ETC_20151224_018242	Resources Load Información
 ETC_20151224_018243	Show CallStack
 ETC_20151224_018244	NGS Debuging Log
 ETC_20151224_018245	Premium
@@ -18567,7 +18567,7 @@ ETC_20151224_018567	Operate the Second Sealed Apparatus
 ETC_20151224_018568	Operate the Third Sealed Apparatus
 ETC_20151224_018569	Release the left Seal Candlestick's barrier
 ETC_20151224_018570	Release the right Seal Candlestick's barrier
-ETC_20151224_018571	Follow the light bead from the Owl Sculpture in Bastymosi Field
+ETC_20151224_018571	Follow the light bead from the Escultura de Búho in Bastymosi Field
 ETC_20151224_018572	Recharge the demonic power to the ice parts by killing the monsters
 ETC_20151224_018573	Achieved Lv. 1 enhancement on a crossbow-type equipment
 ETC_20151224_018574	Defeat the monsters by placing the Condensed Firestone
@@ -18650,7 +18650,7 @@ ETC_20151224_018650	Magic Power War Objective
 ETC_20151224_018651	Monster and PNJ Test
 ETC_20151224_018652	Magic Power Deliver Objective
 ETC_20151224_018653	Karacha Set
-ETC_20151224_018654	Increases [Backstab] damage by 3x when attacking an enemy from behind{nl}Evasion {img red_down_arrow 16 16} 188
+ETC_20151224_018654	Increases [Backstab] damage by 3x when attacking an enemy from behind{nl}Evasión {img red_down_arrow 16 16} 188
 ETC_20151224_018655	Velnia monkey Set
 ETC_20151224_018656	DES {img green_up_arrow 16 16} 6
 ETC_20151224_018657	Elgos Set
@@ -18660,7 +18660,7 @@ ETC_20151224_018660	INT {img green_up_arrow 16 16} 15
 ETC_20151224_018661	Ibre Set
 ETC_20151224_018662	Physical Defense {img green_up_arrow 16 16} 5
 ETC_20151224_018663	Physical Defense {img green_up_arrow 16 16} 10
-ETC_20151224_018664	Evasion {img green_up_arrow 16 16} 15
+ETC_20151224_018664	Evasión {img green_up_arrow 16 16} 15
 ETC_20151224_018665	Grynas Set
 ETC_20151224_018666	Dark Property Resistance {img green_up_arrow 16 16} 10
 ETC_20151224_018667	Dark Property Resistance {img green_up_arrow 16 16} 20
@@ -18670,7 +18670,7 @@ ETC_20151224_018670	Minimum Combo Count
 ETC_20151224_018671	When you set this value to 1, the log about NGS will be remained as info log.
 ETC_20151224_018672	Count per one wiki ranking page
 ETC_20151224_018673	Bokor Zombie Count
-ETC_20151224_018674	When ENABLE_NEW_DEBUG, Save the Zone Server Memory Information MongoLog
+ETC_20151224_018674	When ENABLE_NEW_DEBUG, Save the Zone Server Memory Información MongoLog
 ETC_20151224_018675	pc expression col count
 ETC_20151224_018676	pc expression row count
 ETC_20151224_018677	Enrolled Ability Count in pc_nonbattle.xml
@@ -18882,7 +18882,7 @@ ETC_20151224_018882	OptDesc/Feint Skill Lv +1
 ETC_20151224_018883	OptDesc/Capture Skill Lv +1
 ETC_20151224_018884	OptDesc/Vendetta Skill Lv +1
 ETC_20151224_018885	OptDesc/Burrow Skill Lv +1
-ETC_20151224_018886	OptDesc/Evasion Skill Lv +1
+ETC_20151224_018886	OptDesc/Evasión Skill Lv +1
 ETC_20151224_018887	OptDesc/Lachrymator Skill Lv +1
 ETC_20151224_018888	OptDesc/Backstab Skill Lv +1
 ETC_20151224_018889	OptDesc/Concentrated Fire Skill Lv +1
@@ -18943,13 +18943,13 @@ ETC_20151224_018943	OptDesc/Out of Body Skill Lv +1
 ETC_20151224_018944	OptDesc/Astral Body Explosion Skill Lv +1
 ETC_20151224_018945	OptDesc/Vashita Siddhi Skill Lv +1
 ETC_20151224_018946	OptDesc/Possession Skill Lv +1
-ETC_20151224_018947	OptDesc/Statue of Diosa Vakarine Skill Lv +1
-ETC_20151224_018948	OptDesc/Statue of Diosa Zemyna Skill Lv +1
-ETC_20151224_018949	OptDesc/Statue of Diosa Laima Skill Lv +1
+ETC_20151224_018947	OptDesc/Estatua de la Diosa Vakarine Skill Lv +1
+ETC_20151224_018948	OptDesc/Estatua de la Diosa Zemyna Skill Lv +1
+ETC_20151224_018949	OptDesc/Estatua de la Diosa Laima Skill Lv +1
 ETC_20151224_018950	OptDesc/Carve Attack Skill Lv +1
 ETC_20151224_018951	OptDesc/Carve Owl Skill Lv +1
 ETC_20151224_018952	OptDesc/Carve World Tree Skill Lv +1
-ETC_20151224_018953	OptDesc/Statue of Diosa Ausrine Skill Lv +1
+ETC_20151224_018953	OptDesc/Estatua de la Diosa Ausrine Skill Lv +1
 ETC_20151224_018954	OptDesc/Arcane Energy Skill Lv +1
 ETC_20151224_018955	OptDesc/Change Skill Lv +1
 ETC_20151224_018956	OptDesc/Counter Spell Skill Lv +1
@@ -19330,12 +19330,12 @@ ETC_20151224_019330	Controlling the Wind Control Device
 ETC_20151224_019331	You've activating the Wind Control Device
 ETC_20151224_019332	You've stoped the Wind Control Device
 ETC_20151224_019333	You are already possessed the bomb
-ETC_20151224_019334	You've obtained the bomb{nl}Attach it to Sequoia
-ETC_20151224_019335	You've attached the bomb onto Sequoia{nl}(
+ETC_20151224_019334	You've obtained the bomb{nl}Attach it to Secoya
+ETC_20151224_019335	You've attached the bomb onto Secoya{nl}(
 ETC_20151224_019336	You don't have a bomb
-ETC_20151224_019337	You've impacted Sequoia{nl}(
-ETC_20151224_019338	The flame of Sequoia has found you
-ETC_20151224_019339	Sequoia fell asleep to recover its PS{nl}Defeat Sequoia to prevent it from recovering PS
+ETC_20151224_019337	You've impacted Secoya{nl}(
+ETC_20151224_019338	The flame of Secoya has found you
+ETC_20151224_019339	Secoya fell asleep to recover its PS{nl}Defeat Secoya to prevent it from recovering PS
 ETC_20151224_019340	You've defeated the monster{nl}(
 ETC_20151224_019341	You've defeated Bearkaras!{nl}Search for the parts nearby the Spare Purifier
 ETC_20151224_019342	The magical power of Valius should be injected to the lamp of the proof for the artifacts of Valius{nl}Use the Brooch that is endowed with the magical power of Balryus
@@ -20058,18 +20058,18 @@ ETC_20151224_020058	The Deathweaver has returned to its normal state!{nl}Defeat 
 ETC_20151224_020059	Completed the [A Forgotten Place] event
 ETC_20151224_020060	Objective completed!{nl}Move to the next area
 ETC_20151224_020061	Defeat all monsters
-ETC_20151224_020062	Attack Sequoia
+ETC_20151224_020062	Attack Secoya
 ETC_20151224_020063	Objective completed!{nl}Move to Letas Stream
-ETC_20151224_020064	Kepa Chieftain was induced by Sequoia
-ETC_20151224_020065	Use the monsters nearby to disturb the sleeping Sequoia{nl}Inflict damage to Sequoia by using the summoned Sequoia's Flame
-ETC_20151224_020066	Objective completed!{nl}Go to the Pasarela del Gran Rey to chase Sequoia
-ETC_20151224_020067	Iltiswort appeared because of Sequoia's disturbance
+ETC_20151224_020064	Kepa Chieftain was induced by Secoya
+ETC_20151224_020065	Use the monsters nearby to disturb the sleeping Secoya{nl}Inflict damage to Secoya by using the summoned Secoya's Flame
+ETC_20151224_020066	Objective completed!{nl}Go to the Pasarela del Gran Rey to chase Secoya
+ETC_20151224_020067	Iltiswort appeared because of Secoya's disturbance
 ETC_20151224_020068	Bombwood
-ETC_20151224_020069	Wake Sequoia up by using the bomb
+ETC_20151224_020069	Wake Secoya up by using the bomb
 ETC_20151224_020070	Objective completed!{nl}Please select a reward
 ETC_20151224_020071	Magic Trap
 ETC_20151224_020072	Defeat the incoming monsters while activating the trap.
-ETC_20151224_020073	Defeat Sequoia
+ETC_20151224_020073	Defeat Secoya
 ETC_20151224_020074	Completed the [Rampage of Faultiness] event.
 ETC_20151224_020075	Start
 ETC_20151224_020076	Objective completed!{nl}Move to Demon Prison District 1
@@ -20147,7 +20147,7 @@ ETC_20160224_020147	Saalus Convent
 ETC_20160224_020148	Torre de la Tierra Lolopanther Area
 ETC_20160224_020149	Torre de la Tierra Solmiki Area
 ETC_20160224_020150	Hollow Bosque Espinoso
-ETC_20160224_020151	1st Alphabet Event Conqueror
+ETC_20160224_020151	1er Alphabet Event Conqueror
 ETC_20160224_020152	You successfully completed the alphabet collecting event.
 ETC_20160224_020153	Moving Device
 ETC_20160224_020154	Novice Rider
@@ -20178,13 +20178,13 @@ ETC_20160224_020178	Light Magic Astral Lamp 300 times
 ETC_20160224_020179	Astral Lamp of the Legwyn Family Residence (3)
 ETC_20160224_020180	Demon Prison Exploradorer
 ETC_20160224_020181	Open 35 treasure chests with a blue crystal in Demon Prison
-ETC_20160224_020182	2nd Demon Prison's Cofre del Tesoro
+ETC_20160224_020182	2do Demon Prison's Cofre del Tesoro
 ETC_20160224_020183	Demon Prison Explorer
 ETC_20160224_020184	Open 105 treasure chests with a blue crystal in Demon Prison
-ETC_20160224_020185	2nd Demon Prison's Cofre del Tesoro (2)
+ETC_20160224_020185	2do Demon Prison's Cofre del Tesoro (2)
 ETC_20160224_020186	Demon Prison Treasure Cazador
 ETC_20160224_020187	Open 210 treasure chests with a blue crystal in Demon Prison
-ETC_20160224_020188	2nd Demon Prison's Cofre del Tesoro (3)
+ETC_20160224_020188	2do Demon Prison's Cofre del Tesoro (3)
 ETC_20160224_020189	Topes Fortress Exploradorer
 ETC_20160224_020190	Open 25 demon treasure chests in Topes Fortress
 ETC_20160224_020191	Topes Fortress' Demon Cofre del Tesoro
@@ -20232,7 +20232,7 @@ ETC_20160224_020232	Daily Quest Count
 ETC_20160224_020233	First Alphabet Event
 ETC_20160224_020234	Sicarius Gimmick
 ETC_20160224_020235	Legwyn Gimmick
-ETC_20160224_020236	2nd Demon Prison Gimmick
+ETC_20160224_020236	2do Demon Prison Gimmick
 ETC_20160224_020237	Topes Fortress Gimmick
 ETC_20160224_020238	Nevellet Quarry Gimmick
 ETC_20160224_020239	Mausoleo Real Storage Gimmick
@@ -20255,28 +20255,28 @@ ETC_20160224_020255	Nuodai Poison
 ETC_20160224_020256	Through the Path of Fire
 ETC_20160224_020257	Diosa Gabija delivered a message through Grita. The specimens created by the wizards from the past fell in the hands of the demons, causing mayhem inside the tower. Diosa Gabija asks for the help of the Reveladores to gain control of the specimens.
 ETC_20160224_020258	After the end of Mirtis' reign over the Mina de Cristal, the Ballestero del Templo is calling back the Vubbes. {nl}Defeat the Ballestero del Templo and make the Mina de Cristal safe again.
-ETC_20160224_020259	The followers in charge of Tenet Church reported the appearance of an Abomination, which is causing difficulties in protecting the church. Defeat the Abomination and help the church's followers.
+ETC_20160224_020259	The followers in charge of Tenet Church reported the appearance of an Abominación, which is causing difficulties in protecting the church. Defeat the Abominación and help the church's followers.
 ETC_20160224_020260	The soldiers searching for the missing residents of Cobalt Forest reported the appearance of a Poata. Defeat the Poata to allow the soldiers to search for the missing people of Cobalt Forest in safety.
 ETC_20160224_020261	The historians investigating the Akmens Ridge reported a Kirmeleech attack. Defeat the Kirmeleech to allow the historians to investigate the Akmens Ridge in safety.
 ETC_20160224_020262	A group of treasure Cazadors climbed up the steep King's Plateau in search of the treasures of the stonemason family and are asking for help. Defeat the Giant Wood Goblin threatening them.
 ETC_20160224_020263	Baron Allerno's reckless greed has the entire barony taken over by evil energy, which is now attracting a Bebraspion. Defeat the Bebraspion for the safety of the barony residents.
 ETC_20160224_020264	Baron Allerno deployed all of his soldiers to experiments, helping a Rocktortuga enter an unguarded area of Tenants' Farm. Defeat the Rocktortuga for the safety of Tentants' Farm.
-ETC_20160224_020265	The Sequoia was created to protect the Owl Sculptures, but recently it became uncontrollable and corrupted by evil energy. If the Owl Sculptures are destroyed, not a single soul will be able to return to the Diosa. Defeat the Sequoia and protect the Owl Sculptures.
+ETC_20160224_020265	The Secoya was created to protect the Esculturas de Búho, but recently it became uncontrollable and corrupted by evil energy. If the Esculturas de Búho are destroyed, not a single soul will be able to return to the Diosa. Defeat the Secoya and protect the Esculturas de Búho.
 ETC_20160224_020266	The Salamander is becoming stronger with the power of Señor Demonio Marnox's cursed idol. Defeat the Salamander before it becomes too powerful.
 ETC_20160224_020267	A powerful monster named Iltiswort has appeared in Dadan Forest due to the aftermath of the demons' plan involving the Kruvina. Defeat the Iltiswort for the safety of the herbalists and the people of the Croa Village.
 ETC_20160224_020268	A powerful monster named Guante Demoníaco is keeping people from chasing away the demons in the Novaha Monastery. Defeat the Deviglove to restore peace in the monastery.
 ETC_20160224_020269	The Colimencia in the Absenta Reservoir is drinking the red water and becoming more powerful. Defeat it before it's too late.
 ETC_20160224_020270	With all its residents missing, the Delmore Castle was invaded by a Denóptico. Defeat it and help Mage Melchioras destroy the remnants of the Kruvina experiment in Delmore Castle.
 ETC_20160224_020271	There are rumors of a Mothstem appearing among the peregrinos passing by the Galeed Plateau. Keep the peregrinos safe by defeating the Mothstem.
-ETC_20160224_020272	The evil energy gathered at Bosque Kateen is attracting all sorts of dangerous monsters. The Blue Woodspirit in Saknis Plains is particularly threatening to the soldiers stationed there. Defeat the Blue Woodspirit and protect the soldiers.
+ETC_20160224_020272	The evil energy gathered at Bosque Katyn is attracting all sorts of dangerous monsters. The Blue Woodspirit in Saknis Plains is particularly threatening to the soldiers stationed there. Defeat the Blue Woodspirit and protect the soldiers.
 ETC_20160224_020273	The demons invading the Torre del Mago are building up their forces. Defeat the Fire Lord that's occupying Torre del Mago 2F to demoralize the demons.
 ETC_20160224_020274	Creation Turned Askew
-ETC_20160224_020275	The Escultor Santo Master received a letter from Tesla.{nl}Tesla created several Spirit Guide Owl Sculptures and the Sequoia to protect them. However, the Sequoia was corrupted by the demons' evil energy and is destroying the statues and setting fire to the forest. Tesla is now looking for a brave adventurer to defeat the Sequoia.
+ETC_20160224_020275	The Escultor Santo Master received a letter from Tesla.{nl}Tesla created several Spirit Guide Esculturas de Búho and the Secoya to protect them. However, the Secoya was corrupted by the demons' evil energy and is destroying the statues and setting fire to the forest. Tesla is now looking for a brave adventurer to defeat the Secoya.
 ETC_20160224_020276	In A Forgotten Place
-ETC_20160224_020277	A letter arrived from Historian Cyrenia Odell.{nl}The demons have secretly invaded the church that was destroyed to keep the secret of the Mausoleo Real of the Great King Zachariel after its construction. Cyrenia is now looking for someone to stop the demons before they can build up their forces.
+ETC_20160224_020277	A letter arrived from Historiador Cyrenia Odell.{nl}The demons have secretly invaded the church that was destroyed to keep the secret of the Mausoleo Real of the Great King Zachariel after its construction. Cyrenia is now looking for someone to stop the demons before they can build up their forces.
 ETC_20160224_020278	Demon Uprising
 ETC_20160224_020279	Ha llegado un mensaje de la Diosa Vakarine.{nl}Luego de que los Reveladores castigaran a los Señores Demonios en la Prisión Demoníaca, sus segundos al mando está reuniendo tropas para ver quien los sucederá. La Diosa Vakarine y los Kupoles aún no lográn recuperarse por completo luego de los eventos recientes y buscan un Revelador que los ayude a detener a los demonios.
-ETC_20160224_020280	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DES.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, PS Recovery of Spells and Potions, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack{nl} {nl}- SPR : Increase in Max PM, PM Recovery, PM Recovery of Spells and Potions, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DES : Increase in Accuracy, Evasion and Tasa Crítico{nl}
+ETC_20160224_020280	You can make your character stronger by allocating Status Points into FUE/CON/INT/SPR/DES.{nl} {nl} - FUE : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max PS, PS Recovery, PS Recovery of Spells and Potions, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack{nl} {nl}- SPR : Increase in Max PM, PM Recovery, PM Recovery of Spells and Potions, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DES : Increase in Accuracy, Evasión and Tasa Crítico{nl}
 ETC_20160224_020281	Nexon NGS error
 ETC_20160224_020282	Failed to reset IDSpace in XML.
 ETC_20160224_020283	Failed to enter instanced dungeon.
@@ -20435,7 +20435,7 @@ ETC_20160224_020435	Tasa Crítico {img green_up_arrow 16 16} 46
 ETC_20160224_020436	DES {img green_up_arrow 16 16} 25
 ETC_20160224_020437	Lolopanther Plate Set
 ETC_20160224_020438	PS Recovery {img green_up_arrow 16 16} 100
-ETC_20160224_020439	STR {img green_up_arrow 16 16} 25
+ETC_20160224_020439	FUE {img green_up_arrow 16 16} 25
 ETC_20160224_020440	Max silver allowed to users upon item drop
 ETC_20160224_020441	Nexon Internet Cafe additional EXP
 ETC_20160224_020442	Event Scene Quest normal monster drop rate 1/10
@@ -21040,9 +21040,9 @@ ETC_20160310_021039	Cossack Dance
 ETC_20160310_021040	Tsk
 ETC_20160310_021041	Read the instruction manual after finding the Tidying Chest
 ETC_20160310_021042	Tidy up the laboratory equipment in the Tidying Chest
-ETC_20160310_021043	Identify the 1st chapter of the Lost Research Notes
-ETC_20160310_021044	Identify the 2nd chapter of the Lost Research Notes
-ETC_20160310_021045	Identify the 3rd chapter of the Lost Research Notes
+ETC_20160310_021043	Identify the 1er chapter of the Lost Research Notes
+ETC_20160310_021044	Identify the 2do chapter of the Lost Research Notes
+ETC_20160310_021045	Identify the 3er chapter of the Lost Research Notes
 ETC_20160310_021046	Put the ingredients on the Alchemy Magic Circle
 ETC_20160310_021047	Emancipate the magic from the tombstone that is confining magic
 ETC_20160310_021048	Retrieve the completed ingredients from the Alchemy Magic Circle
@@ -21253,9 +21253,9 @@ ETC_20160323_021252	Male Cabalista
 ETC_20160323_021253	Stone
 ETC_20160323_021254	Silhouette Cristal (no obb)
 ETC_20160323_021255	Vera Elevator
-ETC_20160323_021256	Klaipeda's Statue of Diosa Ausrine Mánager
+ETC_20160323_021256	Klaipeda's Estatua de la Diosa Ausrine Mánager
 ETC_20160323_021257	Absorb Mine Cristal Power
-ETC_20160323_021258	Orsha's Statue of Diosa Ausrine Mánager
+ETC_20160323_021258	Orsha's Estatua de la Diosa Ausrine Mánager
 ETC_20160323_021259	Escape from the Binding Magic Circle
 ETC_20160323_021260	Find a way to destroy the Magic Circle
 ETC_20160323_021261	Destroy the Green Magic Circle
@@ -21635,7 +21635,7 @@ ETC_20160411_021634	Feint Skill Lv +1
 ETC_20160411_021635	Capture Skill Lv +1
 ETC_20160411_021636	Vendetta Skill Lv +1
 ETC_20160411_021637	Burrow Skill Lv +1
-ETC_20160411_021638	Evasion Skill Lv +1
+ETC_20160411_021638	Evasión Skill Lv +1
 ETC_20160411_021639	Lachrymator Skill Lv +1
 ETC_20160411_021640	Backstab Skill Lv +1
 ETC_20160411_021641	Concentrated Fire Skill Lv +1
@@ -21696,13 +21696,13 @@ ETC_20160411_021695	Out of Body Skill Lv +1
 ETC_20160411_021696	Astral Body Explosion Skill Lv +1
 ETC_20160411_021697	Vashita Siddhi Skill Lv +1
 ETC_20160411_021698	Possession Skill Lv +1
-ETC_20160411_021699	Statue of Diosa Vakarine Skill Lv +1
-ETC_20160411_021700	Statue of Diosa Zemyna Skill Lv +1
-ETC_20160411_021701	Statue of Diosa Laima Skill Lv +1
+ETC_20160411_021699	Estatua de la Diosa Vakarine Skill Lv +1
+ETC_20160411_021700	Estatua de la Diosa Zemyna Skill Lv +1
+ETC_20160411_021701	Estatua de la Diosa Laima Skill Lv +1
 ETC_20160411_021702	Carve Attack Skill Lv +1
 ETC_20160411_021703	Carve Owl Skill Lv +1
 ETC_20160411_021704	Carve World Tree Skill Lv +1
-ETC_20160411_021705	Statue of Diosa Ausrine Skill Lv +1
+ETC_20160411_021705	Estatua de la Diosa Ausrine Skill Lv +1
 ETC_20160411_021706	Arcane Energy Skill Lv +1
 ETC_20160411_021707	Change Skill Lv +1
 ETC_20160411_021708	Counter Spell Skill Lv +1
