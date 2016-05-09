@@ -166,7 +166,6 @@ etc.
 
 [ ETC ]
 
-Aras --> Nivelado
 Dunkel --> Misterioso
 Crude --> Vulgar
 DeathWeaver --> Tejedora Letal
