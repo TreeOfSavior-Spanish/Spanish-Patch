@@ -2175,7 +2175,7 @@ UI_20160323_002174	Record / Puntuación
 UI_20160323_002175	[Creado hace: %s]
 UI_20160411_002176	{@st66b}Usar vibración en la cámara{/}
 UI_20160425_002177	{@st42}Si los dos están usando un token,{nl}las propiedades del objeto intercambiado{nl}no cambiarán.{/}
-UI_20160425_002178	{@st66b} Efectos de dondo
+UI_20160425_002178	{@st66b} Efectos de fondo
 UI_20160425_002179	{@st66b} Restos de muertes
 UI_20160425_002180	{@st66b} Siluetas de personajes
 UI_20160426_002181	{/}¿Quieres borrar a tu {b}{s20}compañero{/}{s43}{@st43}%s{/}{/}{b}{s20}?{/}
