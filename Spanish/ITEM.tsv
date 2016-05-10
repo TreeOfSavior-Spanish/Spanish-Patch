@@ -2016,7 +2016,7 @@ ITEM_20150317_002015	Carta de Shadowgaler
 ITEM_20150317_002016	Carta de Stone Whale
 ITEM_20150317_002017	Carta de Shnayim
 ITEM_20150317_002018	Carta de Escorpión
-ITEM_20150317_002019	Carta de Specter Monarch
+ITEM_20150317_002019	Carta de Monarca Espectral
 ITEM_20150317_002020	Carta de Throneweaver
 ITEM_20150317_002021	Carta de Ironbaum
 ITEM_20150317_002022	Carta de Archon
@@ -2426,7 +2426,7 @@ ITEM_20150317_002425	Corazón de Glizardon
 ITEM_20150317_002426	Este corazón ha sido bendecido con una gran fuerza de vida, pero maldito por una poderosa energía maligna. {nl}Obtenido de Glizardons. 
 ITEM_20150317_002427	Cola de Glizardon
 ITEM_20150317_002428	Cristal Puro
-ITEM_20150317_002429	Una gema llevada por monstruos poderosos en la Mina de Cristal. {nl}Obtenido de Carapace and Specter Monarch. 
+ITEM_20150317_002429	Una gema llevada por monstruos poderosos en la Mina de Cristal. {nl}Obtenido de Carapace and Monarca Espectral. 
 ITEM_20150317_002430	Leña
 ITEM_20150317_002431	Usala para crear una fogata. Puedes crear una fogata mientras estas sentado. 
 ITEM_20150317_002432	Resina de Lapas
@@ -2682,9 +2682,9 @@ ITEM_20150317_002681	Obtenido de Colimencia en la misión the Indigo Trees Plate
 ITEM_20150317_002682	Cuerda de Botas Vejo
 ITEM_20150317_002683	Obtenido de Merge en la misión the Seventune Mesa.
 ITEM_20150317_002684	Cadena de Saphie
-ITEM_20150317_002685	Un material requerido para crear el collar de Saphie. {nl}Obtenido de Poata en Gate Route. 
+ITEM_20150317_002685	Un material requerido para crear el collar de Saphie. {nl}Obtenido de Poata en Ruta de Entrada. 
 ITEM_20150317_002686	Piedra de Saphie
-ITEM_20150317_002687	Un material requerido para crear el collar de Saphie. {nl}Obtenido de Rikaus en Spineheart Dale.
+ITEM_20150317_002687	Un material requerido para crear el collar de Saphie. {nl}Obtenido de Rikaus en Villa Corazón Espinado.
 ITEM_20150317_002688	Espina de Bramble 
 ITEM_20150317_002689	Un material requerido para crear el collar de Saphie. {nl}Obtenido de Bramble en Fallen Worry Forest.
 ITEM_20150317_002690	Fragmento de Yonazolem
@@ -4674,14 +4674,14 @@ ITEM_20150414_004673	Short Timber
 ITEM_20150414_004674	Cyst Needle 
 ITEM_20150414_004675	Melatinun Heart 
 ITEM_20150414_004676	Gribaru Drop
-ITEM_20150414_004677	Siaulamb Fur Leaf 
+ITEM_20150414_004677	Siaulioveja Fur Leaf 
 ITEM_20150414_004678	Pendinmire Mask 
 ITEM_20150414_004679	Levi Fur 
 ITEM_20150414_004680	Honeybean Stinger 
 ITEM_20150414_004681	Fan Leaf 
 ITEM_20150414_004682	Honeymeli Stinger 
-ITEM_20150414_004683	Siaulamb Mask 
-ITEM_20150414_004684	Big Siaulamb Sinew
+ITEM_20150414_004683	Siaulioveja Mask 
+ITEM_20150414_004684	Big Siaulioveja Sinew
 ITEM_20150414_004685	Blood Eyeball 
 ITEM_20150414_004686	Moyabu Crystal 
 ITEM_20150414_004687	Crocman Leather 
@@ -7800,7 +7800,7 @@ ITEM_20151022_007799	Orbe Azul: Hohen Gulak
 ITEM_20151022_007800	Orbe Azul: Hohen Mage
 ITEM_20151022_007801	Orbe Azul: Green Griba
 ITEM_20151022_007802	Orbe Azul: Orange Gribaru
-ITEM_20151022_007803	Orbe Azul: Siaulamb Lagoon
+ITEM_20151022_007803	Orbe Azul: Siaulioveja Lagoon
 ITEM_20151022_007804	Orbe Azul: Pendinmire
 ITEM_20151022_007805	Orbe Azul: Rabbee
 ITEM_20151022_007806	Orbe Azul: Honeybean
@@ -7808,11 +7808,11 @@ ITEM_20151022_007807	Orbe Azul: Siaulogre
 ITEM_20151022_007808	Orbe Azul: Spion
 ITEM_20151022_007809	Orbe Azul: Chupaluka
 ITEM_20151022_007810	Orbe Azul: Honeymeli
-ITEM_20151022_007811	Orbe Azul: Siaulamb Warrior
+ITEM_20151022_007811	Orbe Azul: Siaulioveja Warrior
 ITEM_20151022_007812	Orbe Azul: Red Zigri
 ITEM_20151022_007813	Orbe Azul: Big Black Griba
-ITEM_20151022_007814	Orbe Azul: Big Siaulamb
-ITEM_20151022_007815	Orbe Azul: Siaulamb Shaman
+ITEM_20151022_007814	Orbe Azul: Big Siaulioveja
+ITEM_20151022_007815	Orbe Azul: Siaulioveja Shaman
 ITEM_20151022_007816	Orbe Azul: Infro Blood
 ITEM_20151022_007817	Orbe Azul: Shardstatue
 ITEM_20151022_007818	Orbe Azul: Siaulav
@@ -8178,7 +8178,7 @@ ITEM_20151022_008177	Orbe Roja: Hohen Gulak
 ITEM_20151022_008178	Orbe Roja: Hohen Mage
 ITEM_20151022_008179	Orbe Roja: Green Griba
 ITEM_20151022_008180	Orbe Roja: Orange Gribaru
-ITEM_20151022_008181	Orbe Roja: Siaulamb Lagoon
+ITEM_20151022_008181	Orbe Roja: Siaulioveja Lagoon
 ITEM_20151022_008182	Orbe Roja: Pendinmire
 ITEM_20151022_008183	Orbe Roja: Rabbee
 ITEM_20151022_008184	Orbe Roja: Honeybean
@@ -8186,11 +8186,11 @@ ITEM_20151022_008185	Orbe Roja: Siaulogre
 ITEM_20151022_008186	Orbe Roja: Spion
 ITEM_20151022_008187	Orbe Roja: Chupaluka
 ITEM_20151022_008188	Orbe Roja: Honeymeli
-ITEM_20151022_008189	Orbe Roja: Siaulamb Warrior
+ITEM_20151022_008189	Orbe Roja: Siaulioveja Warrior
 ITEM_20151022_008190	Orbe Roja: Red Zigri
 ITEM_20151022_008191	Orbe Roja: Big Black Griba
-ITEM_20151022_008192	Orbe Roja: Big Siaulamb
-ITEM_20151022_008193	Orbe Roja: Siaulamb Shaman
+ITEM_20151022_008192	Orbe Roja: Big Siaulioveja
+ITEM_20151022_008193	Orbe Roja: Siaulioveja Shaman
 ITEM_20151022_008194	Orbe Roja: Infro Blood
 ITEM_20151022_008195	Orbe Roja: Shardstatue
 ITEM_20151022_008196	Orbe Roja: Siaulav
@@ -8902,7 +8902,7 @@ ITEM_20151224_008901	Colección: Septyni Glen
 ITEM_20151224_008902	Colección: Tenet Church B1
 ITEM_20151224_008903	Colección: Tenet Church 1F
 ITEM_20151224_008904	Colección: Tenet Church 2F
-ITEM_20151224_008905	Colección: Gate Route
+ITEM_20151224_008905	Colección: Ruta de Entrada
 ITEM_20151224_008906	Colección: Sirdgela Forest
 ITEM_20151224_008907	Colección: Kvailas Forest
 ITEM_20151224_008908	Colección: Guards Graveyard
@@ -9763,7 +9763,7 @@ ITEM_20151224_009762	Old Disc
 ITEM_20151224_009763	A disc found in the Floating Altar. It is said to sometimes glow in a reddish light.
 ITEM_20151224_009764	Red Fragment
 ITEM_20151224_009765	An unidentified fragment. It glows in an ominous reddish light.
-ITEM_20151224_009766	Rajatadpole Meat
+ITEM_20151224_009766	Rajarenacuajo Meat
 ITEM_20151224_009767	Requested by Samsonas as tribute to offer to the goddesses. Could this be considered a proper tribute?
 ITEM_20151224_009768	Burnt Diary
 ITEM_20151224_009769	A diary partially burnt by fire. A lot of it is damaged, which makes it difficult to read.
