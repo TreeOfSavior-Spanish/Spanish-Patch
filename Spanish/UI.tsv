@@ -750,7 +750,7 @@ UI_20150317_000749	{@st41b}Pantalla completa{/}
 UI_20150317_000750	{@st41b}Modo ventana{/}
 UI_20150317_000751	{@st43}Sonido{/}
 UI_20150317_000752	{@st41b}Volumen de efectos de sonido (%s){/}
-UI_20150317_000753	{@st41b}Volumen de la música(%s){/}
+UI_20150317_000753	{@st41b}Volumen de música(%s){/}
 UI_20150317_000754	{@st41b}Volumen general (%s){/}
 UI_20150317_000755	{@st43}{b}Idioma{/}
 UI_20150317_000756	{@st59}Cerrar{/}
@@ -1534,7 +1534,7 @@ UI_20150428_001533	{@st45ty}Color de cabello
 UI_20150428_001534	{@st45ty}Título disponible
 UI_20150428_001535	{@st41_yellow}Habilidad de asistente
 UI_20150428_001536	{@st41b}Mostrar nombres de otros personajes{/}
-UI_20150428_001537	{@st43}Forma de la interfaz{/}
+UI_20150428_001537	{@st43}Interfaz{/}
 UI_20150428_001538	{@st41b}Automático{/}
 UI_20150428_001539	{@st41b}Mando{/}
 UI_20150428_001540	{@st41b}Teclado{/}
@@ -1635,8 +1635,8 @@ UI_20150714_001634	{@st66b}Teclado{/}
 UI_20150714_001635	{@st66b}Ratón y teclado
 UI_20150714_001636	{@st66b}Pantalla completa{/}
 UI_20150714_001637	{@st66b}Modo ventana{/}
-UI_20150714_001638	{@st66b}Volumen de los efectos (%s){/}
-UI_20150714_001639	{@st66b}Volumen de la música (%s){/}
+UI_20150714_001638	{@st66b}Volumen de efectos (%s){/}
+UI_20150714_001639	{@st66b}Volumen de música (%s){/}
 UI_20150714_001640	{@st66b}Volumen general (%s){/}
 UI_20150714_001641	{@st66b}Bajo{/}
 UI_20150714_001642	{@st66b}Automático{/}
