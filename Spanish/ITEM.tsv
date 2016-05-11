@@ -220,14 +220,14 @@ ITEM_20150317_000219	Báculo
 ITEM_20150317_000220	Las leyendas dicen que los magos malvados fueron los primeros en comenzar a usar esta arma.
 ITEM_20150317_000221	Vara de Estaño
 ITEM_20150317_000222	Fue un arma muy popular entre los ambiciosos jóvenes magos.
-ITEM_20150317_000223	Vara de Buho
+ITEM_20150317_000223	Vara de Búho
 ITEM_20150317_000224	La decoración es muy popular entre los magos experimentados.
 ITEM_20150317_000225	Vara de Runas
 ITEM_20150317_000226	Las runas mágicas se utiliza para amplificar la potencia de esta vara.
 ITEM_20150317_000227	Vara de Cristal
 ITEM_20150317_000228	Se requiere un ajuste preciso de la joya en el eje para crear esta vara.
 ITEM_20150317_000229	Vara Vulgar de Estaño
-ITEM_20150317_000230	Vara Vulgar de Buho
+ITEM_20150317_000230	Vara Vulgar de Búho
 ITEM_20150317_000231	Vara Corta de Soldado
 ITEM_20150317_000232	Esta vara se le dio a los magos que se unieron al ejército. Aunque el procedimiento se ha suprimido desde el Gran Cataclismo Silvano, una gran parte de la población aun la tiene.
 ITEM_20150317_000233	Vara Larga de Lider
@@ -1950,7 +1950,7 @@ ITEM_20150317_001949	Poción altamente condensada de PS
 ITEM_20150317_001950	Poción altamente condensada de PS
 ITEM_20150317_001951	Pildora altamente condensada de Resistencia
 ITEM_20150317_001952	Poción de Tiempo de Enfriamiento
-ITEM_20150317_001953	Conjunto de especimenes de monstruos
+ITEM_20150317_001953	Set de especimenes de monstruos
 ITEM_20150317_001954	Una reliquia antigua encontrada en un pozo. {nl}Click derecho para usar. 
 ITEM_20150317_001955	Colección de Minerales
 ITEM_20150317_001956	Una colección donde puedes registrar tus objetos.{nl}Puedes registrar el objeto haciendo click derecho en el. 
@@ -2313,7 +2313,7 @@ ITEM_20150317_002312	Madera procesada para ser usada como material de elaboraci�
 ITEM_20150317_002313	Madera de Fresno
 ITEM_20150317_002314	Madera de Pino
 ITEM_20150317_002315	Madera de Cedro
-ITEM_20150317_002316	Tallo de Coliflower
+ITEM_20150317_002316	Tallo de Coliflor
 ITEM_20150317_002317	Es difícil de procesar debido a la abundancia de {nl}púas en el tallo. {nl}Obtenido de Coliflowers. 
 ITEM_20150317_002318	Núcleo Alterado de Sauga 
 ITEM_20150317_002319	Núcleo que ha sido modificado para una mayor rendimiento. {nl}Obtenido de Saugas. 
@@ -3022,313 +3022,313 @@ ITEM_20150317_003021	Piedra Extraña con Grabados
 ITEM_20150317_003022	Una piedra llevada por los Hogmas. Atrae a los monstruos. 
 ITEM_20150317_003023	Amuleto Hogma
 ITEM_20150317_003024	Friedka cree que este amuleto es la clave de los secretos de las ruinas. 
-ITEM_20150317_003025	Lindt's Supplies 
-ITEM_20150317_003026	Supplies of the unit which Lindt is a part of. A Wendigo ran away with it. 
-ITEM_20150317_003027	Canyon Apynys 
-ITEM_20150317_003028	A herb with a decent painkiller effect. 
-ITEM_20150317_003029	Spiritual Stone 
-ITEM_20150317_003030	This stone is said to attract Saugas. Could it be true? 
-ITEM_20150317_003031	Relic Fragment 
-ITEM_20150317_003032	A fragment of a relic swallowed by Denoptic. A monster that feeds on stone, how curious. 
-ITEM_20150317_003033	Payment 
-ITEM_20150317_003034	A pouch of coins meant for payment. Graverobber Kujang asked you to deliver this to Graverobber Bushobell. 
-ITEM_20150317_003035	Shining Gold Article 
-ITEM_20150317_003036	Treasure that belonged to human victims and was hoarded by the monster. 
-ITEM_20150317_003037	Loose Package 
-ITEM_20150317_003038	Broken Necklace from Thorn Forest 
-ITEM_20150317_003039	Bushobell's Bundle 
-ITEM_20150317_003040	Soldier's Belongings
-ITEM_20150317_003041	Belongings from a soldier, stolen by a Leafbug. Looks like it's been stolen many times since then. 
-ITEM_20150317_003042	Piece of Vubbe Cloth  
-ITEM_20150317_003043	A ripped cloth piece from Vubbe. It's from the dirty waist area. 
-ITEM_20150317_003044	Weaver Claw
-ITEM_20150317_003045	If you gather enough of these, they may have a use. 
-ITEM_20150317_003046	Relief Goods 
-ITEM_20150317_003047	Goods used as a provision for emergencies in Miners' Village. 
-ITEM_20150317_003048	Reinforcement Stone 
-ITEM_20150317_003049	Stone required to reinforce the Crystal Mine's exterior walls. Collect them before the wall crumbles. 
-ITEM_20150317_003050	Stinging Stick 
-ITEM_20150317_003051	A stick used to expel Sequoia. It has a few holy spirits. 
-ITEM_20150317_003052	Piece of Wood with Holy Spirit 
-ITEM_20150317_003053	Ingredient for a tool that chases away road-blocking Sequoia. You can feel the faint holy power. 
-ITEM_20150317_003054	Spirit crystals from Owl Sculptures that have been swallowed by monsters. 
-ITEM_20150317_003055	Spirit Essence 
-ITEM_20150317_003056	Warrior's Essence. It is very necessary to give Sequoia the very best bit. 
-ITEM_20150317_003057	Blue Soul Stone 
-ITEM_20150317_003058	The first soul stone. It harbors the strong grudge of a corrupt individual. 
-ITEM_20150317_003059	Red Soul Stone 
-ITEM_20150317_003060	The second soul stone. It harbors the strong grudge of a corrupt individual. 
-ITEM_20150317_003061	Evil Soul Stone 
-ITEM_20150317_003062	The third soul stone. It harbors the strong grudge of a corrupt individual. 
-ITEM_20150317_003063	Spirit-Leading Owl's Sign
-ITEM_20150317_003064	A sign that the Angry Owl Sculpture had. 
-ITEM_20150317_003065	Spiritual Stick 
-ITEM_20150317_003066	This stick was made by upgrading a Stinging Stick. It is capable of subduing Sequoia. 
-ITEM_20150317_003067	The larvae of Meduja are eating away at the memories of life. They're sparkly. 
-ITEM_20150317_003068	Lost Luggage 
-ITEM_20150317_003069	The luggage of a dead merchant. His spirit is obsessed with it. 
-ITEM_20150317_003070	Torn Spell Scroll 
-ITEM_20150317_003071	A scroll of protection. It seems the scholar's spirit was vanquished before using it. 
-ITEM_20150317_003072	Copy of the Pilgrim Monument 
-ITEM_20150317_003073	A rubbed copy of the monument that the female explorer was looking for. 
-ITEM_20150317_003074	Burned Branch 
-ITEM_20150317_003075	The branch that was burned when the Sequoia made a disturbance. 
-ITEM_20150317_003076	Cursed Stick 
-ITEM_20150317_003077	This stick was made by upgrading a Spiritual Stick. It holds the grudges of the Owl Sculptures. 
-ITEM_20150317_003078	Keepsake from dead soldiers killed by monsters. It seems that the keepsake can comfort the soldiers' victimized souls. 
-ITEM_20150317_003079	Butterfly Scent 
-ITEM_20150317_003080	This smell reminds me of my hometown. I miss my home. 
-ITEM_20150317_003081	Abnormally Scented Ridimed Leaf. 
-ITEM_20150317_003082	Abnormally smelling juices are oozing from it. 
-ITEM_20150317_003083	Purified Urn 
-ITEM_20150317_003084	Quest item. 
-ITEM_20150317_003085	Completed Monster Decoy 
-ITEM_20150317_003086	A monster decoy used to complete the last mission of dead soldiers. 
-ITEM_20150317_003087	Test Decoy
-ITEM_20150317_003088	Let's test it on a monster to confirm that it is working. 
-ITEM_20150317_003089	Legs of Solid Wood 
-ITEM_20150317_003090	A Bushspider's leg that has been taken off. 
-ITEM_20150317_003091	Rustling Skin
-ITEM_20150317_003092	Old Kepa skin. Powder falls off it when shaken. 
-ITEM_20150317_003093	Needed to make the decoy more convincing. Will this decoy work well? 
-ITEM_20150317_003094	Dead Soldier's Body 
-ITEM_20150317_003095	Corpses of Johan's squad. Treat them well. 
-ITEM_20150317_003096	Supplies 
-ITEM_20150317_003097	Supply Bag 
-ITEM_20150317_003098	Portable supplies to be sent first to Danyus' squad.  
-ITEM_20150317_003099	Puragi's Hook 
-ITEM_20150317_003100	A hook that soldier Roy has to collect. He can return to his troops as soon as he collects it. 
-ITEM_20150317_003101	Nagging Owl's Soul 
-ITEM_20150317_003102	Bloodstained Report Page
-ITEM_20150317_003103	The contents are illegible. 
-ITEM_20150317_003104	Hamming Stem 
-ITEM_20150317_003105	A material used to fix the wagon. Cut from the the hard part of the stem of a Haming. 
-ITEM_20150317_003106	Tini Fluid 
-ITEM_20150317_003107	Fluid secreted from Tini's gland. Touching it will sting you. 
-ITEM_20150317_003108	Smelly Herbicide 
-ITEM_20150317_003109	Herbicide made from the fluid of Tini. You can remove thornbushes with it. 
-ITEM_20150317_003110	Reinforcements Request 
-ITEM_20150317_003111	Training Certificates 
-ITEM_20150317_003112	A certificate awarded to soldiers who have safely completed their training. 
-ITEM_20150317_003113	Plantain Grass 
-ITEM_20150317_003114	Colección of only soft parts of Plantain Grass. It tastes bitter when chewed. 
-ITEM_20150317_003115	Tini Meat 
-ITEM_20150317_003116	Meat is definitely the right choice for growing one's strength. 
-ITEM_20150317_003117	Empty Potion Bottle 
-ITEM_20150317_003118	Empty potion bottle stolen by a Vubbe. It sparkles as if it has been vigorously cleaned. 
-ITEM_20150317_003119	Beetle's Shell 
-ITEM_20150317_003120	Soul Remains
-ITEM_20150317_003121	Sacred Force Sculpture 
-ITEM_20150317_003122	Gateway Key 
-ITEM_20150317_003123	A pouch that a Vubbe has been keeping to spread evil spirits. 
-ITEM_20150317_003124	Krivis Relic 
-ITEM_20150317_003125	A precious relic that the Krivis keep with them to symbolize their faithfulness. 
-ITEM_20150317_003126	Stone Orca Heart  
-ITEM_20150317_003127	An item that proves one's ability to the Sword Master. It's the heart of Stone Orca. 
-ITEM_20150317_003128	Torn Bat Wings 
-ITEM_20150317_003129	Green Ointment 
-ITEM_20150317_003130	A Vubbe ointment that is used to treat their injured. It's not possible to use it as is. 
-ITEM_20150317_003131	Mausoleo Real Guardian Power Source 
-ITEM_20150317_003132	A power source used by Guardians for movement. 
-ITEM_20150317_003133	Mausoleo Real's Magic Source
-ITEM_20150317_003134	The source of the magic that encircles the Mausoleo Real. 
-ITEM_20150317_003135	Broken Slate of the Mausoleo Real
-ITEM_20150317_003136	A slate that ordered the Guardians to attack evil things. They are attacking everyone because it is broken. 
-ITEM_20150317_003137	Burning Stone
-ITEM_20150317_003138	A stone that lights stone lanterns. Although it is burning, it isn't very hot. 
-ITEM_20150317_003139	Activation Stone
-ITEM_20150317_003140	Overusing the inhibitor can cause it to overheat and break. 
-ITEM_20150317_003141	Blazing Magic Source
-ITEM_20150317_003142	A magic source that shows the locations of the Mausoleo Real's Guardians.
-ITEM_20150317_003143	Wheelen's Mark
-ITEM_20150317_003144	A mark of Wheelens. Collecting them gives the power to defeat enemies.
-ITEM_20150317_003145	Brother's Diary
-ITEM_20150317_003146	A diary that Coben asked you to find. 
-ITEM_20150317_003147	Cockatrice Fat 
-ITEM_20150317_003148	Fat mass from a Cockatrice. 
-ITEM_20150317_003149	Highly Condensed Cockatrice Fat. 
-ITEM_20150317_003150	Hallowventer Charcoal 
-ITEM_20150317_003151	Charcoal found from Hallowventers. 
-ITEM_20150317_003152	Strong Magical Power Absorption Jar 
-ITEM_20150317_003153	If you set up this jar, it will absorb magical power from around you. 
-ITEM_20150317_003154	Dust Sample
-ITEM_20150317_003155	Could be a cause of the disease. 
-ITEM_20150317_003156	Big Cockatrice Tail
-ITEM_20150317_003157	The tail of a diseased Big Cockatrice.  
-ITEM_20150317_003158	Grita's Absorbing Gem 
-ITEM_20150317_003159	A gem that absorbs a monster's life force. It absorbs the life force of monsters defeated near it. 
-ITEM_20150317_003160	Unseal Scroll 
-ITEM_20150317_003161	A scroll required to solve the seal of King Zachariel. It is the first seal. 
-ITEM_20150317_003162	Canyon Bomb Flower 
-ITEM_20150317_003163	An ingredient to make a Crystal Gem. 
-ITEM_20150317_003164	Oil-Stained Fuse 
-ITEM_20150317_003165	Flame Source 
-ITEM_20150317_003166	Any monster that uses fire abilities has a source. It is used to make Flame Gems. 
-ITEM_20150317_003167	Flame Searching Stick 
-ITEM_20150317_003168	Makes finding fire easy but how Grita got it is a mystery. 
-ITEM_20150317_003169	Pino Catching Sack. 
-ITEM_20150317_003170	Research Material
-ITEM_20150317_003171	Research material stolen by monsters. It seems that monsters like to steal such documents. 
-ITEM_20150317_003172	Pino in a Sack 
-ITEM_20150317_003173	Dry Twigs 
-ITEM_20150317_003174	Useful dry twigs for fire. 
-ITEM_20150317_003175	Hard Lime 
-ITEM_20150317_003176	Hard lime be used to make Knockoff Goods.  
-ITEM_20150317_003177	Newly-Made Forgeries 
-ITEM_20150317_003178	Decicive evidence of Knockoff Goods. It isn't finished yet. 
-ITEM_20150317_003179	Building Piece 
-ITEM_20150317_003180	Piece of a building with beautiful pattern on it. It seems that the architect put a lot of work into making it. 
-ITEM_20150317_003181	Bag with Graverobbing Equipment
-ITEM_20150317_003182	There are various tools inside, like a dowsing rod to check for underground tombs. 
-ITEM_20150317_003183	Loot Bag 
-ITEM_20150317_003184	The Saugas store their loot in bags. They share their loot equally. 
-ITEM_20150317_003185	Archaeologist Token 
-ITEM_20150317_003186	A very ancient looking token of an archaeologist. 
-ITEM_20150317_003187	Woodfung Poison 
-ITEM_20150317_003188	The highly toxic poison of a Woodfung. It releases this poison into the air when frightened. 
-ITEM_20150317_003189	Bucket 
-ITEM_20150317_003190	Valley Bomb (Disposable) 
-ITEM_20150317_003191	Increases your attack speed and movement speed while attacking. {nl} Also speeds up cast time and lowers cooldowns. {nl} {#ff0000} Caution: Taking this more than 3 times a day, may cause insomnia{nl}, headache, or indigestion symptoms. {/} 
-ITEM_20150317_003192	Canyon Bomb 
-ITEM_20150317_003193	Monster Head 
-ITEM_20150317_003194	Monster Corpse 
-ITEM_20150317_003195	A sack holding a monster's head 
-ITEM_20150317_003196	Monster Trunk 
-ITEM_20150317_003197	A sack holding a monster's trunk 
-ITEM_20150317_003198	Monster Hand 
-ITEM_20150317_003199	A sack holding a monster's hand 
-ITEM_20150317_003200	Lizardman Blood 
-ITEM_20150317_003201	Cockatrice Blood 
-ITEM_20150317_003202	Lizardman Blood is used in experiments conducted by necromancers.  
-ITEM_20150317_003203	Soul Jar 
-ITEM_20150317_003204	A soul jar given by the necromancer Drasyus. It will inhale monsters who are on the verge of death. 
-ITEM_20150317_003205	First Clue of the Great King 
-ITEM_20150317_003206	A clue to undo the seal at the entrance of Mausoleum. 
-ITEM_20150317_003207	Second Clue of the Great King 
-ITEM_20150317_003208	Third Clue of the Great King 
-ITEM_20150317_003209	Fourth Clue of the Great King 
-ITEM_20150317_003210	Fifth Clue of the Great King 
-ITEM_20150317_003211	Chipped Sword 
-ITEM_20150317_003212	A sword with a piece missing from it. 
-ITEM_20150317_003213	Corpse Relics 
-ITEM_20150317_003214	These relics might help identify the dead bodies. 
-ITEM_20150317_003215	Sword Piece 
-ITEM_20150317_003216	This piece fits into the Chipped Sword. 
-ITEM_20150317_003217	Wood 
-ITEM_20150317_003218	Wood picked from the wood pile by Cahill. 
-ITEM_20150317_003219	Strong Flying Frog Leather 
-ITEM_20150317_003220	This is used for various leather products.  
-ITEM_20150317_003221	Moses Diesel's Letter 
-ITEM_20150317_003222	A letter containing the heart of Mose Diesel. 
-ITEM_20150317_003223	Moses Diesel's Crutches  
-ITEM_20150317_003224	Mose Diesel made these crutches for the village youngster Cahill 
-ITEM_20150317_003225	Shiny Tree Sap 
-ITEM_20150317_003226	The first material Ahylas Jonas requested to undo the seal. 
-ITEM_20150317_003227	Collected Canyon Amalas 
-ITEM_20150317_003228	Seal Release Crystal
-ITEM_20150317_003229	A crystal needed to release the seals in Broken Pillar Canyon 
-ITEM_20150317_003230	Lost Research Document
-ITEM_20150317_003231	Research materials that the new researcher lost. Some of the papers were crumpled when they were stepped on. 
-ITEM_20150317_003232	Map that marks the location of the Great King's inheritance. 
-ITEM_20150317_003233	Could someone eventually find out the location of the Great King Zachariel's inheritance? 
-ITEM_20150317_003234	An antidote that can counteract a Scorpion's poison. Let's get this to Dezic. 
-ITEM_20150317_003235	Condensed Magic Source
-ITEM_20150317_003236	It seems it will explode if it is touched. Be careful. 
-ITEM_20150317_003237	Hogma Tooth
-ITEM_20150317_003238	A Hogma's tooth used to scratch out something on the slate. 
-ITEM_20150317_003239	Infroburk Meat 
-ITEM_20150317_003240	Meat gotten by slaying Infroburk. It looks tough. 
-ITEM_20150317_003241	Stubby Tree Trunk 
-ITEM_20150317_003242	This trunk looks like that of a normal tree. 
-ITEM_20150317_003243	Remains of Tree Ambulo
-ITEM_20150317_003244	It seems to use as a firewood. 
-ITEM_20150317_003245	Broken Tombstone Fragment 
-ITEM_20150317_003246	Lydia Schaffen's tombstone piece regained from Cemetery Golems and Guri. 
-ITEM_20150317_003247	Piece of Lydia Schaffen's Broken Tombstone 
-ITEM_20150317_003248	A piece of a broken tombstone found from a Sea Turtle. You have to put the pieces of tombstone together to see whose it is.  
-ITEM_20150317_003249	Restored Tombstone of Lydia Schaffen 
-ITEM_20150317_003250	Finally restored the tombstone. What is in there? 
-ITEM_20150317_003251	Destroyed Tombstone Fragment 
-ITEM_20150317_003252	A piece of Flurry's tombstone that a Tama picked up and ate. 
-ITEM_20150317_003253	Villager's Bag
-ITEM_20150317_003254	Bag filled with odds and ends 
-ITEM_20150317_003255	Black Coal Powder 
-ITEM_20150317_003256	A magical black powder made from coal that makes ink stick clearly onto parchment. 
-ITEM_20150317_003257	Eternal Ember
-ITEM_20150317_003258	A material needed to open the sealed manual. Doesn't go out no matter how much you try. 
-ITEM_20150317_003259	Piece of the Holy Ark
-ITEM_20150317_003260	The Holy Ark for holding souls has been broken. Will collecting its pieces be enough? 
-ITEM_20150317_003261	Small Monster Crystal 
-ITEM_20150317_003262	A monster's Small Crystal that the Suspicious Chair asked you to collect. To call it a crystal is a stretch, though. 
-ITEM_20150317_003263	Sealed Stone's Voice
-ITEM_20150317_003264	The voice of the soul sealed within the Sealed Stone. You can hear a faint whisper from it. 
-ITEM_20150317_003265	Crystal of Restriction 
-ITEM_20150317_003266	A crystal infused with magic to prevent the sealed soul from escaping. 
-ITEM_20150317_003267	Variation Mediator 
-ITEM_20150317_003268	The Variation Mediator substance that the Variation Magician Furry Odd asked you to collect. 
-ITEM_20150317_003269	Hardened Black Crystal
-ITEM_20150317_003270	A crystal that has been carelessly burnt. 
-ITEM_20150317_003271	Flame Charm 
-ITEM_20150317_003272	A burning charm. Because it was in a monster's stomach, it is wet and smells bad. 
-ITEM_20150317_003273	Silver Dye for Magical Tattoo 
-ITEM_20150317_003274	Silver dye used for Simon Shaw's tattoo. It is relatively easy to get. 
-ITEM_20150317_003275	Cordelier's Parchment 
-ITEM_20150317_003276	Parchment Cordelier gave you. Although coal powder has been used, it is hard to see the letters because the parchment has darkened. 
-ITEM_20150317_003277	Fallenlem Core 
-ITEM_20150317_003278	Contains a power source that moves the Fallenlem. Grita, who can't use magic, needs it. 
-ITEM_20150317_003279	Flame Crystal 
-ITEM_20150317_003280	Needed to stabilize the Flame Gem. 
-ITEM_20150317_003281	Bagworm's Body Fluid 
-ITEM_20150317_003282	Material needed to make a Bokor doll. 
-ITEM_20150317_003283	Thornball's Stem 
-ITEM_20150317_003284	Follower's Memo
-ITEM_20150317_003285	A method for removing thorny vines is written on the paper. 
-ITEM_20150317_003286	Match
-ITEM_20150317_003287	An ember to burn the thorny vines. 
-ITEM_20150317_003288	Acid Solution 
-ITEM_20150317_003289	A strong acid solution that can melt through thorn vines. 
-ITEM_20150317_003290	Magic Crystal  
-ITEM_20150317_003291	A crystal needed to remove thorn vines by holy power. It needs charging and refining to be used. 
-ITEM_20150317_003292	Thornball Remains
-ITEM_20150317_003293	Thornball Wreckage burns well, even in rain. 
-ITEM_20150317_003294	Some fluid with a sour smell that oozed out from a toenail. 
-ITEM_20150317_003295	Horrible-Smelling Body Fluid 
-ITEM_20150317_003296	A useful fluid for flushing out the mini Griba that has become a parasite on Greepelli's hair.
-ITEM_20150317_003297	Adele's Ring
-ITEM_20150317_003298	Adele treasures this ring. Let's get it back to Adele. 
-ITEM_20150317_003299	Truffle's Poisonous Mushroom
-ITEM_20150317_003300	A poisonous mushroom from Truffle. Most people think it's a horn. 
-ITEM_20150317_003301	A strong acidic solution that can melt through thorn stems. 
-ITEM_20150317_003302	Operer's Stinger
-ITEM_20150317_003303	An Operor's saliva that has the power to purify corrupted magical crystals. 
-ITEM_20150317_003304	Refined Magic Crystal 
-ITEM_20150317_003305	A completely purified magical crystal. It can remove the thorn vines blocking the path. 
-ITEM_20150317_003306	Coliflower Sap
-ITEM_20150317_003307	Highly volatile sap. Essential for burning away wet thorn vines. 
-ITEM_20150317_003308	Stimulants 
-ITEM_20150317_003309	A medicine effective in restoring one's mind. 
+ITEM_20150317_003025	Suministros de Lindt
+ITEM_20150317_003026	Suministros de la unidad de la que Lindt es parte. Un Wendigo se escapó con ellos.
+ITEM_20150317_003027	Apynys de Cañón
+ITEM_20150317_003028	Una hierba con un efecto analgésico decente.
+ITEM_20150317_003029	Piedra Espiritual
+ITEM_20150317_003030	Cuentan que esta piedra atrae a los Saugas. ¿Será verdad?
+ITEM_20150317_003031	Fragmento de Reliquia
+ITEM_20150317_003032	Un fragmento de una reliquia tragado por un Denoptic. Un monstruo que se alimenta de piedra, qué curioso.
+ITEM_20150317_003033	Pago
+ITEM_20150317_003034	Un morral con monedas de un pago. Graverobber Kujang te pidio que entreges esto a Graverobber Bushobell.
+ITEM_20150317_003035	Artículo de Oro Brillante
+ITEM_20150317_003036	Tesoro de una victima humana acumulado por monstruos. 
+ITEM_20150317_003037	Paquete Perdido
+ITEM_20150317_003038	Collar roto de Thorn Forest 
+ITEM_20150317_003039	Fajo de Bushobell
+ITEM_20150317_003040	Pertenencias de Soldado
+ITEM_20150317_003041	Pertenencias de un soldado, robadas por un Insecto Hoja. Parece que han sido robadas muchas veces desde entonces.
+ITEM_20150317_003042	Trozo de Tela Vubbe
+ITEM_20150317_003043	Un trozo de tela rasgada de un Vubbe. Es de la zona sucia de la cintura.
+ITEM_20150317_003044	Garra de Tejedora
+ITEM_20150317_003045	Si se reúnen suficientes, pueden tener un uso.
+ITEM_20150317_003046	Bienes de Rescate
+ITEM_20150317_003047	Bienes usados como provisión de emergencias en la Aldea de los Mineros. 
+ITEM_20150317_003048	Piedra de Refuerzo
+ITEM_20150317_003049	Piedra requerida para reforzar los muros exteriores de la Mina de Cristal. Recogelos antes de que se derrumbe la pared. 
+ITEM_20150317_003050	Palo Punzante
+ITEM_20150317_003051	Un palo utilizado para expulsar Sequoia. Tiene unos poco espiritus sagrados. 
+ITEM_20150317_003052	Trozo de Madera con Espiritus Sagrados 
+ITEM_20150317_003053	Ingrediente para una herramienta que ahuyenta las obstrucciones de Sequoia del camino.
+ITEM_20150317_003054	Cristales de espiritus de las esculturas de búho que han sido tragados por monstruos. 
+ITEM_20150317_003055	Esencia de Espiritu
+ITEM_20150317_003056	Esencia del guerrero. Es muy necesaria para dar a la Sequoia la mejor parte. 
+ITEM_20150317_003057	Piedra de Alma Azul
+ITEM_20150317_003058	La primera piedra de alma. Alberga un gran resentimiento de un individuo corrupto.
+ITEM_20150317_003059	Piedra de Alma Roja
+ITEM_20150317_003060	La segunda piedra de alma. Alberga un gran resentimiento de un individuo corrupto.
+ITEM_20150317_003061	Piedra de Alma Malvada
+ITEM_20150317_003062	La tercera piedra de alma. Alberga un gran resentimiento de un individuo corrupto.
+ITEM_20150317_003063	Señal del Espiritu Principal de Búho
+ITEM_20150317_003064	Una señal de que tenía la escultura del búho enfadado.
+ITEM_20150317_003065	Palo Espiritual
+ITEM_20150317_003066	Este palo ha sido creado mejorando el palo punzante. Es capaz de someter a la Sequoia.
+ITEM_20150317_003067	Las larvas de Meduja corroen los recuerdos de la vida. Son Brillantes.
+ITEM_20150317_003068	Valija Perdida
+ITEM_20150317_003069	La valija de un mercader muerto. Su espiritu esta obsesionado con ella.
+ITEM_20150317_003070	Pergamino de Hechizo Rasgado
+ITEM_20150317_003071	Un pergamino de protección. Parece que el espíritu de un erudito fue vencido antes de usarlo.
+ITEM_20150317_003072	Copia del Monumento de Peregrino
+ITEM_20150317_003073	Copa borrosa del monumento que la chica exploradora buscaba.
+ITEM_20150317_003074	Rama Quemada
+ITEM_20150317_003075	La rama se quemo cuando la Sequoia se altero.
+ITEM_20150317_003076	Palo Maldito
+ITEM_20150317_003077	Este palo ha sido creado mejorando el palo espiritual. Tiene el rencor de las esculturas de búho.
+ITEM_20150317_003078	Recuerdo de los soldados muertos asesinados por monstruos. Parece que los recuerdos pueden consolar a las almas de los soldados asesinados.
+ITEM_20150317_003079	Fragancia de Mariposa
+ITEM_20150317_003080	Este olor me recuerda a mi ciudad natal. Echo de menos mi hogar.
+ITEM_20150317_003081	Hoja de Ridimed Anormalmente Perfumada.
+ITEM_20150317_003082	Anormalmente olores de zumo rezuman de ella.
+ITEM_20150317_003083	Urna Purificada
+ITEM_20150317_003084	Objeto de Misión.
+ITEM_20150317_003085	Señuelo Completo de Monstruo
+ITEM_20150317_003086	Un señuelo de monstruo usado para completar la última misión de los soldados muertos.
+ITEM_20150317_003087	Suelo de Prueba
+ITEM_20150317_003088	Vamos a probarlo con un monstruo para ver si funciona.
+ITEM_20150317_003089	Patas de Madera Solida
+ITEM_20150317_003090	Unas patas de madera de una araña arbustera.
+ITEM_20150317_003091	Piel Crujiente
+ITEM_20150317_003092	Piel de un kepa viejo. Cae polvo al sacudirla.
+ITEM_20150317_003093	Necesitamos hacer un señuelo mas convincente. ¿Funcionara este señulo bien?
+ITEM_20150317_003094	Cuerpo de Soldado Muerto
+ITEM_20150317_003095	Cuerpos del Escuadron de Johan. Tratalos bien.
+ITEM_20150317_003096	Suministros 
+ITEM_20150317_003097	Bolsa de Suministros
+ITEM_20150317_003098	Suministros portables para ser enviados al escuadron de Danyus.
+ITEM_20150317_003099	Gancho de Puragi
+ITEM_20150317_003100	Un gancho que el soldado Roy tiene que recoger. Él podrá regresar a sus tropas tan pronto como los recoga.
+ITEM_20150317_003101	Alma del Búho Criticón
+ITEM_20150317_003102	Página de Informe Manchada de Sangre
+ITEM_20150317_003103	El contenido es ilegible.
+ITEM_20150317_003104	Tallo de Hamming
+ITEM_20150317_003105	Un material utilizado para reparar el vagón. Corta desde la parte dura del tallo de un Haming.
+ITEM_20150317_003106	Fluido de Tini
+ITEM_20150317_003107	Fluido segregado por la glandula de un Tini. Tocarlo hará qe te pique.
+ITEM_20150317_003108	Herbicida Maloliente
+ITEM_20150317_003109	Herbicida hecho con fluido de Tini. Tu puedes quitar los arbustos espinosos con esto.
+ITEM_20150317_003110	Solicitus de Refuerzos
+ITEM_20150317_003111	Certificados de Entrenamiento
+ITEM_20150317_003112	El certificado otorgado a los soldados que han completado su entrenamiento de manera segura.
+ITEM_20150317_003113	Hierba de Plátano
+ITEM_20150317_003114	Colección de partes blandas de hierba de platanos. Tiene un sabor amargo cuando se mastica.
+ITEM_20150317_003115	Carne de Tini
+ITEM_20150317_003116	La carne es sin duda la mejor opción para aumentar la fuerza.
+ITEM_20150317_003117	Botella de Poción Vacia
+ITEM_20150317_003118	Botella de poción vacia robada a un Vubbe. Resplandece como si se hubiera limpiado con vigor. 
+ITEM_20150317_003119	Caparazón de Escarabajo
+ITEM_20150317_003120	Restos de Alma
+ITEM_20150317_003121	Fuerza Sagrada de la Escultura
+ITEM_20150317_003122	Llave del Pórtico
+ITEM_20150317_003123	Un morral en el que un Vubbe ha estado guardando para los malos espíritus difundidos.
+ITEM_20150317_003124	Reliquia Krivis
+ITEM_20150317_003125	Una preciosa reliquia que los Krivis mantienen con ellos como símbolo de su fidelidad.
+ITEM_20150317_003126	Corazón de Stone Orca
+ITEM_20150317_003127	Un objeto que muestra tu habilidad al Maestre Espadachín. It's the heart of Stone Orca.
+ITEM_20150317_003128	Alas de Murciélago Rasgadas
+ITEM_20150317_003129	Ungüento verde
+ITEM_20150317_003130	Un ungüento Vubbe que se utiliza para tratar a los heridos. No se puede utilizar tal y como está.
+ITEM_20150317_003131	Fuente de Poder de Guardián del Mausoleo Real
+ITEM_20150317_003132	Una fuente de poder usada por los guardianes para moverse.
+ITEM_20150317_003133	Fuente de Magia del Mausoleo Real
+ITEM_20150317_003134	La fuente de la magia que rodea el Mausoleo Real.
+ITEM_20150317_003135	Pizarra Rota del Mausoleo Real
+ITEM_20150317_003136	Una pizarra que ordena a los guardianes atacar a las cosas malas. Están atacando a todos porque está rota.
+ITEM_20150317_003137	Piedra Ardiente
+ITEM_20150317_003138	Una piedra que enciende las lamparas de piedra. A pesar de que está ardiendo, no quema.
+ITEM_20150317_003139	Piedra de Activación
+ITEM_20150317_003140	El uso excesivo del inhibidor puede hacer que se sobrecaliente y se rompa.
+ITEM_20150317_003141	Fuente Mágica Flameante
+ITEM_20150317_003142	Una fuente mágica que muestra la localización de los guardianes del Mausoleo Real.
+ITEM_20150317_003143	Marca de Wheelen
+ITEM_20150317_003144	Una marca de Wheelens. Recogerlos da poder para derrotar enemigos.
+ITEM_20150317_003145	Diario del hermano
+ITEM_20150317_003146	Un diario que Coben te pidio que buscaras.
+ITEM_20150317_003147	Grasa de Cockatrice
+ITEM_20150317_003148	Monton de grasa de un Cockatrice. 
+ITEM_20150317_003149	Grasa Altamente Condensada de Cockatrice. 
+ITEM_20150317_003150	Carbón de Hallowventer
+ITEM_20150317_003151	Carbón encontrando en un Hallowventers. 
+ITEM_20150317_003152	Jarrón de Absorción Mágica Fuerte
+ITEM_20150317_003153	Si pones este frasco, absorberá el poder mágico de tu alrededor.
+ITEM_20150317_003154	Muestra de Polvo
+ITEM_20150317_003155	Podría ser una causa de la enfermedad. 
+ITEM_20150317_003156	Cola de Big Cockatrice
+ITEM_20150317_003157	La cola de una Big Cockatrice enferma.  
+ITEM_20150317_003158	Gema de Absorción de Grita
+ITEM_20150317_003159	Una gema que absorbe la fuerza vital de un mosntruo. Absorbe la fuerza vital de los monstruos derrotados cerca.
+ITEM_20150317_003160	Pergamino de Liberación
+ITEM_20150317_003161	Un pergamino para desvelar el sello del Rey Zachariel. Este es el primer sello.
+ITEM_20150317_003162	Flor Bomba del Cañón
+ITEM_20150317_003163	Un ingrediente para crear la gema de cristal.
+ITEM_20150317_003164	Mecha Manchada de Aceite
+ITEM_20150317_003165	Fuente de Llama
+ITEM_20150317_003166	Cualquier mosntruo que use habilidades de fuego tiene una fuente. Se usa para hacer gemas de llamas.
+ITEM_20150317_003167	Palo de Busqueda de LLamas
+ITEM_20150317_003168	Hace mas facil encontrar fuego pero como dijo Grita esto es un misterio.
+ITEM_20150317_003169	Saco de Captura de Pino.
+ITEM_20150317_003170	Material de Investigación
+ITEM_20150317_003171	Material de investigación robado por monstruos. Parece que a los monstruos les gusta robar estos documentos.
+ITEM_20150317_003172	Pino en un Saco
+ITEM_20150317_003173	Ramas Secas
+ITEM_20150317_003174	Ramas secas útiles para el fuego.
+ITEM_20150317_003175	Lima Dura
+ITEM_20150317_003176	Lima dura usada para articulos robados.
+ITEM_20150317_003177	Falsificación Recien Hecha
+ITEM_20150317_003178	Evidencia decisiva de articulos robados. No esta acabado.
+ITEM_20150317_003179	Pieza de construcción
+ITEM_20150317_003180	Pedazo de un edificio con el diseño hermoso. Parece que el arquitecto puso un montón de trabajo haciendolo.
+ITEM_20150317_003181	Bolsa Con Equipo de Saquear Tumbas
+ITEM_20150317_003182	Hay varias herramientas en el interior, como una vara de zahorí para comprobar si hay tumbas subterráneas.
+ITEM_20150317_003183	Bolsa de Botín
+ITEM_20150317_003184	Los Saugas almacenan su botín en bolsas. Comparten su botín por igual.
+ITEM_20150317_003185	Símbolo de Arqueología
+ITEM_20150317_003186	Un símbolo de arqueologia que luce muy antiguo.
+ITEM_20150317_003187	Veneno de Woodfung
+ITEM_20150317_003188	El veneno altamente tóxico de un Woodfung. Libera este veneno en el aire cuando se asusta.
+ITEM_20150317_003189	Cubo
+ITEM_20150317_003190	Bomba del Valle (Desechable)
+ITEM_20150317_003191	Aumenta la velocidad de ataque y la velocidad de movimiento mientras atacas. {nl} También acelera el tiempo de lanzamiento y reduce los tiempos de enfriamiento. {nl} {#ff0000} Precaución: Tomar esto más de 3 veces al día, puede causar insomnio{nl}, dolor de cabeza o indigestión. {/}
+ITEM_20150317_003192	Bomba de Cañón
+ITEM_20150317_003193	Cabeza de Monstruo
+ITEM_20150317_003194	Cuerpo de Monstruo
+ITEM_20150317_003195	Un saco que contiene la cabeza de un monstruo
+ITEM_20150317_003196	Tronco de Monstruo 
+ITEM_20150317_003197	Un saco que contiene el tronco de un monstruo
+ITEM_20150317_003198	Mano de Monstruo
+ITEM_20150317_003199	Un saco que contiene la mano de un monstruo
+ITEM_20150317_003200	Sangre de Lizardman
+ITEM_20150317_003201	Sangre de Cockatrice
+ITEM_20150317_003202	La sangre de Lizardman se utiliza en experimentos realizados por nigromantes.
+ITEM_20150317_003203	Jarrón de Alma
+ITEM_20150317_003204	un jarrón de alma dado por el nigromante Drasyus. Aspira a los monstruos que están al borde de la muerte.
+ITEM_20150317_003205	Primera pista del Gran Rey
+ITEM_20150317_003206	Una pista para deshacer el sello de la entrada del Mausoleo.
+ITEM_20150317_003207	Segunda pista del gran rey
+ITEM_20150317_003208	Tercera pista del gran rey
+ITEM_20150317_003209	Cuarta pista del gran rey
+ITEM_20150317_003210	Quinta pista del gran rey
+ITEM_20150317_003211	Espada Astillada
+ITEM_20150317_003212	Una espada que le falta una pieza.
+ITEM_20150317_003213	Reliquias de Cuerpos
+ITEM_20150317_003214	Estas reliquias podrían ayudar a identificar los cadáveres.
+ITEM_20150317_003215	Pieza de Espada
+ITEM_20150317_003216	Esta pieza encaja en la espada astillada.
+ITEM_20150317_003217	Madera
+ITEM_20150317_003218	Madera escogida de la pila de madera por Cahill.
+ITEM_20150317_003219	Cuero de Rana Voladora Fuerte
+ITEM_20150317_003220	Se usa en varios productos de cuero.
+ITEM_20150317_003221	Carta de Moses Diesel
+ITEM_20150317_003222	Una carta que contiene el corazón de Mose Diesel.
+ITEM_20150317_003223	Muletas de Moses Diesel
+ITEM_20150317_003224	Mose Diesel ha hecho estas muletas para el joven del pueblo Cahill
+ITEM_20150317_003225	Savia de Árbol Brillante
+ITEM_20150317_003226	El primer material que pide Ahylas Jonas para deshacer el sello.
+ITEM_20150317_003227	Amalas de Cañón Recopiladas
+ITEM_20150317_003228	Cristal Libera Sellos
+ITEM_20150317_003229	Un cristal necesario para liberar los sellos en Broken Pillar Canyon
+ITEM_20150317_003230	Documento de Investigación Perdido
+ITEM_20150317_003231	Materiales de investigación que el nuevo investigador perdio. Algunos de los papeles se estropearon cuando los pisaron.
+ITEM_20150317_003232	Mapa que indica la localización de la herencia del Gran Rey.
+ITEM_20150317_003233	¿Podría alguien finalmente averiguar la ubicación de la herencia del Gran Rey Zachariel?
+ITEM_20150317_003234	Un antídoto que puede contrarrestar el veneno de un escorpión. Vamos a conseguir esto a Dezic.
+ITEM_20150317_003235	Fuente de Magia Condensada
+ITEM_20150317_003236	Parece que va a explotar si es tocada. Ten cuidado.
+ITEM_20150317_003237	Diente de Hogma
+ITEM_20150317_003238	Un diente de Hogma usado para rayar algo en la pizarra.
+ITEM_20150317_003239	Carne de Infroburk
+ITEM_20150317_003240	Carne obtenida asesinando un Infroburk. Parece dura.
+ITEM_20150317_003241	Tronco de Árbol Achaparrado
+ITEM_20150317_003242	Este tronco se ve como si fuera de un árbol normal.
+ITEM_20150317_003243	Restos de Arbol Ambulo
+ITEM_20150317_003244	Parece que se puede usar para una fogata.
+ITEM_20150317_003245	Fragmento de Lápida Rota
+ITEM_20150317_003246	Pieza de la lápida de Lydia Schaffen recuperada de Cemetery Golems y Guri.
+ITEM_20150317_003247	Pieza de la Lápida Rota de Lydia Schaffen
+ITEM_20150317_003248	Un trozo de lápida rota encontrada en una Sea Turtle. Tienes que juntar las piezas de la lápida para ver de quien es.
+ITEM_20150317_003249	Lápida de Lydia Schaffen Restaurada
+ITEM_20150317_003250	Finalmente restauré la lápida. ¿Que hay aqui?
+ITEM_20150317_003251	Fragmento de Lápida Destruida
+ITEM_20150317_003252	Un trozo de la lápida de Flurry que un Tama recogio y se comio.
+ITEM_20150317_003253	Bolsa de Aldeano
+ITEM_20150317_003254	Bolsa llena de cachivaches
+ITEM_20150317_003255	Polvo de Carbón Negro
+ITEM_20150317_003256	Un polvo negro mágico hecho de carbón que hace barras de tinta sobre el pergamino.
+ITEM_20150317_003257	Ascua Eterna
+ITEM_20150317_003258	Un material necesario para abrir el manual sellado. No se apaga no importa cuanto lo intentes.
+ITEM_20150317_003259	Pieza del Arca Sagrada
+ITEM_20150317_003260	El arca sagrada para cargar las almas se ha roto. ¿Será suficiente recolectar las piezas?
+ITEM_20150317_003261	Cristal de Monstruo Pequeño
+ITEM_20150317_003262	Un cristal de monstruo pequeño que el sospechoso cátedra te pidio que recolectaras. Para llamar a esto cristal hay un trecho.
+ITEM_20150317_003263	Piedra Sellada de Voz
+ITEM_20150317_003264	La voz del alma sellada dentro de la Piedra Sellada. Se puede oír un débil susurro de ella.
+ITEM_20150317_003265	Cristal de la Renstricción
+ITEM_20150317_003266	Un cristal impregnado de magia para evitar que el alma sellada escape.
+ITEM_20150317_003267	Mediador de Variación
+ITEM_20150317_003268	La sustancia mediadora de variación que el mago de variacion Furry Odd te pidio que consiguieras.
+ITEM_20150317_003269	Cristal Negro Endurecido
+ITEM_20150317_003270	Un cristal que ha sido quemado por descuido.
+ITEM_20150317_003271	Amuleto de Llama
+ITEM_20150317_003272	Un amuleto ardietne. Debido a que estaba en el estómago de un monstruo, está húmedo y huele mal.
+ITEM_20150317_003273	Tinte Plateado para Tatuaje Mágico
+ITEM_20150317_003274	Un tinte plateado usado para el tatuaje de Simon Shaw. Es relativamente facil de obtener.
+ITEM_20150317_003275	Pergamino de Cordelier
+ITEM_20150317_003276	Un pergamino que el Cordelier te dio. Aunque se ha utilizado polvo de carbón, es difícil ver las letras porque el pergamino se ha oscurecido.
+ITEM_20150317_003277	Núcleo de Fallenlem
+ITEM_20150317_003278	Contiene la fuente de poder que mueve a los Fallenlem. Grita, que no usa la magia, lo necesita.
+ITEM_20150317_003279	Cristal de Llama
+ITEM_20150317_003280	Necesario para estabilizar la gema de llama.
+ITEM_20150317_003281	Fluido Corporal de Gusano Saco
+ITEM_20150317_003282	Material necesario para hacer un muñeco Bokor.
+ITEM_20150317_003283	Tallo de Bola de Púas
+ITEM_20150317_003284	Memorándum de Seguidor
+ITEM_20150317_003285	Un método para la eliminación de vides espinosas está escrito en el papel.
+ITEM_20150317_003286	Cerilla
+ITEM_20150317_003287	Una brasa para quemar las vides espinosas.
+ITEM_20150317_003288	Solución Acida
+ITEM_20150317_003289	Una solución de ácido fuerte que puede derretir las vides espinosas.
+ITEM_20150317_003290	Cristal Mágico
+ITEM_20150317_003291	Un cristal necesario para eliminar las vides espinosas con el poder sagrado. Se necesita cargar y refinar para ser utilizado.
+ITEM_20150317_003292	Restos de Bola de Púas
+ITEM_20150317_003293	Los restos de Bola de Púas queman bien hasta lloviendo.
+ITEM_20150317_003294	Algún fluido con un olor agrio que rezuma de una uña del pie.
+ITEM_20150317_003295	Fluido de Corporal Oloroso
+ITEM_20150317_003296	Un fluido útil para quitar los mini Griba que se convierten en parasitos en el cabello de Greepelli.
+ITEM_20150317_003297	Anillo de Adele
+ITEM_20150317_003298	Adele atesora este anillo. Vamos a devolverselo a Adele.
+ITEM_20150317_003299	Seta Venenosa de Truffle
+ITEM_20150317_003300	Una seta venenosa de Truffle. La mayoría de las personas piensan que es un cuerno.
+ITEM_20150317_003301	A strong acidic solution that can melt through thorn stems.
+ITEM_20150317_003302	Aguijón de Operador
+ITEM_20150317_003303	An Operor's saliva that has the power to purify corrupted magical crystals.
+ITEM_20150317_003304	Refined Magic Crystal
+ITEM_20150317_003305	A completely purified magical crystal. It can remove the thorn vines blocking the path.
+ITEM_20150317_003306	Savia de Coliflor
+ITEM_20150317_003307	Highly volatile sap. Essential for burning away wet thorn vines.
+ITEM_20150317_003308	Estimulantes
+ITEM_20150317_003309	A medicine effective in restoring one's mind.
 ITEM_20150317_003310	Power Crystal
-ITEM_20150317_003311	A crystal of power gotten from defeating Corylus. It is used to make a crystal of light. 
-ITEM_20150317_003312	Magical Enchantment Crystal  
-ITEM_20150317_003313	A crystal filled with enough energy to activate the underground enchantment. 
-ITEM_20150317_003314	Operation Map 
-ITEM_20150317_003315	Visual plans, where you can see the goal area for the operation. It is in the middle. 
-ITEM_20150317_003316	Thorn Pollen 
-ITEM_20150317_003317	Pollen used to exorcise evil spirits. 
-ITEM_20150317_003318	Lever Handle Latch 
-ITEM_20150317_003319	A latch used to tie down the handle of the cable car's lever. 
+ITEM_20150317_003311	A crystal of power gotten from defeating Corylus. It is used to make a crystal of light.
+ITEM_20150317_003312	Magical Enchantment Crystal
+ITEM_20150317_003313	A crystal filled with enough energy to activate the underground enchantment.
+ITEM_20150317_003314	Operation Map
+ITEM_20150317_003315	Visual plans, where you can see the goal area for the operation. It is in the middle.
+ITEM_20150317_003316	Thorn Pollen
+ITEM_20150317_003317	Pollen used to exorcise evil spirits.
+ITEM_20150317_003318	Lever Handle Latch
+ITEM_20150317_003319	A latch used to tie down the handle of the cable car's lever.
 ITEM_20150317_003320	Gear
-ITEM_20150317_003321	A metal part shaped like a wheel that monsters had stolen. It is clearly a part of the cable car. 
-ITEM_20150317_003322	Plateau Sugar Beets 
-ITEM_20150317_003323	Sweet tasting Plateau specialty sugar beets. Young animals love them. 
+ITEM_20150317_003321	A metal part shaped like a wheel that monsters had stolen. It is clearly a part of the cable car.
+ITEM_20150317_003322	Plateau Sugar Beets
+ITEM_20150317_003323	Sweet tasting Plateau specialty sugar beets. Young animals love them.
 ITEM_20150317_003324	Cable Car Parts
-ITEM_20150317_003325	Parts acquired from around the broken cable car 
-ITEM_20150317_003326	Thorn Pollen Stimulant 
-ITEM_20150317_003327	Good medicine for when the atmosphere becomes contaminated and hazy. 
-ITEM_20150317_003328	Blue Fragaras Petal 
-ITEM_20150317_003329	A Fragaras' resin is an effective exorcising material. 
+ITEM_20150317_003325	Parts acquired from around the broken cable car
+ITEM_20150317_003326	Thorn Pollen Stimulant
+ITEM_20150317_003327	Good medicine for when the atmosphere becomes contaminated and hazy.
+ITEM_20150317_003328	Blue Fragaras Petal
+ITEM_20150317_003329	A Fragaras' resin is an effective exorcising material.
 ITEM_20150317_003330	Ritualistic Rope
-ITEM_20150317_003331	A ceremonial rope carried by a Panto Shaman 
+ITEM_20150317_003331	A ceremonial rope carried by a Panto Shaman
 ITEM_20150317_003332	Enchanted Mane
 ITEM_20150317_003333	A mane taken from the nape of a defeated Mushcaria
 ITEM_20150317_003334	Divine Sphere
@@ -4913,7 +4913,7 @@ ITEM_20150428_004912	Restaura PM cada 2 segundos. {nl}640 de PM restaurados en 1
 ITEM_20150428_004913	Lv1 Condensed Resistencia Pill
 ITEM_20150428_004914	Restaura 50 de Resistencia. {nl}Click derecho para usar. Enfriamiento de 30 segundos. 
 ITEM_20150428_004915	Lv1 Condensed Movement Speed Potion
-ITEM_20150428_004916	Incrementa tu velocidad de movimiento en 5 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos. 
+ITEM_20150428_004916	Incrementa tu velocidad de movimiento en 5 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos. 
 ITEM_20150428_004917	Lv2 Condensed PS Potion
 ITEM_20150428_004918	Restaura PS cada 2 segundos. {nl}800 de PS restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 45 segundos. 
 ITEM_20150428_004919	Lv3 Condensed PS Potion
@@ -5178,96 +5178,96 @@ ITEM_20150714_005177	Restaura PS cada 2 segundos. {nl}3360 de PS restaurados en 
 ITEM_20150714_005178	Restaura PS cada 2 segundos. {nl}3520 de PS restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 45 segundos. 
 ITEM_20150714_005179	Restaura PS cada 2 segundos. {nl}3680 de PS restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 45 segundos. 
 ITEM_20150714_005180	Restaura PS cada 2 segundos. {nl}3840 de PS restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 45 segundos. 
-ITEM_20150714_005181	Lv1 Block Potion
-ITEM_20150714_005182	Increases your block by 50 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005183	Lv2 Block Potion 
-ITEM_20150714_005184	Increases your block by 65 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005185	Lv3 Block Potion 
-ITEM_20150714_005186	Increases your block by 80 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005187	Lv4 Block Potion
-ITEM_20150714_005188	Increases your block by 95 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005189	Lv5 Block Potion
-ITEM_20150714_005190	Increases your block by 110 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005191	Lv6 Block Potion
-ITEM_20150714_005192	Increases your block by 125 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005193	Lv7 Block Potion
-ITEM_20150714_005194	Increases your block by 140 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005195	Lv8 Block Potion
-ITEM_20150714_005196	Increases your block by 155 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005197	Lv9 Block Potion 
-ITEM_20150714_005198	Increases your block by 170 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005199	Lv10 Block Potion 
-ITEM_20150714_005200	Increases your block by 185 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005201	Lv11 Block Potion
-ITEM_20150714_005202	Increases your block by 200 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005203	Lv12 Block Potion 
-ITEM_20150714_005204	Increases your block by 215 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005205	Lv13 Block Potion
-ITEM_20150714_005206	Increases your block by 230 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005207	Lv14 Block Potion
-ITEM_20150714_005208	Increases your block by 245 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
-ITEM_20150714_005209	Lv15 Block Potion 
-ITEM_20150714_005210	Increases your block by 260 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005181	Poción de Bloqueo Nv1
+ITEM_20150714_005182	Incrementa tu bloqueo en 50 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005183	Poción de Bloqueo Nv2
+ITEM_20150714_005184	Incrementa tu bloqueo en 65 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005185	Poción de Bloqueo Nv3
+ITEM_20150714_005186	Incrementa tu bloqueo en 80 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005187	Poción de Bloqueo Nv4
+ITEM_20150714_005188	Incrementa tu bloqueo en 95 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005189	Poción de Bloqueo Nv5
+ITEM_20150714_005190	Incrementa tu bloqueo en 110 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005191	Poción de Bloqueo Nv6
+ITEM_20150714_005192	Incrementa tu bloqueo en 125 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005193	Poción de Bloqueo Nv7
+ITEM_20150714_005194	Incrementa tu bloqueo en 140 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005195	Poción de Bloqueo Nv8
+ITEM_20150714_005196	Incrementa tu bloqueo en 155 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005197	Poción de Bloqueo Nv9
+ITEM_20150714_005198	Incrementa tu bloqueo en 170 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005199	Poción de Bloqueo Nv10
+ITEM_20150714_005200	Incrementa tu bloqueo en 185 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005201	Poción de Bloqueo Nv11
+ITEM_20150714_005202	Incrementa tu bloqueo en 200 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005203	Poción de Bloqueo Nv12
+ITEM_20150714_005204	Incrementa tu bloqueo en 215 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005205	Poción de Bloqueo Nv13
+ITEM_20150714_005206	Incrementa tu bloqueo en 230 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005207	Poción de Bloqueo Nv14
+ITEM_20150714_005208	Incrementa tu bloqueo en 245 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005209	Poción de Bloqueo Nv15
+ITEM_20150714_005210	Incrementa tu bloqueo en 260 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005211	Lv1 Critical Damage Potion
-ITEM_20150714_005212	Increases your critical damage by 32 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005212	Incrementa tu daño crítico en 32 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005213	Lv2 Critical Damage Potion
-ITEM_20150714_005214	Increases your critical damage by 44 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005214	Incrementa tu daño crítico en 44 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005215	Lv3 Critical Damage Potion
-ITEM_20150714_005216	Increases your critical damage by 56 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005216	Incrementa tu daño crítico en 56 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005217	Lv4 Critical Damage Potion
-ITEM_20150714_005218	Increases your critical damage by 68 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005218	Incrementa tu daño crítico en 68 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005219	Lv5 Critical Damage Potion
-ITEM_20150714_005220	Increases your critical damage by 80 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005220	Incrementa tu daño crítico en 80 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005221	Lv6 Critical Damage Potion
-ITEM_20150714_005222	Increases your critical damage by 92 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005222	Incrementa tu daño crítico en 92 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005223	Lv7 Critical Damage Potion
-ITEM_20150714_005224	Increases your critical damage by 104 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005224	Incrementa tu daño crítico en 104 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005225	Lv8 Critical Damage Potion
-ITEM_20150714_005226	Increases your critical damage by 116 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005226	Incrementa tu daño crítico en 116 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005227	Lv9 Critical Damage Potion
-ITEM_20150714_005228	Increases your critical damage by 128 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005228	Incrementa tu daño crítico en 128 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005229	Lv10 Critical Damage Potion
-ITEM_20150714_005230	Increases your critical damage by 140 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005230	Incrementa tu daño crítico en 140 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005231	Lv11 Critical Damage Potion
-ITEM_20150714_005232	Increases your critical damage by 152 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos 
+ITEM_20150714_005232	Incrementa tu daño crítico en 152 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos 
 ITEM_20150714_005233	Lv12 Critical Damage Potion
-ITEM_20150714_005234	Increases your critical damage by 164 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005234	Incrementa tu daño crítico en 164 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005235	Lv13 Critical Damage Potion 
-ITEM_20150714_005236	Increases your critical damage by 176 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005236	Incrementa tu daño crítico en 176 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005237	Lv14 Critical Damage Potion
-ITEM_20150714_005238	Increases your critical damage by 188 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005238	Incrementa tu daño crítico en 188 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005239	Lv15 Critical Damage Potion
-ITEM_20150714_005240	Increases your critical damage by 200 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005240	Incrementa tu daño crítico en 200 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005241	Lv1 Magic Amplification Potion
-ITEM_20150714_005242	Increases your magic amplification by 10 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005242	Incrementa tu amplificación de magia en 10 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005243	Lv2 Magic Amplification Potion
-ITEM_20150714_005244	Increases your magic amplification by 14 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005244	Incrementa tu amplificación de magia en 14 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005245	Lv3 Magic Amplification Potion
-ITEM_20150714_005246	Increases your magic amplification by 18 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005246	Incrementa tu amplificación de magia en 18 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005247	Lv4 Magic Amplification Potion
-ITEM_20150714_005248	Increases your magic amplification by 22 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005248	Incrementa tu amplificación de magia en 22 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005249	Lv5 Magic Amplification Potion
-ITEM_20150714_005250	Increases your magic amplification by 26 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005250	Incrementa tu amplificación de magia en 26 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005251	Lv6 Magic Amplification Potion
-ITEM_20150714_005252	Increases your magic amplification by 30 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005252	Incrementa tu amplificación de magia en 30 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005253	Lv7 Magic Amplification Potion
-ITEM_20150714_005254	Increases your magic amplification by 34 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005254	Incrementa tu amplificación de magia en 34 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005255	Lv8 Magic Amplification Potion
-ITEM_20150714_005256	Increases your magic amplification by 38 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005256	Incrementa tu amplificación de magia en 38 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005257	Lv9 Magic Amplification Potion
-ITEM_20150714_005258	Increases your magic amplification by 42 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005258	Incrementa tu amplificación de magia en 42 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005259	Lv10 Magic Amplification Potion
-ITEM_20150714_005260	Increases your magic amplification by 46 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005260	Incrementa tu amplificación de magia en 46 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005261	Lv11 Magic Amplification Potion
-ITEM_20150714_005262	Increases your magic amplification by 50 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005262	Incrementa tu amplificación de magia en 50 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005263	Lv12 Magic Amplification Potion
-ITEM_20150714_005264	Increases your magic amplification by 54 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005264	Incrementa tu amplificación de magia en 54 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005265	Lv13 Magic Amplification Potion
-ITEM_20150714_005266	Increases your magic amplification by 58 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005266	Incrementa tu amplificación de magia en 58 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005267	Lv14 Magic Amplification Potion
-ITEM_20150714_005268	Increases your magic amplification by 62 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005268	Incrementa tu amplificación de magia en 62 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005269	Lv15 Magic Amplification Potion
-ITEM_20150714_005270	Increases your magic amplification by 66 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
+ITEM_20150714_005270	Incrementa tu amplificación de magia en 66 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150714_005271	Revelation: Opposing Piece Colección 
 ITEM_20150714_005272	Revelation: Inside Piece Colección
 ITEM_20150714_005273	Lv1 Gem Abrasive
@@ -6231,7 +6231,7 @@ ITEM_20150918_006230	Cuando se usa anula los efectos nocivos de estado.{nl}Se co
 ITEM_20150918_006231	Anula los ataques de magicos.
 ITEM_20150918_006232	Restaura instantáneamente 800 PS. {nl}Restaura Adicionalmente PS cada 2 segundos. {nl}1120 de PS restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 45 segundos.
 ITEM_20150918_006233	Restaura instantáneamente 320 PM. {nl}Restaura Adicionalmente PM cada 2 segundos. {nl}448 de PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
-ITEM_20150918_006234	Incrementa tu velocidad de movimiento en 3 for 180 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
+ITEM_20150918_006234	Incrementa tu velocidad de movimiento en 3 durante 180 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
 ITEM_20150918_006235	Restaura instantáneamente 800 PS. {nl}Restaura Adicionalmente PS cada 2 segundos. {nl}1232 de PS restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
 ITEM_20150918_006236	Restaura instantáneamente 960 PS. {nl}Restaura Adicionalmente PS cada 2 segundos. {nl}1344 de PS restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
 ITEM_20150918_006237	Restaura instantáneamente 1040 PS. {nl}Restaura Adicionalmente PS cada 2 segundos. {nl}1456 de PS restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
@@ -6512,7 +6512,7 @@ ITEM_20150918_006511	The power source that moves the Red Infrorocktor. Grita, wh
 ITEM_20150918_006512	Needed to stabilize the Jewel of Prominence.
 ITEM_20150918_006513	It contains instructions on how to eliminate the thorn vines. Familiarize yourself with it.
 ITEM_20150918_006514	A crystal needed to remove thorn vines by holy power. It needs charging and refining to be used.
-ITEM_20150918_006515	The remains of a Thornball. Burns well, even in the rain.
+ITEM_20150918_006515	The remains of a Bola de Púas. Burns well, even in the rain.
 ITEM_20150918_006516	Some fluid with a sour smell that oozed out from a toenail.
 ITEM_20150918_006517	A useful fluid for flushing out the mini Griba that has become a parasite on Greepelli's hair.
 ITEM_20150918_006518	Adele treasures this ring. Let's get it back to Adele.
@@ -7539,7 +7539,7 @@ ITEM_20151022_007538	Orbe Azul: Brown Zigri
 ITEM_20151022_007539	Orbe Azul: Hummingbird
 ITEM_20151022_007540	Orbe Azul: Deadborn Scap Magician
 ITEM_20151022_007541	Orbe Azul: Seedmia
-ITEM_20151022_007542	Orbe Azul: Coliflower Archer
+ITEM_20151022_007542	Orbe Azul: Coliflor Archer
 ITEM_20151022_007543	Orbe Azul: Panto Archer
 ITEM_20151022_007544	Orbe Azul: Mallardu
 ITEM_20151022_007545	Orbe Azul: Large Panto Spearman
@@ -7571,12 +7571,12 @@ ITEM_20151022_007570	Orbe Azul: Egnome
 ITEM_20151022_007571	Orbe Azul: Green Apparition
 ITEM_20151022_007572	Orbe Azul: Colitile
 ITEM_20151022_007573	Orbe Azul: Infro Holder Archer
-ITEM_20151022_007574	Orbe Azul: Thornball
-ITEM_20151022_007575	Orbe Azul: Coliflower
+ITEM_20151022_007574	Orbe Azul: Bola de Púas
+ITEM_20151022_007575	Orbe Azul: Coliflor
 ITEM_20151022_007576	Orbe Azul: Velwriggler
 ITEM_20151022_007577	Orbe Azul: Truffle
 ITEM_20151022_007578	Orbe Azul: Operor
-ITEM_20151022_007579	Orbe Azul: Bagworm
+ITEM_20151022_007579	Orbe Azul: Gusano Saco
 ITEM_20151022_007580	Orbe Azul: Groll
 ITEM_20151022_007581	Orbe Azul: Blue Fragaras
 ITEM_20151022_007582	Orbe Azul: Merog Stinger
@@ -7590,7 +7590,7 @@ ITEM_20151022_007589	Orbe Azul: Catacombs Mushcarfung
 ITEM_20151022_007590	Orbe Azul: Catacombs Maggot
 ITEM_20151022_007591	Orbe Azul: Catacombs Leaf Bug
 ITEM_20151022_007592	Orbe Azul: Cronewt Poison Needler
-ITEM_20151022_007593	Orbe Azul: Spoiled Coliflower Archer
+ITEM_20151022_007593	Orbe Azul: Spoiled Coliflor Archer
 ITEM_20151022_007594	Orbe Azul: Tontus
 ITEM_20151022_007595	Orbe Azul: Dandel
 ITEM_20151022_007596	Orbe Azul: Pino
@@ -7917,7 +7917,7 @@ ITEM_20151022_007916	Orbe Roja: Brown Zigri
 ITEM_20151022_007917	Orbe Roja: Hummingbird
 ITEM_20151022_007918	Orbe Roja: Deadborn Scap Magician
 ITEM_20151022_007919	Orbe Roja: Seedmia
-ITEM_20151022_007920	Orbe Roja: Coliflower Archer
+ITEM_20151022_007920	Orbe Roja: Coliflor Archer
 ITEM_20151022_007921	Orbe Roja: Panto Archer
 ITEM_20151022_007922	Orbe Roja: Mallardu
 ITEM_20151022_007923	Orbe Roja: Large Panto Spearman
@@ -7949,12 +7949,12 @@ ITEM_20151022_007948	Orbe Roja: Egnome
 ITEM_20151022_007949	Orbe Roja: Green Apparition
 ITEM_20151022_007950	Orbe Roja: Colitile
 ITEM_20151022_007951	Orbe Roja: Infro Holder Archer
-ITEM_20151022_007952	Orbe Roja: Thornball
-ITEM_20151022_007953	Orbe Roja: Coliflower
+ITEM_20151022_007952	Orbe Roja: Bola de Púas
+ITEM_20151022_007953	Orbe Roja: Coliflor
 ITEM_20151022_007954	Orbe Roja: Velwriggler
 ITEM_20151022_007955	Orbe Roja: Truffle
 ITEM_20151022_007956	Orbe Roja: Operor
-ITEM_20151022_007957	Orbe Roja: Bagworm
+ITEM_20151022_007957	Orbe Roja: Gusano Saco
 ITEM_20151022_007958	Orbe Roja: Groll
 ITEM_20151022_007959	Orbe Roja: Blue Fragaras
 ITEM_20151022_007960	Orbe Roja: Merog Stinger
@@ -7968,7 +7968,7 @@ ITEM_20151022_007967	Orbe Roja: Catacombs Mushcarfung
 ITEM_20151022_007968	Orbe Roja: Catacombs Maggot
 ITEM_20151022_007969	Orbe Roja: Catacombs Leaf Bug
 ITEM_20151022_007970	Orbe Roja: Cronewt Poison Needler
-ITEM_20151022_007971	Orbe Roja: Spoiled Coliflower Archer
+ITEM_20151022_007971	Orbe Roja: Spoiled Coliflor Archer
 ITEM_20151022_007972	Orbe Roja: Tontus
 ITEM_20151022_007973	Orbe Roja: Dandel
 ITEM_20151022_007974	Orbe Roja: Pino
@@ -9332,10 +9332,10 @@ ITEM_20151224_009331	Orbe Azul: Green Hohen Orben
 ITEM_20151224_009332	Orbe Azul: Brown Harugal
 ITEM_20151224_009333	Orbe Azul: Blue Wendigo Searcher
 ITEM_20151224_009334	Orbe Azul: Orange Minos Archer
-ITEM_20151224_009335	Orbe Azul: Yellow Coliflower
+ITEM_20151224_009335	Orbe Azul: Yellow Coliflor
 ITEM_20151224_009336	Orbe Azul: Green Saltisdaughter
-ITEM_20151224_009337	Orbe Azul: Black Coliflower Mage
-ITEM_20151224_009338	Orbe Azul: Black Coliflower Archer
+ITEM_20151224_009337	Orbe Azul: Black Coliflor Mage
+ITEM_20151224_009338	Orbe Azul: Black Coliflor Archer
 ITEM_20151224_009339	Orbe Azul: Brown Colimen
 ITEM_20151224_009340	Orbe Azul: Brown Colimen Magician
 ITEM_20151224_009341	Orbe Azul: Blue Terra Imp
@@ -9469,10 +9469,10 @@ ITEM_20151224_009468	Orbe Roja: Green Hohen Orben
 ITEM_20151224_009469	Orbe Roja: Brown Harugal
 ITEM_20151224_009470	Orbe Roja: Blue Wendigo Searcher
 ITEM_20151224_009471	Orbe Roja: Orange Minos Archer
-ITEM_20151224_009472	Orbe Roja: Yellow Coliflower
+ITEM_20151224_009472	Orbe Roja: Yellow Coliflor
 ITEM_20151224_009473	Orbe Roja: Green Saltisdaughter
-ITEM_20151224_009474	Orbe Roja: Black Coliflower Mage
-ITEM_20151224_009475	Orbe Roja: Black Coliflower Archer
+ITEM_20151224_009474	Orbe Roja: Black Coliflor Mage
+ITEM_20151224_009475	Orbe Roja: Black Coliflor Archer
 ITEM_20151224_009476	Orbe Roja: Brown Colimen
 ITEM_20151224_009477	Orbe Roja: Brown Colimen Magician
 ITEM_20151224_009478	Orbe Roja: Blue Terra Imp
