@@ -4,18 +4,19 @@ Proyecto de traduccion ToS a Español.
 Miembros:
 - Darkloud
 - Darkelfen (elfengirox00)
-- Razku
 - Alex-GS (Thenestas)
 - DkAngelS
+- Vyole
+- FrancoRiosP
 
 ## Archivos a Traducir:
 - ETC.tsv - Darkelfen (elfengirox00)
 - SKILL.tsv
 - ITEM.tsv - Darkloud & Alex-GS (Thenestas)
-- QUEST.tsv - Razku
+- QUEST.tsv 
 - QUEST_JOBSTEP.tsv - DkAngelS
-- QUEST_LV_0100.tsv
-- QUEST_LV_0200.tsv
+- QUEST_LV_0100.tsv - FrancoRiosP
+- QUEST_LV_0200.tsv - Vyole
 - QUEST_LV_0300.tsv
 - QUEST_UNUSED.tsv
 
@@ -55,5 +56,10 @@ los cambios que hemos realizado, le añadiremos un nombre descriptivo y una pequ
 - Despues de cada Commit se debe hacer otro "Sync"
 
 - En la pestaña History podemos ir viendo los cambios hechos anteriormente por nuestros compañeros o por nosotros.
+
+
+## Miembros que han abandonado el proyecto
+
+- Razku
 
 
