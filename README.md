@@ -8,12 +8,13 @@ Miembros:
 - DkAngelS
 - Vyole
 - FrancoRiosP
+- Ayaros-Chan
 
 ## Archivos a Traducir:
 - ETC.tsv - Darkelfen (elfengirox00)
 - SKILL.tsv
 - ITEM.tsv - Darkloud & Alex-GS (Thenestas)
-- QUEST.tsv 
+- QUEST.tsv - Ayaros-Chan
 - QUEST_JOBSTEP.tsv - DkAngelS
 - QUEST_LV_0100.tsv - FrancoRiosP
 - QUEST_LV_0200.tsv - Vyole
