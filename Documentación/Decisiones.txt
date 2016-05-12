@@ -17,6 +17,7 @@
 - Warrior -> Guerrero
 - Fighter -> Luchador
 - Aggro -> Odio
+- Master -> Maestre (Por ser neutral)
 
 [ Estadistícas ]
 - HP --> PS -> Puntos de Salud
