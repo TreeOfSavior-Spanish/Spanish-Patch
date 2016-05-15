@@ -26,7 +26,7 @@ QUEST_20150317_000025	El aura oscura es realmente desagradable...{nl}Pero si est
 QUEST_20150317_000026	Bueno, deberías apresurarte y encontrar al señor Uska.{nl}Él te contará a donde debes dirigirte.{nl}Puede que la diosa bendiga tu destino.
 QUEST_20150317_000027	Por favor selecciona el gen inteligente preferido.
 QUEST_20150317_000028	William
-QUEST_20150317_000029	Tasa de 100 de plata.{nl}Es más barato que cortar a un monstruo por el centro.
+QUEST_20150317_000029	La cuota es 100 de Plata.{nl}Es más barato que cortar a un monstruo por la mitad.
 QUEST_20150317_000030	Cyneburg
 QUEST_20150317_000031	Serán 100 monedas de plata.{nl}Eso cubrirá operaciones, mano de obra y otros gastos.
 QUEST_20150317_000032	Hey, espera un minuto.{nl}Sabes que necesitas más que eso...
@@ -41,11 +41,11 @@ QUEST_20150317_000040	La caja requiere una llave que coincida.
 QUEST_20150317_000041	Selecciona misión
 QUEST_20150317_000042	Modificar el estado de la misión
 QUEST_20150317_000043	¿Forzar inicio?
-QUEST_20150317_000044	Artículos a ser eliminados
+QUEST_20150317_000044	Objetos a ser eliminados
 QUEST_20150317_000045	Selecciona tipo de gen
 QUEST_20150317_000046	Selecciona coordenadas
 QUEST_20150317_000047	Caballero Titas
-QUEST_20150317_000048	Si es así, ve a ver al comendador Uska en Klaipeda. {nl}Pero primero, tengo una importate tarea que me gustaría que corriera por tú cuenta,{nl}así que sígueme.
+QUEST_20150317_000048	Si es así, ve a ver al comendador Uska en Klaipeda. {nl}Pero primero, tengo una tarea importante que me gustaría asignarte,{nl}así que sígueme.
 QUEST_20150317_000049	Sería genial si pudiera encontrar un momento para relajarme...
 QUEST_20150317_000050	Sparnas... {nl}No es alguien para tomar a la ligera...
 QUEST_20150317_000051	Soldado Moody
@@ -57,12 +57,12 @@ QUEST_20150317_000056	Por órdenes reales, hemos venido a este bosque para inves
 QUEST_20150317_000057	En el pasado, los peregrinos viajaban a través de este bosque.{nl}Pero ahora debido a la presencia de los monstruos, solo los soldados vienen aquí.
 QUEST_20150317_000058	Hasta hace cuatro años, las diosas a menudo nos bendecían con los signos de su presencia.{nl}Pero ahora, incluso nuestras oraciones combinadas no nos brindan mucho más que temblor.{nl}¿De verdad nos han abandonado?
 QUEST_20150317_000059	Vacenin va personalmente a cada región para hacer frente a las cosas.{nl}Él se siente incómodo cuando se queda en la ciudad.
-QUEST_20150317_000060	¿Planeas quedarte o alistarte? {nl}Si estás interesado, con mucho gusto te recomendaría a los comandantes a la cabeza.
+QUEST_20150317_000060	¿Planeas quedarte o alistarte? {nl}Si estás interesado, con mucho gusto te recomendaría al Comandante en Jefe.
 QUEST_20150317_000061	No bajes la guardia. Los monstruos podrían aparecer en cualquier momento y lugar.
 QUEST_20150317_000062	A dónde podría haber ido la diosa Zemyna...
 QUEST_20150317_000063	¿Como demonios llamas a esto?
 QUEST_20150317_000064	Creo que Zemyna, la diosa de la tierra lloraría más que nadie.
-QUEST_20150317_000065	El Pokubu siempre ha estado aquí, pero a veces monstruos desconocidos son vistos también.
+QUEST_20150317_000065	Los Pokubu siempre han estado aquí, pero a veces se ven monstruos desconocidos también.
 QUEST_20150317_000066	He pensado en ello. No hay duda de que las diosas nos han abandonado.{nl}Si no fuera así, no habrían tantos monstruos.
 QUEST_20150317_000067	Dicen que hay un hombre bendecido con la fuerza de la diosa viviendo en el bosque.
 QUEST_20150317_000068	Quiero ir a casa.
@@ -88,7 +88,7 @@ QUEST_20150317_000087	Está bien. La más extraña de todas fue la diosa Laima. 
 QUEST_20150317_000088	Además, no es Laima la diosa de destino y la previsión?{nl}Probablemente ella lo sabía todo. 
 QUEST_20150317_000089	Soldado Descansando
 QUEST_20150317_000090	Yo solía ser un aventurero como tú, hasta que recibí un flechazo en la rodilla...
-QUEST_20150317_000091	No importa. Vengan a por mí, monstruos!
+QUEST_20150317_000091	No importa. ¡Vengan a por mí, monstruos!
 QUEST_20150317_000092	Una diosa apareció en mi sueño hoy...{nl}era tan encantadora...
 QUEST_20150317_000093	Sin embargo, tengo el deber de defender el reino.{nl}Es por eso que estoy aquí.
 QUEST_20150317_000094	Uska es un viejo amigo mío.
