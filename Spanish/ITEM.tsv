@@ -45,12 +45,12 @@ ITEM_20150317_000044	Kaskara
 ITEM_20150317_000045	Chinqueda Pesado
 ITEM_20150317_000046	Sable Pesado
 ITEM_20150317_000047	Shamshir Pesado
-ITEM_20150317_000048	Sable Misterioso
-ITEM_20150317_000049	Puñal Misterioso
-ITEM_20150317_000050	Falchion Misterioso
-ITEM_20150317_000051	Kaskara Misterioso
-ITEM_20150317_000052	Cinquedea Misterioso
-ITEM_20150317_000053	Shamshir Misterioso
+ITEM_20150317_000048	Sable de Dunkel
+ITEM_20150317_000049	Puñal de Dunkel
+ITEM_20150317_000050	Falchion de Dunkel
+ITEM_20150317_000051	Kaskara de Dunkel
+ITEM_20150317_000052	Cinquedea de Dunkel
+ITEM_20150317_000053	Shamshir de Dunkel
 ITEM_20150317_000054	Kozuka
 ITEM_20150317_000055	No hay informacíon de herramienta disponible
 ITEM_20150317_000056	Badelaire
@@ -144,10 +144,10 @@ ITEM_20150317_000143	Espada Bastarda
 ITEM_20150317_000144	Flamberge Pesado
 ITEM_20150317_000145	Nodachi Pesado
 ITEM_20150317_000146	Claymore Pesado
-ITEM_20150317_000147	Nodachi Misterioso
-ITEM_20150317_000148	Quaddara Misterioso
-ITEM_20150317_000149	Flamberge Misterioso
-ITEM_20150317_000150	Claymore Misterioso
+ITEM_20150317_000147	Nodachi de Dunkel
+ITEM_20150317_000148	Quaddara de Dunkel
+ITEM_20150317_000149	Flamberge de Dunkel
+ITEM_20150317_000150	Claymore de Dunkel
 ITEM_20150317_000151	Mandoble
 ITEM_20150317_000152	Katzbalger
 ITEM_20150317_000153	Dress Sword
@@ -242,11 +242,11 @@ ITEM_20150317_000241	Cayado de Vagabundo
 ITEM_20150317_000242	Cayado Pesado
 ITEM_20150317_000243	Báculo Pesado
 ITEM_20150317_000244	Vara Pesada de Estaño
-ITEM_20150317_000245	Báculo Misterioso
+ITEM_20150317_000245	Báculo de Dunkel
 ITEM_20150317_000246	Vara de Cristal Misteriosa
 ITEM_20150317_000247	Vara Larga Misteriosa
-ITEM_20150317_000248	Cayado Misterioso de Vagabundo
-ITEM_20150317_000249	Cayado Misterioso
+ITEM_20150317_000248	Cayado de Dunkel de Vagabundo
+ITEM_20150317_000249	Cayado de Dunkel
 ITEM_20150317_000250	Vara Misteriosa de Estaño
 ITEM_20150317_000251	Vara de Serpiente
 ITEM_20150317_000252	Vara de Cambio
@@ -339,12 +339,12 @@ ITEM_20150317_000338	Arco Largo
 ITEM_20150317_000339	Arco Compuesto Pesado
 ITEM_20150317_000340	Arco Puro Pesado
 ITEM_20150317_000341	Arco Rokas Pesado
-ITEM_20150317_000342	Arco Puro Misterioso
-ITEM_20150317_000343	Kaman Misterioso
-ITEM_20150317_000344	Arco Corto Misterioso
-ITEM_20150317_000345	Arco Largo Misterioso
-ITEM_20150317_000346	Arco Compuesto Misterioso
-ITEM_20150317_000347	Arco Rokas Misterioso
+ITEM_20150317_000342	Arco Puro de Dunkel
+ITEM_20150317_000343	Kaman de Dunkel
+ITEM_20150317_000344	Arco Corto de Dunkel
+ITEM_20150317_000345	Arco Largo de Dunkel
+ITEM_20150317_000346	Arco Compuesto de Dunkel
+ITEM_20150317_000347	Arco Rokas de Dunkel
 ITEM_20150317_000348	Arco Recurvado
 ITEM_20150317_000349	Arco Seige
 ITEM_20150317_000350	Arco de Tirador
@@ -491,7 +491,7 @@ ITEM_20150317_000490	Maza de 1 mano [Golpe]
 ITEM_20150317_000491	Un arma muy simple de utilizar por cualquiera sin dificultad.
 ITEM_20150317_000492	Garrote de Madera
 ITEM_20150317_000493	Incluso un palo de madera ordinaria puede convertirse en un elemento sagrado si es usado por un clérigo.
-ITEM_20150317_000494	Garrote Misterioso de Hierro
+ITEM_20150317_000494	Garrote de Dunkel de Hierro
 ITEM_20150317_000495	Un arma al menos de este calibre es necesaria para llevar a cabo el castigo de la diosa.
 ITEM_20150317_000496	Maza Deficiente
 ITEM_20150317_000497	Este es el requisito mínimo para demostrar que ya no eres un aprendiz de clérigo.
@@ -523,11 +523,11 @@ ITEM_20150317_000522	Maza
 ITEM_20150317_000523	Lucero del Alba pesado
 ITEM_20150317_000524	Maul Pesado
 ITEM_20150317_000525	Goedendag Pesado
-ITEM_20150317_000526	Maul Misterioso
-ITEM_20150317_000527	Martillo Misterioso de Combate
+ITEM_20150317_000526	Maul de Dunkel
+ITEM_20150317_000527	Martillo de Dunkel de Combate
 ITEM_20150317_000528	Maza Misteriosa
-ITEM_20150317_000529	Lucero del Alba Misterioso
-ITEM_20150317_000530	Goedendag  Misterioso
+ITEM_20150317_000529	Lucero del Alba de Dunkel
+ITEM_20150317_000530	Goedendag  de Dunkel
 ITEM_20150317_000531	Maul de Combate
 ITEM_20150317_000532	Garrote de Fedimian
 ITEM_20150317_000533	Maza de Runas
@@ -610,7 +610,7 @@ ITEM_20150317_000609	Rodela Vulgar de Madera
 ITEM_20150317_000610	Hecho para medir la eficacia de un escudo compacto que requiere menos materiales. Es mejor que nada.
 ITEM_20150317_000611	Escudo de Lágrima de Madera
 ITEM_20150317_000612	Las leyendas dicen que la primera persona que inventó este tipo de escudo era el Maestre Peltasta.
-ITEM_20150317_000613	Escudo Misterioso de Madera
+ITEM_20150317_000613	Escudo de Dunkel de Madera
 ITEM_20150317_000614	Rodela Misteriosa de Madera
 ITEM_20150317_000615	Escudo Scallop
 ITEM_20150317_000616	Escudo Pelta
@@ -740,7 +740,7 @@ ITEM_20150317_000739	Pica Cono
 ITEM_20150317_000740	A pesar de que la caballería se ha desvanecido del ejército moderno, todavía se están utilizando activamente sus armas.
 ITEM_20150317_000741	Pica de Fedimian
 ITEM_20150317_000742	La autoridad municipal de Fedimian tiene los derechos para elaborar esta arma según un decreto dictado hace mucho.
-ITEM_20150317_000743	Pica Misterioso
+ITEM_20150317_000743	Pica de Dunkel
 ITEM_20150317_000744	Tridente Real
 ITEM_20150317_000745	Tenedor de Batalla
 ITEM_20150317_000746	Tenedor Real de Batalla
@@ -851,12 +851,12 @@ ITEM_20150317_000850	Bastón de Roble
 ITEM_20150317_000851	Bastón Pesado
 ITEM_20150317_000852	Bastón Ju Pesado
 ITEM_20150317_000853	Bastón Uboko Pesado
-ITEM_20150317_000854	Bastón Ju Misterioso
-ITEM_20150317_000855	Bastón Demoniaco Misterioso
-ITEM_20150317_000856	Bastón de Madera Misterioso
-ITEM_20150317_000857	Bastón de Roble Misterioso
-ITEM_20150317_000858	Bastón Misterioso
-ITEM_20150317_000859	Bastón Uboko Misterioso
+ITEM_20150317_000854	Bastón Ju de Dunkel
+ITEM_20150317_000855	Bastón Demoniaco de Dunkel
+ITEM_20150317_000856	Bastón de Madera de Dunkel
+ITEM_20150317_000857	Bastón de Roble de Dunkel
+ITEM_20150317_000858	Bastón de Dunkel
+ITEM_20150317_000859	Bastón Uboko de Dunkel
 ITEM_20150317_000860	Bastón de Acero
 ITEM_20150317_000861	Bastón Pesado de Acero
 ITEM_20150317_000862	Bastón Cuadrado
@@ -1076,24 +1076,24 @@ ITEM_20150317_001075	Botas de Malla de Acero
 ITEM_20150317_001076	Pantalones de Malla de Acero
 ITEM_20150317_001077	Cota de Malla de Acero
 ITEM_20150317_001078	Armadura de Cuero Mejorada
-ITEM_20150317_001079	Guantes Acolchados Misteriosos
+ITEM_20150317_001079	Guantes Acolchados de Dunkel
 ITEM_20150317_001080	Botas Acolchadas Misteriosas
-ITEM_20150317_001081	Pantalones Acolchados Misteriosos
+ITEM_20150317_001081	Pantalones Acolchados de Dunkel
 ITEM_20150317_001082	Armadura Acolchada Misteriosa
-ITEM_20150317_001083	Guantes de Algodón Misteriosos 
+ITEM_20150317_001083	Guantes de Algodón de Dunkel 
 ITEM_20150317_001084	Desgastado y disfrutado por los lanzadores de conjuros.
 ITEM_20150317_001085	Botas de Algodón Misteriosas
-ITEM_20150317_001086	Pantalones de Algodón Misteriosos
+ITEM_20150317_001086	Pantalones de Algodón de Dunkel
 ITEM_20150317_001087	Se cree que proporcionan una defensa mágica excepcional. 
 ITEM_20150317_001088	Túnica de Algodón Misteriosa
 ITEM_20150317_001089	Las personas siguen optando por este traje por su defensa mágica. 
-ITEM_20150317_001090	Guantes de Cuero Resistente Misteriosos
+ITEM_20150317_001090	Guantes de Cuero Resistente de Dunkel
 ITEM_20150317_001091	Botas de Cuero Resistentes Misteriosas
-ITEM_20150317_001092	Pantalones de Cuero Resistente Misteriosos
+ITEM_20150317_001092	Pantalones de Cuero Resistente de Dunkel
 ITEM_20150317_001093	Armadura de Cuero Resistente Misteriosa
-ITEM_20150317_001094	Guantes de Anillas Misteriosos
+ITEM_20150317_001094	Guantes de Anillas de Dunkel
 ITEM_20150317_001095	Botas de Anillas Misteriosas
-ITEM_20150317_001096	Pantalones de Anillas Misteriosos 
+ITEM_20150317_001096	Pantalones de Anillas de Dunkel 
 ITEM_20150317_001097	Malla de Anillas Misteriosa
 ITEM_20150317_001098	Guantes de Anillas
 ITEM_20150317_001099	Botas de Anillas
