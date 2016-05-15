@@ -2,7 +2,7 @@ QUEST_LV_0100_20150317_000001	Centinela
 QUEST_LV_0100_20150317_000002	Si eliges ir a Klaipeda, recomiendo tomar la Shadow Forest Road{nl}Lo profundo del bosque es peligroso, asi que intenta mantenerte alejado de allí si puedes.
 QUEST_LV_0100_20150317_000003	Hombre escondido.
 QUEST_LV_0100_20150317_000004	¡P-Por fin! ¿Ha llegado la ayuda?{nl}¡¿Eh?! ¿Es solo un niño? Oye... ¿todavia hay Vubbes allá fuera?
-QUEST_LV_0100_20150317_000005	Agh. ¡Vete! ¡No me hables! ¡Seremos capturados por los Vubbes!{nl}Este es mi lugar asi que vete.
+QUEST_LV_0100_20150317_000005	Agh. ¡Andate! ¡No me hables! ¡Seremos capturados por los Vubbes!{nl}Este es mi lugar asi que vete.
 QUEST_LV_0100_20150317_000006	¿Qué? ¡No me mientas! Puedo oler a los Vubbes desde aquí.{nl}¡No puedes engañar a un adulto! ¡Aléjate! ¡No te acerques a este barril!
 QUEST_LV_0100_20150317_000007	¿Eh? ¿Es solo un niño? ¿Qué estás mirando? ¡Cierra la tapa y muevete!{nl}
 QUEST_LV_0100_20150317_000008	¿Qué es ese papel que tienes? Me parece conocido...{nl}¡Déjame ver eso! ¿Qué estás haciendo? ¡Oye, hay un adulto hablandote!
@@ -19,7 +19,7 @@ QUEST_LV_0100_20150317_000018	Yo escribí quién es Sparna. Quizás será útil 
 QUEST_LV_0100_20150317_000019	Por favor entrega este reporte a Luders.{nl}El probablemente está en el Campamento Central de Suministros.
 QUEST_LV_0100_20150317_000020	Oficial Luders
 QUEST_LV_0100_20150317_000021	Ah, tu debes ser el tan llamado Revelador. Gusto en conocerte.{nl}¿Este es el reporte de Blak?{nl}
-QUEST_LV_0100_20150317_000022	Hmm... ¿Así de que eso se trata?{nl}Parece que simplemente destruyeron los suministros y se escaparon. Pero incluso si los{nl}Chupacabras tuvieran alas, seguramente no podrían hacer algo como eso.{nl}{nl}{nl}
+QUEST_LV_0100_20150317_000022	Hmm... ¿Así de que eso se trata?{nl}Pareciera que simplemente destruyeron los suministros y se escaparon. Pero incluso si los{nl}Chupacabras tuvieran alas, seguramente no podrían hacer algo como eso.{nl}{nl}{nl}
 QUEST_LV_0100_20150317_000023	Esto no es suficiente.{nl}Lo siento, pero por favor tráenos el reporte de Moody desde Amzina Curved Path.
 QUEST_LV_0100_20150317_000024	Me siento mejor desde que Luders está aquí.
 QUEST_LV_0100_20150317_000025	Soldado York
@@ -36,12 +36,12 @@ QUEST_LV_0100_20150317_000035	Deberíamos recuperar los suministros robados.{nl}
 QUEST_LV_0100_20150317_000036	Los suministros robados fueron tomados por los Siaulambs en cada Supply Warehouse,{nl}recupera los suministros y llévalos a Volda.
 QUEST_LV_0100_20150317_000037	Me siento harto de tener que soportar esto todo el tiempo. Los refuerzos debieran llegar pronto.{nl}¿Pero qué podemos esperar de este reino tan incompetente?
 QUEST_LV_0100_20150317_000038	Ayudante de General Volda
-QUEST_LV_0100_20150317_000039	Muchas gracias, pero debes estar retrasando otros asuntos.{nl}Además no podemos sólo sentarnos aquí y esperar. Planeamos seguir atacando.
+QUEST_LV_0100_20150317_000039	Muchas gracias, pero debes estar retrasado para otros asuntos.{nl}Además no podemos sólo sentarnos aquí y esperar. Planeamos seguir atacando.
 QUEST_LV_0100_20150317_000040	Guardián Secreto
 QUEST_LV_0100_20150317_000041	La diosa ya previó esto.{nl}Nada puede escapar a su visión.
 QUEST_LV_0100_20150317_000042	Oficial de Enlace Niels
 QUEST_LV_0100_20150317_000043	Hola.{nl}¿Has visto a un anciano que ha perdido su camino?{nl}Su nombre es Jonas.{nl}
-QUEST_LV_0100_20150317_000044	¿No lo has visto?{nl}Entonces, ¿Hacia dónde se habría alejado ese anciano tan debil?
+QUEST_LV_0100_20150317_000044	¿No lo has visto?{nl}Entonces, en cual dirección podría haberse extraviado aquél débil y viejo compañero.
 QUEST_LV_0100_20150317_000045	Jonas es un descendiente de la familia que ha estado protegiendo este Royal Mausoleum.{nl}Él es una persona muy importante para nuestro equipo de laboratorio, asi que por favor{nl}cuida de él.
 QUEST_LV_0100_20150317_000046	Archivero Jonas
 QUEST_LV_0100_20150317_000047	Nuestra familia ha estado esperando por tí durante mucho tiempo.{nl}Es hora de entregarte algo que hemos estado protegiendo durante bastante tiempo.
@@ -81,12 +81,12 @@ QUEST_LV_0100_20150317_000080	Soldados de hoy en día, carecen de agallas.{nl}Es
 QUEST_LV_0100_20150317_000081	Está claro que nosotros ganaremos esta batalla.{nl}¿Por qué? Porque los Owls están ayudando.
 QUEST_LV_0100_20150317_000082	Los Kepa Raiders están cerca de Ianutis Waterfall.{nl}Para derrotar a Gaigalas, seguramente los necesitaremos.
 QUEST_LV_0100_20150317_000083	Soldado Weiz
-QUEST_LV_0100_20150317_000084	Oye, novato, ¿Estás descansando?{nl}Consigue algo de grasa de Duckys en Lengvas Garden.
+QUEST_LV_0100_20150317_000084	Hey, rookie, are you on a break?{nl}Get some fat from Duckys in Lengvas Garden.{nl}{nl}Oye, novato, ¿Estás en descanso?{nl}Consigue algo de grasa de Duckys en Lengvas Garden.
 QUEST_LV_0100_20150317_000085	Vamos a atraer a Gaigalas usando Ducky Fat.{nl}Oye novato, no andes holgazaneando, ¿Está bien?
 QUEST_LV_0100_20150317_000086	Hoy será el último día para Gaigalas.{nl}¿Estás listo, novato?
 QUEST_LV_0100_20150317_000087	A continuación, conseguiremos cuero de Cronewts en Lengvas Garden.{nl}Deprisa, soldado.
 QUEST_LV_0100_20150317_000088	De seguro ganaremos esta vez.{nl}La diosa está de nuestro lado.
-QUEST_LV_0100_20150317_000089	Eres bastante bueno para ser un novato.{nl}Ahora mismo esto está desorganizado, asi que puedes quedarte con esos ingredientes por{nl}ahora.
+QUEST_LV_0100_20150317_000089	Eres bastante bueno para ser un novato.{nl}Por el momento está desorganizado aquí, asi que puedes quedarte con esos ingredientes por{nl}ahora.
 QUEST_LV_0100_20150317_000090	Conoce a nuestros soldados mientras hago las preparaciones para la batalla.{nl}Te llamaré antes que nos enfrentemos a Gaigalas.
 QUEST_LV_0100_20150317_000091	Cuando quememos la Ducky Fat, Gaigalas aparecerá después de sentir el olor.{nl}Lengvas Garden será un buen lugar para quemarlo.
 QUEST_LV_0100_20150317_000092	Mi corazón late con fuerza.{nl}Siento como si mi alma latiera con el.{nl}
