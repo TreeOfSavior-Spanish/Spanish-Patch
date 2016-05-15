@@ -40,7 +40,7 @@
 >> Musketeer: Mosquetero
 
 >> Swordman: Espadachín
->> Highlander: Montañero
+>> Highlander: Montaraz
 >> Peltasta: =
 >> Hoplite: Hoplita
 >> Barbarian: Bárbaro
