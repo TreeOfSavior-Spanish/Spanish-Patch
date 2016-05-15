@@ -190,7 +190,7 @@ UI_20150317_000189	{@st41}Aceptar
 UI_20150317_000190	{@st41}Confirmar
 UI_20150317_000191	Otros jugadores (%s) Lista de comercio
 UI_20150317_000192	Nombres de otros jugadores
-UI_20150317_000193	{s18}{ol} {gr gradation1}Evento de campo{/}
+UI_20150317_000193	{s18}{ol} {gr gradation1}Evento de región{/}
 UI_20150317_000194	{s20}{ol}¡Derrota a la tribu Vubbe! ¿Quiéres unirte?
 UI_20150317_000195	{s20}{ol}%s ¿Te gustaría unirte?
 UI_20150317_000196	{s20}{ol}Participantes : (1/5)
@@ -198,7 +198,7 @@ UI_20150317_000197	{s20}{ol}Participantes : (%s/%s)
 UI_20150317_000198	{s20}{ol}El juego comenzará pasado 1 segundo.
 UI_20150317_000199	{s20}{ol}El juego comenzará pasados %s segundos.
 UI_20150317_000200	No mostrar esto más para hoy.
-UI_20150317_000201	No mostrar los eventos de campo.
+UI_20150317_000201	No mostrar los eventos de región.
 UI_20150317_000202	Unirse a la partida
 UI_20150317_000203	Comenzar partida con otros jugadores.
 UI_20150317_000204	Rechazar invitaciones.
@@ -605,7 +605,7 @@ UI_20150317_000604	{@st44}Continuar{/}
 UI_20150317_000605	{@st41b}Has sido {/}{s20}{#cc6600}{ol} incapacitado{/}{@st41b}{/}
 UI_20150317_000606	{@st41b}Reaparecer en el punto más cercano de renacimiento{/}
 UI_20150317_000607	{@st41b}Reaparecer aquí (requiere %s iCoins) {/}
-UI_20150317_000608	{@st41b}Volver al campo{/}
+UI_20150317_000608	{@st41b}Volver a la región{/}
 UI_20150317_000609	{@st41b}Abandonar misión y reiniciar{/}
 UI_20150317_000610	{@st41b}Intentar de nuevo{/}
 UI_20150317_000611	Santuario de resurrección (70031)
@@ -1796,7 +1796,7 @@ UI_20150918_001795	{@st41b}¡Obtenido material para la creación de objetos!
 UI_20150918_001796	{@st66b}¡{s20}Te has quedado {/}{s20}{#cc6600}{ol}Incapacitado para el combate {/}{@st66b}{s20}!{/}
 UI_20150918_001797	{@st66b}Revivir en el punto mas cercano{/}
 UI_20150918_001798	{@st66b}Revivir aquí (requiere %s iCoins){/}
-UI_20150918_001799	{@st66b}Volver al campo{/}
+UI_20150918_001799	{@st66b}Volver a la región{/}
 UI_20150918_001800	{@st66b}Abandonar misión e intentarlo de nuevo{/}
 UI_20150918_001801	{@st66b}Intentar de nuevo{/}
 UI_20150918_001802	{@st66b}Objetos vendidos{/}
@@ -1906,7 +1906,7 @@ UI_20151224_001905	{@st66b18}Vender
 UI_20151224_001906	{@st66b18}Comprar
 UI_20151224_001907	{@st45tw2}Nv.{/}
 UI_20151224_001908	{@st45tw2}Precio unidad{/}
-UI_20151224_001909	{@st45tw2}Cantidad{/}
+UI_20151224_001909	{@st45tw2}  Cantidad{/}
 UI_20151224_001910	{@st45tw2}Precio total{/}
 UI_20151224_001911	{@st42}Opciones avanzadas{/}
 UI_20151224_001912	{@st65}Nivel{/}

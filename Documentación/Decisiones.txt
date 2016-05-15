@@ -17,6 +17,7 @@
 - Warrior -> Guerrero
 - Fighter -> Luchador
 - Aggro -> Odio
+- Item/s -> Objeto/s
 - Master -> Maestre (Por ser neutral)
 
 [ Estadistícas ]
