@@ -7,7 +7,6 @@ Miembros:
 - Alex-GS (Thenestas)
 - DkAngelS
 - Vyole
-- FrancoRiosP
 - Ayaros-Chan
 
 ## Archivos a Traducir:
@@ -62,5 +61,5 @@ los cambios que hemos realizado, le añadiremos un nombre descriptivo y una pequ
 ## Miembros que han abandonado el proyecto
 
 - Razku
-
+- FrancoRiosP
 
