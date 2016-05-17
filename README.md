@@ -25,6 +25,10 @@ Miembros:
 - INTL.tsv - Darkelfen (elfengirox00)
 - UI.tsv - Darkloud
 
+## Web de la Traducción & Base de Datos
+
+- http://www.tosbase.es
+
 ## Guia de GitHub
 
 Antes que nada Tendremos que instalar GitHub Desktop.
