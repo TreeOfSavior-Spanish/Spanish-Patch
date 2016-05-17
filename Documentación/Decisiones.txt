@@ -200,6 +200,9 @@ Eyeball --> Globo Ocular
 Backbone --> Espina Dorsal
 Pouch --> Morral
 
+[NPCs]
+the Worrying Owl --> El Búho inquietante
+
 [ Lore del Juego ] 
 Aspectos clave del juego cómo eventos y nombres propios no deberían ser traducidos (Ej: Medzio Diena)
 Sin embargo, el concepto de "Great Plant Cataclism" ha sido traducido cómo "Gran Cataclismo Silvano". //Darkelfen
