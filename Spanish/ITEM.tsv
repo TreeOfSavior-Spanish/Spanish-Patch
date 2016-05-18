@@ -3363,8 +3363,8 @@ ITEM_20150317_003362	Cuerpo Liquido de Slime
 ITEM_20150317_003363	Material solicitado por el Maestre Elementalista para demostrar tu calificación.
 ITEM_20150317_003364	Trozo de Hueso de Hallowventer
 ITEM_20150317_003365	Núcleo de Activación de Golem de Cementerio
-ITEM_20150317_003366	Receptáculo de Gota
-ITEM_20150317_003367	Un recipiente para contener agua con poder espiritual.
+ITEM_20150317_003366	Receptáculo de Rocio
+ITEM_20150317_003367	Un recipiente para contener rocio con poder espiritual.
 ITEM_20150317_003368	Amuleto Endeble
 ITEM_20150317_003369	Material de la Base del Altar.
 ITEM_20150317_003370	Un enemigo que muere con este amuleto unido a el se supone que está bajo su control, pero... Parece que está en mal estado.
@@ -3608,7 +3608,7 @@ ITEM_20150317_003607	Un fragmento preparado para que el epigrafista Smith pueda 
 ITEM_20150317_003608	Primer Calco
 ITEM_20150317_003609	Un calco del primer monumento de Lydia Schaffen
 ITEM_20150317_003610	Segundo Calco
-ITEM_20150317_003611	Un calco del segundo monumento de Schaffen
+ITEM_20150317_003611	Un calco del segundo monumento de Lydia Schaffen
 ITEM_20150317_003612	Tercer Calco
 ITEM_20150317_003613	Un calco del tercer monumento de Lydia Schaffen
 ITEM_20150317_003614	Cuarto Calco
@@ -3618,107 +3618,107 @@ ITEM_20150317_003617	Un calco del quinto monumento de Lydia Schaffen
 ITEM_20150317_003618	Manojo de Flechas
 ITEM_20150317_003619	Un manojo de flechas que el cazador Talas para curtirlas con fuego y poder usarlas contra los Infrobirks.
 ITEM_20150317_003620	Ingrendientes Experimentales
-ITEM_20150317_003621	Experimental materials requested by necromancer Drashus. Take it to Drashus.
-ITEM_20150317_003622	Waterweed
-ITEM_20150317_003623	Waterweed that grows in the Clearawl Brook. Drashus uses it when summoning powerful spirits. 
-ITEM_20150317_003624	Lizardman Mind Control Stone
-ITEM_20150317_003625	If you defeat a Lizardman after using this stone, it will follow you.
-ITEM_20150317_003626	Infroburk Mind Control Stone
-ITEM_20150317_003627	If you defeat a Infrobuck after using this stone, it will follow you.
-ITEM_20150317_003628	Rubbing Tool
-ITEM_20150317_003629	A tool given to you by Hunter Talas to make rubbings of the Lydia Schaffen Monmuments.
-ITEM_20150317_003630	Fire Hardened Arrowhead
-ITEM_20150317_003631	An arrowhead hardened by fire to be used against Infrobucks.
-ITEM_20150317_003632	Long-Branched Tree Charcoal
-ITEM_20150317_003633	Charcoal Obtenido de defeating the Long Arm Tree. Touching it leaves a black stain.
-ITEM_20150317_003634	Soi Bomb
-ITEM_20150317_003635	A bomb that can light the Long-Branched Tree on fire.
-ITEM_20150317_003636	Revelation that Bramble had. It's unSe puede leer - let's take it to Goddess Saule.
-ITEM_20150317_003637	Guardian Awakening Device
-ITEM_20150317_003638	It is said to be able to wake the sleeping Boowook.
-ITEM_20150317_003639	Zolem Magic Stone
-ITEM_20150317_003640	A Zolem's Magic Stone needed to lure a Unicornio
-ITEM_20150317_003641	Unicornio Horn
-ITEM_20150317_003642	A trophy taken from a defeated Unicornio. Let's take it to Fedimian Army Officer.
-ITEM_20150317_003643	Empty Beehive
-ITEM_20150317_003644	A beehive that has had all its honey sucked out of it, leaving the beeswax.
-ITEM_20150317_003645	Cork Stopper
-ITEM_20150317_003646	A cork stopper that was sealing the oil barrel.
-ITEM_20150317_003647	Brewing Tools
-ITEM_20150317_003648	Tools used for brewing
-ITEM_20150317_003649	Royal Jelly
-ITEM_20150317_003650	A highly nutritious royal jelly!
-ITEM_20150317_003651	Monster's Claw (Temporary)
-ITEM_20150317_003652	The claws of a monster that only appears in the Square of Lament in the Petrifed City.
-ITEM_20150317_003653	Petrification Stolen Goods
-ITEM_20150317_003654	Goods stolen by the Dico Thieves operating in the Square of Lament. They have been exposed to Petrifying Frost to make them look as if they were from the Petrifed City.
-ITEM_20150317_003655	Cryptically Engraved Bottle
-ITEM_20150317_003656	Water bottle engraved with code in order to find Graverobber Benjaminas hiding in the midst of guards at the Square of Lament in the Petrifed City.
-ITEM_20150317_003657	Very Old Map
-ITEM_20150317_003658	A map that looks ancient. It looks like it will crumble.
-ITEM_20150317_003659	Fragrant Stone Powder
-ITEM_20150317_003660	Fragrant Stone Powder that can be Obtenido de monsters at the Square of Lament in the Petrifed City.
+ITEM_20150317_003621	Materiales experimentales solicitador por el nigromante Drashus. Llevaselo a Drashus.
+ITEM_20150317_003622	Alga
+ITEM_20150317_003623	Alga que crece en Clearawl Brook. Drashus la usa pra invocar poderosos espiritus. 
+ITEM_20150317_003624	Piedra de Control Mental Lizardman
+ITEM_20150317_003625	Si derrotas a un Lizardman despues de usar esta piedra, te seguira.
+ITEM_20150317_003626	Piedra de Control Mental Infroburk
+ITEM_20150317_003627	Si derrotas a un Infroburk despues de usar esta piedra, te seguira.
+ITEM_20150317_003628	Herramienta de Calco
+ITEM_20150317_003629	Una herramienta que ha dado el cazador Talas para hacer calcos de los monumentos de Lydia Schaffen.
+ITEM_20150317_003630	Punta de Flecha Curtida de Fuego
+ITEM_20150317_003631	Punta de Flecha Curtida con Fuego para usarla contra los Infrobucks.
+ITEM_20150317_003632	Carbón de Long-Branched Tree
+ITEM_20150317_003633	Carbón obtenido derrotando Long-Branched Tree. Si lo toca deja una sustancia negra.
+ITEM_20150317_003634	Bomba de Soi
+ITEM_20150317_003635	Una bomba que puede hacer arder a un Long-Branched Tree.
+ITEM_20150317_003636	Revelación que tuvo Bramble. Es ilegible - Llevaselo a la Diosa Saule.
+ITEM_20150317_003637	Dispositivo del Despertar de Guardián
+ITEM_20150317_003638	Dice que despierta a un guardián Boowook.
+ITEM_20150317_003639	Piedra Mágica de Zolem
+ITEM_20150317_003640	Una piedra mágica de Zolem necesaria para atraer a un Unicornio
+ITEM_20150317_003641	Cuerno de Unicornio
+ITEM_20150317_003642	Un trofeo obtenido derrotando a un Unicornio. Llevaselo al Oficial del Ejercido de Fedimian.
+ITEM_20150317_003643	Colmena Vacia
+ITEM_20150317_003644	Una colmena con toda la miel extraida, cae cera de abejas.
+ITEM_20150317_003645	Tapón de Corcho
+ITEM_20150317_003646	Un tapón de corcho que sellaba un barril de aceite.
+ITEM_20150317_003647	Herramientas de Frabricación de Cerveza
+ITEM_20150317_003648	Herramientas usadas para frabricar cerveza.
+ITEM_20150317_003649	Jalea Real
+ITEM_20150317_003650	¡Una jalea real muy nutritiva!
+ITEM_20150317_003651	Garra de Monstruo (Temporal)
+ITEM_20150317_003652	La garra de un monstruo que solo aparece en Square of Lament en la Petrifed City.
+ITEM_20150317_003653	Bienes de Petrificación Robados
+ITEM_20150317_003654	Bienes robados por Dico Thieves operando en Square of Lament. Han  estados espuestos a una petrificación helada para se que se vean como si fueran de la Petrifed City.
+ITEM_20150317_003655	Botella con un Grabado Encriptado
+ITEM_20150317_003656	Botella de agua con un codigo encriptado para encontrar al asaltador de tumbas Benjaminas escondido entre los guardias de Square of Lament en la Petrifed City.
+ITEM_20150317_003657	Mapa muy viejo
+ITEM_20150317_003658	Un mapa que se ve viejo. Parece como si fuera a desmoronarse.
+ITEM_20150317_003659	Polvo de Piedra Fragante
+ITEM_20150317_003660	Polvo de piedra fragante que puede ser obtenido de monstruos en Square of Lament en la Petrifed City.
 ITEM_20150317_003661	Carne de Monstruo *
-ITEM_20150317_003662	Chunks of Meat that can easily be Obtenido de Monsters. But humans can not eat it. 
-ITEM_20150317_003663	Tender Reed Stems
-ITEM_20150317_003664	Inner stems of reeds commonly seen on Starving Demon's Way. It is too tough to eat raw even if the outer stem is removed.
-ITEM_20150317_003665	Soft Wooden Periderm
-ITEM_20150317_003666	The inner layer of bark dug out from a tree on the Starving Demon's Way. Don't eat too much of it.
+ITEM_20150317_003662	Trozos de carne que pueden ser fácilmente obtenidos de monstruos. Pero los humanos no pueden comerla. 
+ITEM_20150317_003663	Tallo Blando de Reed
+ITEM_20150317_003664	Tallos interiores de reeds comunmente vistos en Starving Demon's Way. Es demasiado duro para comer crudo, incluso si se retira el tallo exterior.
+ITEM_20150317_003665	Peridermo de Madera Suave
+ITEM_20150317_003666	La capa interna de la corteza sacado de un árbol en the Starving Demon's Way. Don't eat too much of it.
 ITEM_20150317_003667	Caja de Música Pequeña
 ITEM_20150317_003668	Un objeto intercambiado entre amantes como simbolo de su amor. Una linda caja de música que cabe en una pequeña bolsa.
-ITEM_20150317_003669	Monster Meat
-ITEM_20150317_003670	Meat peeled off during the hunting of monsters. The terrible smell alone makes it hard to eat.
-ITEM_20150317_003671	Asellu Leaf Bud
-ITEM_20150317_003672	The leaf bud of an Asellu grown on the Starving Demon's Way. It has many practical uses in crafting and in medicine.
-ITEM_20150317_003673	Food Scraps
-ITEM_20150317_003674	Unidentifiable food scraps. Can be used as monster bait. When a monster comes into sight, you can throw it by pressing the V key.
-ITEM_20150317_003675	Tree Root Crystal's Energy Source
-ITEM_20150317_003676	The energy source of a Tree Root Crystal that can remove the pollutant sprayed on Tree Root Crystals.
-ITEM_20150317_003677	Soul Reagent
-ITEM_20150317_003678	Reagent to distinguish the monster that killed pilgrims at the scattered stairs. 
-ITEM_20150317_003679	Nameless Flower *
-ITEM_20150317_003680	Altar Flower Offering
-ITEM_20150317_003681	Bouquet *
-ITEM_20150317_003682	A Colección of flowers on the altar devoted to appease the angry spirits.
-ITEM_20150317_003683	Pilgrim's Lost Scripture Page
-ITEM_20150317_003684	A sheet of the Pilgrim's Scripture.
-ITEM_20150317_003685	Pilgrim's Scripture
-ITEM_20150317_003686	A scripture that is necessary for all pilgrims.
-ITEM_20150317_003687	Condensed Rage of the Pilgrims that the Fire Rod had.
-ITEM_20150317_003688	Purple Tree Fault Forest Sanctum Map
-ITEM_20150317_003689	A map that shows all the sanctums of the Purple Tree Fault Forest. Right-click to open the map.{nl}Please return it to the recovery box for the next pilgrim passing through the woods.{nl}Location of recovery box: On the corner to Pretense Intersection.
-ITEM_20150317_003690	Holy water Obtenido de the Priest Master to purify the polluted sanctums in Purple Tree Fault Forest.
-ITEM_20150317_003691	Grey Gypsum Fragment 
-ITEM_20150317_003692	Gesso said to be used when repairing malfunctioning Goddess Statues in the Purple Tree Fault Forest.
-ITEM_20150317_003693	Reed Leaf Dew 
-ITEM_20150317_003694	Water said to be used when tempering the gesso.
-ITEM_20150317_003695	Naktis' Sign 
-ITEM_20150317_003696	Marks left by Naktis in monsters to command them.(Temporary)
-ITEM_20150317_003697	Pure Water
-ITEM_20150317_003698	Pure Water flowing within a small part of Fault Forest.
-ITEM_20150317_003699	Leather Pouch 
-ITEM_20150317_003700	A leather pouch used to store water 
-ITEM_20150317_003701	Reed Flowers * 
-ITEM_20150317_003702	Reed flowers picked from reeds in Purple Tree Fault Forest.
-ITEM_20150317_003703	Purifier 
-ITEM_20150317_003704	A purifier that the Pardoner Master sells. It is used when the sacred property of something is sullied. It's very expensive, though. 
-ITEM_20150317_003705	Tombstone Dew 
-ITEM_20150317_003706	Dew gathered from a tombstone early in the morning. One might have qualms against it, but it can be drunk. 
-ITEM_20150317_003707	Lantern
-ITEM_20150317_003708	A lantern that lights one's surroundings. 
-ITEM_20150317_003709	Medicine 
-ITEM_20150317_003710	A medicine created by Pilgrim Theophilis. He claims it will ward off curses. 
-ITEM_20150317_003711	Monster Skin
-ITEM_20150317_003712	The skin of a monster that Theophilis will need to create a medicine.
+ITEM_20150317_003669	Carne de Monstruo
+ITEM_20150317_003670	Carne despellejada durante la caza de monstruos. Su terrible olor solo la hace dificil de comer.
+ITEM_20150317_003671	Brotes de Hojas de Asellu
+ITEM_20150317_003672	Un brote de hojas que crece en Starving Demon's Way. Tiene muchos usos para la fabricación y la medicina.
+ITEM_20150317_003673	Restos de Comida
+ITEM_20150317_003674	Restos de comida no identificables. Se puede usar como cebo para mosntruos. Cuando un monstruo entra en tu visión, puede lanzarselos pulsando la tecla V.
+ITEM_20150317_003675	Fuente de energia de Raíz de Cristal
+ITEM_20150317_003676	La fuente de energia de una raíz de cristal puede eliminar la contaminación rociandola en las raices de cristales.
+ITEM_20150317_003677	Catalizador de Alma
+ITEM_20150317_003678	Catalizador para distinguir el monstruo que mató pilgrims en scattered stairs. 
+ITEM_20150317_003679	Flor Sin Nombre *
+ITEM_20150317_003680	Ofrenda del Altar de Flores
+ITEM_20150317_003681	Ramo *
+ITEM_20150317_003682	Una colección de flores en el altar dedicadas a apaciguar a los espíritus enfadados.
+ITEM_20150317_003683	Página Perdida de la Escritura de Peregrinos
+ITEM_20150317_003684	Una hoja de la Escritura de Peregrinos.
+ITEM_20150317_003685	Escritura de Peregrinos
+ITEM_20150317_003686	Una escritura necesaria para todos los peregrinos.
+ITEM_20150317_003687	Rabia condensada de los peregrinos que tiene la vara de fuego.
+ITEM_20150317_003688	Mapa del Bosque de los Árboles Morados Culpables
+ITEM_20150317_003689	Un mapa que muestra los santuarios del Bosque de los Árboles Morados Culpables. Click derecho para abrir el mapa.{nl}Por favor devuelvelo a la caja de rescate para el proximo peregrino que pase por el bosque.{nl}Localización ed la caja de rescate: En la esquina de Pretense Intersection.
+ITEM_20150317_003690	Agua bendita obtenida de del Maestre Sacerdote para purificar los santuarios contaminados en el Bosque de los Árboles Morados Culpables.
+ITEM_20150317_003691	Fragmento de Yeso Gris
+ITEM_20150317_003692	Gesso dijo que se usa para reparar las estatuas de las diosas estropeadas en el Bosque de los Árboles Morados Culpables.
+ITEM_20150317_003693	Hoja de Reed con Rocio  
+ITEM_20150317_003694	Rocio, se dice que se usa para templar el Yeso.
+ITEM_20150317_003695	Señal de Naktis
+ITEM_20150317_003696	Marcas dejadas por Naktis en monstruos para manejarlos.(Temporal)
+ITEM_20150317_003697	Agua Pura
+ITEM_20150317_003698	Agua pura que fluye por una pequeña parte del Bosque de la Culpa.
+ITEM_20150317_003699	Morral de Cuero
+ITEM_20150317_003700	Un morral de cuero usado para llevar agua.
+ITEM_20150317_003701	Flores de Reed *
+ITEM_20150317_003702	Flores de Reed obtenidas de reeds en el Bosque de los Árboles Morados Culpables.
+ITEM_20150317_003703	Purificador
+ITEM_20150317_003704	Un purificador que el Maestre Redentor vende. Se utiliza cuando la propiedad sagrada de algo se ensucia. Es muy caro.
+ITEM_20150317_003705	Rocio de Lápida
+ITEM_20150317_003706	Rocio recogido de una lápida por la mañana temprano. Uno puede tener nauseas por ello, pero se puede beber.
+ITEM_20150317_003707	Farol
+ITEM_20150317_003708	Farol que ilumina alrededor del que lo posee. 
+ITEM_20150317_003709	Medicina 
+ITEM_20150317_003710	Una medicina creada por Pilgrim Theophilis. El asegura que te evita las maldiciones. 
+ITEM_20150317_003711	Piel de Monstruo
+ITEM_20150317_003712	La piel de un monstruo que Theophilis necesitará para crear la medicina.
 ITEM_20150317_003713	Small Portrait
 ITEM_20150317_003714	A small, portable portrait with someone's face drawn on it. 
 ITEM_20150317_003715	Mother's Handkerchief
 ITEM_20150317_003716	A handkerchief given to a son leaving on a pilgrimage from his loving mother. 
 ITEM_20150317_003717	Sap 
-ITEM_20150317_003718	Sap Obtenido de trees cut at the Pretense Intersection.
-ITEM_20150317_003719	Jar 
-ITEM_20150317_003720	A jar used to store sap or water.
-ITEM_20150317_003721	Succubus' Eyes 
+ITEM_20150317_003718	Savia obtenida de árboless cortados en Pretense Intersection.
+ITEM_20150317_003719	Jarra 
+ITEM_20150317_003720	Jarra usada para almacenar savia o agua.
+ITEM_20150317_003721	Ojos de Sucubus
 ITEM_20150317_003722	The eyes of the Succubus with the [Necklace of Greed - Resistencia] lodged in it. Theophilis can probably extract the necklace if we take it to him. 
 ITEM_20150317_003723	Pattern Stone (High) 
 ITEM_20150317_003724	The upper part of the stone with the drawn sacred pattern. 
@@ -3988,7 +3988,7 @@ ITEM_20150323_003987	Tender leaves of wild herbs commonly seen on Starving Demon
 ITEM_20150323_003988	Tree Root Crystal Core 
 ITEM_20150323_003989	A reagent used to identify the monsters that killed pilgrims on Altar Way.
 ITEM_20150323_003990	A map that shows all the sanctums of Purple Tree Fault Forest. Right-click to open the map.{nl}Please return it to the recovery box for the next pilgrim passing through the Forest of Prayer.{nl}Location of the recovery box: On the corner to Apsimesti Crossroads.
-ITEM_20150323_003991	Holy water gained from the Priest Master to purify the corrupted sanctum in the Forest of Prayer. 
+ITEM_20150323_003991	Holy water gained from the Maestre Sacerdote to purify the corrupted sanctum in the Forest of Prayer. 
 ITEM_20150323_003992	Plaster powder used to repair the broken Goddess Statue in the Forest of Prayer. 
 ITEM_20150323_003993	Water from a small stream flowing in the Forest of Prayer.
 ITEM_20150323_003994	Reed flower cut from reeds in the Forest of Prayer. 
@@ -4077,7 +4077,7 @@ ITEM_20150323_004076	Theophilis' Bag
 ITEM_20150323_004077	Picture Fragment
 ITEM_20150323_004078	Empty Frame 
 ITEM_20150323_004079	Fedimian Suburbs Warp Scroll 
-ITEM_20150323_004080	A warp scroll that allows you to quickly return to the Pardoner Master at Crystal Brook. Please note that it is only usable when there is trouble at the Sanctum, so hoarding these scrolls is meaningless. 
+ITEM_20150323_004080	A warp scroll that allows you to quickly return to the Maestre Redentor at Crystal Brook. Please note that it is only usable when there is trouble at the Sanctum, so hoarding these scrolls is meaningless. 
 ITEM_20150323_004081	Strong Rope
 ITEM_20150323_004082	A strong rope Obtenido de a monster. It is useful to tie something.
 ITEM_20150323_004083	Hardtack that someone hid in some grass. 
@@ -4731,7 +4731,7 @@ ITEM_20150414_004730	The leather of a Jukopus. It can be used to make the abdomi
 ITEM_20150414_004731	Vubbe Robber leather that is needed to make a chest protector. 
 ITEM_20150414_004732	A bag containing a variety of alchemical tools. 
 ITEM_20150414_004733	A picture frame swallowed by a monster. There is evidence that something was put in here before. 
-ITEM_20150414_004734	A scroll that warps the user to the Pardoner Master in the Crystal Brook. It can only be used when the Sanctuary is in danger, so hoarding them is pointless. 
+ITEM_20150414_004734	A scroll that warps the user to the Maestre Redentor in the Crystal Brook. It can only be used when the Sanctuary is in danger, so hoarding them is pointless. 
 ITEM_20150414_004735	Hardtack that was hidden in a grass pile by someone. There is dirt on it. 
 ITEM_20150414_004736	Venom collected from Escorpión.{nl}Is it really an ingredient for an energy drink? 
 ITEM_20150414_004737	The leaf of a sweet herb. When chewed while taking a bitter medicine, it covers the taste with its sweetness.  
@@ -6666,7 +6666,7 @@ ITEM_20150918_006665	A tool given to you by Hunter Talas to make rubbings of Lyd
 ITEM_20150918_006666	An arrowhead hardened by fire to be used against Infroburks.
 ITEM_20150918_006667	Charcoal Obtenido de defeating a Long-Branched Tree. Touching it leaves a black stain.
 ITEM_20150918_006668	A bomb that can light the Long-Branched Tree on fire.
-ITEM_20150918_006669	A revelation that Bramble had. It's unSe puede leer - let's take it to Goddess Saule.
+ITEM_20150918_006669	A revelation that Bramble had. It's Ilegible - let's take it to Goddess Saule.
 ITEM_20150918_006670	It is said to be able to wake the sleeping Boowook.
 ITEM_20150918_006671	A Zolem's Magic Stone needed to lure a Unicornio.
 ITEM_20150918_006672	A trophy taken from a defeated Unicornio. Let's take it to the Fedimian Army Officer.
@@ -6811,7 +6811,7 @@ ITEM_20150918_006810	A rare, cold body fluid that can be found from monsters. Us
 ITEM_20150918_006811	A bag containing a variety of alchemical tools.
 ITEM_20150918_006812	A piece of paper that had been swallowed by a monster. It looks like someone's portrait.
 ITEM_20150918_006813	A picture frame that had been swallowed by a monster. There is evidence that something was put in here before.
-ITEM_20150918_006814	A scroll that allows you to teleport to the Pardoner Master. Even though it is available only when there is a problem with the sanctum, buying a lot of these would be unreasonable.
+ITEM_20150918_006814	A scroll that allows you to teleport to the Maestre Redentor. Even though it is available only when there is a problem with the sanctum, buying a lot of these would be unreasonable.
 ITEM_20150918_006815	A strong rope Obtenido de a monster.{nl}It is useful to tie something with it.
 ITEM_20150918_006816	Hardtack that was hidden in a grass pile by someone. There is dirt on it.
 ITEM_20150918_006817	The leaf of a sweet herb. When chewed while taking a bitter medicine, it covers the taste with its sweetness.
@@ -6989,8 +6989,8 @@ ITEM_20151001_006988	Food Pouch
 ITEM_20151001_006989	A food pouch given by the Falconer Master.
 ITEM_20151001_006990	Maestre Monje's Support Supplies
 ITEM_20151001_006991	Supplies that were secretly delivered by the Maestre Monje.
-ITEM_20151001_006992	Pardoner Master's Books
-ITEM_20151001_006993	A book with some of the Pardoner Master's transactions recorded in it.
+ITEM_20151001_006992	Maestre Redentor's Books
+ITEM_20151001_006993	A book with some of the Maestre Redentor's transactions recorded in it.
 ITEM_20151001_006994	Plant Monster Sample
 ITEM_20151001_006995	A plant monster sample for a study requested by the Druid Master.
 ITEM_20151001_006996	Romuva Purification
@@ -7136,7 +7136,7 @@ ITEM_20151001_007135	A list that contains the names of the manor owners at the K
 ITEM_20151001_007136	Evil Magic Trace
 ITEM_20151001_007137	A black crystal that was Obtenido de the resurrected dead. It's a trace of the evil magic that resurrected the dead.
 ITEM_20151001_007138	Lista Oculta (1)
-ITEM_20151001_007139	A part of the list of the manor owners which Carlyle hid. Currently unSe puede leer.
+ITEM_20151001_007139	A part of the list of the manor owners which Carlyle hid. Currently Ilegible.
 ITEM_20151001_007140	Lista Oculta (2)
 ITEM_20151001_007141	Lista Oculta (3)
 ITEM_20151001_007142	Lista Oculta (4)
@@ -8683,7 +8683,7 @@ ITEM_20151224_008682	Elements Dance
 ITEM_20151224_008683	Created by mages to protect themselves from elemental magic, but due to a fatal flaw it couldn't be made.
 ITEM_20151224_008684	 - Triggers [Frenzy] durante 5 segundos when an enemy avoids your attack{nl}  - Increases physical attack by 235, movement speed by 10 and reduces physical defense by 88 durante 30 segundos when stacking [Frenzy] 8 times
 ITEM_20151224_008685	Traje de Templario
-ITEM_20151224_008686	Traje de Sage
+ITEM_20151224_008686	Traje de Sabio
 ITEM_20151224_008687	Traje de Brujo
 ITEM_20151224_008688	Traje de Conjurador Rúnico
 ITEM_20151224_008689	Traje de Capellán
@@ -9586,7 +9586,7 @@ ITEM_20151224_009585	Wood picked by Cahill from the wood pile.
 ITEM_20151224_009586	A material requested by the Elementalist Submaster in order to prove you're qualified.
 ITEM_20151224_009587	Rogue Master's Pouch
 ITEM_20151224_009588	A pouch used to gather fragrant pieces of fruit.
-ITEM_20151224_009589	A reserve ledger containing a record of the Pardoner Master's donation history. It seems to be quite precious.
+ITEM_20151224_009589	A reserve ledger containing a record of the Maestre Redentor's donation history. It seems to be quite precious.
 ITEM_20151224_009590	A piece of ice that can't be melt with the power of magic. It will be easily melt if the tone is incorrect.
 ITEM_20151224_009591	A magical tome requiring precise control, allowing one to raise their resistance to frost.
 ITEM_20151224_009592	Psychokino Scroll
