@@ -559,7 +559,7 @@ ETC_20150317_000558	Aukuras
 ETC_20150317_000559	Alto Vubbe
 ETC_20150317_000560	Abrojo
 ETC_20150317_000561	Antorcha
-ETC_20150317_000562	Araña Cristal
+ETC_20150317_000562	Araña de Cristal
 ETC_20150317_000563	Debido a su apariencia, los mineros novatos tratan de extraer sus espaldas y son atacados.
 ETC_20150317_000564	Enjambre de Abejas
 ETC_20150317_000565	Abrojo
@@ -1033,7 +1033,7 @@ ETC_20150317_001032	Creepy Chaparición
 ETC_20150317_001033	Bleak Green Woodspirit
 ETC_20150317_001034	Large Panto Lancero
 ETC_20150317_001035	Preparing.
-ETC_20150317_001036	Demon Despojos
+ETC_20150317_001036	Despojos Demoníaco
 ETC_20150317_001037	Panto Lancero
 ETC_20150317_001038	Hummingbird Sting
 ETC_20150317_001039	Tótem Panto
@@ -1952,7 +1952,7 @@ ETC_20150317_001951	{@st41}Recompensa Perdida {/}
 ETC_20150317_001952	Apertura
 ETC_20150317_001953	There is no reward list of the cofre del tesoro.
 ETC_20150317_001954	The reward setting is incorrect.
-ETC_20150317_001955	¡Destruir cristales raíz del árbol puede ayudarte a recuperar PM!
+ETC_20150317_001955	¡Destruir raíces cristal del árbol puede ayudarte a recuperar PM!
 ETC_20150317_001956	Clase
 ETC_20150317_001957	{@st41b} Titulo {/}
 ETC_20150317_001958	{@St41b} {Auto_1} Puntuación de Logro: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
@@ -4617,9 +4617,9 @@ ETC_20150317_004616	Sub7 period = "
 ETC_20150317_004617	Sub8 period = "
 ETC_20150317_004618	Sub9 period = "
 ETC_20150317_004619	Sub10 period = "
-ETC_20150317_004620	Check Method of Period = Every particular día is only possible to proceed (Or condition) "
+ETC_20150317_004620	Check Method of Period = Every particular day is only possible to proceed (Or condition) "
 ETC_20150317_004621	The Main Period = ScpArgMsg ("Auto_
-ETC_20150317_004622	Check Method of Period = Every particular día and time is only possible to proceed (Or condition) "
+ETC_20150317_004622	Check Method of Period = Every particular day and time is only possible to proceed (Or condition) "
 ETC_20150317_004623	Check Method of Period = Every hour is only possible to proceed (Or condition) "
 ETC_20150317_004624	Contenido = "
 ETC_20150317_004625	Nivel = "
@@ -4793,7 +4793,7 @@ ETC_20150317_004792	Purificando tierra corrupta
 ETC_20150317_004793	¡Has purificado la tierra corrupta por demonios!
 ETC_20150317_004794	He fallado en fortalecer la muñeca
 ETC_20150317_004795	e invocado un Mago Panto
-ETC_20150317_004796	Muñeca Chamán para la Destrucción
+ETC_20150317_004796	Muñeco Chamán Destructor
 ETC_20150317_004797	Grandes ojos ha susurrado que la persona correcta es un Watono.
 ETC_20150317_004798	¡Insuficientes partes de barrera de fragmentación!
 ETC_20150317_004799	Espíritu Junior
@@ -4884,7 +4884,7 @@ ETC_20150317_004883	Session List by made PNJ creation without basic session
 ETC_20150317_004884	Por favor revisa los detalles de la misión presionando la tecla{nl}{@st50}Información detallada puede ser encontrada en la Ayuda
 ETC_20150317_004885	  te permite regresar al PNJ de la misión.{nl}{@st50}También puedes pulsar el botón {img questinfo_return 40 40} .{/}
 ETC_20150317_004886	{@st50}Tecla de Info de Misiones{/}
-ETC_20150317_004887	¡La Muñeca Chamán ha destruído el tótem Panto!
+ETC_20150317_004887	¡La Muñeco Chamán ha destruído el tótem Panto!
 ETC_20150317_004888	Las perlas sagradas han sido cargadas al atacar las fuerzas demoníacas.
 ETC_20150317_004889	Distribución de pts de Estadístisticas
 ETC_20150317_004890	Distribución de pts de Habilidades
@@ -4897,12 +4897,12 @@ ETC_20150317_004896	APARECER
 ETC_20150317_004897	Tentando Bebé Panto
 ETC_20150317_004898	Parece que el bebé Panto{nl}¡ha recordado algo y comenzó a correr!
 ETC_20150317_004899	Envíale mis saludos a tu comandante.
-ETC_20150317_004900	Muñeca Chamán Purificadora
+ETC_20150317_004900	Muñeco Chamán Purificadora
 ETC_20150317_004901	Tierra Corrompida por Demonios
 ETC_20150317_004902	El Tótem Panto no puede ser destruído porque está rodeado por fuerzas demoníacas.
 ETC_20150317_004903	¡Has derrotado a Simorfo!
-ETC_20150317_004904	¡La Muñeca Chamán Purificadora ha derrotado a la Carnívora!
-ETC_20150317_004905	¡La Muñeca Chamán Purificadora ha encontrado Tierra Corrupta!
+ETC_20150317_004904	¡La Muñeco Chamán Purificadora ha derrotado a la Carnívora!
+ETC_20150317_004905	¡La Muñeco Chamán Purificadora ha encontrado Tierra Corrupta!
 ETC_20150317_004906	Gracias, mi viejo amigo.
 ETC_20150317_004907	Acerca de la Reliquia Santa
 ETC_20150317_004908	Acerca del Primer Paladín
@@ -5027,7 +5027,7 @@ ETC_20150317_005026	¿Un Revelador?
 ETC_20150317_005027	Preguntar acerca de la situación actual
 ETC_20150317_005028	Preguntar acerca de Medzio Diena
 ETC_20150317_005029	Preguntar acerca de la desaparición de las Diosas
-ETC_20150317_005030	Pregutnar que sucedió
+ETC_20150317_005030	Preguntar que sucedió
 ETC_20150317_005031	Creo que has olvidado mencionar a la Diosa Laima
 ETC_20150317_005032	¡Has encontrado un mapa con el Sello del Rey!
 ETC_20150317_005033	Los aldeanos eran demonios. {nl}¡Escapa por el portal en Ribera Frondosa!
@@ -5348,12 +5348,12 @@ ETC_20150317_005347	Planta Mutante Gigante
 ETC_20150317_005348	Tú eres el Revelador.
 ETC_20150317_005349	Las causas de lo ocurrió aquí se encuentran en otro lugar
 ETC_20150317_005350	Es difícil hablar aquí, mejor encontremonos en los Campos Oscilantes.
-ETC_20150317_005351	Herramientas de Invstigación
+ETC_20150317_005351	Herramientas de Investigación
 ETC_20150317_005352	¡Por ahí, un bebé Poata!
 ETC_20150317_005353	¡¡Síguelo!! ¡¡¡No podemos perderlo esta vez!!!
-ETC_20150317_005354	¡¡No salgas del campamento!! ¡Regresa!
-ETC_20150317_005355	¡¡¡Hey!!! ¡Alto! ¡¡Es peligroso!!
-ETC_20150317_005356	¡Regresa al campamento! ¡Ahora!
+ETC_20150317_005354	¡¡No salgas del campamento!!{nl} ¡Regresa!
+ETC_20150317_005355	¡¡¡Hey!!! ¡Alto!{nl}¡¡Es peligroso!!
+ETC_20150317_005356	¡Regresa al campamento!{nl}¡Ahora!
 ETC_20150317_005357	Aquí, Me encargaré de los procedimientos...
 ETC_20150317_005358	¿Que fue ese grito?
 ETC_20150317_005359	¡Preparate para la batalla!
@@ -6070,7 +6070,7 @@ ETC_20150317_006070	 no será reducido.
 ETC_20150317_006071	Cuando la mejora de un objeto falla, sus estadísticas serán reiniciadas y su
 ETC_20150317_006072	 será reducida en 1.
 ETC_20150317_006073	Colección
-ETC_20150317_006074	Usa los albumes para completar Colecciones que te{nl}den efectos benéficos.
+ETC_20150317_006074	Usa los albumes para completar Colecciones que te{nl}otorgen efectos beneficiosos.
 ETC_20150317_006075	Acerca de la Colección
 ETC_20150317_006076	Albúm
 ETC_20150317_006077	Puede ser activado a través de los objetos.
@@ -7598,7 +7598,7 @@ ETC_20150317_007598	Rescatando a Aras (4)
 ETC_20150317_007599	Rescatando a Aras (5)
 ETC_20150317_007600	Recapturando los Bosques Oeste (3)
 ETC_20150317_007601	Recapturando los Bosques Oeste (4)
-ETC_20150317_007602	Encuentra una pista de los Popoleóns
+ETC_20150317_007602	Encuentra una pista de los{nl}Popoleones
 ETC_20150317_007603	Encargo de Aras (4)
 ETC_20150317_007604	Aventurero Atacado
 ETC_20150317_007605	Piedra Memorial de la aventura (1)
@@ -9059,7 +9059,7 @@ ETC_20150317_009059	Manage the hide and seek
 ETC_20150317_009060	Montaraz Master Room
 ETC_20150317_009061	Piromante Master Room
 ETC_20150317_009062	Ascenso Quest Trigger of Criomante
-ETC_20150317_009063	Holidía Guide
+ETC_20150317_009063	Holiday Guide
 ETC_20150317_009064	Mercenary Post Manager Rota
 ETC_20150317_009065	Hoplita 4to Ascenso
 ETC_20150317_009066	Small Catedral Ground First Floor
@@ -11291,7 +11291,7 @@ ETC_20150428_011292	Never Ending Story
 ETC_20150428_011293	Talk to Degil 100 times
 ETC_20150428_011294	Explorer
 ETC_20150428_011295	Steal 50 Treasure Chests
-ETC_20150428_011296	Lucky día
+ETC_20150428_011296	Lucky Day
 ETC_20150428_011297	Grave Robber
 ETC_20150428_011298	Steal 150 Treasure Chests
 ETC_20150428_011299	In Search of Treasure
@@ -11464,7 +11464,7 @@ ETC_20150428_011465	Unavailable
 ETC_20150428_011466	Quit Game.
 ETC_20150428_011467	Regresando a la Guarida.
 ETC_20150428_011468	Regresando a la pantalla de inicio...
-ETC_20150428_011469	Period: {día 1} ~ {día 2} {nl} the first rank:
+ETC_20150428_011469	Period: {DAY 1} ~ {DAY 2} {nl} the first rank:
 ETC_20150428_011470	Area {count1} times move{nl} the second rank:
 ETC_20150428_011471	Area {count2} times move{nl} the third rank:
 ETC_20150428_011472	Area {count2} times move
@@ -12181,7 +12181,7 @@ ETC_20150714_012182	Warning Message will be appear when it gets far from the anv
 ETC_20150714_012183	At Hawk Roost Ani Change Term Time
 ETC_20150714_012184	The monstruos that are created on the fields, lifeTlme when nothing gets input;
 ETC_20150714_012185	Field Max Pop Multiplication
-ETC_20150714_012186	The range to kill the nearby monstruos when Grim Reaper appears
+ETC_20150714_012186	The range to kill the nearby monstruos when Segador de Almas appears
 ETC_20150714_012187	The minimum time until the next party recommendation after a recommendation(secs)
 ETC_20150714_012188	The time that will take until the first party recommendation after log in (secs)
 ETC_20150714_012189	The penalty points for the person who has been already recommended
@@ -13190,7 +13190,7 @@ ETC_20150717_013191	Hohen Barkle
 ETC_20150717_013192	Hohen Mage
 ETC_20150717_013193	Hohen Orben
 ETC_20150717_013194	Hohen Gulak
-ETC_20150717_013195	Grim Reaper
+ETC_20150717_013195	Segador de Almas
 ETC_20150717_013196	2do Prisión Demoníaca
 ETC_20150717_013197	Where did that kind of monstruo appear from...
 ETC_20150717_013198	Hold up little more!{nl}I will gather some people!
@@ -14043,7 +14043,7 @@ ETC_20150730_014044	DoTimeAction:Recolectando petrification liquid powder:2:GROP
 ETC_20150730_014045	Sobrevive by avoiding the monstruos dentro del tiempo límite
 ETC_20150730_014046	Record the memories in the orb
 ETC_20150730_014047	You cannot use this in a village.
-ETC_20150730_014048	Period : {día1} ~{día2}
+ETC_20150730_014048	Period : {DAY1} ~{DAY2}
 ETC_20150730_014049	{rank} :
 ETC_20150730_014050	Team {Character}
 ETC_20150730_014051	{count} Enhancement
@@ -19205,17 +19205,17 @@ ETC_20151224_019205	You don't have any quests to move to in the area.
 ETC_20151224_019206	Party Quest Count : {count} / {max}{nl}
 ETC_20151224_019207	A quest has been selected!
 ETC_20151224_019208	Cannot find the PNJ.
-ETC_20151224_019209	today's Correct Answers : {díaPLAYCOUNT} {nl} Remaining Attempts : {COUNT}{nl}The range you can select in between is {MIN} ~ {MAX}.{nl}Please select it within the specified range.
+ETC_20151224_019209	today's Correct Answers : {DAYPLAYCOUNT} {nl} Remaining Attempts : {COUNT}{nl}The range you can select in between is {MIN} ~ {MAX}.{nl}Please select it within the specified range.
 ETC_20151224_019210	Select a number.
 ETC_20151224_019211	Please select a number within the range of {MIN} ~ {MAX}.
 ETC_20151224_019212	The correct answer is bigger than {INPUT}.
 ETC_20151224_019213	The correct answer is smaller than {INPUT}.
 ETC_20151224_019214	This number has already been selected.{nl} Please select again from {MIN} ~ {MAX}.
-ETC_20151224_019215	You've completed {díaPLAYCOUNT} times out of {díaMAXCOUNT} today.
+ETC_20151224_019215	You've completed {DAYPLAYCOUNT} times out of {DAYMAXCOUNT} today.
 ETC_20151224_019216	 is the correct answer.
 ETC_20151224_019217	Remaining Attempts : {COUNT}{nl}Please select {DIGIT} different numbers between 0 ~ 9.
 ETC_20151224_019218	All matching numbers: {STRIKE}{nl}Correct answer number count : {BALL}{nl}Wrong answer number count : {OUT}
-ETC_20151224_019219	today's Successes : {díaPLAYCOUNT}{nl}You've succeeded {COUNT} times!
+ETC_20151224_019219	today's Successes : {DAYPLAYCOUNT}{nl}You've succeeded {COUNT} times!
 ETC_20151224_019220	Remaining Attempts : {nl}You've failed.{nl}The correct answer is {VALUE}.
 ETC_20151224_019221	The number to find : {NEXT}
 ETC_20151224_019222	You've found all the numbers
@@ -19411,7 +19411,7 @@ ETC_20151224_019411	Make a Pair of Monsters to find the hidden monstruos in Cube
 ETC_20151224_019412	You can try the Make a Pair of Monsters using collapsed obelisco
 ETC_20151224_019413	You're already progressing the Make a Pair of Monsters
 ETC_20151224_019414	Make a Pair of Monsters{nl}Available Times: {COUNT}times{nl}Do you want to try?
-ETC_20151224_019415	You've completed {díaPLAYCOUNT} times out of {díaMAXCOUNT} today.
+ETC_20151224_019415	You've completed {DAYPLAYCOUNT} times out of {DAYMAXCOUNT} today.
 ETC_20151224_019416	Cube should be opened with 2, so can be progressed
 ETC_20151224_019417	Receiving the rewards
 ETC_20151224_019418	You've failed to destoy the barrier stone during the limited time
@@ -19570,7 +19570,7 @@ ETC_20151224_019570	Over there, the Jeneuam Corredor!
 ETC_20151224_019571	The protection shield is weakening because of the monstruo attacks
 ETC_20151224_019572	Give a Basic Small PS Potion
 ETC_20151224_019573	You've found a traveling merchant!{nl}Inform the traveling merchant of Rose's location
-ETC_20151224_019574	You've completed {díaPLAYCOUNT} times out of {díaMAXCOUNT} today.
+ETC_20151224_019574	You've completed {DAYPLAYCOUNT} times out of {DAYMAXCOUNT} today.
 ETC_20151224_019575	Charging the launcher
 ETC_20151224_019576	Purified the evil spirit!
 ETC_20151224_019577	You receive a beneficial effect because you purified the evil spirit!
@@ -19594,7 +19594,7 @@ ETC_20151224_019594	Move to the the place to push the boat
 ETC_20151224_019595	You are already received the rewards
 ETC_20151224_019596	You cannot receive the rewards
 ETC_20151224_019597	You have received the rewards
-ETC_20151224_019598	You've used {díaPLAYCOUNT} times out of {díaMAXCOUNT} today.
+ETC_20151224_019598	You've used {DAYPLAYCOUNT} times out of {DAYMAXCOUNT} today.
 ETC_20151224_019599	Hurry up!
 ETC_20151224_019600	Sacrifice  1 Blue Cronewt Leather as an offering
 ETC_20151224_019601	Sacrifice  10 Blue Cronewt Leathers as an offering
@@ -19621,7 +19621,7 @@ ETC_20151224_019621	Ughh...
 ETC_20151224_019622	You have received the Achievement Score.
 ETC_20151224_019623	You are already received the Achievement Score.
 ETC_20151224_019624	You can no longer receive the Achievement Score.
-ETC_20151224_019625	You've completed {díaPLAYCOUNT} times out of {díaMAXCOUNT} today.
+ETC_20151224_019625	You've completed {DAYPLAYCOUNT} times out of {DAYMAXCOUNT} today.
 ETC_20151224_019626	Guild Request
 ETC_20151224_019627	Failed to create a guild
 ETC_20151224_019628	Left the guild
