@@ -1651,8 +1651,8 @@ ETC_20150317_001650	Desconectado del servidor. Por favor intenta más tarde.
 ETC_20150317_001651	{Year}/{Month}/{day} - {Hour} horas {Min} minutos {Sec} segundos
 ETC_20150317_001652	Leer más
 ETC_20150317_001653	No puedes cambiar tu equipo sin antes recojer el item lanzado.
-ETC_20150317_001654	{Month} {day}
-ETC_20150317_001655	{day}d
+ETC_20150317_001654	{Month} {Day}
+ETC_20150317_001655	{Day}d
 ETC_20150317_001656	{Hour}h
 ETC_20150317_001657	{Min}m
 ETC_20150317_001658	{Sec}s
@@ -2976,7 +2976,7 @@ ETC_20150317_002975	Tipo Aéreo
 ETC_20150317_002976	Élite
 ETC_20150317_002977	Último Ingreso: {Year} año(s) atrás
 ETC_20150317_002978	Último Ingreso: {Month} mes(es) atrás
-ETC_20150317_002979	Último Ingreso: {day} día(s) atrás
+ETC_20150317_002979	Último Ingreso: {Day} día(s) atrás
 ETC_20150317_002980	Último Ingreso: {Hour} hora(s) atrás
 ETC_20150317_002981	Último Ingreso: {Min} minuto(s) atrás
 ETC_20150317_002982	Último Ingreso: ahora mismo
@@ -21400,9 +21400,9 @@ ETC_20160329_021399	Excavando
 ETC_20160329_021400	No hay nada más que excavar.
 ETC_20160329_021401	Has encontrado los materiales antiguos.
 ETC_20160329_021402	Aún no puedes cambiar a neutral el estado de tu Clan.
-ETC_20160329_021403	¿Deseas cambiar el estado de tu Clan a neutral?{nl}Los Clans neutrales no pueden participar en guerras por una zona.{nl}El estado neutral se mantendrá por {day} día(s).
-ETC_20160329_021404	Has cambiado el estado de tu Clan a neutral. Puedes cambiar este estado en {day} día(s).
-ETC_20160329_021405	Tu Clan ya no es neutral. Puedes cambiar su estado en {day} día(s).
+ETC_20160329_021403	¿Deseas cambiar el estado de tu Clan a neutral?{nl}Los Clans neutrales no pueden participar en guerras por una zona.{nl}El estado neutral se mantendrá por {Day} día(s).
+ETC_20160329_021404	Has cambiado el estado de tu Clan a neutral. Puedes cambiar este estado en {Day} día(s).
+ETC_20160329_021405	Tu Clan ya no es neutral. Puedes cambiar su estado en {Day} día(s).
 ETC_20160329_021406	No puedes cambiar el estado a neutral de tu Clan durante una guerra.
 ETC_20160329_021407	{@st42}[Cambio de estado disponible en {TIME}]
 ETC_20160329_021408	Esta guild se encuentra en estado neutral; no le puedes declarar la guerra.
