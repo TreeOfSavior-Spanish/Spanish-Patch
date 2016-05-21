@@ -99,7 +99,7 @@ QUEST_LV_0100_20150317_000098	¿Por qué tienes eso?{nl}Dámelo y haré una Memo
 QUEST_LV_0100_20150317_000099	Con este Memory Fragment, reviviré las memorias de nuestros camaradas dormidos.
 QUEST_LV_0100_20150317_000100	Será dificil derrotarlo sin el Memory Fragment.{nl}Por favor tráeme Infro Holder Horns.
 QUEST_LV_0100_20150317_000101	¿Cómo has conseguido todos esos ingredientes?
-QUEST_LV_0100_20150317_000102	Son personas que han abandonado este mundo. {nl}Están repitiendo qué ocurrió en aquel entonces debido a su ira hacia Gaigalas.
+QUEST_LV_0100_20150317_000102	Son personas que han abandonado este mundo. {nl}Están repitiendo lo que ocurrió en aquel entonces debido a su ira hacia Gaigalas.
 QUEST_LV_0100_20150317_000103	Pueden ser apaciguados si derrotamos a Gaigalas.{nl}Por favor, visita el Búho Inquietante.
 QUEST_LV_0100_20150317_000104	Escultura del Búho inquietante
 QUEST_LV_0100_20150317_000105	Por favor, ayúdame a despertar a mis camaradas dormidos y a completar la magia de aquel día.{nl}Con el Fragmento de Memoria.
@@ -129,7 +129,7 @@ QUEST_LV_0100_20150317_000128	Encontré a Airine, pero no sé cómo rescatarla.{
 QUEST_LV_0100_20150317_000129	Asistente Airine
 QUEST_LV_0100_20150317_000130	No puedo moverme debido a la barrera.{nl}Por favor, destruye las tres barreras de Rodoma Ruins.
 QUEST_LV_0100_20150317_000131	¿Aún no has terminado? Ah, caray...
-QUEST_LV_0100_20150317_000132	No esperaba ser llevada a este tipo de cosa.{nl}Oh, el lío que he causado por perseguir a ese chico.
+QUEST_LV_0100_20150317_000132	No esperaba ser llevada a este tipo de cosa.{nl}Oh, el problema que he causado por perseguir a ese chico.
 QUEST_LV_0100_20150317_000133	Mercenario Glen
 QUEST_LV_0100_20150317_000134	Muchos investigadores están desapareciendo estos días.{nl}Estoy intentando hallar pistas derrotando algunos Sauga. ¿Podrías ayudarnos?
 QUEST_LV_0100_20150317_000135	Los Saugas se reparten equitativamente el botín.{nl}Tal vez podamos encontrar obtener pistas a partir de ellos.
@@ -168,36 +168,36 @@ QUEST_LV_0100_20150317_000167	Revelador. Si esta es la voluntad de la Diosa, ent
 QUEST_LV_0100_20150317_000168	Os he preocupado a Niels y a ti...
 QUEST_LV_0100_20150317_000169	Lideraré la marcha y tú te encargarás de los monstruos que nos vayamos encontrando.{nl}Cuento contigo.
 QUEST_LV_0100_20150317_000170	Ha llegado la hora. Por favor, sigue adelante hacia el Beacon Hill Pass.
-QUEST_LV_0100_20150317_000171	I am sure that you are qualified for this.{nl}Goddess Laima has led all these.
-QUEST_LV_0100_20150317_000172	Finally the hidden treasure can be passed down to someone.{nl}I regret not recognizing you sooner due to my senility.
-QUEST_LV_0100_20150317_000173	Great King Zachariel told us to bestow his hidden treasure upon a qualified person.{nl}You can check whether you are qualified with the Eyes of the Great King.
-QUEST_LV_0100_20150317_000174	We have one more responsibility besides protecting the Royal Mausoleum.{nl}And that is to protect the royal inheritance until a qualified person comes.{nl}
-QUEST_LV_0100_20150317_000175	We have no idea what exactly the hidden treasure is.{nl}The king just told us to protect it so we are just following his order.
+QUEST_LV_0100_20150317_000171	Estoy seguro de que estás cualificado para esto.{nl}La Diosa Laima así lo ha dirigido.
+QUEST_LV_0100_20150317_000172	Al fin el tesoro oculto puede ser transimitido a alguien.{nl}Me arrepiento de no haberte reconocido antes debido a mi senilidad.
+QUEST_LV_0100_20150317_000173	El Gran Rey Zachariel nos encargó que otorgásemos el tesoro oculto a alguien cualificado.{nl}Puedes probar si así lo eres con los Ojos del Gran Rey.
+QUEST_LV_0100_20150317_000174	Tenemos una responsabilidad más allá de proteger el Royal Mausoleum.{nl}Y esta es proteger el legado real hasta la llegada de una persona cualificada.{nl}
+QUEST_LV_0100_20150317_000175	No sabemos qué es exactamente el tesoro oculto.{nl}El rey tan solo nos dijo que lo protegiésemos, así que solo estamos siguiendo sus órdenes.
 QUEST_LV_0100_20150317_000176	Medicine Dealer
-QUEST_LV_0100_20150317_000177	Hmm... Well, there's a herb that only grows around Metos Field.{nl}Please bring me it.
-QUEST_LV_0100_20150317_000178	Metos Field would be the best place to wake up one's consciousness. Especially for an old man.
-QUEST_LV_0100_20150317_000179	Good job. You're pretty sharp, aren't you?{nl}
-QUEST_LV_0100_20150317_000180	Alright, it's done.{nl}Take this to Davio.
-QUEST_LV_0100_20150317_000181	Merchant Davio
-QUEST_LV_0100_20150317_000182	I brought that old man's medicine. {nl}But I spent a great deal of effort getting it. I ought to charge you more.{nl}
-QUEST_LV_0100_20150317_000183	The gold that Lichenclops have in this town will be enough.{nl}Bring those to the Medicine Dealer in Kapas Highway.
-QUEST_LV_0100_20150317_000184	This will be enough. Davio sent you, right?{nl} I still need one more ingredient to make the medicine truly effective.
-QUEST_LV_0100_20150317_000185	To make the medicine, I needed to find the cause of Jonas' symptoms and it drove me crazy.{nl}Funnily enough, it was caused by a spell that was used long ago.{nl}
-QUEST_LV_0100_20150317_000186	I heard a rumor that the Great King Zachariel erased the memories of all workers after {nl}building the Royal Mausoleum. That should be the spell casted on Jonas, though he is also a bit {nl}senile.
-QUEST_LV_0100_20150317_000187	It was tough to get that old man's medicine.{nl}But, there's nothing I cannot get.
-QUEST_LV_0100_20150317_000188	It will be completed once you melt it in the honey that you have. Take it with you.
-QUEST_LV_0100_20150317_000189	That medicine works well. Make him swallow it somehow.
-QUEST_LV_0100_20150317_000190	You're late.{nl}Did you bring my archive?
-QUEST_LV_0100_20150317_000191	Go to the Abandoned Old Workshop.{nl}Some old man is wandering around there. I think it's Jonas.
-QUEST_LV_0100_20150317_000192	What is that? It smells like mead!
-QUEST_LV_0100_20150317_000193	I feel dizzy.{nl}What am I doing here anyway?
-QUEST_LV_0100_20150317_000194	I am relieved you found me.{nl}When the monsters were chasing after me, I lost my belongings and all the materials.{nl}At the very least, could you find the scattered materials?
-QUEST_LV_0100_20150317_000195	I don't have much to say as a humble mercenary.{nl}Although I was okay even on Medzio Diena, I am certain this place is cursed.{nl}
-QUEST_LV_0100_20150317_000196	How long has it been since I came here?{nl}Where is Mirta and who are you?
-QUEST_LV_0100_20150317_000197	I'm trying to remember something but it keeps fading whenever I get close.
+QUEST_LV_0100_20150317_000177	Hmm... Bueno, hay una planta que solo crece en Metos Field.{nl}Por favor, tráemela.
+QUEST_LV_0100_20150317_000178	Metos Field puede ser el mejor sitio para despertar la conciencia.{nl}Sobre todo para un anciano.
+QUEST_LV_0100_20150317_000179	Buen trabajo. Eres bastante agudo, ¿no es cierto?{nl}
+QUEST_LV_0100_20150317_000180	Muy bien, hecho.{nl}Lleva esto a Davio.
+QUEST_LV_0100_20150317_000181	Mercader Davio
+QUEST_LV_0100_20150317_000182	He traído la medicina de ese anciano. {nl}Pero he invertido un gran esfuerzo para conseguirla. Me temo que debo pedirte algo más.{nl}
+QUEST_LV_0100_20150317_000183	El oro que tiene Lichenglops en su pueblo debería ser suficiente.{nl}Lléva esto al Medicine Dealer en Kapas Highway.
+QUEST_LV_0100_20150317_000184	Con esto bastará. Davio te ha enviado, ¿verdad?{nl}Aún necesito un último ingrediente para que la medicina sea verdaderamente efectiva.
+QUEST_LV_0100_20150317_000185	Para hacer la medicina, tuve que encontrar la causa de los síntomas de Jonas, eso me volvió loco.{nl}Curiosamente, fueron causados por un hechizo usado hace mucho tiempo.{nl}
+QUEST_LV_0100_20150317_000186	Escuché de un rumor que el Gran Rey Zachariel borró la memoria de todos los trabajadores tras {nl}construir el Royal Mausoleum. Ese debió ser el hechizo lanzado sobre Jonas, aunque también{nl}está un poco senil.
+QUEST_LV_0100_20150317_000187	Ha sido duro conseguir la medicina de ese anciano.{nl}Sin embargo, no hay nada que no pueda conseguir.
+QUEST_LV_0100_20150317_000188	Estará completa una vez la disuelvas en la miel que tienes. Llévatela.
+QUEST_LV_0100_20150317_000189	La medicina funciona bien. Haz que se la trague de alguna forma.
+QUEST_LV_0100_20150317_000190	Llegas tarde.{nl}¿Has traído mi archivo?
+QUEST_LV_0100_20150317_000191	Ve al Abandoned Old Workshop.{nl}Un anciano está vagando por los alrededores. Creo que es Jonas.
+QUEST_LV_0100_20150317_000192	¿Qué es eso? ¡Huele como hidromiel!
+QUEST_LV_0100_20150317_000193	Me siento mareado.{nl}De todas formas, ¿qué hago aquí?
+QUEST_LV_0100_20150317_000194	Me alivia que me hayas encontrado.{nl}Cuando los monstruos me estaban persiguiendo, perdí mis pertenencias y todos los materiales.{nl}Al menos, ¿podrías encontrar los scattered materials?
+QUEST_LV_0100_20150317_000195	Como un humilde mercenario, no puedo decir gran cosa.{nl}Aunque estaba bien incluso en Medzio Diena, estoy seguro de que este lugar está maldito.{nl}
+QUEST_LV_0100_20150317_000196	¿Cuánto tiempo ha pasado desde que estoy aquí?{nl}¿Dónde está Mirta? y, ¿quién eres?
+QUEST_LV_0100_20150317_000197	Intento recordar algo, pero cuando estoy cerca de conseguirlo, se desvanece.
 QUEST_LV_0100_20150317_000198	Vaidotas
-QUEST_LV_0100_20150317_000199	That smell.. I think the purifying device in the mine is broken.{nl}We better repair it quickly. The kidnapped villagers might suffocate.
-QUEST_LV_0100_20150317_000200	Do you know about the legend of Cunningham?{nl}The legend states that a great demon was sealed here in the Crystal Mine.{nl}There is a book with more details about it at the Mine Worker's Resting Place in Crystal Mine 2F.{nl}
+QUEST_LV_0100_20150317_000199	Ese olor... Creo que el dispositivo purificador de la mina está roto.{nl}Será mejor que lo reparemos rápido. Los lugareños secuestrados pueden asfixiarse.
+QUEST_LV_0100_20150317_000200	¿Conoces la leyenda de Cunningham?{nl}La leyenda establece que un gran demonio fue sellado aquí, en la Crystal Mine.{nl}Hay un libro con más detalles sobre ello en el Mine Worker's Resting Place en la Crystal Mine P2.{nl}
 QUEST_LV_0100_20150317_000201	Anyway, my guess is that the demon is re-awakening and is controlling the Vubbes.{nl}The bishop's dream and the Legend of Cunningham... I feel they may be a sign that something{nl}huge is about to happen.{nl}
 QUEST_LV_0100_20150317_000202	Only the goddess would know if it will be hope or despair.{nl}
 QUEST_LV_0100_20150317_000203	The purifier can be easily fixed by anyone, but it may be hard to find the parts needed.{nl}In that case, use the compass that I gave you to search for them.{nl}
