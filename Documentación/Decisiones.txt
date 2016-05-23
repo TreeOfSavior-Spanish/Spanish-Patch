@@ -84,7 +84,7 @@
 >> Featherfoot: Chamán
 >> Mimic: Mímico
 >> Taoist: Taoísta
->> Sage: ¿¿Sabio?? ¿¿Erudito??
+>> Sage: Sabio
 
 >> Cleric: Clérigo
 >> Krivis: =
