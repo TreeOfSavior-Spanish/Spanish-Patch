@@ -120,7 +120,7 @@ ITEM_20150317_000119	Illizia
 ITEM_20150317_000120	Esta cuchilla amenaza gravemente tanto la vida de su enemigo como las finanzas de los propietarios. Por supuesto, la mayoría de los espadachines ignoran el último efecto. 
 ITEM_20150317_000121	Fijado para borrar
 ITEM_20150317_000122	Espada de 2 manos [Corte]
-ITEM_20150317_000123	Espada Bastarda misteriosa
+ITEM_20150317_000123	Espada Bastarda de Dunkel
 ITEM_20150317_000124	Algunos maestros artesanos y soldados llaman a esto un 'estilo mezclado espada de dos manos'. Dicen que esto los justifica. 
 ITEM_20150317_000125	Flamberge
 ITEM_20150317_000126	Si eres un experto en armas a dos manos, el borde en forma de onda puede causar un daño masivo. 
@@ -1077,22 +1077,22 @@ ITEM_20150317_001076	Pantalones de Malla de Acero
 ITEM_20150317_001077	Cota de Malla de Acero
 ITEM_20150317_001078	Armadura de Cuero Mejorada
 ITEM_20150317_001079	Guantes Acolchados de Dunkel
-ITEM_20150317_001080	Botas Acolchadas Misteriosas
+ITEM_20150317_001080	Botas Acolchadas de Dunkel
 ITEM_20150317_001081	Pantalones Acolchados de Dunkel
 ITEM_20150317_001082	Armadura Acolchada Misteriosa
 ITEM_20150317_001083	Guantes de Algodón de Dunkel 
 ITEM_20150317_001084	Desgastado y disfrutado por los lanzadores de conjuros.
-ITEM_20150317_001085	Botas de Algodón Misteriosas
+ITEM_20150317_001085	Botas de Algodón de Dunkel
 ITEM_20150317_001086	Pantalones de Algodón de Dunkel
 ITEM_20150317_001087	Se cree que proporcionan una defensa mágica excepcional. 
 ITEM_20150317_001088	Túnica de Algodón Misteriosa
 ITEM_20150317_001089	Las personas siguen optando por este traje por su defensa mágica. 
 ITEM_20150317_001090	Guantes de Cuero Resistente de Dunkel
-ITEM_20150317_001091	Botas de Cuero Resistentes Misteriosas
+ITEM_20150317_001091	Botas de Cuero Resistentes de Dunkel
 ITEM_20150317_001092	Pantalones de Cuero Resistente de Dunkel
 ITEM_20150317_001093	Armadura de Cuero Resistente Misteriosa
 ITEM_20150317_001094	Guantes de Anillas de Dunkel
-ITEM_20150317_001095	Botas de Anillas Misteriosas
+ITEM_20150317_001095	Botas de Anillas de Dunkel
 ITEM_20150317_001096	Pantalones de Anillas de Dunkel 
 ITEM_20150317_001097	Malla de Anillas Misteriosa
 ITEM_20150317_001098	Guantes de Anillas
@@ -3728,280 +3728,280 @@ ITEM_20150317_003727	Piedra Patrón (Inferior)
 ITEM_20150317_003728	La parte inferior de una piedra con un patrón sagrado dibujado.
 ITEM_20150317_003729	Pieza Dulce de Panal
 ITEM_20150317_003730	Un fragmento de un panal que emite un olor intenso y dulce.
-ITEM_20150317_003731	Bichiu Altar's Magic Piece
-ITEM_20150317_003732	An unidentified fragment of a magic stone that was placed on the altar.
+ITEM_20150317_003731	Pieza Mágica del Altar de Bichiu
+ITEM_20150317_003732	Un fragmento no identificado de una piedra mágica que fue colocada en el altar.
 ITEM_20150317_003733	Pieza de Colmena
 ITEM_20150317_003734	Una pieza de colmena que tiene un sabor dulce.
 ITEM_20150317_003735	El cristal de un espíritu lleno de un aura sagrada.
-ITEM_20150317_003736	Complete Scripture
-ITEM_20150317_003737	A scripture containing the power of sacred texts.
-ITEM_20150317_003738	Spirit's Scripture
-ITEM_20150317_003739	Scriptures containing a bishop's soul. It is able to call up the bishop at any time.
-ITEM_20150317_003740	Relic of Mercy
-ITEM_20150317_003741	A teardrop-shaped jewel. Required to find Maven's key.
-ITEM_20150317_003742	Relic of Salvation
-ITEM_20150317_003743	A round jewel. Required to find Maven's key.
-ITEM_20150317_003744	Maven's First Key
-ITEM_20150317_003745	Guard's Keepsake
-ITEM_20150317_003746	Relics of the guards that have been petrified by the Petrifying Frost in the Deserted Market of the Petrified City.
-ITEM_20150317_003747	Bag of Farming Tools
-ITEM_20150317_003748	Backpack filled with tools necessary to start a farm.
+ITEM_20150317_003736	Escritura Completa
+ITEM_20150317_003737	Una escritura que contiene el poder de los textos sagrados.
+ITEM_20150317_003738	Escritura de Espíritus
+ITEM_20150317_003739	Escrituras que contienen el alma de un obispo. Si aún se le puede llamar obispo...
+ITEM_20150317_003740	Reliquia de la Compasión
+ITEM_20150317_003741	Una joya con forma de lagrima. Requerida para encontrar la llave de Maven.
+ITEM_20150317_003742	Reliquia de la Salvación
+ITEM_20150317_003743	Joya redonda. Requerida para encontrar la llave de Maven.
+ITEM_20150317_003744	Primera Llave de Maven
+ITEM_20150317_003745	Recuerdo de Guardia
+ITEM_20150317_003746	Reliquia de los guardias que han sido petrificados helados en el Deserted Market de la Petrified City.
+ITEM_20150317_003747	Bolsa de Herramientas de Agricultura
+ITEM_20150317_003748	Mochila llena de las herramientas necesarias para iniciar una granja.
 ITEM_20150317_003749	Bee Tree Branch
 ITEM_20150317_003750	A branch of a bee tree containing the power of the Goddess Austeja.
-ITEM_20150317_003751	Incinerated Demon Ash
-ITEM_20150317_003752	The ashes of a demon incinerated by Goddess Austeja's power.
-ITEM_20150317_003753	Orb of Residue
-ITEM_20150317_003754	An orb that can destroy demon seals and barriers
-ITEM_20150317_003755	Oak Stem
-ITEM_20150317_003756	Scarecrow Building Materials
-ITEM_20150317_003757	Material for fabricating Scarecrows
-ITEM_20150317_003758	Wood that can be placed on the land to resemble a scarecrow.
-ITEM_20150317_003759	Stolen Grain Bag
-ITEM_20150317_003760	Vomited after the monster died; a half-digested mass of dough.
-ITEM_20150317_003761	The third revelation found in the Thorn Forest.
-ITEM_20150317_003762	The fourth revelation found in the Mausoleo Real.
-ITEM_20150317_003763	It cannot be read yet. Take it to Saule for interpretation.
-ITEM_20150317_003764	Rubbing Tool for Petrified Objects
-ITEM_20150317_003765	A tool used to make a rubbing of the petrified book found on Ruklys Street.
-ITEM_20150317_003766	Time Magnifier
-ITEM_20150317_003767	Tool used to find out the past disaster of Ruklys Street
-ITEM_20150317_003768	Talisman (Temporal)
-ITEM_20150317_003769	Talisman attached by an unknown pilgrim to seal the power of the Tree Root Crystal.
-ITEM_20150317_003770	Austeja's Fragmented Symbol
-ITEM_20150317_003771	Austeja's Symbol related to the altar.
-ITEM_20150317_003772	Austeja's Symbol
-ITEM_20150317_003773	A symbol containing Goddess Austeja's power, it has the ability to block demonic powers.
-ITEM_20150317_003774	Merchant Item Parcel
-ITEM_20150317_003775	Lost luggage of the Spring Light Woods merchant
-ITEM_20150317_003776	Bee Honey Jelly
-ITEM_20150317_003777	A sweet-smelling jelly that can bring the Spring Flower out from hiding.
-ITEM_20150317_003778	Spring Light Grass
-ITEM_20150317_003779	Mysterious grass that arises from the ground when it smells honey.
-ITEM_20150317_003780	Maven's Second Key
-ITEM_20150317_003781	Maven's Third Key
-ITEM_20150317_003782	Maven's Fourth Key
-ITEM_20150317_003783	Maven's Fifth Key
-ITEM_20150317_003784	Broken Key Fragment
-ITEM_20150317_003785	Priest's Studies
-ITEM_20150317_003786	Documents related to the research of the curse of Naktis.
-ITEM_20150317_003787	Research Results
-ITEM_20150317_003788	Priest's lost belongings
+ITEM_20150317_003751	Cenizas de Demonio Incinerado
+ITEM_20150317_003752	Las cenizas de un demonio incinerado por el poder de la Diosa Austeja.
+ITEM_20150317_003753	Orbe del Residuo
+ITEM_20150317_003754	Una orbe que puede destruir los sellos y barreras de los demonios.
+ITEM_20150317_003755	Tallo de Roble
+ITEM_20150317_003756	Materiales de Construcción de Espantapajaros
+ITEM_20150317_003757	Material para frabricar espantapajaros.
+ITEM_20150317_003758	Madera que puede ser puesta en la tierra para parecerse a un espantapajaros.
+ITEM_20150317_003759	Bolsa de Grano Robada
+ITEM_20150317_003760	Cuando el monstruo murio la vomito; una masa medio digeria.
+ITEM_20150317_003761	La tercera revelación encontrada en el Thorn Forest.
+ITEM_20150317_003762	La cuarta revelación encontrada en el Mausoleo Real.
+ITEM_20150317_003763	Aún no se puede leer. Llevaselo a Saule para que lo interprete.
+ITEM_20150317_003764	Herramienta de Calco para Objetos Petrificados
+ITEM_20150317_003765	Una herramienta usada para hacer un calco del libro petrificado encontado en Ruklys Street.
+ITEM_20150317_003766	Lupa del Tiempo
+ITEM_20150317_003767	Herramienta utilizada para averiguar los desastres del pasado en Ruklys Street.xD
+ITEM_20150317_003768	Talismán (Temporal)
+ITEM_20150317_003769	Talismán unido a un peregrino desconocido para sellar el poder de Tree Root Crystal.
+ITEM_20150317_003770	Fragmento del Símbolo de Austeja
+ITEM_20150317_003771	Símbolo relacionado con el altar de Austeja.
+ITEM_20150317_003772	Símbolo de Austeja
+ITEM_20150317_003773	Un símbolo que contiene el poder de la Diosa Austeja, Tiene la habilidad de bloquear los poderes demoniacos.
+ITEM_20150317_003774	Paquete Perdido del Mercader
+ITEM_20150317_003775	Equipaje perdido del mercader de Spring Light Woods.
+ITEM_20150317_003776	Jalea de Miel de Abeja
+ITEM_20150317_003777	Una jalea de olor dulce que puede a traer la flor de la primavera fuera de su escondite.
+ITEM_20150317_003778	Hierba Ligera de Primavera
+ITEM_20150317_003779	Hierba misteriosa que surge de la tierra cuando huele la miel.
+ITEM_20150317_003780	Segunda Llave de Maven
+ITEM_20150317_003781	Tercera Llave de Maven
+ITEM_20150317_003782	Cuarta Llave de Maven
+ITEM_20150317_003783	Quinta Llave de Maven
+ITEM_20150317_003784	Fragmento de Llave Rota
+ITEM_20150317_003785	Estudios de Sacerdote
+ITEM_20150317_003786	Documentos relacionados con la investigación de la maldición de Naktis.
+ITEM_20150317_003787	Resultados de la Investigacón
+ITEM_20150317_003788	Pertenencias Perdidas de Sacerdote
 ITEM_20150317_003789	Medicina
 ITEM_20150317_003790	Medicina Experimental
-ITEM_20150317_003791	Drugged Meat
-ITEM_20150317_003792	Meat
+ITEM_20150317_003791	Carne Drogada
+ITEM_20150317_003792	Carne
 ITEM_20150317_003793	Receta
 ITEM_20150317_003794	Recetas escritas apra convertirlas en monstruos
-ITEM_20150317_003795	Naktis' Servant's Cloth Scrap
-ITEM_20150317_003796	Material needed to make drugs to disguise as Naktis
+ITEM_20150317_003795	Trozo de Tela de Sirviente de Naktis
+ITEM_20150317_003796	Material necesario para disfrazarse de Naktis
 ITEM_20150317_003797	Medicine that can turn you into a monster
 ITEM_20150317_003798	Llave vieja
 ITEM_20150317_003799	Una llave recuperada de un sirviente de Naktis.
-ITEM_20150317_003800	Sacrificial Lean Monster Meat
-ITEM_20150317_003801	Monster meat for use in the Sanctuary. Because it's a lean part of the meat, it doesn't smell that much.
-ITEM_20150317_003802	Maestre Clérigo's Symbol of Faith
-ITEM_20150317_003803	A crest that can find monsters that have eaten the Sanctuary's insignia. It's a symbol of the Maestre Clérigo's faith.
-ITEM_20150317_003804	Tough Leather
-ITEM_20150317_003805	The tough leather of a monster. Its toughness makes it watertight.
-ITEM_20150317_003806	Tough Leather Pouch
-ITEM_20150317_003807	A pouch made from a monster's Tough Leather
-ITEM_20150317_003808	Water-Filled Leather Pouch
-ITEM_20150317_003809	A monster's Tough Leather Pouch that has been filled with water.
-ITEM_20150317_003810	An old and rusted key.
-ITEM_20150317_003811	The sixth revelation found in the Great Cathedral.
-ITEM_20150317_003812	Doucments related to Naktis
-ITEM_20150317_003813	Documents related to the story of Naktis and the demons.
-ITEM_20150317_003814	Body of Priest
-ITEM_20150317_003815	Body of Bishop
-ITEM_20150317_003816	Tasty Candy Ball
-ITEM_20150317_003817	A tasty candy ball made for the workers at the Petrified City in Kaliss. 
-ITEM_20150317_003818	Guard's Memento 
-ITEM_20150317_003819	Memento of a guard who died to the Petrifying Frost.  
-ITEM_20150317_003820	Elixir Ingredient 
-ITEM_20150317_003821	An ingredient requested by Bokor Edita in order to call forth spirits. 
-ITEM_20150317_003822	Liberation Elixir
-ITEM_20150317_003823	An elixer that, when used on petrified people, summons their spirits. 
-ITEM_20150317_003824	Petrification Thawing Liquid  
-ITEM_20150317_003825	When used on a monster that is being petrified, it thaws them out. 
-ITEM_20150317_003826	Petrified Sample 
-ITEM_20150317_003827	A petrified sample of a monster in the process of being petrified. 
-ITEM_20150317_003828	Record from the Ruklys Era
-ITEM_20150317_003829	A comparatively well-reserved record from the Ruklys Era. 
-ITEM_20150317_003830	Vacuum Scroll 
-ITEM_20150317_003831	A scroll that contains powerful magic that blocks all sound. Use it on Gargoyle. 
-ITEM_20150317_003832	Flame Spirit Jewel 
-ITEM_20150317_003833	A jewel that holds an unstable flame spirit. 
+ITEM_20150317_003800	Carne Magra de Monstruo de Sacrificio
+ITEM_20150317_003801	Carne de mosntruo usada en el Santuario. No huele muy bien, ya que es la parte magra de la carne.
+ITEM_20150317_003802	Símbolo de Fe del Maestre Clérigo
+ITEM_20150317_003803	Un blasón que se puede encontrar en los monstruos que se han comido la insignia del Santuario. Es el símbolo de fe del Maestre Clérigo.
+ITEM_20150317_003804	Cuero Resistente
+ITEM_20150317_003805	Cuero resistente de un monstruo. Su resistencia lo hace impermeable.
+ITEM_20150317_003806	Morral de Cuero Resistente
+ITEM_20150317_003807	Un morral hecho del cuero resistente de un monstruo.
+ITEM_20150317_003808	Morral de Cuero Lleno de Agua
+ITEM_20150317_003809	Un morral de cuero resistente de monstruo que ha sido llenado de agua.
+ITEM_20150317_003810	Una llave vieja y oxidada.
+ITEM_20150317_003811	La sexta revelación encontrada en la Gran Catedral.
+ITEM_20150317_003812	Documentos relacionados con Naktis
+ITEM_20150317_003813	Documentos relacionados con la historia de Naktis y los demonios.
+ITEM_20150317_003814	Cuerpo de Sacerdote
+ITEM_20150317_003815	Cuerpo de Obispo
+ITEM_20150317_003816	Bola de Caramelo Sabrosa
+ITEM_20150317_003817	Una bola de caramelo sabrosa hecha por los trabajdores de Petrified City en Kaliss.
+ITEM_20150317_003818	Recuerdo de Guardia
+ITEM_20150317_003819	Recuerdo de un guardia que murio por la petrificación helada.
+ITEM_20150317_003820	Ingrediente de Elixir
+ITEM_20150317_003821	Un ingredietne solicitado por el Bokor Edita con el fin de invocar espíritus.
+ITEM_20150317_003822	Elixir de Liberación
+ITEM_20150317_003823	Un elixir que cuando se usa en personas petrificadas, invoca sus espiritus.
+ITEM_20150317_003824	Liquido de Despetrificación
+ITEM_20150317_003825	Cuando se usa en un monstruo que esta siendo petrificado, este se despetrifica.
+ITEM_20150317_003826	Muestra Petrificada
+ITEM_20150317_003827	Una muestra petrificada de un monstruos que estaba siendo petrificado.
+ITEM_20150317_003828	Registro de Ruklys Era
+ITEM_20150317_003829	Un registro relativamente bien conservado de Ruklys Era.
+ITEM_20150317_003830	Pergamino del Vacio
+ITEM_20150317_003831	Un pergamino que contiene una poderosa magia que bloquea todo el sonido. Usalo en Gargoyle.
+ITEM_20150317_003832	Joya de Espiritu Llameante
+ITEM_20150317_003833	Una joya que contiene un espiritu flameante inestable.
 ITEM_20150317_003834	Brújula de la Mina
 ITEM_20150317_003835	Una misteriosa brújula que te guíara en la reparación de los purificadores.
-ITEM_20150317_003836	Purifier Cooling Parts 
-ITEM_20150317_003837	1F Entrance Purifier Parts 
-ITEM_20150317_003838	Purifier Operating Parts
-ITEM_20150317_003839	Purifier Pipe Parts
-ITEM_20150317_003840	1F Central Purifier Parts 
-ITEM_20150317_003841	Passage Purifier Parts
-ITEM_20150317_003842	1F Passage Purifier Parts 
-ITEM_20150317_003843	Selection Item 
-ITEM_20150317_003844	An item that shows you possible choices. 
-ITEM_20150317_003845	Mine Lubricant
-ITEM_20150317_003846	Lubricant for machineries in the mine 
-ITEM_20150317_003847	Torn-out Purifier Pipe 
-ITEM_20150317_003848	A part of Crystal Mine 2F's Main Purifier that was broken by monsters. 
-ITEM_20150317_003849	Main Purifier Parts 
-ITEM_20150317_003850	Parts of Crystal Mine 2F's Main Purifier that was broken by the Stone Whale. 
-ITEM_20150317_003851	Gaudeji Altar's Magic Piece
-ITEM_20150317_003852	Masterpiece Mead 
-ITEM_20150317_003853	Honey liqueur that shows the craftsmanship of the brewer. 
-ITEM_20150317_003854	Absorption Scroll 
-ITEM_20150317_003855	A magic scroll that can absorb weak Petrifying Frost. 
-ITEM_20150317_003856	Petrified Flower 
-ITEM_20150317_003857	A flower turned to stone by being exposed to the Petrifying Frost at the Square of Lament in the Petrifed City. Said to be sold at extravagant prices elsewhere.
-ITEM_20150317_003858	Lesser Ice Wall Scroll 
-ITEM_20150317_003859	Casts Ice Wall when used. 
-ITEM_20150317_003860	Sparkling Stone 
-ITEM_20150317_003861	Inside it might contain a Silk Token! 
-ITEM_20150317_003862	Stolen Supplies 
-ITEM_20150317_003863	Military supplies stolen from the Royal Army's guards by Dico Doguldan. 
-ITEM_20150317_003864	Petrified Cargo Rubbings 
-ITEM_20150317_003865	Rubbing of the petrified book on Ruklys Street 
-ITEM_20150317_003866	Knight Supplies 
-ITEM_20150317_003867	Supplies Officer Hans gave you, requesting you to remove the smell of monsters. 
-ITEM_20150317_003868	Smelly Supplies 
-ITEM_20150317_003869	Supply covered with monster's odor. It smells terrible. 
-ITEM_20150317_003870	Lime Powder 
-ITEM_20150317_003871	Lime powder for repairing the Guard Tower 
-ITEM_20150317_003872	High-Density Time Bomb 
-ITEM_20150317_003873	A powerful bomb can cause a big disturbance 
-ITEM_20150317_003874	Kneaded Slime 
-ITEM_20150317_003875	A sticky liquid that can attach even heavy items to anything. 
-ITEM_20150317_003876	A dangerous bomb that will explode soon after being thrown. 
-ITEM_20150317_003877	Boulder Explosives 
-ITEM_20150317_003878	Bomb with a high power output. It is extremely loud. 
-ITEM_20150317_003879	Central Propaganda 
-ITEM_20150317_003880	Advertisement fliers distributed by the Royal Army 
-ITEM_20150317_003881	Frosty Core 
-ITEM_20150317_003882	Research on the Petrifying Frost requested by the Knights of Kaliss.
-ITEM_20150317_003883	Recruitment Notice 
-ITEM_20150317_003884	A lengthy advertisement noting the Kingdom's honor and pride 
-ITEM_20150317_003885	Priest's Research 
-ITEM_20150317_003886	Research collected by the Priest 
-ITEM_20150317_003887	Dumaro's Hind Leg 
-ITEM_20150317_003888	The part of a Dumaro that has the most meat 
-ITEM_20150317_003889	Leather Front Plate 
-ITEM_20150317_003890	Formine Armor parts
-ITEM_20150317_003891	Leafy Shoulder 
-ITEM_20150317_003892	Leather Back Plate 
-ITEM_20150317_003893	Leather Chest Protector 
-ITEM_20150317_003894	Strong Roots 
-ITEM_20150317_003895	Strong Roots of a Large Red Kepa 
-ITEM_20150317_003896	Kepa Teeth 
-ITEM_20150317_003897	Red Kepa Teeth 
-ITEM_20150317_003898	Jukopus Leather 
-ITEM_20150317_003899	Jukopus of Leather 
-ITEM_20150317_003900	Vubbe Thief Leather 
-ITEM_20150317_003901	Leather of Vubbe Thief   
-ITEM_20150317_003902	Key Obtenido de Yonazolem. Seems to fit a treasure chest of some sort. 
-ITEM_20150317_003903	Moss 
-ITEM_20150317_003904	Moss that has attached to the back of the monster. It is dirty but dry. 
-ITEM_20150317_003905	Scripture 
-ITEM_20150317_003906	A scripture that anyone calling themselves a pilgrim of the Great Cathedral would carry with them. 
-ITEM_20150317_003907	Test Soul Reagent 
-ITEM_20150317_003908	Reagent for soul testing that Graschius gave you. The key is to secretly spray it without drawing the monster's attention. 
-ITEM_20150317_003909	Cold Monster Fluid
-ITEM_20150317_003910	Cold fluid that can be Obtenido de monsters on rare occasions.
-ITEM_20150317_003911	Theophilis' Bag
-ITEM_20150317_003912	A bag with Theophilis' tools in it.
-ITEM_20150317_003913	Portrait Fragment
-ITEM_20150317_003914	A piece of paper swallowed by a monster. It looks like someone's portrait. 
-ITEM_20150317_003915	Empty Frame
-ITEM_20150317_003916	Soldier's Memento
-ITEM_20150317_003917	The relics of soldiers who died protecting the Miners' Village. 
-ITEM_20150317_003918	Miners' Village Food 
-ITEM_20150317_003919	Food that the Vubbes plundered in the Miners' Village. Some of it has been eaten. 
-ITEM_20150317_003920	Wooden boards to be used to craft a Wooden Buckler.
-ITEM_20150317_003921	Shield parts needed to convince the Peltasta to join your side. 
-ITEM_20150317_003922	Priest's Research Notes
-ITEM_20150317_003923	Scriptural Relic 
-ITEM_20150317_003924	Orb of Divine Detection 
-ITEM_20150317_003925	Sample
-ITEM_20150317_003926	Great Cathedral Goods 
-ITEM_20150317_003927	Priest's Experiments Results
-ITEM_20150317_003928	Graceful Relic 
-ITEM_20150323_003929	Sandwich Bread 
-ITEM_20150323_003930	Sandwich Cheese 
-ITEM_20150323_003931	Sandwich Meat 
-ITEM_20150323_003932	Spoon 
-ITEM_20150323_003933	Salad 
-ITEM_20150323_003934	Salad Set 
-ITEM_20150323_003935	Soup Set 
-ITEM_20150323_003936	Sandwich 
-ITEM_20150323_003937	Soup 
-ITEM_20150323_003938	Can be Obtenido de Colimencia of the Kobalt Forest quest. 
-ITEM_20150323_003939	Can be Obtenido de Merge of the Septyni Valley quest. 
-ITEM_20150323_003940	An ingredient to make the Saphie Necklace. Can be Obtenido de Rikaus in Sirdgela Forest. 
-ITEM_20150323_003941	An ingredient to make the Saphie Necklace. Can be Obtenido de Bramble in Kvailas Forest. 
-ITEM_20150323_003942	Can be Obtenido de Yonazolem in Ramstis Ridge. 
-ITEM_20150323_003943	Can be Obtenido de Escorpión in Akmens Ridge. 
-ITEM_20150323_003944	Can be Obtenido de Unicornio in Escanciu Village. 
-ITEM_20150323_003945	Can be Obtenido de Reaverpede in Escanciu Village. 
-ITEM_20150323_003946	Can be Obtenido de Devilglove in the Fedimian Suburbs. 
-ITEM_20150323_003947	Can be Obtenido de Moa in the Fedimian Suburbs. 
-ITEM_20150323_003948	An empty flask capable of holding liquids. Sold by the Alchemist Master. 
-ITEM_20150323_003949	Calcite 
-ITEM_20150323_003950	A catalyst that promotes magical reactions. Frequently used by Alchemists. 
-ITEM_20150323_003951	Repair Kit 
-ITEM_20150323_003952	Contains tools to repair weapons. Sold by the Squire Master. 
-ITEM_20150323_003953	Glizardon Leather 
-ITEM_20150323_003954	Galok Canine 
-ITEM_20150323_003955	Black Egnome Powder 
-ITEM_20150323_003956	Tough Glizardon Leather 
-ITEM_20150323_003957	Galok Fur 
-ITEM_20150323_003958	Material required for the Maestre Zapador's expermients. It burns easily. 
-ITEM_20150323_003959	Hogma Chamán's Canine 
-ITEM_20150323_003960	Hogma Warden's Canine  
-ITEM_20150323_003961	A crystal needed to release the seals in Ramstis Ridge 
-ITEM_20150323_003962	Pawndel Soul Crystal 
-ITEM_20150323_003963	Pawnd Mind Crystal 
-ITEM_20150323_003964	A map that shows all of Sirdgela Forest. There are marks interspersed across the map. 
-ITEM_20150323_003965	Hogma Chamán's Blood 
-ITEM_20150323_003966	Material requested by Elementalist Master to prove your qualification 
-ITEM_20150323_003967	Hogma Warden's Blood 
-ITEM_20150323_003968	Hogma Battle Boss' Blood 
-ITEM_20150323_003969	Paralysis powder that can stun the Maíz Negro in the Vieta Gorge 
-ITEM_20150323_003970	Whistling Wood 
-ITEM_20150323_003971	Pescador's Fishing Rod 
-ITEM_20150323_003972	A fishing rod made from a Pescador's prized wood, from which you can hear a whistling sound. Check it out by breaking it open. 
-ITEM_20150323_003973	Blue Pawndel Bones 
-ITEM_20150323_003974	Black Pawnd's Entrails 
-ITEM_20150323_003975	Report recording the strange phenomena in Paupys Crossing 
-ITEM_20150323_003976	Giant canine Obtenido de the Minotaurus of Roxona Marketplace 
-ITEM_20150323_003977	Well-Burnable Firestone 
-ITEM_20150323_003978	A stone that the Maestre Flechero requested in exchange for his teaching. 
-ITEM_20150323_003979	Netherbovine's Sharp Fangs
-ITEM_20150323_003980	A canine that the Maestre Monje requested as proof of your commitment. 
-ITEM_20150323_003981	Monster's toenail that can only be found from the petrified city of Verkti Square. 
-ITEM_20150323_003982	The goods stolen by the Dico Thieves in the petrified city of Verkti Square. In order to make these like the Verkti Square goods, they have been exposed to the Petrifying Frost. 
-ITEM_20150323_003983	A water bottle engraved with a password to find the Grave Robber Benjaminas hidden among the guards of the petrified city of Verkti Square. 
-ITEM_20150323_003984	A fragrant stone powder Obtenido de monsters in the petrified city of Verkti Square. 
-ITEM_20150323_003985	Chunk of Monster Meat
-ITEM_20150323_003986	Young Leaf 
-ITEM_20150323_003987	Tender leaves of wild herbs commonly seen on Starving Demon's Way. They are edible, but do not seem to be appetizing for humans.
-ITEM_20150323_003988	Tree Root Crystal Core 
-ITEM_20150323_003989	A reagent used to identify the monsters that killed pilgrims on Altar Way.
-ITEM_20150323_003990	A map that shows all the sanctums of Purple Tree Fault Forest. Right-click to open the map.{nl}Please return it to the recovery box for the next pilgrim passing through the Forest of Prayer.{nl}Location of the recovery box: On the corner to Apsimesti Crossroads.
-ITEM_20150323_003991	Holy water gained from the Maestre Sacerdote to purify the corrupted sanctum in the Forest of Prayer. 
-ITEM_20150323_003992	Plaster powder used to repair the broken Goddess Statue in the Forest of Prayer. 
-ITEM_20150323_003993	Water from a small stream flowing in the Forest of Prayer.
-ITEM_20150323_003994	Reed flower cut from reeds in the Forest of Prayer. 
-ITEM_20150323_003995	Reed Sap Crystal 
-ITEM_20150323_003996	A crystal that solidified from the sap that the parasitic Tree Ambulo sucked out of reeds. 
-ITEM_20150323_003997	Small Portrait 
-ITEM_20150323_003998	Mother's Handkerchief 
-ITEM_20150323_003999	Sap Obtenido de the cut trees at the Apsimesti Crossroad. 
-ITEM_20150323_004000	Top of the stone carved with the Divine Tree. 
-ITEM_20150323_004001	Middle of the stone carved with the Divine Tree. 
-ITEM_20150323_004002	Bottom of the stone carved with the Divine Tree. 
-ITEM_20150323_004003	Beehive Fragment 
-ITEM_20150323_004004	The first key of Mayburn. It is said that all 5 keys must be gathered to reach the revelation. 
+ITEM_20150317_003836	Piezas del Purificador de Refrigeración
+ITEM_20150317_003837	Piezas del Purificador de la Entrada P1
+ITEM_20150317_003838	Piezas Operativas del Purificador
+ITEM_20150317_003839	Piezas de Tuberia del Purificador
+ITEM_20150317_003840	Piezas del Purificador Central P1
+ITEM_20150317_003841	Piezas del Purificador del Pasaje
+ITEM_20150317_003842	Piezas del Purificador del Pasaje P1
+ITEM_20150317_003843	Objeto Seleccionado
+ITEM_20150317_003844	Un objeto que muestra varias elecciones.
+ITEM_20150317_003845	Lubricante de la Mina
+ITEM_20150317_003846	Lubricante para la maquinaria de la mina.
+ITEM_20150317_003847	Tuberia Arrancada del Purificador
+ITEM_20150317_003848	Una parte del purificador de la 2P de la Mina de Cristal que ha sido arrancada por monstruos.
+ITEM_20150317_003849	Piezas del Purificador Principal
+ITEM_20150317_003850	Una parte del purificador de la 2P de la Mina de Cristal que la Ballena de Piedra ha roto.
+ITEM_20150317_003851	Piedra Mágica del Altar de Gaudeji
+ITEM_20150317_003852	Hidromiel Magistral
+ITEM_20150317_003853	Licor de miel que muestra la artesanía de la cerveceria.
+ITEM_20150317_003854	Pergamino de Absorción
+ITEM_20150317_003855	Un pergamino mágico que puede absorber la petrificación helada débil.
+ITEM_20150317_003856	Flor Petrificada
+ITEM_20150317_003857	Una flor convertida en piedra por ser expuesta a la petrificación helada en la Square of Lament en Petrifed City. Se dice que es vendido a precios extravagantes en otros lugares.
+ITEM_20150317_003858	Pergamino de Muro de Hielo
+ITEM_20150317_003859	Lanza 'muro de hielo' al ser usado.
+ITEM_20150317_003860	Piedra Brillante
+ITEM_20150317_003861	¡Dentro puede tener una insignia de seda!
+ITEM_20150317_003862	Suministros Robados
+ITEM_20150317_003863	Suministros militares robados de los guardias del ejercito real por Dico Doguldan.
+ITEM_20150317_003864	Cargamento de Calcos Petrificados
+ITEM_20150317_003865	Calco del libro petrificado en Ruklys Street.
+ITEM_20150317_003866	Suministros de Caballero
+ITEM_20150317_003867	Suministros que el oficial Hans te dio, solicitando que eliminar el olor de los monstruos.
+ITEM_20150317_003868	Suminsitros Malolientes
+ITEM_20150317_003869	Suministros cubiertos con el hedor de mosntruos. Apesta.
+ITEM_20150317_003870	Cal en Polvo
+ITEM_20150317_003871	Cal en polvo para reparar la torre de los guardias.
+ITEM_20150317_003872	Bomba de Tiempo de Alta Densidad
+ITEM_20150317_003873	Una bomba de gran potencia puede causar un gran destrozo.
+ITEM_20150317_003874	Légamo Amasado
+ITEM_20150317_003875	Un líquido pegajoso que puede adjuntar elementos pesados a cualquier cosa.
+ITEM_20150317_003876	Una bomba peligrosa que produce una explosión poco después de ser lanzada.
+ITEM_20150317_003877	Explosivos de Roca
+ITEM_20150317_003878	Bomba con un gran poder de salida. Es extramadamente ruidosa.
+ITEM_20150317_003879	Propaganda Central
+ITEM_20150317_003880	Folletos de publicidad distribuidos por el ejercito real.
+ITEM_20150317_003881	Núcleo Helado
+ITEM_20150317_003882	Investigación en la petrificación helada solicitada por los caballeros de Kaliss.
+ITEM_20150317_003883	Anuncio de Reclutamiento
+ITEM_20150317_003884	Un extenso anuncio indicando el orgullo y honor del reino.
+ITEM_20150317_003885	Investigación de Sacerdote
+ITEM_20150317_003886	Investigación recogida por sacerdotes.
+ITEM_20150317_003887	Pata Trasera de Dumaro
+ITEM_20150317_003888	La parte de Dumaro que tiene mas carne.
+ITEM_20150317_003889	Cuero Frontal de Placas
+ITEM_20150317_003890	Piezas de Armadura Formina
+ITEM_20150317_003891	Hombrera Frondosa
+ITEM_20150317_003892	Cuero Trasero de Placas
+ITEM_20150317_003893	Cuero Protector de Pecho
+ITEM_20150317_003894	Raices Fuertes
+ITEM_20150317_003895	Raices Fuertes de un Gran Kepa Rojo
+ITEM_20150317_003896	Diente de Kepa
+ITEM_20150317_003897	Diente de Kepa Rojo
+ITEM_20150317_003898	Cuero de Jukopus
+ITEM_20150317_003899	Cuero de los Jukopus
+ITEM_20150317_003900	Cuero de Ladrón Vubbe
+ITEM_20150317_003901	Cuero de los Ladrón Vubbe
+ITEM_20150317_003902	Llave obtenida de Yonazolem. Seems to fit a treasure chest of some sort.
+ITEM_20150317_003903	Musgo
+ITEM_20150317_003904	Musgo que se ha unido a la parte posterior de un monstruo. Es sucio, pero seco.
+ITEM_20150317_003905	Escritura
+ITEM_20150317_003906	Una escritura que todo aquel que se llame a si mismo peregrino de la Gran Catedral deberia llevar.
+ITEM_20150317_003907	Reactivo de Pruebas para Almas
+ITEM_20150317_003908	Reactivo para probar en las almas que Graschius te dio. La clave es rociarlo en el monstruo sin que se de cuenta.
+ITEM_20150317_003909	Fluido Frio de Monstruo
+ITEM_20150317_003910	Un fluido frui que puede ser obtenido de monstruos en raras ocasiones.
+ITEM_20150317_003911	Bolsa de Theophilis
+ITEM_20150317_003912	Una bolsa con las herramientas de Theophilis.
+ITEM_20150317_003913	Fragmento de Retrado
+ITEM_20150317_003914	Un trozo de papel tragado por un monstruo. Parece el retrato de alguien.
+ITEM_20150317_003915	Marco Vacio
+ITEM_20150317_003916	Recuerdo de Soldado
+ITEM_20150317_003917	Las reliquias de los soldados que murieron protegiendo la Aldea Minera.
+ITEM_20150317_003918	Alimentos de los Mineros de la Aldea
+ITEM_20150317_003919	Los alimentos que los Vubbes saquearon en la Aldea Minera. Se comieron algunos.
+ITEM_20150317_003920	Tablas de madera para crear una Rodela de Madera.
+ITEM_20150317_003921	Partes de escudo necesarias para convencer a los Peltasta para unirse a tu lado.
+ITEM_20150317_003922	Notas de Investigación de Sacerdote
+ITEM_20150317_003923	Reliquia Biblica
+ITEM_20150317_003924	Orbé de la Detección Divina
+ITEM_20150317_003925	Muestra
+ITEM_20150317_003926	Bienes de la Gran Catedral
+ITEM_20150317_003927	Resultados de los Experimentos de Sacerdorte
+ITEM_20150317_003928	Reliquia Agraciada
+ITEM_20150323_003929	Pan de Molde
+ITEM_20150323_003930	Sandwich de Queso
+ITEM_20150323_003931	Sandwich de Carne
+ITEM_20150323_003932	Cuchara
+ITEM_20150323_003933	Ensalada
+ITEM_20150323_003934	Set de Ensalada
+ITEM_20150323_003935	Set de Sopa
+ITEM_20150323_003936	Sandwich
+ITEM_20150323_003937	Sopa
+ITEM_20150323_003938	Puede ser obtenido de Colimencia en la misión de Kobalt Forest.
+ITEM_20150323_003939	Puede ser obtenido de Merge en la misión de Septyni Valley.
+ITEM_20150323_003940	Un ingrediente para crear el collar de Saphie. Puede ser obtenido de Rikaus en Sirdgela Forest.
+ITEM_20150323_003941	Un ingrediente para crear el collar de Saphie. Puede ser obtenido de Bramble en Kvailas Forest.
+ITEM_20150323_003942	Puede ser obtenido de Yonazolem en Ramstis Ridge.
+ITEM_20150323_003943	Puede ser obtenido de Escorpión en Akmens Ridge.
+ITEM_20150323_003944	Puede ser obtenido de Unicornio en Escanciu Village.
+ITEM_20150323_003945	Puede ser obtenido de Reaverpede en Escanciu Village.
+ITEM_20150323_003946	Puede ser obtenido de Devilglove en los Fedimian Suburbs.
+ITEM_20150323_003947	Puede ser obtenido de Moa en los Fedimian Suburbs.
+ITEM_20150323_003948	Un frasco vacio capaz de contener liquidos. Vendido por el Maestre Alquimista.
+ITEM_20150323_003949	Calcita
+ITEM_20150323_003950	Un catalizador que crea reacciones mágicas. Frecuentemente usado por Alquimistas.
+ITEM_20150323_003951	Kit de Reparación
+ITEM_20150323_003952	Contiene herramientas para reparar armas. Vendido por el Maestre Escudero.
+ITEM_20150323_003953	Cuero de Glizardon
+ITEM_20150323_003954	Canino de Galok
+ITEM_20150323_003955	Polvo de Egnome Negro
+ITEM_20150323_003956	Cuero Resistente de Glizardon
+ITEM_20150323_003957	Pelaje de Galok
+ITEM_20150323_003958	Material requerido por el Maestre Zapador para experimentos. Arde facilmente.
+ITEM_20150323_003959	Canino de Chamán Hogma
+ITEM_20150323_003960	Canino de Guardián Hogma
+ITEM_20150323_003961	Un cristal necesario para liberar el sello de Ramstis Ridge.
+ITEM_20150323_003962	Cristal de Alma de Pawndel
+ITEM_20150323_003963	Cristal Mental de Pawnd
+ITEM_20150323_003964	Un mapa que muestra todo el Sirdgela Forest. Hay marcas intercaladas a través del mapa.
+ITEM_20150323_003965	Sangre de Chamán Hogma
+ITEM_20150323_003966	Material solicitado por el Maestre Elementalista para probar tu calificación.
+ITEM_20150323_003967	Sangre de Guardián Hogma
+ITEM_20150323_003968	Sangre de Jefe de Batalla Hogma
+ITEM_20150323_003969	Polvo de paralisis que puede aturdir al Maíz Negro en Vieta Gorge
+ITEM_20150323_003970	Madera Silbadora
+ITEM_20150323_003971	Caña de Pescador
+ITEM_20150323_003972	Una caña de pescar de madera preciada creada por un Pescador, desde ella se puede oir un silbido. Rómpela y averígualo.
+ITEM_20150323_003973	Huesos de Pawndel Azul
+ITEM_20150323_003974	Entrañas de Pawnd Negro
+ITEM_20150323_003975	Informe que registra los extraños fenomenos en Paupys Crossing
+ITEM_20150323_003976	Canino gigante obtenido de the Minotauro en Roxona Marketplace
+ITEM_20150323_003977	Piedra de Fuego (Quemable)
+ITEM_20150323_003978	Una piedra que el Maestre Flechero solicita a cambio de sus enseñanzas.
+ITEM_20150323_003979	Colmillos Afilados de Netherbovine
+ITEM_20150323_003980	Un canino que el Maestre Monje solicita como prueba de compromiso.
+ITEM_20150323_003981	Uña del pie de Monstruo que solo puede ser encontrada en la petrified city of Verkti Square.
+ITEM_20150323_003982	Los bienes robados por Dico Thieves en petrified city of Verkti Square. Con el fin de hacer como con los bienes de Verkti Square, ser expuestos a la Petrificación Helada.
+ITEM_20150323_003983	Una botella de agua con la contraseña para encontrar al ladrón de tumbas Benjaminas grabada, el se oculta de los guardias de la petrified city of Verkti Square.
+ITEM_20150323_003984	Un polvo de piedra fragante obtenido de monstruos en la petrified city of Verkti Square.
+ITEM_20150323_003985	Trozo de Carne del Monstruo
+ITEM_20150323_003986	Hoja Reciente
+ITEM_20150323_003987	Hojas tiernas de hierbas salvajes que se ven comunmente en Starving Demon's Way. Son comestibles, pero no parecen apetitosas para los humanos.
+ITEM_20150323_003988	Núcleo de Tree Root Crystal
+ITEM_20150323_003989	Un reactivo utilizado para identificar a los monstruos que mataron a los peregrinos en el camino del Altar.
+ITEM_20150323_003990	Un mapa que muestra todos los santuarios del Purple Tree Fault Forest. Click derecho para abrir el mapa.{nl}Por favor devuelvelo a la caja de recuperación para el siguiente peregrino que pase a traves del Forest of Prayer.{nl}Localización de la caja de recuperación: En la esquina de Apsimesti Crossroads.
+ITEM_20150323_003991	Agua bendita ganada del Maestre Sacerdote apra purificar los santuarios corruptos en el Forest of Prayer.
+ITEM_20150323_003992	Polvo de yeso utilizado para restaurar las estatuas de la diosa en el Forest of Prayer.
+ITEM_20150323_003993	Agua de uan pequeña corriente de el Forest of Prayer.
+ITEM_20150323_003994	Caña de flores cortada de las cañas del Forest of Prayer.
+ITEM_20150323_003995	Savia de Caña de Cristal
+ITEM_20150323_003996	Un cristal que esta solidificado por la savia que los parasitos del Tree Ambulo chupan de sus cañas.
+ITEM_20150323_003997	Retrato Pequeño
+ITEM_20150323_003998	Pañuelo de Madre
+ITEM_20150323_003999	Savia obtenida de árboles cortados en Apsimesti Crossroad.
+ITEM_20150323_004000	La parte superior de la piedra tallada con el Árbol Divino.
+ITEM_20150323_004001	La parte central de la piedra tallada con el Árbol Divino.
+ITEM_20150323_004002	La parte inferior de la piedra tallada con el Árbol Divino.
+ITEM_20150323_004003	Fragmento de Colmena
+ITEM_20150323_004004	La primera llave de Mayburn. It is said that all 5 keys must be gathered to reach the revelation. 
 ITEM_20150323_004005	Keepsake of a guard who was petrified by the frost in the petrified city of Roxona Marketplace. 
 ITEM_20150323_004006	Tended Wood
 ITEM_20150323_004007	Farmland Wood 
@@ -4654,7 +4654,7 @@ ITEM_20150414_004653	Obtenido de Infro Holders.
 ITEM_20150414_004654	Venom 
 ITEM_20150414_004655	A bottle of venom that can be used to make a powerful poison. {nl}Purchasable from the Wugushi Master. 
 ITEM_20150414_004656	Camping Tools 
-ITEM_20150414_004657	It contains tools necessary for camping. {nl}Purchasable from the Squire Master. 
+ITEM_20150414_004657	It contains tools necessary for camping. {nl}Purchasable from the Maestre Escudero. 
 ITEM_20150414_004658	Gunpowder 
 ITEM_20150414_004659	A black powder used to make explosives. {nl}Purchasable from the Maestre Flechero. 
 ITEM_20150414_004660	Ashrong Stem 
@@ -5368,7 +5368,7 @@ ITEM_20150714_005367	A liquid extract Obtenido de Craute grass. Monsters like it
 ITEM_20150714_005368	Bone Powder 
 ITEM_20150714_005369	Common bone powder. It can be used to make a sticky liquid that helps ink stick to surfaces. 
 ITEM_20150714_005370	Special Ink 
-ITEM_20150714_005371	Ink Obtenido de the Alchemist Master. 
+ITEM_20150714_005371	Ink Obtenido de the Maestre Alquimista. 
 ITEM_20150714_005372	A rubbing of a tombstone. The thread of fate will break and thou shalt wander. 
 ITEM_20150714_005373	A rubbing of a tombstone. The walls of the king shall outlive him. 
 ITEM_20150714_005374	A rubbing of a tombstone. Life is easy when one is born with a silver spoon in their mouth. 
@@ -5830,7 +5830,7 @@ ITEM_20150717_005829	Bomb
 ITEM_20150717_005830	Bomb crafted to protect the camp from monster's attack.
 ITEM_20150729_005831	While initially unpopular during Medzio Diena, the resurgence of strongly armored monsters is proving its value.
 ITEM_20150729_005832	This widely used weapon was mostly sought after as a decoration or collectible item prior to Medzio Diena.
-ITEM_20150729_005833	In the wake of Medzio Diena, the Winterspoon family disclosed the crafting recipe for this weapon to all alchemists.
+ITEM_20150729_005833	In the wake of Medzio Diena, the Winterspoon family disclosed the crafting recipe for this weapon to all Alquimistas.
 ITEM_20150729_005834	Although some people dismiss this weapon as a "tree cutting axe", its actual user will tell you that Medzio Diena would have resulted in far worse losses without it.
 ITEM_20150729_005835	Used to be given to magicians who enlisted to the army. There is an abundant supply after Medzio Diena. 
 ITEM_20150729_005836	Wizards have been discovering new facts from monsters emerging from Medzio Diena and applying them to various situations.
@@ -6276,7 +6276,7 @@ ITEM_20150918_006275	Incrementa tu velocidad de movimiento en 3 for 245 segundos
 ITEM_20150918_006276	Incrementa tu velocidad de movimiento en 3 for 250 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
 ITEM_20150918_006277	Hogma Tusk
 ITEM_20150918_006278	Skin that is difficult to obtain from intact Varvs. Can be Obtenido de Varvs.
-ITEM_20150918_006279	Smooth stone used for sharpening blades. {nl}Purchasable from the Squire Master.
+ITEM_20150918_006279	Smooth stone used for sharpening blades. {nl}Purchasable from the Maestre Escudero.
 ITEM_20150918_006280	The shell is old and mushy so it can't be eaten.{nl}Can be Obtenido de Old Kepa.
 ITEM_20150918_006281	Can be Obtenido de Pendinmire and Siaulogre.
 ITEM_20150918_006282	Carta Abrasiva Nv1
@@ -6546,7 +6546,7 @@ ITEM_20150918_006545	A special key for finding revelations and hidden places.
 ITEM_20150918_006546	It creates an awakening effect if it is mixed with the Thorn Flower Powder Stimulant.
 ITEM_20150918_006547	It has a better effect than the Thorn Flower Powder.
 ITEM_20150918_006548	It has an awakening effect if mixed with a Merog's spit.
-ITEM_20150918_006549	The materials that Elementalist Master requested to you in order to prove
+ITEM_20150918_006549	The materials that Maestre Elementalista requested to you in order to prove
 ITEM_20150918_006550	A vessel to hold water enchanted with spiritual power.
 ITEM_20150918_006551	An enemy that dies with this charm attached to it is supposed to be under our control but.. It seems kind of shabby.
 ITEM_20150918_006552	A jar filled with the magic energy that flows through the Mausoleo Real.
@@ -7769,7 +7769,7 @@ ITEM_20151022_007768	Orbe Azul: Red Infro Hoglan
 ITEM_20151022_007769	Orbe Azul: Red Infro Blood
 ITEM_20151022_007770	Orbe Azul: Burialer
 ITEM_20151022_007771	Orbe Azul: Black Pawnd
-ITEM_20151022_007772	Orbe Azul: Blue Pawndel
+ITEM_20151022_007772	Orbe Azul: Pawndel Azul
 ITEM_20151022_007773	Orbe Azul: Darkness Maiden
 ITEM_20151022_007774	Orbe Azul: Orange Lizardman
 ITEM_20151022_007775	Orbe Azul: Orange Tama
@@ -8147,7 +8147,7 @@ ITEM_20151022_008146	Orbe Roja: Red Infro Hoglan
 ITEM_20151022_008147	Orbe Roja: Red Infro Blood
 ITEM_20151022_008148	Orbe Roja: Burialer
 ITEM_20151022_008149	Orbe Roja: Black Pawnd
-ITEM_20151022_008150	Orbe Roja: Blue Pawndel
+ITEM_20151022_008150	Orbe Roja: Pawndel Azul
 ITEM_20151022_008151	Orbe Roja: Darkness Maiden
 ITEM_20151022_008152	Orbe Roja: Orange Lizardman
 ITEM_20151022_008153	Orbe Roja: Orange Tama
@@ -10403,7 +10403,7 @@ ITEM_20160323_010402	Parte Central de un Cayado
 ITEM_20160323_010403	Una pieza que parece pertenecer a la parte central de un cayado roto.
 ITEM_20160323_010404	Parte Inferior de un Cayado
 ITEM_20160323_010405	Una pieza que parece pertenecer a la parte inferior de un cayado roto.
-ITEM_20160323_010406	Viejo Cayado
+ITEM_20160323_010406	Cayado Viejo
 ITEM_20160323_010407	Restaurado a partir de un cayado roto.
 ITEM_20160425_010408	{s14}Traje floral de primavera del Guerrero (Chico)
 ITEM_20160425_010409	{s14}Vestido floral de primavera de Guerrera (Chica)
