@@ -170,7 +170,6 @@ etc.
 
 [ ETC ]
 
-Dunkel --> Misterioso
 Crude --> Vulgar
 DeathWeaver --> Tejedora Letal
 
