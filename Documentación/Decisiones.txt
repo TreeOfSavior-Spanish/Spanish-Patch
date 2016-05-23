@@ -134,6 +134,7 @@ Crossbow --> Ballesta
 Blunt --> Maza
 Two Handed Blunt --> Maza de dos manos
 Shield --> Escudo
+Buckler --> Rodela
 Top --> Pecho
 Botton --> Pantalón
 Gloves --> Guantes
