@@ -18,6 +18,7 @@
 - Fighter -> Luchador
 - Aggro -> Odio
 - Item/s -> Objeto/s
+- Field -> Región
 - Master -> Maestre (Por ser neutral)
 
 [ Estadistícas ]
