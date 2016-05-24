@@ -1163,7 +1163,7 @@ ETC_20150317_001162	Tenet Church B1
 ETC_20150317_001163	Tenet Church
 ETC_20150317_001164	Tenet Church 1P
 ETC_20150317_001165	Tenet Church 2P
-ETC_20150317_001166	Grassy Rivera
+ETC_20150317_001166	Rivera Frondosa
 ETC_20150317_001167	Siete Valles
 ETC_20150317_001168	Rhombuspaving Dale
 ETC_20150317_001169	Seventune Mesa
@@ -1215,7 +1215,7 @@ ETC_20150317_001214	Torre del Mago 3P
 ETC_20150317_001215	Torre del Mago 4P
 ETC_20150317_001216	Torre del Mago 5P
 ETC_20150317_001217	Romuva Santuario
-ETC_20150317_001218	Ruta del Demonio Hambriento
+ETC_20150317_001218	Vía del Demonio Hambriento
 ETC_20150317_001219	Camino del Peregrino
 ETC_20150317_001220	Rayfallen Land
 ETC_20150317_001221	Bosque Fallido de Árboles Morados
@@ -1648,7 +1648,7 @@ ETC_20150317_001647	{S20}{ol}{#ff1100} Este atributo no puede ser comprado.
 ETC_20150317_001648	No puedes equiparte objetos con 0 durabilidad.
 ETC_20150317_001649	Borrar
 ETC_20150317_001650	Desconectado del servidor. Por favor intenta más tarde.
-ETC_20150317_001651	{Year}/{Month}/{day} - {Hour} horas {Min} minutos {Sec} segundos
+ETC_20150317_001651	{Year}/{Month}/{Day} - {Hour} horas {Min} minutos {Sec} segundos
 ETC_20150317_001652	Leer más
 ETC_20150317_001653	No puedes cambiar tu equipo sin antes recojer el item lanzado.
 ETC_20150317_001654	{Month} {Day}
@@ -1814,7 +1814,7 @@ ETC_20150317_001813	CON
 ETC_20150317_001814	Mordisco
 ETC_20150317_001815	El Raleigh
 ETC_20150317_001816	Fouling
-ETC_20150317_001817	¿Quieres aumentar {Stat} por {Silver} plata?
+ETC_20150317_001817	¿Quieres aumentar {Stat} por Silver plata?
 ETC_20150317_001818	Probabilidad de Golpear
 ETC_20150317_001819	Crítico
 ETC_20150317_001820	DES
@@ -1952,7 +1952,7 @@ ETC_20150317_001951	{@st41}Recompensa Perdida {/}
 ETC_20150317_001952	Apertura
 ETC_20150317_001953	There is no reward list of the cofre del tesoro.
 ETC_20150317_001954	The reward setting is incorrect.
-ETC_20150317_001955	¡Destruir raíces cristal del árbol puede ayudarte a recuperar PM!
+ETC_20150317_001955	¡Destruir raíces cristal del árbol puede ayudarte a recuperar Resistencia!
 ETC_20150317_001956	Clase
 ETC_20150317_001957	{@st41b} Titulo {/}
 ETC_20150317_001958	{@St41b} {Auto_1} Puntuación de Logro: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
@@ -2052,7 +2052,7 @@ ETC_20150317_002051	[No Disponible]
 ETC_20150317_002052	[Disponible]
 ETC_20150317_002053	[En Progreso]
 ETC_20150317_002054	[Incompleta]
-ETC_20150317_002055	[Completa]
+ETC_20150317_002055	[Completar]
 ETC_20150317_002056	Repetible
 ETC_20150317_002057	Recolectar Esencia de Madera
 ETC_20150317_002058	Ofreciendo sangre de Maíz de Ojos Negros al altar
@@ -2525,11 +2525,11 @@ ETC_20150317_002524	Información del Purificador de Pasillo en el 1er Piso
 ETC_20150317_002525	Información del Purificador Auxiliar en el 2do Piso
 ETC_20150317_002526	Has derrotado a Bearkaras. {nl} Encontraste partes útiles en el purificador de repuesto.
 ETC_20150317_002527	Información del Purificador Principal en el 2do Piso
-ETC_20150317_002528	El compás no responde
+ETC_20150317_002528	El Brújula no responde
 ETC_20150317_002529	Este purifcador funciona bien.
 ETC_20150317_002530	Puedes escuchar el sonido de maquinas a traves. {nl}Pueden haber lubricantes en el Distrito 5.
 ETC_20150317_002531	El sonido de la maquinaria se vuelve más claro. {nl} Pueden haber lubricantes en el Distrito 5.
-ETC_20150317_002532	Revisando Compás
+ETC_20150317_002532	Revisando Brújula
 ETC_20150317_002533	Has encontrado Lubricante. {nl} Regresa y repara el Dispositivo Suplidor de Magia.
 ETC_20150317_002534	Todos los purificadores se encuentran funcionando. {nl} Reactiva la circulación de purificadores.
 ETC_20150317_002535	Has encontrado todas las partes necesarias para las reparaciones. {nl} Regresa al purificador principal y arreglalo.
@@ -2693,7 +2693,7 @@ ETC_20150317_002692	{PC} ha ganado {ItemName} de la subasta.
 ETC_20150317_002693	No puedes pujar más que el precio de venta fijado.
 ETC_20150317_002694	¿Confirmar compra?
 ETC_20150317_002695	¿Quienes adoptar este Compañero?
-ETC_20150317_002696	Vendedor
+ETC_20150317_002696	Mercader
 ETC_20150317_002697	Cantidad
 ETC_20150317_002698	Precio unitario
 ETC_20150317_002699	Precio total
@@ -2782,7 +2782,7 @@ ETC_20150317_002781	Resistencia a Elemento Veneno
 ETC_20150317_002782	Resistencia a Elemento Eléctrico
 ETC_20150317_002783	Resistencia a Elemento Sagrado
 ETC_20150317_002784	Resistencia a Elemento Oscuridad
-ETC_20150317_002785	Amplitud de Ataque de Área
+ETC_20150317_002785	Amplitud de Área
 ETC_20150317_002786	Defensa contra Ataques de Área
 ETC_20150317_002787	2% probabilidad de obtener +300 de daño adicional al atacar
 ETC_20150317_002788	3% probabilidad de recibir 20% de daño continuo igual al 20% PS cuando golpeas
@@ -3604,7 +3604,7 @@ ETC_20150317_003603	Aumentar Probabilidad de Crítico
 ETC_20150317_003604	Aumentar Ataque
 ETC_20150317_003605	Aumentar Defensa
 ETC_20150317_003606	Ataque ha aumentado significativamente
-ETC_20150317_003607	No has registrado Insta-Tienda{nl}Debes registrar la Insta-Tienda desde el PNJ Vendedor de Objetos
+ETC_20150317_003607	No has registrado Insta-Tienda{nl}Debes registrar la Insta-Tienda desde el PNJ Mercader de Objetos
 ETC_20150317_003608	Insta-Tienda (O)
 ETC_20150317_003609	de inmediato.
 ETC_20150317_003610	Session destruction
@@ -3878,7 +3878,7 @@ ETC_20150317_003877	Has completado una misión de clan. Regresa para recibir una
 ETC_20150317_003878	Luego de derrotar un monstruo, muevete alrededor para obtener objetos automaticamente
 ETC_20150317_003879	{Auto_1} Jugadores
 ETC_20150317_003880	Yo
-ETC_20150317_003881	Carro de {Auto_1}
+ETC_20150317_003881	Teleferico de {Auto_1}
 ETC_20150317_003882	La entrada a la mazmorra está abierta
 ETC_20150317_003883	: BT no disponible
 ETC_20150317_003884	Por favor intenta nuevamente más tarde.
@@ -5069,7 +5069,7 @@ ETC_20150317_005068	Azúl Marino
 ETC_20150317_005069	¡Tu-Tutu...! ¡¡¡¡Ayudenme!!!
 ETC_20150317_005070	¡Derrota a Unknocker!
 ETC_20150317_005071	Barrera Central
-ETC_20150317_005072	Obserar cuidadosamente...
+ETC_20150317_005072	Observar cuidadosamente...
 ETC_20150317_005073	¡Derrota al Cíclope y encuentra a sus secuaces!
 ETC_20150317_005074	¿Dónde está Gesti?
 ETC_20150317_005075	De dejaré este lugar a ti
@@ -5275,7 +5275,7 @@ ETC_20150317_005274	Raptorpedo atacó por sorpresa{nl}¡Derrota al Raptorpedo!
 ETC_20150317_005275	Señal
 ETC_20150317_005276	¡Mira allá! Me estaré escondiendo detrás.
 ETC_20150317_005277	Artefacto del Mausoleo Real
-ETC_20150317_005278	¡Protege al Archivero Jonas de los monstruos hasta que se le pase su dolor de cabeza!
+ETC_20150317_005278	¡Protege al Archivista Jonas de los monstruos hasta que se le pase su dolor de cabeza!
 ETC_20150317_005279	¡Es Molich! ¡Corran!
 ETC_20150317_005280	¡Han aparecido monstruos mientras tratabas de abrir el sello!{nl}¡Debes mantenerte con vida hasta que acabe el tiempo!
 ETC_20150317_005281	Primer Sello del Santuario
@@ -5632,7 +5632,7 @@ ETC_20150317_005631	Romuva
 ETC_20150317_005632	¡Inflinge un 20% de daño adicional contra demonios!
 ETC_20150317_005633	Corrupción de Energía Maligna
 ETC_20150317_005634	¡Este monstruo ha sido corrompido por la Energía Malgina!
-ETC_20150317_005635	Buff de Grupo - Escalones Desperdigados
+ETC_20150317_005635	Buff de Grupo - Escalera Diseminada
 ETC_20150317_005636	Aumenta Ataque en 150
 ETC_20150317_005637	Buff de Grupo - Bosque simple de Caobas
 ETC_20150317_005638	Aumenta Defensa en 100
@@ -6145,8 +6145,8 @@ ETC_20150317_006145	Presiona {img SPACE 40 40} frente a las cajas de suministros
 ETC_20150317_006146	Compañero
 ETC_20150317_006147	Compañeros
 ETC_20150317_006148	Adopta y entrena Compañeros para ayudarte en combate y transportarte.
-ETC_20150317_006149	Los Compañeros pueden ser adoptados de los Vendedores de Compañeros en ciudades y pueblos.
-ETC_20150317_006150	Los Vendedores de Compañeros te ayudan a entrenar a tu Compañero y venden objetos para ellos. {nl}Sólo puedes usar 1 Compañero a la vez.{nl}{nl}
+ETC_20150317_006149	Los Compañeros pueden ser adoptados de los Mercaderes de Compañeros en ciudades y pueblos.
+ETC_20150317_006150	Los Mercaderes de Compañeros te ayudan a entrenar a tu Compañero y venden objetos para ellos. {nl}Sólo puedes usar 1 Compañero a la vez.{nl}{nl}
 ETC_20150317_006151	Puedes adoptar un Compañero enseguida si puedes pagarlo.
 ETC_20150317_006152	Puedes nombrar a los Compañeros que adoptes.{nl} {nl}
 ETC_20150317_006153	Puedes montar tu Compañero o hacer que te siga.
@@ -6159,10 +6159,10 @@ ETC_20150317_006159	 para hacer que te siga nuevamente.{nl}{nl}
 ETC_20150317_006160	Puedes
 ETC_20150317_006161	Entrenar
 ETC_20150317_006162	tus Compañeros para mejorar sus Habilidades.
-ETC_20150317_006163	El Vendedor de Compañeros ofrece.
+ETC_20150317_006163	El Mercader de Compañeros ofrece.
 ETC_20150317_006164	Las características de tu Compañero pueden ser mejoradas usando esta función{nl}{nl}
 ETC_20150317_006165	Se le puede dar Comida Especial a tu Compañero cuando se le acaba su resistencia.
-ETC_20150317_006166	La Comida Especial para tu Compañero puede ser comprada con el Vendedor de Compañeros.
+ETC_20150317_006166	La Comida Especial para tu Compañero puede ser comprada con el Mercader de Compañeros.
 ETC_20150317_006167	Mazmorras
 ETC_20150317_006168	Las Mazmorras son muy peligrosas pero tienen recompensas especiales esperando por ti.
 ETC_20150317_006169	Los monstruos encontrados en una Mazmorra te atacarán en tanto te vean.{nl}¡Reúne a otros jugadores para formar un Grupo y afrontar el desafío!
@@ -6914,8 +6914,8 @@ ETC_20150317_006914	Torre de la Tierra Flask
 ETC_20150317_006915	Torre de la Tierra Draco Negro
 ETC_20150317_006916	Torre de la Tierra Dimmer
 ETC_20150317_006917	Torre de la Tierra Black Cháman Doll
-ETC_20150317_006918	Vendedor de Objetos Emilia
-ETC_20150317_006919	Vendedor de Objetos
+ETC_20150317_006918	Mercader de Objetos Emilia
+ETC_20150317_006919	Mercader de Objetos
 ETC_20150317_006920	Explorador del Bosque Este
 ETC_20150317_006921	Líder de las Tropas de Guardia
 ETC_20150317_006922	Explorador del Bosque Oeste
@@ -6928,11 +6928,11 @@ ETC_20150317_006928	Oficial de los Caballeros Crux (Chica)
 ETC_20150317_006929	General de la Milicia Laudrup
 ETC_20150317_006930	Holger Danske
 ETC_20150317_006931	Posadera Genora
-ETC_20150317_006932	Vendedor de armas Akalabeth
-ETC_20150317_006933	Vendedor de armas
+ETC_20150317_006932	Mercader de armas Akalabeth
+ETC_20150317_006933	Mercader de armas
 ETC_20150317_006934	Caballero Felix
-ETC_20150317_006935	Vendedor de armaduras Alfonso
-ETC_20150317_006936	Vendedor de armaduras
+ETC_20150317_006935	Mercader de armaduras Alfonso
+ETC_20150317_006936	Mercader de armaduras
 ETC_20150317_006937	Valdemar
 ETC_20150317_006938	Ministro de finanzas del reino Hippoltus
 ETC_20150317_006939	Krimhilt
@@ -6949,15 +6949,15 @@ ETC_20150317_006949	Madam
 ETC_20150317_006950	Vanessa
 ETC_20150317_006951	Traje de Aldeano (Chico)
 ETC_20150317_006952	Traje de Aldeano (Chica)
-ETC_20150317_006953	Vendedor 2 Sit
-ETC_20150317_006954	Vendedor 1
-ETC_20150317_006955	Vendedor 2
+ETC_20150317_006953	Mercader 2 Sit
+ETC_20150317_006954	Mercader 1
+ETC_20150317_006955	Mercader 2
 ETC_20150317_006956	Comandante del centro (Chico)
 ETC_20150317_006957	Comandante del centro (Chica)
 ETC_20150317_006958	Comandante menor
 ETC_20150317_006959	Minero Veterano 
 ETC_20150317_006960	Alquimista de la Aldea Minera
-ETC_20150317_006961	Vendedor de Equipo
+ETC_20150317_006961	Mercader de Equipo
 ETC_20150317_006962	Anciana
 ETC_20150317_006963	Aldeana Anciana
 ETC_20150317_006964	Hombre de la Aldea 1
@@ -7002,10 +7002,10 @@ ETC_20150317_007002	Asistente del Martillero
 ETC_20150317_007003	Soldado Talando
 ETC_20150317_007004	Señora de mediana edad de la ciudad
 ETC_20150317_007005	Herrero de la ciudad
-ETC_20150317_007006	Vendedor de Equipo de la ciudad
-ETC_20150317_007007	Vendedor de Objetos de la ciudad
+ETC_20150317_007006	Mercader de Equipo de la ciudad
+ETC_20150317_007007	Mercader de Objetos de la ciudad
 ETC_20150317_007008	Señor de mediana edad de la ciudad
-ETC_20150317_007009	Vendedor de Objetos 1
+ETC_20150317_007009	Mercader de Objetos 1
 ETC_20150317_007010	Cazador Maestro(requiere intercambio de info)
 ETC_20150317_007011	Escritorio
 ETC_20150317_007012	Piedra rodante
@@ -7148,7 +7148,7 @@ ETC_20150317_007148	Mini Asiento de la Catedral
 ETC_20150317_007149	Cuerda del Campanario
 ETC_20150317_007150	Puerta de la Catedral
 ETC_20150317_007151	Tools Tub
-ETC_20150317_007152	Carro Controller
+ETC_20150317_007152	Teleferico Controller
 ETC_20150317_007153	Barrier of Paladín_Temple A
 ETC_20150317_007154	Barrier of Paladín_Temple B
 ETC_20150317_007155	Barrier of Paladín_Galley Plateau
@@ -7196,7 +7196,7 @@ ETC_20150317_007196	Discipulo del Paladín no instrument c2
 ETC_20150317_007197	Discipulo del Paladín no instrument c3
 ETC_20150317_007198	Invoca Muñecas Mágicas
 ETC_20150317_007199	Florijonas
-ETC_20150317_007200	Vendedor de Compañeros
+ETC_20150317_007200	Mercader de Compañeros
 ETC_20150317_007201	Maestro Elementalista
 ETC_20150317_007202	Maestro Mercenario Master
 ETC_20150317_007203	Bebé Panto
@@ -7275,7 +7275,7 @@ ETC_20150317_007275	Anciana (Blue)
 ETC_20150317_007276	Anciana (Dark Brown)
 ETC_20150317_007277	Anciana (Pink)
 ETC_20150317_007278	Anciana (Purple)
-ETC_20150317_007279	Carro
+ETC_20150317_007279	Teleferico
 ETC_20150317_007280	Altar a medio destruir
 ETC_20150317_007281	Objeto del Santuario
 ETC_20150317_007282	Peregrino PNJ Woman's tomb
@@ -7283,10 +7283,10 @@ ETC_20150317_007283	Objeto Exclusivo del Mercado Negro
 ETC_20150317_007284	Tocón
 ETC_20150317_007285	Árbol Delgado
 ETC_20150317_007286	Árbol Sagrado
-ETC_20150317_007287	Carro de Meseta Velo de Hojas
-ETC_20150317_007288	Programar Carro
-ETC_20150317_007289	Carro de Plataforma Pilar de Roca
-ETC_20150317_007290	Carro de Meseta Gele
+ETC_20150317_007287	Teleferico de Meseta Velo de Hojas
+ETC_20150317_007288	Programar Teleferico
+ETC_20150317_007289	Teleferico de Plataforma Pilar de Roca
+ETC_20150317_007290	Teleferico de Meseta Gele
 ETC_20150317_007291	Raíz de Bramble
 ETC_20150317_007292	Skull Pile_1
 ETC_20150317_007293	Skull Pile_2
@@ -7431,7 +7431,7 @@ ETC_20150317_007431	Sorpresa
 ETC_20150317_007432	Llanto
 ETC_20150317_007433	Rumor de un Árbol Rojo
 ETC_20150317_007434	Derrota a Goblin de Madera Rojo Gigante
-ETC_20150317_007435	De acuerdo a los viajeros que pasaron por la Ruta del Demonio Hambriento unos días atrás,
+ETC_20150317_007435	De acuerdo a los viajeros que pasaron por la Vía del Demonio Hambriento unos días atrás,
 ETC_20150317_007436	apareció y atacó.  El rumor dice que los objetos robados serán retornados
 ETC_20150317_007437	Una vez los derrotes.
 ETC_20150317_007438	Araña bajo la oscuridad
@@ -7635,8 +7635,8 @@ ETC_20150317_007635	Trata a los heridos
 ETC_20150317_007636	Encuentra el documento relacionado a Naktis
 ETC_20150317_007637	Respuesta de la Maestre Bokor
 ETC_20150317_007638	Abrir Caja de Piromante
-ETC_20150317_007639	Loco pero Confiable Archivero
-ETC_20150317_007640	Petición del Archivero (2)
+ETC_20150317_007639	Loco pero Confiable Archivista
+ETC_20150317_007640	Petición del Archivista (2)
 ETC_20150317_007641	Historiador sacrificado
 ETC_20150317_007642	Archiva el artifacto del Mausoleo Real
 ETC_20150317_007643	Recolecta Madera Seca del Bosque Espinoso
@@ -7656,14 +7656,14 @@ ETC_20150317_007656	Encuentra pistas de los desaparecidos revisando las bolsas d
 ETC_20150317_007657	El camino perdido de una chica (2)
 ETC_20150317_007658	Grupo de Investigación Desaparecido (4)
 ETC_20150317_007659	Grupo de Investigación Desaparecido (5)
-ETC_20150317_007660	Petición del Archivero
-ETC_20150317_007661	Pergamino del Archivero
-ETC_20150317_007662	Tinta del Archivero
-ETC_20150317_007663	Proteje al Archivero Jonas
-ETC_20150317_007664	El Archivero y el Oficial Liaison
+ETC_20150317_007660	Petición del Archivista
+ETC_20150317_007661	Pergamino del Archivista
+ETC_20150317_007662	Tinta del Archivista
+ETC_20150317_007663	Proteje al Archivista Jonas
+ETC_20150317_007664	El Archivista y el Oficial Liaison
 ETC_20150317_007665	Archivos Ocultos
-ETC_20150317_007666	El miedo del Archivero
-ETC_20150317_007667	Petición del Archivero
+ETC_20150317_007666	El miedo del Archivista
+ETC_20150317_007667	Petición del Archivista
 ETC_20150317_007668	Comprueba el montículo de la señal
 ETC_20150317_007669	Revolviendo Medicina
 ETC_20150317_007670	Historiador en Peligro
@@ -7716,11 +7716,11 @@ ETC_20150317_007716	Tatuaje de Shaiman Shaw
 ETC_20150317_007717	Maestro Demonio Howbuck (1)
 ETC_20150317_007718	Maestro Demonio Howbuck (2)
 ETC_20150317_007719	Rescatando a Gabija
-ETC_20150317_007720	Carro a punto de fallar (1)
-ETC_20150317_007721	Carro a punto de fallar (2)
+ETC_20150317_007720	Teleferico a punto de fallar (1)
+ETC_20150317_007721	Teleferico a punto de fallar (2)
 ETC_20150317_007722	Retrieve the lever handle latches
 ETC_20150317_007723	Atrae Bebés Panto con betarragas dulces
-ETC_20150317_007724	Para reparar el Carro (2)
+ETC_20150317_007724	Para reparar el Teleferico (2)
 ETC_20150317_007725	Encuentra al Maestre Paladín nuevamente (1)
 ETC_20150317_007726	Misión del Maestre Paladín
 ETC_20150317_007727	Verificación de Daño (1)
@@ -7983,7 +7983,7 @@ ETC_20150317_007983	Smart Mongen
 ETC_20150317_007984	N/A
 ETC_20150317_007985	N/A
 ETC_20150317_007986	Set Gairas
-ETC_20150317_007987	Amplitud de Ataque de Área ▲2
+ETC_20150317_007987	Amplitud de Área ▲2
 ETC_20150317_007988	Daño Eléctrico ▲30
 ETC_20150317_007989	Set Zega
 ETC_20150317_007990	Defensa ▲6
@@ -8234,7 +8234,7 @@ ETC_20150317_008234	Receta - Moplah
 ETC_20150317_008235	Receta - Spatha
 ETC_20150317_008236	Receta - Panto Sword
 ETC_20150317_008237	Receta - Steel Falchion
-ETC_20150317_008238	Receta - Silver Falchion
+ETC_20150317_008238	Receta - Plata Falchion
 ETC_20150317_008239	Receta - Golden Falchion
 ETC_20150317_008240	Receta - Mandrapick
 ETC_20150317_008241	Receta - Flonas Sabre
@@ -8394,7 +8394,7 @@ ETC_20150317_008394	Receta - Grand Spontoon
 ETC_20150317_008395	Receta - Zega Spear
 ETC_20150317_008396	Receta - Harl Spear
 ETC_20150317_008397	Receta - Fedimian Spear
-ETC_20150317_008398	Receta - Silver Spear
+ETC_20150317_008398	Receta - Plata Spear
 ETC_20150317_008399	Receta - Geras Spear
 ETC_20150317_008400	Receta - Doom Spear
 ETC_20150317_008401	Receta - Firnas
@@ -8515,10 +8515,10 @@ ETC_20150317_008515	Receta - Draco Leather Gloves
 ETC_20150317_008516	Receta - Draco Leather Boots
 ETC_20150317_008517	Receta - Draco Leather Leggings
 ETC_20150317_008518	Receta - Draco Leather Tunic
-ETC_20150317_008519	Receta - Silver Plate Gauntlets
-ETC_20150317_008520	Receta - Silver Plate Greaves
-ETC_20150317_008521	Receta - Silver Plate Leggings
-ETC_20150317_008522	Receta - Silver Plate Armor
+ETC_20150317_008519	Receta - Plata Plate Gauntlets
+ETC_20150317_008520	Receta - Plata Plate Greaves
+ETC_20150317_008521	Receta - Plata Plate Leggings
+ETC_20150317_008522	Receta - Plata Plate Armor
 ETC_20150317_008523	Receta - Luchador Vubbe Gauntlets
 ETC_20150317_008524	Receta - Shield Crasher
 ETC_20150317_008525	Receta - Vine Gloves
@@ -9179,7 +9179,7 @@ ETC_20150317_009179	[Explorador Master]{nl} Recon Rimgaile
 ETC_20150317_009180	[Sadhu Master]{nl} Agota Hanska
 ETC_20150317_009181	[Wugushi Master]{nl} Wor Pat
 ETC_20150317_009182	[Rogue Master]{nl}         Gema
-ETC_20150317_009183	[Vendedor de Objetos]{nl}            Anna
+ETC_20150317_009183	[Mercader de Objetos]{nl}            Anna
 ETC_20150317_009184	[Equipment Mercader]{nl}                   Yorgis
 ETC_20150317_009185	[Hackapell Master]{nl} Flint Boulder
 ETC_20150317_009186	[Druída Master]{nl}   Gina Greene
@@ -9191,7 +9191,7 @@ ETC_20150317_009191	Practice Post (Fire)
 ETC_20150317_009192	Practice Post (Poison)
 ETC_20150317_009193	Practice Post (Lightning)
 ETC_20150317_009194	Practice Post (Earth)
-ETC_20150317_009195	[Vendedor de Objetos]{nl}         Mirina
+ETC_20150317_009195	[Mercader de Objetos]{nl}         Mirina
 ETC_20150317_009196	[Equipment Mercader]{nl}                 Dunkel
 ETC_20150317_009197	[Accessory Mercader]{nl}                Ronesa
 ETC_20150317_009198	Klaipeda Estatua de Diosa
@@ -9869,8 +9869,8 @@ ETC_20150323_009870	Dokas Reservoir Port
 ETC_20150323_009871	Pile of Boxes 01
 ETC_20150323_009872	Pile of Boxes 02
 ETC_20150323_009873	Piece of Wood
-ETC_20150323_009874	Meseta Gele Carro
-ETC_20150323_009875	Akmens Ridge Carro
+ETC_20150323_009874	Meseta Gele Teleferico
+ETC_20150323_009875	Akmens Ridge Teleferico
 ETC_20150323_009876	Portal Wizard
 ETC_20150323_009877	Señor Demonio Blut
 ETC_20150323_009878	Alchemy Pot
@@ -10506,7 +10506,7 @@ ETC_20150401_010507	Companion Superior Quilt Coat
 ETC_20150401_010508	Companion Superior Leather Armor
 ETC_20150401_010509	Companion Superior Scale Mail
 ETC_20150401_010510	Aurelius
-ETC_20150401_010511	Fedimian Vendedor de Objetos
+ETC_20150401_010511	Fedimian Mercader de Objetos
 ETC_20150401_010512	Fedimian Equipment Mercader
 ETC_20150401_010513	Fedimian Blacksmith
 ETC_20150401_010514	Fedimian Mercenary Post Manager
@@ -11095,10 +11095,10 @@ ETC_20150414_011096	Receta - Scallop Shield
 ETC_20150414_011097	Receta - Pelta Shield
 ETC_20150414_011098	Receta - Fedimian Shield
 ETC_20150414_011099	Receta - Kalkan
-ETC_20150414_011100	Receta - Silver Talisman
+ETC_20150414_011100	Receta - Plata Talisman
 ETC_20150414_011101	Receta - Superior Ritual Necklace
 ETC_20150414_011102	Receta - Key Pendant
-ETC_20150414_011103	Receta - Silver Bracelet
+ETC_20150414_011103	Receta - Plata Bracelet
 ETC_20150414_011104	Receta - Superior Pearl Bracelet
 ETC_20150414_011105	Receta - Rune Bracelet
 ETC_20150414_011106	Halconero Ascenso
@@ -11362,7 +11362,7 @@ ETC_20150428_011363	Validate the effect of the charm on Panto Arqueros
 ETC_20150428_011364	Open your inventory and use the Spirit's Scripture
 ETC_20150428_011365	Use Hauberk's Seal Fragment
 ETC_20150428_011366	Cross Srautas Gorge and go to Meseta Gele
-ETC_20150428_011367	Move to Ruta del Demonio Hambriento
+ETC_20150428_011367	Move to Vía del Demonio Hambriento
 ETC_20150428_011368	Move to Prisión Demoníaca District 1
 ETC_20150428_011369	Guard PNJ
 ETC_20150428_011370	Abominación Set
@@ -11438,7 +11438,7 @@ ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the q
 ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Guarida before entering the world.
 ETC_20150428_011441	FAQ : Modo Descanso{nl}1) Press the INSERT key to switch to Modo Descanso. {nl}2) PS, PM, RES will be restored. {nl}3) You can light up a bonfire, craft items, enhance gems or combine cards in Modo Descanso.{nl} You need 'Firewood' to create a bonfire. {nl} PS, PM, RES is restored quicker when you use a bonfire.{nl}4) Other functions will be added in the near future.
 ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Decreases a little bit when you play with the equipment on.{nl}    When an item's durability decreases below a certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
-ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Vendedor de Objetos in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
+ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Mercader de Objetos in any town. {nl}3) Plata is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
 ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on what class you are. {nl} If you advance to a Montaraz, you can learn the 'Use Two-handed Swords' attribute from the Montaraz Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
 ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge Skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
 ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to 'Controller UI Mode' through game settings when you are using a controller. {nl}2) There is a special 'Low Mode' for PCs with minimum system requirements.
@@ -11498,10 +11498,10 @@ ETC_20150428_011499	Warp Movement Area Ranking
 ETC_20150428_011500	Monster Kill Area Ranking
 ETC_20150428_011501	Revelador Combat Disabled Area Ranking
 ETC_20150428_011502	Revelador Combat Disabled Monster Ranking
-ETC_20150428_011503	Acquired Silver Area Ranking
+ETC_20150428_011503	Acquired Plata Area Ranking
 ETC_20150428_011504	Party Organization Area Ranking
 ETC_20150428_011505	Item Enhancement Ranking
-ETC_20150428_011506	Acquired Silver Revelador Ranking
+ETC_20150428_011506	Acquired Plata Revelador Ranking
 ETC_20150428_011507	Observing the shattered statue
 ETC_20150428_011508	The Reagent does not seem to be properly made!{nl}Tell Gracius.
 ETC_20150428_011509	It seems to be returning to the original sanctuary.{nl}Find the Sacerdote Master.
@@ -13269,7 +13269,7 @@ ETC_20150717_013270	Manage skills with skill points gained on level up.
 ETC_20150717_013271	Press {img F3 40 40} to open your Skill window.
 ETC_20150717_013272	Learned skills will appear in your Quick Slots where you can change the keys to your own choice.
 ETC_20150717_013273	Learn attributes by visiting the Class Master PNJ of a specific Class.
-ETC_20150717_013274	Learning attributes will cost Silver and time. {nl} {nl}
+ETC_20150717_013274	Learning attributes will cost Plata and time. {nl} {nl}
 ETC_20150717_013275	You can use the attribute after you've learned it, {nl}but other attributes cannot be learned while you are learning.
 ETC_20150717_013276	Attributes that you have already mastered can be found in the Attribute List in the Skill window.
 ETC_20150717_013277	Attributes you have already mastered can be found at the bottom of the Skill window.
@@ -13343,7 +13343,7 @@ ETC_20150717_013344	Reset
 ETC_20150717_013345	 button enables you to reset all items added for Buy and Sell.
 ETC_20150717_013346	{img mouseclick_right 40 40} on the item from 'My Sold Items' below to buy back item delete it from the list.
 ETC_20150717_013347	You require money and an anvil to enhance equipment.
-ETC_20150717_013348	 can be purchased from the Vendedor de Objetos or obtained from monstruos.
+ETC_20150717_013348	 can be purchased from the Mercader de Objetos or obtained from monstruos.
 ETC_20150717_013349	Press {img mouseclick_right 40 40} on the anvil, then select an equipment item to open the Enhancement window. Select
 ETC_20150717_013350	 and
 ETC_20150717_013351	 will appear. Hit the
@@ -13430,11 +13430,11 @@ ETC_20150717_013431	 between characters will increase their closeness level caus
 ETC_20150717_013432	Add Magic Amulets on weapons and shields for additional effects.
 ETC_20150717_013433	You can receive additional EXP when Exterminio is triggered.
 ETC_20150717_013434	Magic Control Room
-ETC_20150717_013435	Vendedor de Objetos Emilia
-ETC_20150717_013436	City Vendedor de Objetos
+ETC_20150717_013435	Mercader de Objetos Emilia
+ETC_20150717_013436	City Mercader de Objetos
 ETC_20150717_013437	Item Merchant1
 ETC_20150717_013438	Silhouette Crystal
-ETC_20150717_013439	Fedimian Vendedor de Objetos
+ETC_20150717_013439	Fedimian Mercader de Objetos
 ETC_20150717_013440	Grita Phoenix
 ETC_20150717_013441	NPC_Fire Lord
 ETC_20150717_013442	Empty NPC for Ciudad Petrificada
@@ -13459,7 +13459,7 @@ ETC_20150717_013460	Release the petrified victims at Vienti Fortress
 ETC_20150717_013461	The Past of the Mina de Cristal [Alquimista - Ascenso]
 ETC_20150717_013462	Pass the corridor by dispersing the monstruos
 ETC_20150717_013463	Search through the corpses of the Royal Army guards and collect usable equipment
-ETC_20150717_013464	Obtain diluting solution from the Vendedor de Objetos in Fedimian
+ETC_20150717_013464	Obtain diluting solution from the Mercader de Objetos in Fedimian
 ETC_20150717_013465	Lure InfroGalas Mages using the food boxes to collect sticky resin
 ETC_20150717_013466	Move to a safe place
 ETC_20150717_013467	Check the first petrification device
@@ -13493,7 +13493,7 @@ ETC_20150717_013494	Veteran
 ETC_20150717_013495	Expert
 ETC_20150717_013496	Challenger
 ETC_20150717_013497	Champion
-ETC_20150717_013498	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Vendedor de Objetos in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
+ETC_20150717_013498	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Mercader de Objetos in any town. {nl}3) Plata is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
 ETC_20150717_013499	Card Battle Tip
 ETC_20150717_013500	in the chat menu
 ETC_20150717_013501	You can start a Card Battle with another player.
@@ -13594,11 +13594,11 @@ ETC_20150717_013595	Item distribution has been changed to {Change}.
 ETC_20150717_013596	EXP distribution has been changed to {Change}.
 ETC_20150717_013597	Quest Sharing has been changed to {Change}.
 ETC_20150717_013598	You've sent an invitation message.
-ETC_20150717_013599	There is an instant shop registered {nl}Register instant shop through the Vendedor de Objetos.
+ETC_20150717_013599	There is an instant shop registered {nl}Register instant shop through the Mercader de Objetos.
 ETC_20150717_013600	You have lit the bonfire!
 ETC_20150717_013601	It is already on fire!
-ETC_20150717_013602	[Vendedor de Objetos]{nl}     Anna
-ETC_20150717_013603	[Vendedor de Objetos]{nl}           Mirina
+ETC_20150717_013602	[Mercader de Objetos]{nl}     Anna
+ETC_20150717_013603	[Mercader de Objetos]{nl}           Mirina
 ETC_20150717_013604	Spell Control Círculo Mágico
 ETC_20150717_013605	The guard that fell behind
 ETC_20150717_013606	The corpse of the Royal Army Guard
@@ -13608,7 +13608,7 @@ ETC_20150717_013609	Petrified Monster
 ETC_20150717_013610	Suspicious Crystal
 ETC_20150717_013611	Suspicious Sculpture
 ETC_20150717_013612	This game is rated ESRB Teen.
-ETC_20150717_013613	{How} Silver obtained.
+ETC_20150717_013613	{How} Plata obtained.
 ETC_20150717_013614	{@st59}Increase in Max PM, PM Recovery and Block Penetration{/}
 ETC_20150717_013615	{@st59}Increases Magic Attack{/}
 ETC_20150729_013616	Colimen
@@ -13702,7 +13702,7 @@ ETC_20150729_013703	Press {img F3 40 40} to open the Skill window.
 ETC_20150729_013704	Click the {img skillup 40 40} button to increase a skill level.
 ETC_20150729_013705	Make your character even stronger by learning attributes from the Master PNJs of each class.
 ETC_20150729_013706	You can learn attributes from a Master PNJ.
-ETC_20150729_013707	Silver is required to learn attributes. {nl}Also, some attributes require time to learn.
+ETC_20150729_013707	Plata is required to learn attributes. {nl}Also, some attributes require time to learn.
 ETC_20150729_013708	You can use an attribute after you've learned it, {nl}and you cannot learn another attribute while you are studying one.
 ETC_20150729_013709	Some attributes can be disabled if needed.
 ETC_20150729_013710	You can advance your class when you reach Class Lv 15.
@@ -13768,7 +13768,7 @@ ETC_20150729_013769	Items sold to the shops can be purchased back.
 ETC_20150729_013770	{img mouseclick_right 40 40} on the item from 'My Sold Items' below {nl}to buy back an item or to delete it from the list.
 ETC_20150729_013771	Enhance your equipment to increase its power.
 ETC_20150729_013772	You need funds and an anvil to enhance your item.
-ETC_20150729_013773	 can be purchased from the Vendedor de Objetos or obtained from monstruos.
+ETC_20150729_013773	 can be purchased from the Mercader de Objetos or obtained from monstruos.
 ETC_20150729_013774	{nl}{nl}{img mouseclick_right 40 40} on the anvil, then select an item to open Enhancement window.
 ETC_20150729_013775	{nl}{nl}When your equipment is enhanced, its power increases.
 ETC_20150729_013776	{nl}{nl}When enhancing a weapon beyond +5, Potential will be consumed on failure and the effects will be reset. The item will be destroyed when Potential drops to 0.
@@ -14182,7 +14182,7 @@ ETC_20150804_014183	Capilla Light Beacon
 ETC_20150804_014184	TypeFMánager
 ETC_20150804_014185	Place to put the Stone
 ETC_20150804_014186	Zachariel's Epitaph
-ETC_20150807_014187	Amplitud de Ataque de Área {img red_up_arrow 16 16} 2
+ETC_20150807_014187	Amplitud de Área {img red_up_arrow 16 16} 2
 ETC_20150807_014188	Lightning Property Attack {img red_up_arrow 16 16} 30
 ETC_20150807_014189	Defense {img red_up_arrow 16 16} 6
 ETC_20150807_014190	Dark Property Attack {img red_up_arrow 16 16} 30
@@ -14347,7 +14347,7 @@ ETC_20150918_014348	Words of the Traitor
 ETC_20150918_014349	The Tomb Robber in History
 ETC_20150918_014350	Traitor's Diary
 ETC_20150918_014351	Light Plate Set
-ETC_20150918_014352	Amplitud de Ataque de Área {img green_up_arrow 16 16} 1
+ETC_20150918_014352	Amplitud de Área {img green_up_arrow 16 16} 1
 ETC_20150918_014353	Defense {img green_up_arrow 16 16} 6
 ETC_20150918_014354	Dark Property Attack {img green_up_arrow 16 16} 30
 ETC_20150918_014355	Movement Speed {img green_up_arrow 16 16} 5
@@ -14640,7 +14640,7 @@ ETC_20150918_014641	You cannot summon the monstruo in this area.
 ETC_20150918_014642	You cannot use the skill in this region.
 ETC_20150918_014643	The client has been shutdown due to an error. {nl}We apologize for the inconvenience.{nl}By clicking the [Yes] button, details of the error will be sent to the developers.{nl}{nl} ※ The information that will be sent : error code, CPU, VGA and the memory driver information
 ETC_20150918_014644	[Rogue Master]{nl}       Gema
-ETC_20150918_014645	[Vendedor de Objetos]{nl}    Muras
+ETC_20150918_014645	[Mercader de Objetos]{nl}    Muras
 ETC_20150918_014646	[Equipment Mercader]{nl}    Yorgis
 ETC_20150918_014647	[Blacksmith]{nl}       Anna
 ETC_20150918_014648	[Market Manager]{nl}     Molun
@@ -15912,7 +15912,7 @@ ETC_20151016_015913	Incomplete Kruvina
 ETC_20151016_015914	Energy of Life
 ETC_20151016_015915	For effects of flame bombs
 ETC_20151016_015916	Golden Pillar
-ETC_20151016_015917	Silver Pillar
+ETC_20151016_015917	Plata Pillar
 ETC_20151016_015918	Bronze Pillar
 ETC_20151016_015919	Officer Lutas
 ETC_20151016_015920	Derrota the Gray Golem and Caparazón!
@@ -16434,7 +16434,7 @@ ETC_20151022_016435	Equip Rapier Dagger
 ETC_20151022_016436	Equip Rapier Sub
 ETC_20151022_016437	Equip Crossbow Pistol
 ETC_20151022_016438	Equip Crossbow Cannon
-ETC_20151022_016439	Vendedor de Objetos
+ETC_20151022_016439	Mercader de Objetos
 ETC_20151022_016440	[Espadachín Submaster]{nl}              Codill
 ETC_20151022_016441	[Peltasta Submaster]{nl}      Nirin Dameoff
 ETC_20151022_016442	[Clérigo Submaster]{nl}     Tamara Easton
@@ -16905,7 +16905,7 @@ ETC_20151102_016906	Earth Property Monster
 ETC_20151102_016907	Chest in the Castlefield 65_1
 ETC_20151102_016908	Chest in the Castlefield 65_2
 ETC_20151102_016909	Chest in the Castlefield 65_3
-ETC_20151102_016910	Derrota the monstruos in Ruta del Demonio Hambriento
+ETC_20151102_016910	Derrota the monstruos in Vía del Demonio Hambriento
 ETC_20151102_016911	Derrota the monstruos in Peregrino Path
 ETC_20151102_016912	Derrota the monstruos in Altar Way
 ETC_20151102_016913	Explorador Magic Tower 1P
@@ -18428,7 +18428,7 @@ ETC_20151224_018428	Nuodai Rondo
 ETC_20151224_018429	Nuodai Nuwort
 ETC_20151224_018430	PNJ for changing the Raid Track
 ETC_20151224_018431	Fan Control Device
-ETC_20151224_018432	Orsha Vendedor de Objetos Alf
+ETC_20151224_018432	Orsha Mercader de Objetos Alf
 ETC_20151224_018433	Companion Trader Toras
 ETC_20151224_018434	Orsha Soldado Female
 ETC_20151224_018435	Orsha Soldado Male
@@ -18479,7 +18479,7 @@ ETC_20151224_018479	Delmore Manor Lift
 ETC_20151224_018480	Delmore Outskirts Lift
 ETC_20151224_018481	Nevellet Quarry 1P Lift
 ETC_20151224_018482	Cart of Nevellet Quarry 1P
-ETC_20151224_018483	Delmore Hamlet Carro
+ETC_20151224_018483	Delmore Hamlet Teleferico
 ETC_20151224_018484	Cart of Nevellet Quarry 2P(Direction)
 ETC_20151224_018485	Cart of Nevellet Quarry 2P(Direction)
 ETC_20151224_018486	Wreckage of the Demonic Power Supply Device
@@ -18504,7 +18504,7 @@ ETC_20151224_018504	Gimmick Bead
 ETC_20151224_018505	Orsha Citizen3
 ETC_20151224_018506	Orsha Citizen4
 ETC_20151224_018507	Orsha City Girl3
-ETC_20151224_018508	Knidos Jungle Carro
+ETC_20151224_018508	Knidos Jungle Teleferico
 ETC_20151224_018509	Novaha Annex Elevator
 ETC_20151224_018510	Novaha Institute Elevator
 ETC_20151224_018511	Colossal Bracken
@@ -18687,7 +18687,7 @@ ETC_20151224_018687	A maximum TP count provided by free
 ETC_20151224_018688	Limited Time can rollback with free
 ETC_20151224_018689	Charge free TP every 7200 segundos (2h)
 ETC_20151224_018690	Storage Expansion Price
-ETC_20151224_018691	Silver Commission for Shop Skills
+ETC_20151224_018691	Plata Commission for Shop Skills
 ETC_20151224_018692	Storage Expansion Count
 ETC_20151224_018693	TP will be charged for changing your Team Name
 ETC_20151224_018694	TP will be charged for changing your Character Name
@@ -19887,11 +19887,11 @@ ETC_20151224_019887	[TP Trader]{nl}   Leticia
 ETC_20151224_019888	[Maestre Templario]{nl}Uska Comandante de los Caballeros
 ETC_20151224_019889	[Maestre Criomante]{nl}  Aleister Crowley
 ETC_20151224_019890	[Herrería]{nl}   Ilanai
-ETC_20151224_019891	[Vendedor de Equipo]{nl}      Jura
+ETC_20151224_019891	[Mercader de Equipo]{nl}      Jura
 ETC_20151224_019892	  [Dama de Orsha]{nl}    Inesa Hamondale
 ETC_20151224_019893	[Sacerdote de Orsha]{nl}        Urbonas
-ETC_20151224_019894	[Vendedor de Objetos]{nl}        Alf
-ETC_20151224_019895	[Vendedor de Accesorios]{nl}        Jurus
+ETC_20151224_019894	[Mercader de Objetos]{nl}        Alf
+ETC_20151224_019895	[Mercader de Accesorios]{nl}        Jurus
 ETC_20151224_019896	[Maestre Hoplita]{nl}        Aidas Valor
 ETC_20151224_019897	[Vice-maestre Paladín]{nl}        Silvia Naimon
 ETC_20151224_019898	[Vice-maestre Mago]{nl}          Dejamis
@@ -19908,7 +19908,7 @@ ETC_20151224_019908	[Vice-maestre Zapador]{nl}     Zubin Katal
 ETC_20151224_019909	[Vice-maestre Cazador]{nl}       Belkin Vellon
 ETC_20151224_019910	[Maestre Wugushi]{nl}          Wor Pat
 ETC_20151224_019911	[Vice-maestre Explorador]{nl}          Suina
-ETC_20151224_019912	[Vendedor de Compañeros]{nl}            Taurus
+ETC_20151224_019912	[Mercader de Compañeros]{nl}            Taurus
 ETC_20151224_019913	[Manager del Mercado]{nl}     Tilliana
 ETC_20151224_019914	[Guarda de Almacen]{nl}      Aisa
 ETC_20151224_019915	[Asociación Mágica de Orsha]{nl}           Florianna
@@ -20449,10 +20449,10 @@ ETC_20160224_020449	Instanced Dungeon Reset Time 6 AM
 ETC_20160224_020450	Max No of Chat Windows Open
 ETC_20160224_020451	How many messages combined in one speech bubble?
 ETC_20160224_020452	Messages added to current time in chat text
-ETC_20160224_020453	Progression
+ETC_20160224_020453	Progresión
 ETC_20160224_020454	Maven
 ETC_20160224_020455	Receta - Attack Boost Potion: Stab
-ETC_20160224_020456	A recipe for creating potions.
+ETC_20160224_020456	Una receta para crear pociones.
 ETC_20160224_020457	Receta - Attack Boost Potion: Slash
 ETC_20160224_020458	Receta - Attack Boost Potion: Strike
 ETC_20160224_020459	Receta - Attack Boost Potion: Missile
@@ -20478,7 +20478,7 @@ ETC_20160224_020478	Receta - Academy
 ETC_20160224_020479	A recipe to create a construction for the guild.
 ETC_20160224_020480	Receta - Forge
 ETC_20160224_020481	Receta - Shield Charger
-ETC_20160224_020482	A recipe to craft an equipment. Click Derecho para register this recipe to the Diario de Aventuras.
+ETC_20160224_020482	A recipe to craft an equipment. Click Derecho para registrar esta receta en el Diario de Aventuras.
 ETC_20160224_020483	Receta - Seimos Sword
 ETC_20160224_020484	Receta - Luma Sword
 ETC_20160224_020485	Receta - Magas Sword
@@ -20533,10 +20533,10 @@ ETC_20160224_020533	Receta - Maven Necklace
 ETC_20160224_020534	Receta - Terrallion
 ETC_20160224_020535	Receta - Archmage Bangle
 ETC_20160224_020536	Receta - Phada
-ETC_20160224_020537	A recipe to craft a costume. Click Derecho para register this recipe to the Diario de Aventuras.
-ETC_20160224_020538	5v5 Auto-Match (Rank)
-ETC_20160224_020539	2v2 Auto-Match
-ETC_20160224_020540	Conjurador Rúnico Ascenso
+ETC_20160224_020537	Una receta para crear un traje?. Click Derecho para registrar esta receta en el Diario de Aventuras.
+ETC_20160224_020538	5v5 Aleatorio (Ranking)
+ETC_20160224_020539	2v2 Aleatorio
+ETC_20160224_020540	Conjurador Rúnico - Ascenso
 ETC_20160224_020541	Access to game denied by Xigncode.
 ETC_20160224_020542	Failed to verify access.
 ETC_20160224_020543	Duplicate login. Access denied.
@@ -20544,16 +20544,16 @@ ETC_20160224_020544	Session access denied.
 ETC_20160224_020545	NGS login failed.
 ETC_20160224_020546	Access denied by NGS.
 ETC_20160224_020547	Detected by NGS. Access denied.
-ETC_20160224_020548	Dialogue List
-ETC_20160224_020549	Your level is not high enough{nl}Please check the required{nl}level in the description
-ETC_20160224_020550	Male characters cannot equip this{nl}Please check the required{nl}gender in the description
-ETC_20160224_020551	Female characters cannot equip this{nl}Please check the required{nl}gender in the description
-ETC_20160224_020552	Game access is currently restricted{nl}due to a server maintenance or other reasons.{nl}For more details, please contact{nl}customer service through the homepage.
-ETC_20160224_020553	You are currently infusing magic into an item. Please try again later.
-ETC_20160224_020554	You have exceeded the amount of silver you can carry.
+ETC_20160224_020548	Lista de Diálogos
+ETC_20160224_020549	Nivel insuficiente.{nl}Revisa el nivel requerido{nl}en la descripción
+ETC_20160224_020550	Los Chicos no pueden equiparse esto.{nl}Revisa el género requerido{nl}en la descripción
+ETC_20160224_020551	Las Chicas no pueden equiparse esto.{nl}Revisa el género requerido{nl}en la descripción
+ETC_20160224_020552	El acceso al juego se encuentra restringido{nl}debido a mantención u otras razones.{nl}Para más detalles, contacta{nl}al servicio al cliente a través de nuestro sitio web.
+ETC_20160224_020553	Ya te encuentras imbuyendo magia en el objeto. Por favor intenta nuevamente más tarde.
+ETC_20160224_020554	Has excedido la cantidad de Plata que puedes cargar.
 ETC_20160224_020555	Has excedido el número máximo de registros.
 ETC_20160224_020556	Hasta 2 veces con beneficios de Token
-ETC_20160224_020557	¿Estás seguro de querer añadir{nl}{SLOT} ranura(s) por {Silver} plata?
+ETC_20160224_020557	¿Estás seguro de querer añadir{nl}{SLOT} ranura(s) por Silver plata?
 ETC_20160224_020558	Cannot be used to go back to the area.
 ETC_20160224_020559	Este objeto no puede ser despertado.
 ETC_20160224_020560	Al despertar un objeto, tu pergamino mágico y las opciones despertadas del objeto desaparecerán. ¿Aún así deseas continuar?
@@ -20984,7 +20984,7 @@ ETC_20160310_020983	Tierras sin Dueño Reclamadas
 ETC_20160310_020984	Villa Pamesti
 ETC_20160310_020985	Granja Abandonada
 ETC_20160310_020986	Campamento de Operaciones
-ETC_20160310_020987	Tienda del Vendedor de Hierbas
+ETC_20160310_020987	Tienda del Mercader de Hierbas
 ETC_20160310_020988	Novio de Stebbe
 ETC_20160310_020989	Oratorio Atvira
 ETC_20160310_020990	Oratorio Nephala
