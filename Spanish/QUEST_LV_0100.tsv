@@ -168,7 +168,7 @@ QUEST_LV_0100_20150317_000167	Revelador. Si esta es la voluntad de la Diosa, ent
 QUEST_LV_0100_20150317_000168	Os he preocupado a Niels y a ti...
 QUEST_LV_0100_20150317_000169	Lideraré la marcha y tú te encargarás de los monstruos que nos vayamos encontrando.{nl}Cuento contigo.
 QUEST_LV_0100_20150317_000170	Ha llegado la hora. Por favor, sigue adelante hacia el Beacon Hill Pass.
-QUEST_LV_0100_20150317_000171	Estoy seguro de que estás cualificado para esto.{nl}La Diosa Laima así lo ha dirigido.
+QUEST_LV_0100_20150317_000171	Estoy seguro de que estás cualificado para esto.{nl}La Diosa Laima nos ha guiado hacia esto.
 QUEST_LV_0100_20150317_000172	Al fin el tesoro oculto puede ser transimitido a alguien.{nl}Me arrepiento de no haberte reconocido antes debido a mi senilidad.
 QUEST_LV_0100_20150317_000173	El Gran Rey Zachariel nos encargó que otorgásemos el tesoro oculto a alguien cualificado.{nl}Puedes probar si así lo eres con los Ojos del Gran Rey.
 QUEST_LV_0100_20150317_000174	Tenemos una responsabilidad más allá de proteger el Royal Mausoleum.{nl}Y esta es proteger el legado real hasta la llegada de una persona cualificada.{nl}
@@ -191,68 +191,68 @@ QUEST_LV_0100_20150317_000190	Llegas tarde.{nl}¿Has traído mi archivo?
 QUEST_LV_0100_20150317_000191	Ve al Abandoned Old Workshop.{nl}Un anciano está vagando por los alrededores. Creo que es Jonas.
 QUEST_LV_0100_20150317_000192	¿Qué es eso? ¡Huele como hidromiel!
 QUEST_LV_0100_20150317_000193	Me siento mareado.{nl}De todas formas, ¿qué hago aquí?
-QUEST_LV_0100_20150317_000194	Me alivia que me hayas encontrado.{nl}Cuando los monstruos me estaban persiguiendo, perdí mis pertenencias y todos los materiales.{nl}Al menos, ¿podrías encontrar los scattered materials?
+QUEST_LV_0100_20150317_000194	Me alivia que me hayas encontrado.{nl}Cuando los monstruos me estaban persiguiendo, perdí mis pertenencias y todos los materiales.{nl}Al menos, ¿podrías encontrar los materiales desperdigados?
 QUEST_LV_0100_20150317_000195	Como un humilde mercenario, no puedo decir gran cosa.{nl}Aunque estaba bien incluso en Medzio Diena, estoy seguro de que este lugar está maldito.{nl}
 QUEST_LV_0100_20150317_000196	¿Cuánto tiempo ha pasado desde que estoy aquí?{nl}¿Dónde está Mirta? y, ¿quién eres?
 QUEST_LV_0100_20150317_000197	Intento recordar algo, pero cuando estoy cerca de conseguirlo, se desvanece.
 QUEST_LV_0100_20150317_000198	Vaidotas
 QUEST_LV_0100_20150317_000199	Ese olor... Creo que el dispositivo purificador de la mina está roto.{nl}Será mejor que lo reparemos rápido. Los lugareños secuestrados pueden asfixiarse.
 QUEST_LV_0100_20150317_000200	¿Conoces la leyenda de Cunningham?{nl}La leyenda establece que un gran demonio fue sellado aquí, en la Crystal Mine.{nl}Hay un libro con más detalles sobre ello en el Mine Worker's Resting Place en la Crystal Mine P2.{nl}
-QUEST_LV_0100_20150317_000201	Anyway, my guess is that the demon is re-awakening and is controlling the Vubbes.{nl}The bishop's dream and the Legend of Cunningham... I feel they may be a sign that something{nl}huge is about to happen.{nl}
-QUEST_LV_0100_20150317_000202	Only the goddess would know if it will be hope or despair.{nl}
-QUEST_LV_0100_20150317_000203	The purifier can be easily fixed by anyone, but it may be hard to find the parts needed.{nl}In that case, use the compass that I gave you to search for them.{nl}
-QUEST_LV_0100_20150317_000204	Well then, I have some things to do so I will meet you at 3F of the Crystal Mine.{nl}In the name of the goddess, I pray for success in your struggles.
-QUEST_LV_0100_20150317_000205	If you can't find the parts needed to repair the purifier, use the compass I gave you.{nl}It'll help you find them.
+QUEST_LV_0100_20150317_000201	De todas formas, mi teoría es que el demonio está resucitando y controlando a los Vubbes.{nl}El sueño del obispo y la Leyenda de Cunningham... Siento que puede ser una señal de que algo{nl}grande está a punto de suceder.{nl}
+QUEST_LV_0100_20150317_000202	Solo la Diosa sabe si será esperanza o desdicha.{nl}
+QUEST_LV_0100_20150317_000203	El purificador puede ser fácilmente arreglado por cualquiera, pero puede ser difícil encontrar{nl}las piezas necesarias.{nl}En ese caso, usa la brújula que te he dado para encontrarlas.{nl}
+QUEST_LV_0100_20150317_000204	Bien entonces, tengo cosas que hacer, así que me encontraré contigo en Crystal mine P3.{nl}En el nombre de la Diosa, rezo por tú victoria en la contienda.
+QUEST_LV_0100_20150317_000205	Si no puede encontrar las partes necesarias para reparar el purificador,{nl}usa la brújula que te he dado.{nl}Te ayudará a encontrarlas.
 QUEST_LV_0100_20150317_000206	Village Aunt
-QUEST_LV_0100_20150317_000207	You've come to save us? Right?
-QUEST_LV_0100_20150317_000208	It's alright, We are going to be okay now!
+QUEST_LV_0100_20150317_000207	Has venido a salvarnos, ¿verdad?
+QUEST_LV_0100_20150317_000208	Está bien. ¡Ahora estaremos a salvo!
 QUEST_LV_0100_20150317_000209	Village Girl
-QUEST_LV_0100_20150317_000210	Please save us. Please...
-QUEST_LV_0100_20150317_000211	Please release me. Please...
+QUEST_LV_0100_20150317_000210	Por favor, sálvanos. Por favor...
+QUEST_LV_0100_20150317_000211	Por favor, libérame, te lo suplico...
 QUEST_LV_0100_20150317_000212	Mr. Juan
-QUEST_LV_0100_20150317_000213	I get furious whenever I see those Vubbes who ruined my hometown.{nl}That's why I want to help people like you who fight against the Vubbes.
-QUEST_LV_0100_20150317_000214	I would have left already if this wasn't my hometown.{nl}Where on earth were all the Vubbes hiding before they crawled out?
+QUEST_LV_0100_20150317_000213	Me pongo furioso cada vez que veo a esos Vubbes que arruinaron mi tierra natal.{nl}Esa es la razón por la que quiero ayudar a gente como tú que lucha contra los Vubbes.
+QUEST_LV_0100_20150317_000214	Ya me habría ido si esta no fuese mi tierra natal.{nl}¿Dónde demonios estaban escondidos todos los Vubbes antes de arrastrarse hasta aquí?
 QUEST_LV_0100_20150317_000215	Pharmacist Lady
-QUEST_LV_0100_20150317_000216	Thanks for your help last time.{nl}Without you, I would have never gotten this much ingredients.
-QUEST_LV_0100_20150317_000217	Perhaps the person that the goddess sent was you.{nl}You are the most merciful person I have ever seen among the Revelators.
-QUEST_LV_0100_20150317_000218	Soldier Jace
-QUEST_LV_0100_20150317_000219	I will protect this village for my dead comrades.
-QUEST_LV_0100_20150317_000220	Even if the world changes, I will never forgive the Vubbes.
-QUEST_LV_0100_20150317_000221	Soldier Edgar
-QUEST_LV_0100_20150317_000222	These are the rations that we gathered from East Siauliai Woods.{nl}I will never, ever lose them again. Ever.
-QUEST_LV_0100_20150317_000223	Thanks to you, I received this much food.{nl}I am relieved.
-QUEST_LV_0100_20150317_000224	Knight Commander Uska
-QUEST_LV_0100_20150317_000225	Is this slate the evidence of salvation?{nl}It just looks like an old slate to me.
-QUEST_LV_0100_20150317_000226	Ask the mayor of the Miners' Village about a way to Leaf Veil Plateau.{nl}I will send the message to the Paladin Master first. {nl}May the blessings of goddess be with you.
-QUEST_LV_0100_20150317_000227	It would be good to ask the Bokor Master to interpret this slate.{nl}She lives at the end of Klaipeda's Residential Area so go pay her a visit.
-QUEST_LV_0100_20150317_000228	Use your time wisely.{nl}No one else fully knows your future.
-QUEST_LV_0100_20150317_000229	So you finally returned.{nl}What did the Bokor Master tell you?
-QUEST_LV_0100_20150317_000230	I'm also curious about the girl who cracked the seal.{nl}This is not a seal that can easily be broken.
-QUEST_LV_0100_20150317_000231	If the Bokor Master told you that I would know it..{nl}There's one place that comes to mind.{nl}
-QUEST_LV_0100_20150317_000232	The high gardens that the goddess mentioned could be an area within Leaf Veil Plateau. {nl}I heard the Paladin Master is there, uploading a long term promise. 
-QUEST_LV_0100_20150317_000233	Miners' Village Mayor
-QUEST_LV_0100_20150317_000234	Welcome. Aren't you our town's savior?{nl}
-QUEST_LV_0100_20150317_000235	Leaf Veil Plateau, huh? If you take the road between the two bridges below, you'll reach {nl}Silverstream Gorge. 
-QUEST_LV_0100_20150317_000236	So this revelation is from goddess Laima and we have to collect all these for the goddess {nl}to regain her powers?{nl}That is amazing.
-QUEST_LV_0100_20150317_000237	Oh, please do not reveal the fact that a revelation has been found unless it is absolutely necessary.{nl}Doing so may only create confusion if the rumors spread.
-QUEST_LV_0100_20150317_000238	Ah, the report.{nl}So you see, those Siaulagos were doing something strange to the supplies, {nl}then they started running away when Sparnas appeared.{nl}
-QUEST_LV_0100_20150317_000239	I was spotted by those Siaulagos as they were running away, so I fought them...{nl}And as you can see, I lost. The report, I mean.{nl}Aren't they a pain to deal with?
-QUEST_LV_0100_20150317_000240	If you find the report, please hand it over to Luders right away.{nl}Though I am terrified to think about what those bastards did to our supplies.
-QUEST_LV_0100_20150317_000241	Yes, after seeing Moody's report, I am confident that they had put something in our supplies to{nl}lure Sparnas. Perhaps some Old Grains that the birds go crazy on.
-QUEST_LV_0100_20150317_000242	The soldiers on patrol found the place where the Siaulambs' stolen goods are stored.{nl}How about we steal them back?{nl}Let's make it known that we're not as weak as they think.{nl}
-QUEST_LV_0100_20150317_000243	You should fight fire with fire.{nl}We will keep attacking until they fully realize that they've made a mistake.
-QUEST_LV_0100_20150317_000244	I hope that we won't be troubled with from now on.{nl}Thanks for your efforts.
-QUEST_LV_0100_20150317_000245	The location is Ziedo Pond.{nl}I heard there are many Siaulambs, so be careful.
-QUEST_LV_0100_20150317_000246	I have not heard anything else about the bishop's dream.{nl}Sorry, I can't be of much help.
-QUEST_LV_0100_20150317_000247	Klaipeda Guard Captain
-QUEST_LV_0100_20150317_000248	Go ahead to Klaipeda.{nl}Commander Uska is waiting for you in Klaipeda Central Plaza.{nl}I heard the bishop also had a dream about the goddess... it appears to concern that day.
-QUEST_LV_0100_20150317_000249	Klaipeda Guard
-QUEST_LV_0100_20150317_000250	Thank you for making your way here.{nl}If there is still this much left even after Sir Titas handled it himself, can you imagine how {nl}it was before?
-QUEST_LV_0100_20150317_000251	Mercenary Toby
-QUEST_LV_0100_20150317_000252	Do you want to do a simple task for me?{nl}I'm a known face so it will be hard for me to do it myself.
-QUEST_LV_0100_20150317_000253	If you don't want to, then you don't have to.{nl}There are plenty of people around who can do this.
-QUEST_LV_0100_20150317_000254	You passed.{nl}The strength you possess is tremendous.
-QUEST_LV_0100_20150317_000255	It's definitely worth it.{nl}Even if the King spent all his assets building the Mausoleum, its size is huge.
+QUEST_LV_0100_20150317_000216	Gracias por ayudarme antes.{nl}Sin ti, jamás habría acumulado tantos ingredientes.
+QUEST_LV_0100_20150317_000217	Tal vez tú seas la persona enviada por la Diosa.{nl}Eres la persona más compasiva que he visto entre los Reveladores.
+QUEST_LV_0100_20150317_000218	Soldado Jace
+QUEST_LV_0100_20150317_000219	Protegeré esta aldea por mis camaradas caídos.
+QUEST_LV_0100_20150317_000220	Incluso si el mundo cambia, no perdonaré nunca a los Vubbes.
+QUEST_LV_0100_20150317_000221	Soldado Edgar
+QUEST_LV_0100_20150317_000222	Estas son las raciones que hemos recogido de East Siauliai Woods.{nl}Nunca jamás volveré a perderlas. Jamás.
+QUEST_LV_0100_20150317_000223	Gracias a ti he recibido toda esta comida.{nl}Estoy aliviado.
+QUEST_LV_0100_20150317_000224	Comandante de caballeros Uska
+QUEST_LV_0100_20150317_000225	¿Esta pizarra es la prueba de la salvación?{nl}Para mí parece solo una vieja pizarra.
+QUEST_LV_0100_20150317_000226	Pregunta al alcalde de Miners' Village sobre un camino a Leaf Veil Plateau.{nl}Enviaré un mensaje al Paladin Master primero. {nl}Que las bendiciones de la Diosa estén contigo.
+QUEST_LV_0100_20150317_000227	Estaría bien pedirle al Bokor Master que interpretase esta pizarra.{nl}Ella vive al final de la Zona Residencial de Klaipeda, así que hazle una visita.
+QUEST_LV_0100_20150317_000228	Utiliza tu tiempo sabiamente.{nl}Nadie más conoce enteramente tu futuro.
+QUEST_LV_0100_20150317_000229	Así que al fin has vuelto.{nl}¿Qué te ha dicho la Bokor Master?
+QUEST_LV_0100_20150317_000230	Siento también curiosidad por la chica que rompió el sello.{nl}Este no es un sello que se rompa con facilidad.
+QUEST_LV_0100_20150317_000231	Si la Bokor Master te dijo que lo sabría...{nl}Hay un lugar que me viene a la mente.{nl}
+QUEST_LV_0100_20150317_000232	Los altos jardines que mencionó la Diosa pueden ser un área en Leaf Veil Plateau. {nl}Escuché que el Paladin Master está allí, cargando una promesa a largo plazo. 
+QUEST_LV_0100_20150317_000233	Alcalde de Miners' Village
+QUEST_LV_0100_20150317_000234	Bienvenido. ¿No eres el salvador de nuestro pueblo?{nl}
+QUEST_LV_0100_20150317_000235	Leaf Veil Plateau, ¿eh? Si tomas el camino entre los dos puentes allí abajo, llegarás a{nl}Silverstream Gorge. 
+QUEST_LV_0100_20150317_000236	¿Así que esta revelación es de la diosa Laima y tenemos que recoger todo esto para que la Diosa{nl}recupere sus poderes?{nl}Asombroso.
+QUEST_LV_0100_20150317_000237	Oh, por favor, no reveles el hecho de que una revelación ha sido hallada a menos que sea{nl}absolutamente necesario.{nl}Hacerlo podría crear únicamente confusión si los rumores se esparcen.
+QUEST_LV_0100_20150317_000238	Ah, el informe.{nl}Verás, esos Siaulagos estaban haciendo algo extraño a los suministros, {nl}después empezaron a huir cuando los Sparnas aparecieron.
+QUEST_LV_0100_20150317_000239	Fui avistado por esos Siaulagos mientras huían, así que me enfrenté a ellos.{nl}Y como puedes ver, perdí. El informe, quiero decir.{nl}¿No son un dolor que haya que tratar?
+QUEST_LV_0100_20150317_000240	Si encuentras el informe, por favor, llévaselo a Luders de inmediato.{nl}Aunque me aterra pensar qué les hicieron esos bastardos a nuestros suministros.
+QUEST_LV_0100_20150317_000241	Sí, después de ver el informe de Moody, estoy seguro de que han puesto algo en nuestros{nl}suministros para atraer Sparnas. Tal vez algunos Old Grains que vuelven locos a los pájaros.{nl}
+QUEST_LV_0100_20150317_000242	Los soldados que patrullaban encontraron el lugar donde están guardados los bienes robados{nl}de los Siaulambs.{nl}¿Qué os parece si se los robamos nostros?{nl}Hagámosles saber que nos somos tan débiles como ellos piensan.{nl}
+QUEST_LV_0100_20150317_000243	Deberías combatir el fuego con más fuego{nl}Seguiremos atacando hasta que terminen de darse cuenta de que han cometido un error.
+QUEST_LV_0100_20150317_000244	Espero que no volvamos a ser molestados a partir de ahora.{nl}Gracias por tus esfuerzos.
+QUEST_LV_0100_20150317_000245	La localización es Ziedo Pond.{nl}He escuchado que allí hay bastantes Siaulambs, así que ten cuidado.
+QUEST_LV_0100_20150317_000246	No he escuchado nada más sobre el sueño del obispo.{nl}Lo siento, no puedo ser de mucha ayuda.
+QUEST_LV_0100_20150317_000247	Capitán de la Guardia de Klaipeda
+QUEST_LV_0100_20150317_000248	Ve a Klaipeda.{nl}La Comandante Uska te está esperando en la Plaza Central de la ciudad.{nl}He escuchado que el obispo ha tenido un sueño sobre la Diosa...{nl}Parece que es referente a aquel día.
+QUEST_LV_0100_20150317_000249	Guardia de Klaipeda
+QUEST_LV_0100_20150317_000250	Gracias por venir hasta aquí.{nl}Si todavía queda todo esto a pesar de que Sir Titas se ocupase él mismo,{nl}¿puedes imaginar cómo estaría antes?
+QUEST_LV_0100_20150317_000251	Mercenario Toby
+QUEST_LV_0100_20150317_000252	¿Quieres realizar una simple tarea para mí?{nl}Soy una cara conocida, así que me costaría hacerla por mí mismo.
+QUEST_LV_0100_20150317_000253	No tienes que hacerlo si no quieres.{nl}Hay un montón de gente alrededor que podría hacerlo.
+QUEST_LV_0100_20150317_000254	Has aprobado.{nl}La fuerza que posees es formidable.
+QUEST_LV_0100_20150317_000255	Definitivamente merece la pena.{nl}Incluso si el rey gastó todos sus bienes construyendo el Mausoleum, su tamaño es enorme.
 QUEST_LV_0100_20150317_000256	Judging from this, these equipment are not permitted.{nl}Do not leave them lying around.{nl}
 QUEST_LV_0100_20150317_000257	Okay. Bring me more evidence that those people are making counterfeits.{nl}Do whatever it takes.
 QUEST_LV_0100_20150317_000258	I am looking for evidence of artifact forgery.{nl}Your first task will be to bring me any illegal digging tools that you find.
