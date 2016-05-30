@@ -6,7 +6,7 @@ Miembros:
 - Darkelfen (elfengirox00)
 - DkAngelS
 - Ayaros-Chan
-- Cobi
+- Corbi
 - SoulCryes
 - Teravan
 - Xerraspls
@@ -21,7 +21,7 @@ Miembros:
 - QUEST_LV_0200.tsv 
 - QUEST_LV_0300.tsv
 - QUEST_UNUSED.tsv
-- Imágenes de carga - Cobi
+- Imágenes de carga - Corbi
 - Mapas - SoulCryes
 
 ## Archivos Traducidos:
