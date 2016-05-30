@@ -20,6 +20,7 @@
 - Item/s -> Objeto/s
 - Field -> Región
 - Master -> Maestre (Por ser neutral)
+. Commission -> Comisión
 
 [ Estadistícas ]
 - HP --> PS -> Puntos de Salud
