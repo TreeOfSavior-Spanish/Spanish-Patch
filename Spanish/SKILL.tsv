@@ -10,11 +10,11 @@ SKILL_20150317_000009	[Puragi] Físico, Golpe, Propiedad Veneno, Pisotea 1 vez
 SKILL_20150317_000010	[Zigri] Ataque Normal, AdE Cónica
 SKILL_20150317_000011	[Zigri] Golpe Giratorio
 SKILL_20150317_000012	[Zigri] Choque en Salto y Pisotón
-SKILL_20150317_000013	[Fisherman] Physical, Strike, Ice Property, Strike with Fishing Rod
-SKILL_20150317_000014	[Fisherman] Magic, Buff, Magic, Buff Skill
-SKILL_20150317_000015	[Green Pokuborn] Physical, Pierce, Lightning Property, Horn Attack 1 time
-SKILL_20150317_000016	[Bushspider] Physical, Strike, Earth Property, Attack 1 time
-SKILL_20150317_000017	[Fragaras] Quick bite
+SKILL_20150317_000013	[Fisherman] Físico, Golpe, Propiedad Hielo, Golpe con Caña de pescar
+SKILL_20150317_000014	[Fisherman] Mágico, Buff, Mágico, Habilidad de buff
+SKILL_20150317_000015	[Green Pokuborn] Físico, Penetración, Propiedad Rayo, Ataque de cuerno 1 vez
+SKILL_20150317_000016	[Bushspider] Físico, Golpe, Propiedad Tierra, Ataca 1 vez
+SKILL_20150317_000017	[Fragaras] Mordisco rápido
 SKILL_20150317_000018	[Fragaras] Large Chomp
 SKILL_20150317_000019	[Fragaras] Normal Attack, Conical AoE
 SKILL_20150317_000020	Basic Normal Attack
@@ -917,24 +917,24 @@ SKILL_20150317_000916	[Helgasercle Card] Physical Dark Property Slash
 SKILL_20150317_000917	[Yekub Card] Magic Dark Property Strike
 SKILL_20150317_000918	[Physical Shield] Non-Property Magic
 SKILL_20150317_000919	[Sparnasman Card] Physical Non-Property Magic
-SKILL_20150317_000920	Thrust
-SKILL_20150317_000921	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierce and push back an enemy.
-SKILL_20150317_000922	Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#
-SKILL_20150317_000923	Bash
-SKILL_20150317_000924	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflicts damage to a target by strongly swinging your weapon.
+SKILL_20150317_000920	Estocada
+SKILL_20150317_000921	{#DD5500}{ol}[Físico] - [Penetración]{/}{/}{nl}Penetra y empuja al enemigo.
+SKILL_20150317_000922	Ataque #{SkillAtkAdd}#{nl}Salpicadura #{SkillSR}#
+SKILL_20150317_000923	Barrido
+SKILL_20150317_000924	{#DD5500}{ol}[Físico] - [Corte]{/}{/}{nl}Inflinge daño al objetivo realizando un fuerte tajo con tu arma.
 SKILL_20150317_000925	Gung Ho
-SKILL_20150317_000926	Increases your attack, but decreases your defense.
-SKILL_20150317_000927	Physical Damage: +#{CaptionRatio}#{nl}Physical Defense: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
-SKILL_20150317_000928	Concentrate
-SKILL_20150317_000929	Increases the power of your attacking skills.
-SKILL_20150317_000930	Additional Damage: +#{CaptionRatio2}#{nl}Number of Hits: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
-SKILL_20150317_000931	Restrain
-SKILL_20150317_000932	Decreases your maximum HP, but increases your attack.
-SKILL_20150317_000933	Physical Attack: +#{CaptionRatio}#{nl}Maximum HP: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
-SKILL_20150317_000934	Umbo Blow
-SKILL_20150317_000935	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by bumping your shield. {nl} Inflicts more damage after blocking an enemy's attack.
-SKILL_20150317_000936	Rim Blow
-SKILL_20150317_000937	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by using the edge of your shield. {nl} Inflicts more damage to both petrified and frozen enemies.
+SKILL_20150317_000926	Incrementa tu ataque, pero reduce tu defensa.
+SKILL_20150317_000927	Daño Físico: +#{CaptionRatio}#{nl}Defensa Física: -#{CaptionRatio2}#{nl}Duración: #{CaptionTime}# segundos
+SKILL_20150317_000928	Concentración
+SKILL_20150317_000929	Incrementa la potencia de tus habilidades ofensivas.
+SKILL_20150317_000930	Daño Adicional: +#{CaptionRatio2}#{nl}Número de golpes: #{CaptionRatio}#{nl}Duración: #{CaptionTime}# segundos
+SKILL_20150317_000931	Contención
+SKILL_20150317_000932	Reduce los PS máximos, pero incrementa tu ataque.
+SKILL_20150317_000933	Ataque Físico: +#{CaptionRatio}#{nl}PS máximos: -#{CaptionRatio2}#{nl}Duración: #{CaptionTime}# segundos
+SKILL_20150317_000934	Golpe de umbo
+SKILL_20150317_000935	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl}Ataca golpeando con tu escudo. {nl} Inflinge más daño tras bloquear un ataque enemigo.
+SKILL_20150317_000936	Golpe con el canto
+SKILL_20150317_000937	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl}Ataca utilizando el borde del escudo. {nl} Inflinge más daño a enemigos congelados o petrificados.
 SKILL_20150317_000938	Swash Buckling
 SKILL_20150317_000939	Strike your shield to provoke nearby enemies.
 SKILL_20150317_000940	Targets: #{SkillSR}#{nl}Maximum Provocation: +#{CaptionRatio}# for #{CaptionTime}# seconds
@@ -1670,8 +1670,8 @@ SKILL_20150317_001669	Cursed a target.
 SKILL_20150317_001670	Natural recovery impossible, magic defense decreases.
 SKILL_20150317_001671	Addiction Aura
 SKILL_20150317_001672	Spreads poison to nearby enemies. Limited running and item usage.
-SKILL_20150317_001673	Growth
-SKILL_20150317_001674	Confusion
+SKILL_20150317_001673	Crecimiento
+SKILL_20150317_001674	Confusión
 SKILL_20150317_001675	Can't distinguish friend and foe.
 SKILL_20150317_001676	Staggered
 SKILL_20150317_001677	Player RAISEUP
