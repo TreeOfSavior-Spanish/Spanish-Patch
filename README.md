@@ -4,7 +4,6 @@ Proyecto de traduccion ToS a Español.
 Miembros:
 - Darkloud
 - Darkelfen (elfengirox00)
-- DkAngelS
 - Ayaros-Chan
 - Corbi
 - SoulCryes
@@ -72,3 +71,4 @@ los cambios que hemos realizado, le añadiremos un nombre descriptivo y una pequ
 - FrancoRiosP
 - Alex-GS (Thenestas)
 - Vyole
+- DkAngelS
