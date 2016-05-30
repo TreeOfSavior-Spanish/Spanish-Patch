@@ -13,21 +13,21 @@ Miembros:
 
 ## Archivos a Traducir:
 - ETC.tsv - Darkelfen (elfengirox00)
-- SKILL.tsv - Xerraspls
+- SKILL.tsv - Teravan
 - ITEM.tsv - Darkloud
 - QUEST.tsv - Ayaros-Chan
-- QUEST_JOBSTEP.tsv - DkAngelS
-- QUEST_LV_0100.tsv - Teravan
+- QUEST_JOBSTEP.tsv - Corbi
+- QUEST_LV_0100.tsv - Xerraspls
 - QUEST_LV_0200.tsv 
 - QUEST_LV_0300.tsv
 - QUEST_UNUSED.tsv
-- Imágenes de carga - Corbi
 - Mapas - SoulCryes
 
 ## Archivos Traducidos:
 
 - INTL.tsv - Darkelfen (elfengirox00)
 - UI.tsv - Darkloud
+- Imágenes de carga - Corbi
 
 ## Web de la Traducción & Base de Datos
 
