@@ -4,21 +4,25 @@ Proyecto de traduccion ToS a Español.
 Miembros:
 - Darkloud
 - Darkelfen (elfengirox00)
-- Alex-GS (Thenestas)
 - DkAngelS
-- Vyole
 - Ayaros-Chan
+- Cobi
+- SoulCryes
+- Teravan
+- Xerraspls
 
 ## Archivos a Traducir:
 - ETC.tsv - Darkelfen (elfengirox00)
-- SKILL.tsv
-- ITEM.tsv - Darkloud & Alex-GS (Thenestas)
+- SKILL.tsv - Xerraspls
+- ITEM.tsv - Darkloud
 - QUEST.tsv - Ayaros-Chan
 - QUEST_JOBSTEP.tsv - DkAngelS
-- QUEST_LV_0100.tsv 
-- QUEST_LV_0200.tsv - Vyole
+- QUEST_LV_0100.tsv - Teravan
+- QUEST_LV_0200.tsv 
 - QUEST_LV_0300.tsv
 - QUEST_UNUSED.tsv
+- Imágenes de carga - Cobi
+- Mapas - SoulCryes
 
 ## Archivos Traducidos:
 
@@ -66,4 +70,5 @@ los cambios que hemos realizado, le añadiremos un nombre descriptivo y una pequ
 
 - Razku
 - FrancoRiosP
-
+- Alex-GS (Thenestas)
+- Vyole
