@@ -1575,7 +1575,7 @@ ETC_20150317_001574	Objeto Comprado
 ETC_20150317_001575	¡Has fallado en comprar el objeto! Ya se ha vendido.
 ETC_20150317_001576	¡Has fallado en comprar el objeto! No hay suficientes unidades de este objeto. La cantidad disponible es {Auto_1}
 ETC_20150317_001577	¡Has fallado en comprar el objeto! Fondos insuficientes.
-ETC_20150317_001578	¡Has fallado en comprar el objeto! El vendedor ha cancelado o removido este objeto de la lista.
+ETC_20150317_001578	¡Has fallado en comprar el objeto! El vendedor ha cancelado o sacado este objeto de la lista.
 ETC_20150317_001579	¡Has fallado en comprar el objeto! Un error desconocido ha ocurrido.
 ETC_20150317_001580	Estuvo cerca
 ETC_20150317_001581	{s20}{ol}{#46ffc8} No tienes suficiente Resistencia
@@ -1967,7 +1967,7 @@ ETC_20150317_001966	¿Confirmar?
 ETC_20150317_001967	Susurrar
 ETC_20150317_001968	Click derecho para equipar
 ETC_20150317_001969	Click derecho para vender
-ETC_20150317_001970	Click derecho para remover
+ETC_20150317_001970	Click derecho para quitar
 ETC_20150317_001971	 Nivel o superior
 ETC_20150317_001972	Coste de reparación
 ETC_20150317_001973	{Auto_2} de {Auto_1} objetos usados
@@ -2071,8 +2071,8 @@ ETC_20150317_002070	¡Larva Medusa está tratando de ejecutar una explosión sui
 ETC_20150317_002071	Únete a las Misiones de Klaipeda
 ETC_20150317_002072	Únete a las Misiones de Fedimian
 ETC_20150317_002073	Merregina es la causante de la contaminación. {nl} Derrótala para purificar la fuente.
-ETC_20150317_002074	Removiendo la contaminación
-ETC_20150317_002075	¡El origen de la contaminación ha sido removido!
+ETC_20150317_002074	Purificando la contaminación
+ETC_20150317_002075	¡El origen de la contaminación ha sido eliminado!
 ETC_20150317_002076	Deshazte de los monstruos antes de reducir la contaminación.
 ETC_20150317_002077	Maíz Negro Inconsciente
 ETC_20150317_002078	No puedes usar los contenedores porque apestan a sangre.
@@ -2210,7 +2210,7 @@ ETC_20150317_002209	Mirando los comestibles
 ETC_20150317_002210	No queda basura.{nl}Recolecta más basura desde el comedero de Ishplau.
 ETC_20150317_002211	No hay monstruos cercas para lanzar la purga.
 ETC_20150317_002212	Destruyendo
-ETC_20150317_002213	¡Fuíste ralentízado por un aura somnolienta proviniente de la Raíz Cristal del Árbol!{nl}¡Remueve la Raíz Cristal del Árbol en la Ruta Nederlingas para remover esta maldición!
+ETC_20150317_002213	¡Fuíste ralentízado por un aura somnolienta proveniente de la Raíz Cristal del Árbol!{nl}¡Elimina la Raíz Cristal del Árbol en la Ruta Nederlingas para deshacer esta maldición!
 ETC_20150317_002214	Desmantelando
 ETC_20150317_002215	Has fallado en desmantelar el núcleo del cristal
 ETC_20150317_002216	Has obtenido la resistencia para desmantelar el núcleo del cristal
@@ -2351,7 +2351,7 @@ ETC_20150317_002350	¡Flores que puedo usar para el alma necesaria!
 ETC_20150317_002351	¡Dediqué todas las ofrendas!
 ETC_20150317_002352	¡Has hecho una ofrenda!
 ETC_20150317_002353	¡Debes atraer y derrotar los monstruos en las cercanías del santuario!
-ETC_20150317_002354	Removido tras robar la tierra que poseía los círculos de invocación.
+ETC_20150317_002354	Eliminado tras robar la tierra que poseía los círculos de invocación.
 ETC_20150317_002355	¡La salud de la Estatua del Diosa ha sido reducida a menos del 60%! {nl} ¡Deshaste de las líanas!
 ETC_20150317_002356	¡La salud de la Estatua del Diosa ha sido reducida a menos del 20%! {nl} ¡Deshaste de las líanas!
 ETC_20150317_002357	¡La salud de la Estatua del Diosa ha sido reducida a menos del 10%! {nl} ¡Deshaste de las líanas!
@@ -2533,7 +2533,7 @@ ETC_20150317_002532	Revisando Brújula
 ETC_20150317_002533	Has encontrado Lubricante. {nl} Regresa y repara el Dispositivo Suplidor de Magia.
 ETC_20150317_002534	Todos los purificadores se encuentran funcionando. {nl} Reactiva la circulación de purificadores.
 ETC_20150317_002535	Has encontrado todas las partes necesarias para las reparaciones. {nl} Regresa al purificador principal y arreglalo.
-ETC_20150317_002536	La magia se escapa lentamente de la Joya de Prominencia. {nl} Mejor encontrar rápidamente la causa y removerla.
+ETC_20150317_002536	La magia se escapa lentamente de la Joya de Prominencia. {nl} Mejor encontrar rápidamente la causa y eliminarla.
 ETC_20150317_002537	Úbicate frente a la válvula para revisarla.
 ETC_20150317_002538	Por favor procede luego de haber derrotado al Bearkaras.
 ETC_20150317_002539	¡Partes encontradas! {nl} Regresa al purificador de la entrada y arreglalo.
@@ -2579,7 +2579,7 @@ ETC_20150317_002578	¡Provocado!
 ETC_20150317_002579	¡Reflejar Daño!
 ETC_20150317_002580	¡Aumenta daño en {Auto_1} %%!
 ETC_20150317_002581	¡Reduce daño en {Auto_1} %%!
-ETC_20150317_002582	¡Remover Escudo!
+ETC_20150317_002582	¡Quitar Escudo!
 ETC_20150317_002583	¡¡Contra-ataque!!
 ETC_20150317_002584	Daño de arma por atributo + {Auto_1}%
 ETC_20150317_002585	Golpe de Canto Rompe-hielo
@@ -3224,13 +3224,13 @@ ETC_20150317_003223	Obtuve el objeto
 ETC_20150317_003224	Objeto descartado o robado
 ETC_20150317_003225	Objeto usado
 ETC_20150317_003226	Objeto equipado
-ETC_20150317_003227	Objeto removido
+ETC_20150317_003227	Objeto quitado
 ETC_20150317_003228	Habilidad usada
 ETC_20150317_003229	Entrado a zona
 ETC_20150317_003230	Dejado la zona
 ETC_20150317_003231	Buff recibido
-ETC_20150317_003232	Buff removido
-ETC_20150317_003233	Todos los buffs removidos
+ETC_20150317_003232	Buff eliminado
+ETC_20150317_003233	Todos los buffs han sido eliminados
 ETC_20150317_003234	BroadMSG reception
 ETC_20150317_003235	Receive UI events
 ETC_20150317_003236	Cast
@@ -3262,7 +3262,7 @@ ETC_20150317_003261	¡Mata a los monstruos!
 ETC_20150317_003262	¡El efecto de las piedras activas ha sido deshabilitado!
 ETC_20150317_003263	¡El efecto de las piedras activas ha sido deshabilitado!{nl} Puedes recibir el Buff activado nuevamente si regresas al manual de Supresor del Mausoleo
 ETC_20150317_003264	Absorviendo Energía
-ETC_20150317_003265	Removiendo
+ETC_20150317_003265	Eliminando
 ETC_20150317_003266	Boowook Despierto
 ETC_20150317_003267	Despertando
 ETC_20150317_003268	Liberando
@@ -3424,7 +3424,7 @@ ETC_20150317_003423	Tontulionv2
 ETC_20150317_003424	Preguntar si tiene el antídoto
 ETC_20150317_003425	Dar 100 plata
 ETC_20150317_003426	Preguntar si tiene la medicina
-ETC_20150317_003427	Removiendo
+ETC_20150317_003427	Quitando
 ETC_20150317_003428	Ya liberado.
 ETC_20150317_003429	Guardían de la Placa
 ETC_20150317_003430	Saurman Lancero
@@ -3664,7 +3664,7 @@ ETC_20150317_003663	¡La Misión cuando te golpean!
 ETC_20150317_003664	¡Misión Completa! {nl} Jonas se ha despertado.
 ETC_20150317_003665	Activar cuando el dispositivo se encuentre brillando{nl} para acortar el tiempo.
 ETC_20150317_003666	¡Activar Equipo! (Barra Espaciadora)
-ETC_20150317_003667	¡Remueve la forja del Molde!
+ETC_20150317_003667	¡Quita la forja del Molde!
 ETC_20150317_003668	Modificar
 ETC_20150317_003669	¡Misión completa! {nl}
 ETC_20150317_003670	Joya con energía maligna recolectada
@@ -3918,7 +3918,7 @@ ETC_20150317_003917	Cannot find error value
 ETC_20150317_003918	No class is applicable
 ETC_20150317_003919	Found value
 ETC_20150317_003920	Found body value
-ETC_20150317_003921	Remover efecto
+ETC_20150317_003921	Quitar efecto
 ETC_20150317_003922	Añade Retroceso +
 ETC_20150317_003923	Por favor da click en el mapa en la ubicación deseada para moverte.
 ETC_20150317_003924	Zona Segura
@@ -4118,7 +4118,7 @@ ETC_20150317_004117	The number value of the current table:
 ETC_20150317_004118	Output the control set
 ETC_20150317_004119	Turning the value to original due to an error
 ETC_20150317_004120	You cannot change the value
-ETC_20150317_004121	Remover
+ETC_20150317_004121	Quitar
 ETC_20150317_004122	Desbloquear la ventana
 ETC_20150317_004123	Creando nueva ventana
 ETC_20150317_004124	Cambiando las propiedades de la ventana
@@ -4787,7 +4787,7 @@ ETC_20150317_004786	Preguntar que sucedio luego
 ETC_20150317_004787	¡Has encontrado una palanca de cerrojo!
 ETC_20150317_004788	Encontre información acerca del flujo de caballos de fuerza.
 ETC_20150317_004789	Información especial no pudo ser encontrada.
-ETC_20150317_004790	¡Por favor remueve la trampa que atrae mosntruos!
+ETC_20150317_004790	¡Por favor deshaste la trampa que atrae monstruos!
 ETC_20150317_004791	Más monstruos se acercan, es peligroso.
 ETC_20150317_004792	Purificando tierra corrupta
 ETC_20150317_004793	¡Has purificado la tierra corrupta por demonios!
@@ -4861,7 +4861,7 @@ ETC_20150317_004860	1 Estadistica Aumentada por usar los Movimientos Secretos de
 ETC_20150317_004861	¿Qué ocurre?
 ETC_20150317_004862	¿Qué debemos hacer?
 ETC_20150317_004863	Solicitar soporte mágico
-ETC_20150317_004864	¡Has removido el Círculo de Invocación Demoníaco!
+ETC_20150317_004864	¡Has eliminado el Círculo de Invocación Demoníaco!
 ETC_20150317_004865	¡De prisa! ¡Activa la barrera!
 ETC_20150317_004866	*huff huff*
 ETC_20150317_004867	¡Has recolectado Savia Espiritualmente Cargada!
@@ -5166,7 +5166,7 @@ ETC_20150317_005165	¡El efecto de la bomba ralentiza tu movimiento {nl} cuando 
 ETC_20150317_005166	Así que aún vives...
 ETC_20150317_005167	Es tu fin.{nl}¡Muere en silencio!
 ETC_20150317_005168	Diosa Saule
-ETC_20150317_005169	Uniendo Círculo Mágico
+ETC_20150317_005169	Círculo Mágico para Atar
 ETC_20150317_005170	Borde del Templo
 ETC_20150317_005171	Diosa Saule
 ETC_20150317_005172	Portal
@@ -5756,7 +5756,7 @@ ETC_20150317_005755	Ataque disminuído. Cada acumulación aumenta la cantidad re
 ETC_20150317_005756	Disminución de Defensa 
 ETC_20150317_005757	Defensa disminuída. Cada acumulación aumenta la cantidad reducida
 ETC_20150317_005758	Armadura Rota
-ETC_20150317_005759	Temporalmente remueve la defensa de tu armadura.
+ETC_20150317_005759	Temporalmente elimina la defensa de tu armadura.
 ETC_20150317_005760	Hace daño continuo a Humanos y Bestias, A diferencia de los humanos, las Bestias son acercadas y luego infectadas.
 ETC_20150317_005761	Ralentí
 ETC_20150317_005762	Tu velocidad de movimiento se reduce en un 50%.
@@ -6086,8 +6086,8 @@ ETC_20150317_006086	El Personaje puede recibir
 ETC_20150317_006087	 cuando {nl}la colección es completada.
 ETC_20150317_006088	Puedes recibir
 ETC_20150317_006089	 sólo de las colecciones que han sido completadas.
-ETC_20150317_006090	Usa {img mouseclick_right 40 40} para remover objetos de sus ranuras.
-ETC_20150317_006091	Remover un objeto de su ranura también removera los Efectos de la Colección.
+ETC_20150317_006090	Usa {img mouseclick_right 40 40} para quitar objetos de sus ranuras.
+ETC_20150317_006091	Quitar un objeto de su ranura eliminará los Efectos de la Colección.
 ETC_20150317_006092	Incompatibilidad
 ETC_20150317_006093	Los monstruos tienen elementos y defensas.
 ETC_20150317_006094	Los elementos tienen las siguientes compatibilidades
@@ -6111,11 +6111,11 @@ ETC_20150317_006111	Requieres Plata para Añadir una ranura.
 ETC_20150317_006112	Dale Click derecho a una Gema para destacar los objetos en tu inventario a los cuales una Gema puede ser añadida.
 ETC_20150317_006113	La Gema será insertada al objeto que selecciones.
 ETC_20150317_006114	Las Gemas insertadas pueden ser revisadas en la descripción del Objeto.
-ETC_20150317_006115	Para remover una Gema, usa el {nl}
+ETC_20150317_006115	Para extraer una Gema, usa el {nl}
 ETC_20150317_006116	Manejo de Gemas
 ETC_20150317_006117	Extracción de Gemas
-ETC_20150317_006118	puede ser usado para removerla nuevamente.
-ETC_20150317_006119	Advertencia: El Potencial es consumido cuando remueves Gemas.
+ETC_20150317_006118	puede ser usado para extraerla nuevamente.
+ETC_20150317_006119	Advertencia: El Potencial es consumido cuando extraes Gemas.
 ETC_20150317_006120	Resurrección
 ETC_20150317_006121	    Este hechizo te permite revivir a un PJ muerto.
 ETC_20150317_006122	Si tienes 0 PS, tu personaje muere y se vuelve
@@ -6126,7 +6126,7 @@ ETC_20150317_006126	Instalando
 ETC_20150317_006127	y
 ETC_20150317_006128	Puedes unir un Amuleto Mágico a un objeto.
 ETC_20150317_006129	Las ranuras para Amuletos Mágicos pueden variar de equipo en equipo.
-ETC_20150317_006130	El Amuleto Mágico unido no puede ser removido.
+ETC_20150317_006130	El Amuleto Mágico unido no puede ser extraido.
 ETC_20150317_006131	Un Amuleto Mágico no puede ser mejorado.
 ETC_20150317_006132	Puedes obtener Amuletos Mágicos de los monstruos.
 ETC_20150317_006133	La fogata puede usarse para recuperar PS rápidamente, crear objetos, combinar gemas y otras actividades variadas.
@@ -7529,7 +7529,7 @@ ETC_20150317_007529	Guía a las almas
 ETC_20150317_007530	Salvación Incorrecta (3)
 ETC_20150317_007531	Recupera la Urna
 ETC_20150317_007532	Confirma Puerta del Alma
-ETC_20150317_007533	Remueve Trampa
+ETC_20150317_007533	Quita la Trampa
 ETC_20150317_007534	Buscando un Gran Pilar (1)
 ETC_20150317_007535	Buscando un Gran Pilar (2)
 ETC_20150317_007536	Buscando un Gran Pilar (3)
@@ -7648,9 +7648,9 @@ ETC_20150317_007648	Despierta los recuerdos durmientes de las Esculturas de Búh
 ETC_20150317_007649	Mercenario del valle
 ETC_20150317_007650	Dispositivo Especial del Valle
 ETC_20150317_007651	Grupo de Investigación Desaparecido (3)
-ETC_20150317_007652	Remueve la Barrera Oeste
-ETC_20150317_007653	Remueve la Barrera Este
-ETC_20150317_007654	Remueve la Barrera Norte
+ETC_20150317_007652	Elimina la Barrera Oeste
+ETC_20150317_007653	Elimina la Barrera Este
+ETC_20150317_007654	Elimina la Barrera Norte
 ETC_20150317_007655	El camino perdido de una chica (1)
 ETC_20150317_007656	Encuentra pistas de los desaparecidos revisando las bolsas de los Saugas
 ETC_20150317_007657	El camino perdido de una chica (2)
@@ -7728,7 +7728,7 @@ ETC_20150317_007728	Recoge la hierba pedida por el Maestre Clérigo
 ETC_20150317_007729	Venera la Estatua de la Diosa Vakarine en Fedimian
 ETC_20150317_007730	Maneja la Estatua de la Diosa Vakarine en Fedimian
 ETC_20150317_007731	Maneja la Estatua de la Diosa Vakarine en Klaipeda
-ETC_20150317_007732	Remueve la fuente de la corrupción
+ETC_20150317_007732	Elimina la fuente de la corrupción
 ETC_20150317_007733	Usa la Cresta del Vacío hacia la chica cerca del portal
 ETC_20150317_007734	Santuario de los Secretos - Espadachín type_conditions
 ETC_20150317_007735	Santuario de los Secretos - Wizard type_conditions
@@ -7761,7 +7761,7 @@ ETC_20150317_007761	Ofrece flores al altar para confortar a las almas
 ETC_20150317_007762	Dona la cantidad de plata adecuada al altar
 ETC_20150317_007763	Derrota a los monstruos atraídos al altar
 ETC_20150317_007764	Recolecta Gotas de Rocío de Caña
-ETC_20150317_007765	Remueve el círculo de invocación de monstruos
+ETC_20150317_007765	Deshaste del círculo de invocación de monstruos
 ETC_20150317_007766	Proteje el altar de los monstruos
 ETC_20150317_007767	Obtén la bandera para encontrar la maldición de los monstruos a través de la marca de fe
 ETC_20150317_007768	Proteje la Estatua de Diosa de la hiedra venenosa enredándosele
@@ -7826,7 +7826,7 @@ ETC_20150317_007826	Revisar área B
 ETC_20150317_007827	Revisar área C
 ETC_20150317_007828	Revisar las murallas colapsadas de la plaza
 ETC_20150317_007829	Revisa la distancia al herrero
-ETC_20150317_007830	Remueve la Escarcha Petrificante
+ETC_20150317_007830	Quita la Escarcha Petrificante
 ETC_20150317_007831	Reporte de la Escarcha Petrificante (3)
 ETC_20150317_007832	Derrota al Dico ladrón de tumbas
 ETC_20150317_007833	Recupera los sumistros robados
@@ -7856,7 +7856,7 @@ ETC_20150317_007856	La tercera Cerca de Espinas (2)
 ETC_20150317_007857	La tercera Cerca de Espinas (3)
 ETC_20150317_007858	La primera Cerca de Espinas (3)
 ETC_20150317_007859	Derrite un túnel de espinas para usar la solución ácida
-ETC_20150317_007860	Usa el cristal mágico para remover las líanas espinosas
+ETC_20150317_007860	Usa el cristal mágico para quitar las líanas espinosas
 ETC_20150317_007861	Abre la compuerta del templo (1)
 ETC_20150317_007862	Abre la compuerta del templo (2)
 ETC_20150317_007863	Activa la barrera del Altar Apsauga
@@ -8971,7 +8971,7 @@ ETC_20150317_008971	For skill type
 ETC_20150317_008972	Offensive Skill
 ETC_20150317_008973	{#00ff06}Recovery
 ETC_20150317_008974	{#000cff}Defense
-ETC_20150317_008975	{#Fcff00}Collection
+ETC_20150317_008975	{#Fcff00}Colección
 ETC_20150317_008976	{#Fcff00}Buff
 ETC_20150317_008977	For buff
 ETC_20150317_008978	{#050505}Skill of giving harmful effects
@@ -9389,7 +9389,7 @@ ETC_20150317_009389	Evil Aura
 ETC_20150317_009390	Peregrino Julius turned into a Drapeliun!
 ETC_20150317_009391	Making a grave for Liliya
 ETC_20150317_009392	Grave of Peregrino Mathas*
-ETC_20150317_009393	You are slowed by a lazy aura emanating from a Raíz Cristal del Árbol!{nl}Remove the Raíz Cristal del Árbol at Nederlingas Highway to remove this curse!
+ETC_20150317_009393	¡Fuíste ralentízado por un aura somnolienta proveniente de la Raíz Cristal del Árbol!{nl}¡Elimina la Raíz Cristal del Árbol en la Ruta Nederlingas para deshacer esta maldición!
 ETC_20150317_009394	Variant Laziness Raíz Cristal del Árbol*
 ETC_20150317_009395	Traces of Pollution
 ETC_20150317_009396	Scattered Raíz Cristal del Árbol Core
@@ -12799,7 +12799,7 @@ ETC_20150714_012800	Quest Tool File Copy
 ETC_20150714_012801	Quest experimental item for hunting
 ETC_20150714_012802	Open Production File
 ETC_20150714_012803	Open XML
-ETC_20150714_012804	PNJ Collection
+ETC_20150714_012804	PNJ Colección
 ETC_20150714_012805	Data Folder location
 ETC_20150714_012806	Monster database
 ETC_20150714_012807	View all quests
@@ -12824,7 +12824,7 @@ ETC_20150714_012825	Quest Dialogue Work / Dialogue addition
 ETC_20150714_012826	Continuing quest validation / large quest update
 ETC_20150714_012827	Quest Tree Initialization
 ETC_20150714_012828	ClassName, ClassID, Name Search
-ETC_20150714_012829	) Search PNJ Collection
+ETC_20150714_012829	) Search PNJ Colección
 ETC_20150714_012830	9) Simultaneous List Search
 ETC_20150714_012831	8) Search script contents
 ETC_20150714_012832	7) xml search / list
@@ -13389,15 +13389,15 @@ ETC_20150717_013390	Pergaminos de Teletranporte can be bought from shops or obta
 ETC_20150717_013391	{img backspace 40 40}(Backspace) will also work as a{nl}
 ETC_20150717_013392	can be obtained through various ways and
 ETC_20150717_013393	[Klaipeda's Asociación Mágica] Henrika
-ETC_20150717_013394	 PNJ activates the Collection.
+ETC_20150717_013394	 PNJ activates the Colección.
 ETC_20150717_013395	You can check the registered decks through
 ETC_20150717_013396	 PNJ.
-ETC_20150717_013397	Select the Collection to see the items needed to complete the collection.
+ETC_20150717_013397	Select the Colección to see the items needed to complete the colección.
 ETC_20150717_013398	 will be enabled when you add the required items on the item slot.
-ETC_20150717_013399	You can add the item to the collection by dragging the item from inventory to the item slot.
+ETC_20150717_013399	You can add the item to the colección by dragging the item from inventory to the item slot.
 ETC_20150717_013400	Items added can be moved back to your inventory with {img mouseclick_right 40 40}.
-ETC_20150717_013401	Removing items from a completed Collection will mark it as incomplete and remove its effect.
-ETC_20150717_013402	Collection effects are enabled only when the Collection is completed.
+ETC_20150717_013401	Removing items from a completed Colección will mark it as incomplete and remove its effect.
+ETC_20150717_013402	Colección effects are enabled only when the Colección is completed.
 ETC_20150717_013403	How to retrieve supply box
 ETC_20150717_013404	Aside from adoption, you can also buy food for your companion or train them at the Companion Trader.
 ETC_20150717_013405	You can adopt a companion if you have enough money.
@@ -13810,11 +13810,11 @@ ETC_20150729_013811	Pergaminos de Teletranporte can be bought from shops and can
 ETC_20150729_013812	You can use the 'Return' button to complete quests easier.
 ETC_20150729_013813	 can be activated through the items.
 ETC_20150729_013814	 can be obtained through various ways and{nl}
-ETC_20150729_013815	 PNJ activates the Collection.
+ETC_20150729_013815	 PNJ activates the Colección.
 ETC_20150729_013816	{nl}{nl}If you have registered decks,
-ETC_20150729_013817	You can add the item to the collection by dragging the item from inventory to the Collection.
+ETC_20150729_013817	You can add the item to the colección by dragging the item from inventory to the Colección.
 ETC_20150729_013818	{nl}{nl}Items added can be moved back to your inventory by {img mouseclick_right 40 40}.
-ETC_20150729_013819	Removing items from a completed Collection will mark it as incomplete and remove its effect.{nl}Only completed Collections give collection effects.
+ETC_20150729_013819	Removing items from a completed Colección will mark it as incomplete and remove its effect.{nl}Only completed Collections give colección effects.
 ETC_20150729_013820	Press {img SPACE 40 40} in front of the Supplies Box to retrieve it.
 ETC_20150729_013821	Adopt and train companions. They can aid you in combat and transport.
 ETC_20150729_013822	You can adopt a companion by paying the fee required.
@@ -15689,7 +15689,7 @@ ETC_20151016_015690	Script has tried to leave the logs inadequately. Check the c
 ETC_20151016_015691	You've failed to connect due to a socket error.
 ETC_20151016_015692	You've failed to reset Mongo DB. Check whether the related information is in the world table.
 ETC_20151016_015693	It took a long time to execute sp_ies_master_set
-ETC_20151016_015694	The collection is not registered at sp_server_logging_list. Please inquire to DB team or Management Team.
+ETC_20151016_015694	The colección is not registered at sp_server_logging_list. Please inquire to DB team or Management Team.
 ETC_20151016_015695	This packet is not defined. It will be treated as a hacking packet.
 ETC_20151016_015696	Esgrimista
 ETC_20151016_015697	Dragón
@@ -17985,9 +17985,9 @@ ETC_20151224_017985	Recuperación de PS Rate per Second and PM Recovery Rate per
 ETC_20151224_017986	When you get shot, you deceive an enemy using a log and a counter attack.
 ETC_20151224_017987	PM Absorption
 ETC_20151224_017988	Reduces movement speed by 20%, PM Bloodsucking
-ETC_20151224_017989	Collection: Tenet Church B1
-ETC_20151224_017990	Collection: Tenet Church 1P
-ETC_20151224_017991	Collection: Tenet Church 2P
+ETC_20151224_017989	Colección: Tenet Church B1
+ETC_20151224_017990	Colección: Tenet Church 1P
+ETC_20151224_017991	Colección: Tenet Church 2P
 ETC_20151224_017992	Number Hi Low
 ETC_20151224_017993	Number Baseball Game
 ETC_20151224_017994	Find the next number
@@ -18560,7 +18560,7 @@ ETC_20151224_018560	Hula
 ETC_20151224_018561	Shrug
 ETC_20151224_018562	Nono
 ETC_20151224_018563	Teehee
-ETC_20151224_018564	Collection Request of Asociación Mágica
+ETC_20151224_018564	Colección Request of Asociación Mágica
 ETC_20151224_018565	Gimmick Number Combination
 ETC_20151224_018566	Operate the First Sealed Apparatus
 ETC_20151224_018567	Operate the Second Sealed Apparatus
@@ -19381,8 +19381,8 @@ ETC_20151224_019381	You are being absorbed by the powerful force!
 ETC_20151224_019382	The collected magic powers will be{nl} dispursed if you get a little closer!
 ETC_20151224_019383	You've collected the reward
 ETC_20151224_019384	You have not collected enough energy
-ETC_20151224_019385	End Magic Power Collection{nl}{rank}rank!
-ETC_20151224_019386	End Magic Power Collection{nl}You are not ranked to {low_rank}
+ETC_20151224_019385	End Magic Power Colección{nl}{rank}rank!
+ETC_20151224_019386	End Magic Power Colección{nl}You are not ranked to {low_rank}
 ETC_20151224_019387	The light bead disppeared to Sudetas Valley.{nl}Chase after the light bead.
 ETC_20151224_019388	You've defeated the trapped monstruo
 ETC_20151224_019389	Smoky Greenery
@@ -20649,7 +20649,7 @@ ETC_20160224_020649	No tienes suficientes tickets.
 ETC_20160224_020650	Sólo puede ser usado en el Escondite de Clan.
 ETC_20160224_020651	El número de intercambios{nl}permitidos se reducirá en {Value}{nl}¿Deseas continuar?
 ETC_20160224_020652	Click Izquierdo en el objeto para seleccionar.
-ETC_20160224_020653	No puedes remover una torre durante una guerra.
+ETC_20160224_020653	No puedes eliminar una torre durante una guerra.
 ETC_20160224_020654	No puedes registrar una cantidad superior al número de intercambios permitidos.
 ETC_20160224_020655	El objeto equipado está encantado y no puede ser despertado.
 ETC_20160224_020656	Guardar un objeto en el Almacén del Equipo{nl}reduce su Potencial.{nl}Sin embargo, no se reduce al retirarlo.{nl}¿Aún así quieres guardarlo?
@@ -21266,7 +21266,7 @@ ETC_20160323_021265	Añade Energía Balanceadora al Círculo Mágico
 ETC_20160323_021266	Crea un Círculo Mágico para Atar para el Círculo Mágico de la Tierra
 ETC_20160323_021267	Crea un Círculo Mágico para Atar para el Sea Círculo Mágico Marino
 ETC_20160323_021268	Crea un Círculo Mágico para Atar para el Círculo Mágico para Balancear
-ETC_20160323_021269	Remueve los peligrosos Círculos Mágicos
+ETC_20160323_021269	Elimina los peligrosos Círculos Mágicos
 ETC_20160323_021270	Charge Pattern Time Settings
 ETC_20160323_021271	Set Bronza
 ETC_20160323_021272	Set Argint
@@ -21775,7 +21775,7 @@ ETC_20160509_021773	Usar un Token aumenta la cantidad de objetos que puedes list
 ETC_20160512_021774	Aplica beneficios de Token a todos tus personajes en el servidor por 15 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 9 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +30% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium					
 ETC_20160512_021775	Cobrar el DLC tiene un retardo de (seconds) segundos				
 ETC_20160513_021776	Aplica beneficios de Token a todos tus personajes en el servidor por 15 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 9 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +30% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium{nl} - 1 Entrada extra a Instancias de misiones y mazmorras
-ETC_20160520_021777	Collection:Never-Seen-Before
+ETC_20160520_021777	Colección:Never-Seen-Before
 ETC_20160520_021778	Ash Blond Dye
 ETC_20160520_021779	Such subtle golden color is the best to attract the attention. Right-click to use. Check the Character Info for the registered color.
 ETC_20160520_021780	Ruby Wine Dye
@@ -21826,15 +21826,15 @@ ETC_20160520_021824	Trump Cleric Package(Male)
 ETC_20160520_021825	Contains goodies. Right-click to use.{nl} - Trump Cleric Costume(Male) x1{nl} - Sailor Heart Hat x1{nl} - Enchant Scroll x40
 ETC_20160520_021826	Trump Cleric Package(Female)
 ETC_20160520_021827	Contains goodies. Right-click to use.{nl} - Trump Cleric Costume(Female) x1{nl} - Sailor Heart Hat x1{nl} - Enchant Scroll x40
-ETC_20160520_021828	Penguin
-ETC_20160520_021829	Steam Inventory Useability
-ETC_20160520_021830	Neutral Time (sec)
-ETC_20160520_021831	Do you really wish to use it?
-ETC_20160520_021832	TP has been recharged.
-ETC_20160520_021833	TP recharge has failed.
-ETC_20160520_021834	Do you want to change your guild to neutral status?{nl}Neutral guilds cannot participate in field wars.{nl}The neutral status will be maintained for {DAY} day(s).
-ETC_20160520_021835	Do you want to change your guild to non-neutral status?{nl}Non-neutral guilds can participate in field wars.{nl}The non-neutral status will be maintained for {DAY} day(s).
-ETC_20160520_021836	Ash Blond
-ETC_20160520_021837	Ruby Wine
-ETC_20160520_021838	Pastel Green
-ETC_20160520_021839	Ash Grey
+ETC_20160520_021828	Pinguino
+ETC_20160520_021829	Uso del Steam Inventory
+ETC_20160520_021830	Tiempo en neutral (seg)
+ETC_20160520_021831	¿Realmente deseas usarlo?
+ETC_20160520_021832	TP recargado.
+ETC_20160520_021833	La carga de TP ha fallado.
+ETC_20160520_021834	¿Deseas cambiar tu clan a un estado neutral?{nl}Los clanes neutrales no pueden participar en guerras.{nl}El estado neutral será mantenido por {DAY} día(s).
+ETC_20160520_021835	¿Deseas cambiar tu clan a un estado no-neutral?{nl}Los clanes no-neutrales pueden participar en guerras.{nl}El estado no-neutral será mantenido por {DAY} día(s).
+ETC_20160520_021836	Rubio Ceniza
+ETC_20160520_021837	Borgoña
+ETC_20160520_021838	Verde Pastel
+ETC_20160520_021839	Gris Ceniza
