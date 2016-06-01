@@ -4,7 +4,6 @@ Proyecto de traduccion ToS a Español.
 Miembros:
 - Darkloud
 - Darkelfen (elfengirox00)
-- Ayaros-Chan
 - Corbi
 - SoulCryes
 - Teravan
@@ -14,7 +13,7 @@ Miembros:
 - ETC.tsv - Darkelfen (elfengirox00)
 - SKILL.tsv - Teravan
 - ITEM.tsv - Darkloud
-- QUEST.tsv - Ayaros-Chan
+- QUEST.tsv
 - QUEST_JOBSTEP.tsv - Corbi
 - QUEST_LV_0100.tsv - Xerraspls
 - QUEST_LV_0200.tsv 
@@ -72,3 +71,4 @@ los cambios que hemos realizado, le añadiremos un nombre descriptivo y una pequ
 - Alex-GS (Thenestas)
 - Vyole
 - DkAngelS
+- Ayaros-Chan
