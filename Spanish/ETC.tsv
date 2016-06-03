@@ -203,8 +203,8 @@ ETC_20150317_000202	Aunque este monstruo no es particularmente hostíl contra lo
 ETC_20150317_000203	Coliflorr
 ETC_20150317_000204	Vikaras
 ETC_20150317_000205	Aunque originalmente fue creado para defender el Mausoleo Real, desde ese entonces ha cambiado a un estado en el que ataca a cualquiera que entre.
-ETC_20150317_000206	Cockatrice
-ETC_20150317_000207	Aunque que la Cockatrice es muy pequeña, su terrible aliento y mirada puede petrificar a sus enemigos al instante.
+ETC_20150317_000206	Cocatriz
+ETC_20150317_000207	Aunque que la Cocatriz es muy pequeña, su terrible aliento y mirada puede petrificar a sus enemigos al instante.
 ETC_20150317_000208	Perro de la Tumba
 ETC_20150317_000209	Zinutekas
 ETC_20150317_000210	Aunque su apariencia puede ser confundida con otros monstruos similares, los Zinutekas fueron construídos artificialmente con magia.
@@ -243,8 +243,8 @@ ETC_20150317_000242	Draco Verde
 ETC_20150317_000243	Hay incontables tipos de estos demonios menores debido a su gran número.
 ETC_20150317_000244	Draco Negro
 ETC_20150317_000245	Alguna vez esta especie fue rara; sin embargo, sus numeros han aumentado significativamente.
-ETC_20150317_000246	Cockatrice Enorme
-ETC_20150317_000247	la Cockatrice Enorme es muy peligrosa, su mriada y aliento petrifican al enemigo. Enfrentar a esta criatura no debe ser tomado a la lígera.
+ETC_20150317_000246	Cocatriz Enorme
+ETC_20150317_000247	la Cocatriz Enorme es muy peligrosa, su mriada y aliento petrifican al enemigo. Enfrentar a esta criatura no debe ser tomado a la lígera.
 ETC_20150317_000248	Cockat Verde
 ETC_20150317_000249	Cockat Roja
 ETC_20150317_000250	Secoya
@@ -379,7 +379,7 @@ ETC_20150317_000378	Nonato
 ETC_20150317_000379	Salamandra
 ETC_20150317_000380	Saltistter
 ETC_20150317_000381	Ginklas
-ETC_20150317_000382	Ballena de Roca
+ETC_20150317_000382	Ballena de Piedra
 ETC_20150317_000383	Tutu
 ETC_20150317_000384	Yonazolem
 ETC_20150317_000385	Genio Maestro
@@ -484,7 +484,7 @@ ETC_20150317_000483	Esclavo del Templo
 ETC_20150317_000484	Aroaro
 ETC_20150317_000485	Maderin
 ETC_20150317_000486	Orca de roca
-ETC_20150317_000487	Monstruo mutante que se ve cómo un delfín. Sus otras características corresponden a una Ballena de Roca pequeña.
+ETC_20150317_000487	Monstruo mutante que se ve cómo un delfín. Sus otras características corresponden a una Ballena de Piedra pequeña.
 ETC_20150317_000488	Rajaperlita
 ETC_20150317_000489	Drape
 ETC_20150317_000490	Aunque es un tipo de Clyra por su cola, est monstruo parece haber sido transmutado de una calabaza.
@@ -1572,11 +1572,11 @@ ETC_20150317_001571	Este personaje es líder de un grupo y no puede ser borrado.
 ETC_20150317_001572	Crear Personaje
 ETC_20150317_001573	Necesitas aprender el atributo requerido para equiparte esta arma.
 ETC_20150317_001574	Objeto Comprado
-ETC_20150317_001575	¡Has fallado en comprar el objeto! Ya se ha vendido.
-ETC_20150317_001576	¡Has fallado en comprar el objeto! No hay suficientes unidades de este objeto. La cantidad disponible es {Auto_1}
-ETC_20150317_001577	¡Has fallado en comprar el objeto! Fondos insuficientes.
-ETC_20150317_001578	¡Has fallado en comprar el objeto! El vendedor ha cancelado o sacado este objeto de la lista.
-ETC_20150317_001579	¡Has fallado en comprar el objeto! Un error desconocido ha ocurrido.
+ETC_20150317_001575	¡Imposible comprar el objeto! Ya se ha vendido.
+ETC_20150317_001576	¡Imposible comprar el objeto! No hay suficientes unidades de este objeto. La cantidad disponible es {Auto_1}
+ETC_20150317_001577	¡Imposible comprar el objeto! Fondos insuficientes.
+ETC_20150317_001578	¡Imposible comprar el objeto! El vendedor ha cancelado o retirado este objeto de la lista.
+ETC_20150317_001579	¡Imposible comprar el objeto! Un error desconocido ha ocurrido.
 ETC_20150317_001580	Estuvo cerca
 ETC_20150317_001581	{s20}{ol}{#46ffc8} No tienes suficiente Resistencia
 ETC_20150317_001582	No tienes el objeto requerido para realizar la habilidad.
@@ -2538,7 +2538,7 @@ ETC_20150317_002537	Úbicate frente a la válvula para revisarla.
 ETC_20150317_002538	Por favor procede luego de haber derrotado al Bearkaras.
 ETC_20150317_002539	¡Partes encontradas! {nl} Regresa al purificador de la entrada y arreglalo.
 ETC_20150317_002540	¡Partes encontradas! {nl} Regresa al purificador central y arreglalo.
-ETC_20150317_002541	has derrotado a la Ballena de Rocas que impedía tu búsqueda. {nl} Encuentra las partes faltantes del purificador central.
+ETC_20150317_002541	has derrotado a la Ballena de Piedras que impedía tu búsqueda. {nl} Encuentra las partes faltantes del purificador central.
 ETC_20150317_002542	Operando la Piedra Guardiana
 ETC_20150317_002543	¡La energía de la Piedra Guardiana ha sido liberada!
 ETC_20150317_002544	La Piedra Guardiana no se ha cargado aún
@@ -2579,7 +2579,7 @@ ETC_20150317_002578	¡Provocado!
 ETC_20150317_002579	¡Reflejar Daño!
 ETC_20150317_002580	¡Aumenta daño en {Auto_1} %%!
 ETC_20150317_002581	¡Reduce daño en {Auto_1} %%!
-ETC_20150317_002582	¡Quitar Escudo!
+ETC_20150317_002582	¡Desequipar Escudo!
 ETC_20150317_002583	¡¡Contra-ataque!!
 ETC_20150317_002584	Daño de arma por atributo + {Auto_1}%
 ETC_20150317_002585	Golpe de Canto Rompe-hielo
@@ -3224,7 +3224,7 @@ ETC_20150317_003223	Obtuve el objeto
 ETC_20150317_003224	Objeto descartado o robado
 ETC_20150317_003225	Objeto usado
 ETC_20150317_003226	Objeto equipado
-ETC_20150317_003227	Objeto quitado
+ETC_20150317_003227	Objeto desequipado
 ETC_20150317_003228	Habilidad usada
 ETC_20150317_003229	Entrado a zona
 ETC_20150317_003230	Dejado la zona
@@ -3621,8 +3621,8 @@ ETC_20150317_003620	Destruír
 ETC_20150317_003621	PS ({Auto_1}/{Auto_2})
 ETC_20150317_003622	Has fallado en alcanzar la meta porque la defensa ha fallado
 ETC_20150317_003623	Segundos para regresar al campo anterior
-ETC_20150317_003624	¡Has derrotado a la Ballena de Roca! {nl} Yekub se ha debilitado
-ETC_20150317_003625	¡Has fallado en derrotar a la Ballena de Roca! {nl} Yekub se ha fortalecido
+ETC_20150317_003624	¡Has derrotado a la Ballena de Piedra! {nl} Yekub se ha debilitado
+ETC_20150317_003625	¡Has fallado en derrotar a la Ballena de Piedra! {nl} Yekub se ha fortalecido
 ETC_20150317_003626	¡Has derrotado al Caparazón! {nl} Yekub se ha debilitado
 ETC_20150317_003627	Has fallado en derrotar al Caparace
 ETC_20150317_003628	En 5 minutos la defensa de la Estatua de Vakarine
@@ -3651,9 +3651,9 @@ ETC_20150317_003650	Has obtenido Yunque para mejorar equipo
 ETC_20150317_003651	obj of killed monstruo is not found
 ETC_20150317_003652	Usa la llave para el pergamino de magia absorvida {nl} luego, mata monstruos sobre el círculo mágico para cargar el cristal
 ETC_20150317_003653	No tienes suficientes piezas de la piedra base. Junta las piezas.
-ETC_20150317_003654	Has encontrado un Andamio de Cockatrice.
-ETC_20150317_003655	¡Has recolectado suficiente Grasa de Cockatrice Fat! {nl} Úsala en el monumento para revisar su contenido.
-ETC_20150317_003656	¡Has recolectado suficiente Graasa de Cockatrice!
+ETC_20150317_003654	Has encontrado un Andamio de Cocatriz.
+ETC_20150317_003655	¡Has recolectado suficiente Grasa de Cocatriz Fat! {nl} Úsala en el monumento para revisar su contenido.
+ETC_20150317_003656	¡Has recolectado suficiente Graasa de Cocatriz!
 ETC_20150317_003657	Has encontrado Carbones Ganzúa
 ETC_20150317_003658	¡Has recolectado suficientes Carbones Ganzúa! {nl} Revisa el contenido del monumento
 ETC_20150317_003659	Has recolectado suficientes Carbones Ganzúa
@@ -3671,7 +3671,7 @@ ETC_20150317_003670	Joya con energía maligna recolectada
 ETC_20150317_003671	Puede ser obtenido
 ETC_20150317_003672	En 5 minutos, Royal Rumble {nl}
 ETC_20150317_003673	Camino Alto Bake
-ETC_20150317_003674	Terreno Baldío en el Cruce
+ETC_20150317_003674	Baldío en el Cruce
 ETC_20150317_003675	Royal Rumble
 ETC_20150317_003676	¡Royal Rumble ha concluído!
 ETC_20150317_003677	En mi vida
@@ -4787,7 +4787,7 @@ ETC_20150317_004786	Preguntar que sucedio luego
 ETC_20150317_004787	¡Has encontrado una palanca de cerrojo!
 ETC_20150317_004788	Encontre información acerca del flujo de caballos de fuerza.
 ETC_20150317_004789	Información especial no pudo ser encontrada.
-ETC_20150317_004790	¡Por favor deshaste la trampa que atrae monstruos!
+ETC_20150317_004790	¡Por favor deshazte la trampa que atrae monstruos!
 ETC_20150317_004791	Más monstruos se acercan, es peligroso.
 ETC_20150317_004792	Purificando tierra corrupta
 ETC_20150317_004793	¡Has purificado la tierra corrupta por demonios!
@@ -5166,7 +5166,7 @@ ETC_20150317_005165	¡El efecto de la bomba ralentiza tu movimiento {nl} cuando 
 ETC_20150317_005166	Así que aún vives...
 ETC_20150317_005167	Es tu fin.{nl}¡Muere en silencio!
 ETC_20150317_005168	Diosa Saule
-ETC_20150317_005169	Círculo Mágico para Atar
+ETC_20150317_005169	Círculo Mágico de Unión
 ETC_20150317_005170	Borde del Templo
 ETC_20150317_005171	Diosa Saule
 ETC_20150317_005172	Portal
@@ -6372,7 +6372,7 @@ ETC_20150317_006372	Uola Capilla
 ETC_20150317_006373	Altar of Stability
 ETC_20150317_006374	Small Hall
 ETC_20150317_006375	Liudesio Highway
-ETC_20150317_006376	Olivinas Terreno Baldío
+ETC_20150317_006376	Olivinas Baldío
 ETC_20150317_006377	Priekis Rest Area
 ETC_20150317_006378	Laukimas Antenave
 ETC_20150317_006379	Atejimas Concourse
@@ -6384,7 +6384,7 @@ ETC_20150317_006384	Tyra Upriver
 ETC_20150317_006385	Purpurine Fork
 ETC_20150317_006386	Tamsus Crossroads
 ETC_20150317_006387	Milziniskas Shore
-ETC_20150317_006388	Ranka Terreno Baldío
+ETC_20150317_006388	Ranka Baldío
 ETC_20150317_006389	Slaptas Lowland
 ETC_20150317_006390	Paslepta Rest Area
 ETC_20150317_006391	Sutrikes Junction
@@ -6458,7 +6458,7 @@ ETC_20150317_006458	Siauras Valley
 ETC_20150317_006459	Atviras Field
 ETC_20150317_006460	Susipyne Hill Areas
 ETC_20150317_006461	Rodykles Highway
-ETC_20150317_006462	Laukimo Terreno Baldío
+ETC_20150317_006462	Laukimo Baldío
 ETC_20150317_006463	Crossroad Camp
 ETC_20150317_006464	Uolos Farm
 ETC_20150317_006465	Delon Shelter
@@ -6618,13 +6618,13 @@ ETC_20150317_006618	Sparmu Parvis
 ETC_20150317_006619	Sidabras Rest Place
 ETC_20150317_006620	Slapia Path
 ETC_20150317_006621	Nugria Santuario
-ETC_20150317_006622	Zvelgian Terreno Baldío
+ETC_20150317_006622	Zvelgian Baldío
 ETC_20150317_006623	Veidma Uphill
 ETC_20150317_006624	Holy Pond
 ETC_20150317_006625	Blind Ruins
 ETC_20150317_006626	Inksta Curved Path
 ETC_20150317_006627	Cerpe Crossroads
-ETC_20150317_006628	Sumaze Terreno Baldío
+ETC_20150317_006628	Sumaze Baldío
 ETC_20150317_006629	Nefrito Valley
 ETC_20150317_006630	White Oak Forest
 ETC_20150317_006631	Thorn Tree Altar
@@ -6641,7 +6641,7 @@ ETC_20150317_006641	Village Entrance Ruins
 ETC_20150317_006642	Saule Grand Shrine
 ETC_20150317_006643	Altar Grand Gallery
 ETC_20150317_006644	Drugys Courtyard
-ETC_20150317_006645	Vapsva Terreno Baldío
+ETC_20150317_006645	Vapsva Baldío
 ETC_20150317_006646	Ishpirki Access Road
 ETC_20150317_006647	Geisma Access Road
 ETC_20150317_006648	Rustybe Dead Tree Area
@@ -6662,14 +6662,14 @@ ETC_20150317_006662	Thornbush Rest Place
 ETC_20150317_006663	Sviesa Hill Areas
 ETC_20150317_006664	Karadas Path
 ETC_20150317_006665	Kruva Thorn Roller Path
-ETC_20150317_006666	Tankinta Terreno Baldío
+ETC_20150317_006666	Tankinta Baldío
 ETC_20150317_006667	Giliaii Courtyard
 ETC_20150317_006668	Drieza Waterland
 ETC_20150317_006669	Niurus Highway
 ETC_20150317_006670	Veltui Crossroads
 ETC_20150317_006671	Ishisineti Cliff
 ETC_20150317_006672	Asara Fork
-ETC_20150317_006673	Byreti Terreno Baldío
+ETC_20150317_006673	Byreti Baldío
 ETC_20150317_006674	Zaizda Hill
 ETC_20150317_006675	Suvyte Cliff
 ETC_20150317_006676	Ishimtini Access Way
@@ -6679,7 +6679,7 @@ ETC_20150317_006679	Lengvas Garden
 ETC_20150317_006680	Gumbas Hill
 ETC_20150317_006681	Ianutis Waterfall
 ETC_20150317_006682	Kaklas Cliff
-ETC_20150317_006683	Valdyti Terreno Baldío
+ETC_20150317_006683	Valdyti Baldío
 ETC_20150317_006684	Bird Footprint Junction
 ETC_20150317_006685	Underground Atrium
 ETC_20150317_006686	Vestry
@@ -6698,7 +6698,7 @@ ETC_20150317_006698	Atgaila Capilla
 ETC_20150317_006699	Auka Altar
 ETC_20150317_006700	Peristyle
 ETC_20150317_006701	Malda Altar
-ETC_20150317_006702	Square Terreno Baldío
+ETC_20150317_006702	Square Baldío
 ETC_20150317_006703	Western Holy District
 ETC_20150317_006704	Eastern Holy District
 ETC_20150317_006705	First Barrier Room
@@ -7484,8 +7484,8 @@ ETC_20150317_007484	Prevención Adicional contra la Polución
 ETC_20150317_007485	Buscando al díscipulo Tomas (1)
 ETC_20150317_007486	Buscando al díscipulo Tomas (2)
 ETC_20150317_007487	Obtener diario del hermano de Coben
-ETC_20150317_007488	Obtener grasa de Cockatrice
-ETC_20150317_007489	Inspecciona el monumento usando Grasa de Cockatrice
+ETC_20150317_007488	Obtener grasa de Cocatriz
+ETC_20150317_007489	Inspecciona el monumento usando Grasa de Cocatriz
 ETC_20150317_007490	Recolecta Carbón de Hallowventer
 ETC_20150317_007491	Inspecciona el monumento usando Carbón de Hallowventer
 ETC_20150317_007492	Carga la Jarra con Poderosa Capacidad de Absorción Mágica
@@ -8118,7 +8118,7 @@ ETC_20150317_008118	El Luchador Vubbe está muy cansado.
 ETC_20150317_008119	Destruye el tótem invocado por el Monarca Espectral.
 ETC_20150317_008120	De lo contrario, la iluminación del Monarca Espectral nunca acabará.
 ETC_20150317_008121	Tumba
-ETC_20150317_008122	La Ballena de Roca está exhausta.
+ETC_20150317_008122	La Ballena de Piedra está exhausta.
 ETC_20150317_008123	Rajarenacuajo
 ETC_20150317_008124	local buf = GetBuffByName(self, "Revenge");  local over = GetOver(buf);  return over + 1.. " summons is starting.";
 ETC_20150317_008125	Destruye el poste de invocación
@@ -9812,7 +9812,7 @@ ETC_20150323_009813	Shileik Trail
 ETC_20150323_009814	Bokshita Uphill
 ETC_20150323_009815	Joriko Plaza
 ETC_20150323_009816	Tvora Road
-ETC_20150323_009817	Zvyra Terreno Baldío
+ETC_20150323_009817	Zvyra Baldío
 ETC_20150323_009818	Settlement Area
 ETC_20150323_009819	Lenta Notice
 ETC_20150323_009820	Abandoned Farmland
@@ -9838,7 +9838,7 @@ ETC_20150323_009839	Oasthouse
 ETC_20150323_009840	Harvest Storage
 ETC_20150323_009841	Fallow Ground
 ETC_20150323_009842	Padeka Altar
-ETC_20150323_009843	Ziuluti Terreno Baldío
+ETC_20150323_009843	Ziuluti Baldío
 ETC_20150323_009844	Nuodo Coast
 ETC_20150323_009845	Joint Farmland
 ETC_20150323_009846	Ishigiti Herb Farm
@@ -12497,7 +12497,7 @@ ETC_20150714_012498	Reading
 ETC_20150714_012499	Using the Wisdom Guiding Stone
 ETC_20150714_012500	Already using the Wisdom Guiding Stone
 ETC_20150714_012501	Derrota all the monstruos that are trying to get Red Spatial Magic Stones and retrieve them!
-ETC_20150714_012502	Using the Soul Crystal
+ETC_20150714_012502	Using the Cristal del Alma
 ETC_20150714_012503	You can't collect anymore Condensed Spite
 ETC_20150714_012504	You don't have enough fragments of the spirits to eliminate the protective shell of the barrier stone!
 ETC_20150714_012505	It won't activate if you don't have spatial magic stones
@@ -12717,7 +12717,7 @@ ETC_20150714_012718	You can see something under the cliffs
 ETC_20150714_012719	It seems that someone is lying under the cliffs
 ETC_20150714_012720	When you jump by following the cliffs, you may able climb up
 ETC_20150714_012721	You have enough pieces of the tombstone and you will be able to read what's written on them. Match the pieces
-ETC_20150714_012722	You have found Cockatrice Fat
+ETC_20150714_012722	You have found Cocatriz Fat
 ETC_20150714_012723	You have found Hallowventer Charcoal
 ETC_20150714_012724	Quest Succeeded!{nl}Jonas will recover from unconsciousness
 ETC_20150714_012725	You can open the box when you defeat all the monstruos!
@@ -14932,14 +14932,14 @@ ETC_20151001_014933	Stone Wall02
 ETC_20151001_014934	Intensive Spirit Device1
 ETC_20151001_014935	Intensive Spirit Device2
 ETC_20151001_014936	No Shadow NPC_Tall
-ETC_20151001_014937	Historiador (Male) 01
-ETC_20151001_014938	Historiador (Male) 02
-ETC_20151001_014939	Historiador (Male) 03
-ETC_20151001_014940	Historiador (Male) 04
-ETC_20151001_014941	Historiador (Female) 02
+ETC_20151001_014937	Historiador (Chico) 01
+ETC_20151001_014938	Historiador (Chico) 02
+ETC_20151001_014939	Historiador (Chico) 03
+ETC_20151001_014940	Historiador (Chico) 04
+ETC_20151001_014941	Historiador (Chica) 02
 ETC_20151001_014942	Rock_Pilgrim's Way
-ETC_20151001_014943	Peregrino (Female)_02
-ETC_20151001_014944	Peregrino (Female)_03
+ETC_20151001_014943	Peregrino (Chica)_02
+ETC_20151001_014944	Peregrino (Chica)_03
 ETC_20151001_014945	Monster Trap of Camino del Peregrino
 ETC_20151001_014946	Empty Wagon_Coastal Fortress
 ETC_20151001_014947	Plateau Círculo Mágico Activation Device
@@ -15696,7 +15696,7 @@ ETC_20151016_015697	Dragón
 ETC_20151016_015698	Templario
 ETC_20151016_015699	Sage
 ETC_20151016_015700	Brujo
-ETC_20151016_015701	Featherfoot
+ETC_20151016_015701	Chamán
 ETC_20151016_015702	Cañonero
 ETC_20151016_015703	Mosquetero
 ETC_20151016_015704	Médico de Plagas
@@ -15809,7 +15809,7 @@ ETC_20151016_015810	Dragón Ascenso
 ETC_20151016_015811	Templario Ascenso
 ETC_20151016_015812	Sage Ascenso
 ETC_20151016_015813	Brujo Ascenso
-ETC_20151016_015814	Featherfoot Ascenso
+ETC_20151016_015814	Chamán Ascenso
 ETC_20151016_015815	Cañonero Ascenso
 ETC_20151016_015816	Mosquetero Ascenso
 ETC_20151016_015817	Médico de Plagas Ascenso
@@ -16772,7 +16772,7 @@ ETC_20151102_016773	Gema de Rubblem
 ETC_20151102_016774	Gema de Infro Holder
 ETC_20151102_016775	Gema de Ellomago
 ETC_20151102_016776	Gema de White Pino
-ETC_20151102_016777	Gema de Cockatrice
+ETC_20151102_016777	Gema de Cocatriz
 ETC_20151102_016778	Gema de Mine Vubbe Arquero
 ETC_20151102_016779	Gema de Ridimed
 ETC_20151102_016780	Gema de Terra Imp Arquero
@@ -16872,7 +16872,7 @@ ETC_20151102_016873	Darem Hill
 ETC_20151102_016874	Broken Bridge
 ETC_20151102_016875	Zideka Pántanos
 ETC_20151102_016876	Watermill
-ETC_20151102_016877	Inega Terreno Baldío
+ETC_20151102_016877	Inega Baldío
 ETC_20151102_016878	Yodeira Gardens
 ETC_20151102_016879	Shattered Highlands
 ETC_20151102_016880	Grino Precipice
@@ -17929,7 +17929,7 @@ ETC_20151224_017929	Experienced Adventurer
 ETC_20151224_017930	Obtain 4,000 Gimmick Achievement Points
 ETC_20151224_017931	Capable Adventurer
 ETC_20151224_017932	Obtain 9,000 Gimmick Achievement Points
-ETC_20151224_017933	Resurrected 1,000 times using Soul Crystals
+ETC_20151224_017933	Resurrected 1,000 times using Cristal del Almas
 ETC_20151224_017934	Obtain 50 treasures from treasure chests
 ETC_20151224_017935	Obtain 150 treasures from treasure chests
 ETC_20151224_017936	Obtain 300 treasures from treasure chests
@@ -18048,10 +18048,10 @@ ETC_20151224_018048	{nl} {nl}By checking in front of the name of the quest, you 
 ETC_20151224_018049	On the right side, you can check your ranking from the Diario de Aventuras and the Liga de Batalla en Equipo.
 ETC_20151224_018050	Based on your Adventure Index, you can receive rewards from the Vibora PNJ in the cities.
 ETC_20151224_018051	With Resurrection, you are able to resurrect your character that has become incapaz de combatir.
-ETC_20151224_018052	There are different options on how to resurrect.{nl} {nl}- Respawn from nearest Revival Point : Revive in the starting location of the map. For dungeons, you will revive outside its entrance.{nl} {nl}- Resurrect using Soul Crystals : Your character will resurrect at the exact location where it became incapaz de combatir. Using this option, 1 Soul Cristal will be used up from your inventory.
+ETC_20151224_018052	There are different options on how to resurrect.{nl} {nl}- Respawn from nearest Revival Point : Revive in the starting location of the map. For dungeons, you will revive outside its entrance.{nl} {nl}- Resurrect using Cristal del Almas : Your character will resurrect at the exact location where it became incapaz de combatir. Using this option, 1 Soul Cristal will be used up from your inventory.
 ETC_20151224_018053	{nl} {nl}When you become incapaz de combatir in dungeons, the gems you possess from your inventory will be dropped to the ground.
 ETC_20151224_018054	{nl} {nl}When you purchase
-ETC_20151224_018055	Soul Crystal
+ETC_20151224_018055	Cristal del Alma
 ETC_20151224_018056	from the TP Shop in advance, you will be able to resurrect right away to reduce any losses.
 ETC_20151224_018057	{nl} {nl}When you find a character that meets the requirements of a party, press {img mouseclick_right 40 40}{nl}to invite that character to the party.
 ETC_20151224_018058	{nl} {nl}The defense properties have the following resistances.
@@ -18244,7 +18244,7 @@ ETC_20151224_018244	NGS Debuging Log
 ETC_20151224_018245	Premium
 ETC_20151224_018246	A gem that can be found in a dungeon. It is able to enhance equipment by equipping it in a socket. Cannot be used with same effect simultaneously. Click Derecho para insert it to an equipment.
 ETC_20151224_018247	Colimen Magician Gem
-ETC_20151224_018248	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 1 día. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Puedes usar gestos Premium
+ETC_20151224_018248	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 1 día. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20151224_018249	Token: 5 Minutes
 ETC_20151224_018250	Token: 10 Minutes
 ETC_20151224_018251	Token: 30 Minutes
@@ -18255,17 +18255,17 @@ ETC_20151224_018255	Úsalo para obtener 100 TP.{nl}This item cannot be refunded 
 ETC_20151224_018256	Úsalo para obtener 200 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018257	Úsalo para obtener 300 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018258	Token: 7 días [Event]
-ETC_20151224_018259	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 7 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Puedes usar gestos Premium
+ETC_20151224_018259	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 7 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20151224_018260	Premium Awakening Stone
 ETC_20151224_018261	Megaphone 50x Box
 ETC_20151224_018262	Contains 50 Megaphones when you open it. Click derecho para usar.
-ETC_20151224_018263	Applies various effects to your character for 1 hour. Click derecho para usar.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% de EXP por cazar monstruos{nl} - Doubled RES recovery rate
+ETC_20151224_018263	Applies various effects to your character for 1 hour. Click derecho para usar.{nl} - Consumes time when you are connected to the game.{nl}[Efecto del Tomo de EXP]{nl} - +30% de EXP por cazar monstruos{nl} - Doubled RES recovery rate
 ETC_20151224_018264	Soul Cristal 10x Box
-ETC_20151224_018265	Contains 10 Soul Crystals when you open it. Click derecho para usar.
+ETC_20151224_018265	Contains 10 Cristal del Almas when you open it. Click derecho para usar.
 ETC_20151224_018266	Pergamino de Teletranporte 10x Box
 ETC_20151224_018267	Contains 10 Pergaminos de Teletranporte when you open it. Click derecho para usar.
 ETC_20151224_018268	Token: 5 días [Event]
-ETC_20151224_018269	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 5 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Puedes usar gestos Premium
+ETC_20151224_018269	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 5 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20151224_018270	Premium Package A
 ETC_20151224_018271	Contains premium goodies. Click derecho para usar.{nl} - 600 TP (Untradable){nl} - Highly Enriched PS Potion 150x (Untradable){nl} - Highly Enriched PM Potion 150x (Untradable){nl} - Pergamino de Teletranporte 10x Box 3x (Untradable){nl} - Megaphone 50x Box (Untradable){nl} - Accesorio de Cabello: War Bonnet
 ETC_20151224_018272	Premium Package B
@@ -18273,22 +18273,22 @@ ETC_20151224_018273	Contains premium goodies. Click derecho para usar.{nl} - 130
 ETC_20151224_018274	Úsalo para obtener 600 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018275	Úsalo para obtener 1300 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018276	Token: 1 día [Event]
-ETC_20151224_018277	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 1 día. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Puedes usar gestos Premium
+ETC_20151224_018277	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 1 día. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20151224_018278	Token: 3 horas [Event]
-ETC_20151224_018279	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 3 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Puedes usar gestos Premium
+ETC_20151224_018279	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 3 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20151224_018280	Token: 6 horas [Event]
-ETC_20151224_018281	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 6 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Puedes usar gestos Premium
+ETC_20151224_018281	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 6 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20151224_018282	Token: 12 horas [Event]
-ETC_20151224_018283	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 12 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Puedes usar gestos Premium
+ETC_20151224_018283	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 12 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20151224_018284	Token: 3 días [Event]
-ETC_20151224_018285	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 3 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Puedes usar gestos Premium
+ETC_20151224_018285	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 3 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20151224_018286	Skill Reset Potion
 ETC_20151224_018287	A very useful potion for those who just cannot get their skill build right.{nl}Use this to reset your current skill points.
 ETC_20151224_018288	Instanced Dungeon Reset Voucher
 ETC_20151224_018289	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.
 ETC_20151224_018290	10 TP [Event]
 ETC_20151224_018291	Úsalo para obtener 10 TP.
-ETC_20151224_018292	Urgent Repair Kit
+ETC_20151224_018292	Kit de Reparación Urgente
 ETC_20151224_018293	Recovers the durability of your equipment by +5.
 ETC_20151224_018294	50 TP [Event]
 ETC_20151224_018295	Úsalo para obtener 50 TP.
@@ -18299,7 +18299,7 @@ ETC_20151224_018299	Support
 ETC_20151224_018300	Criomantes use powerful ice magic to freeze enemies, or protect their allies from enemies by using ice walls.
 ETC_20151224_018301	Vinculadors link allies together to reduce incoming damage, or connect enemies to amplify the inflicted damage.
 ETC_20151224_018302	Brujos are wizards who harness the power of evil spirits. They can summon evil spirits and can command them to defeat monstruos.
-ETC_20151224_018303	Featherfoots are wizards who utilize the power of incantations. They can absorb an enemy's life, or help allies by making enemies weak from a curse.
+ETC_20151224_018303	Chamáns are wizards who utilize the power of incantations. They can absorb an enemy's life, or help allies by making enemies weak from a curse.
 ETC_20151224_018304	Conjurador Rúnico
 ETC_20151224_018305	Rune Casters are wizards who use ancient symbols imbued with magic. Although it takes some time to draw energy from the symbols, they contain enormous power.
 ETC_20151224_018306	Cañoneros are Arqueros who uses powerful cannons to deal massive damage from above, or blast flying enemies from below.
@@ -18336,7 +18336,7 @@ ETC_20151224_018336	Temporary Camp
 ETC_20151224_018337	Lataso Stream
 ETC_20151224_018338	Nesuga Small Corredor
 ETC_20151224_018339	Melda Inner Court
-ETC_20151224_018340	Heralve Terreno Baldío
+ETC_20151224_018340	Heralve Baldío
 ETC_20151224_018341	Torture Material Room
 ETC_20151224_018342	Torture Chamber
 ETC_20151224_018343	Punishment Room
@@ -18366,7 +18366,7 @@ ETC_20151224_018366	Ilga Forest Road
 ETC_20151224_018367	Nevaginga Hillside
 ETC_20151224_018368	Tanca Cliff
 ETC_20151224_018369	Croa Village
-ETC_20151224_018370	Riesta Terreno Baldío
+ETC_20151224_018370	Riesta Baldío
 ETC_20151224_018371	Toan Valley
 ETC_20151224_018372	Viramka Slope
 ETC_20151224_018373	Gienima Downtown
@@ -18409,7 +18409,7 @@ ETC_20151224_018409	Delmore Manor Entrance
 ETC_20151224_018410	Buried Central Plaza
 ETC_20151224_018411	Rampart Reconstruction District
 ETC_20151224_018412	Ratas Crossroads
-ETC_20151224_018413	Kalbos Terreno Baldío
+ETC_20151224_018413	Kalbos Baldío
 ETC_20151224_018414	Handicraft Workshop Distance
 ETC_20151224_018415	Garden Watchtower
 ETC_20151224_018416	Palma Central Plaza
@@ -18420,7 +18420,7 @@ ETC_20151224_018420	Tagika Crossroads
 ETC_20151224_018421	Government Ruins
 ETC_20151224_018422	Fortress Uphill
 ETC_20151224_018423	Merahin Courtyard
-ETC_20151224_018424	Odaginkas Terreno Baldío
+ETC_20151224_018424	Odaginkas Baldío
 ETC_20151224_018425	Construction Camp
 ETC_20151224_018426	Field(Dirt)
 ETC_20151224_018427	Deathweaver for Directing
@@ -18541,7 +18541,7 @@ ETC_20151224_018541	Preguntar acerca de the Scroll
 ETC_20151224_018542	Preguntar acerca de the Capellán Master
 ETC_20151224_018543	Use Dragón Attributes
 ETC_20151224_018544	Use Brujo Attributes
-ETC_20151224_018545	Use Featherfoot Attributes
+ETC_20151224_018545	Use Chamán Attributes
 ETC_20151224_018546	Use Cañonero Attributes
 ETC_20151224_018547	Use Mosquetero Attributes
 ETC_20151224_018548	Use Médico de Plagas Attributes
@@ -19910,7 +19910,7 @@ ETC_20151224_019910	[Maestre Wugushi]{nl}          Wor Pat
 ETC_20151224_019911	[Vice-maestre Explorador]{nl}          Suina
 ETC_20151224_019912	[Mercader de Compañeros]{nl}            Taurus
 ETC_20151224_019913	[Manager del Mercado]{nl}     Tilliana
-ETC_20151224_019914	[Guarda de Almacen]{nl}      Aisa
+ETC_20151224_019914	[Guarda de Almacén]{nl}      Aisa
 ETC_20151224_019915	[Asociación Mágica de Orsha]{nl}           Florianna
 ETC_20151224_019916	[Wings of Vibora]{nl}            Rosia
 ETC_20151224_019917	Novaha Relic
@@ -19978,7 +19978,7 @@ ETC_20151224_019978	[Shinobi Master]{nl}  Yura Swanjone
 ETC_20151224_019979	Shinobi Master Trigger
 ETC_20151224_019980	Revived Believer
 ETC_20151224_019981	[Brujo Master]{nl}Melanie Melachim
-ETC_20151224_019982	[Featherfoot Master]{nl}  Kyoll Lurawa
+ETC_20151224_019982	[Chamán Master]{nl}  Kyoll Lurawa
 ETC_20151224_019983	The mission will end after 10 minutos.
 ETC_20151224_019984	The mission will end after 5 minutos.
 ETC_20151224_019985	Open the portal to go the den of monstruos by collecting yellow spirits
@@ -20384,7 +20384,7 @@ ETC_20160224_020384	Reaction time after clicking OBB TEST
 ETC_20160224_020385	Processing overtime log
 ETC_20160224_020386	Formats with %s are not used in clientmessage.xml due to multilingual word order issues.
 ETC_20160224_020387	Convent Auto Matching
-ETC_20160224_020388	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Puedes usar gestos Premium
+ETC_20160224_020388	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20160224_020389	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nl}After a successful enhancement, the Potential of the equipment will reduce by one. Click derecho para usar.
 ETC_20160224_020390	Enchant Scroll
 ETC_20160224_020391	Adds a random option to a hair costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Click derecho para usar.
@@ -20400,7 +20400,7 @@ ETC_20160224_020400	150 TP [Event]
 ETC_20160224_020401	Úsalo para obtener 150 TP.
 ETC_20160224_020402	Token [Event]
 ETC_20160224_020403	Token: 15 días [Event]
-ETC_20160224_020404	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor por 15 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Puedes usar gestos Premium
+ETC_20160224_020404	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor por 15 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20160224_020405	Torre de la Tierra Entrance
 ETC_20160224_020406	Small_Area of Ruins_Tombstone03
 ETC_20160224_020407	Diosa Zemyna
@@ -20478,7 +20478,7 @@ ETC_20160224_020478	Receta - Academy
 ETC_20160224_020479	A recipe to create a construction for the guild.
 ETC_20160224_020480	Receta - Forge
 ETC_20160224_020481	Receta - Shield Charger
-ETC_20160224_020482	A recipe to craft an equipment. Click Derecho para registrar esta receta en el Diario de Aventuras.
+ETC_20160224_020482	Una receta para crear Equipos. Click Derecho para registrar esta receta en el Diario de Aventuras.
 ETC_20160224_020483	Receta - Seimos Sword
 ETC_20160224_020484	Receta - Luma Sword
 ETC_20160224_020485	Receta - Magas Sword
@@ -20976,10 +20976,10 @@ ETC_20160310_020975	Loma Menka
 ETC_20160310_020976	Sendero Angis
 ETC_20160310_020977	Campamento Viejo
 ETC_20160310_020978	Lugar de Colección de Jugos
-ETC_20160310_020979	Terreno Baldío Grigalius
+ETC_20160310_020979	Baldío Grigalius
 ETC_20160310_020980	Deposito de Semillas
 ETC_20160310_020981	Entrada al Bosque de las Plegarias
-ETC_20160310_020982	Terreno Baldío Siltas
+ETC_20160310_020982	Baldío Siltas
 ETC_20160310_020983	Tierras sin Dueño Reclamadas
 ETC_20160310_020984	Villa Pamesti
 ETC_20160310_020985	Granja Abandonada
@@ -21173,7 +21173,7 @@ ETC_20160315_021172	Click derecho para obtener los siguientes objetos:{nl} - 200
 ETC_20160315_021173	Puedes ingresar a este servidor comprando DLC.
 ETC_20160317_021174	Gran Traductor
 ETC_20160317_021175	Un título honorable concedido a aquellos que participaron en la Gran Cruzada de la traducción.
-ETC_20160317_021176	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +30% de EXP por cazar monstruos{nl}(Stacks with EXP Tome){nl} - Puedes usar gestos Premium{nl} - Puedes realizar Intercambios Personales hasta 30 veces{nl} - 1 Entrada extra a Instancias de misiones y mazmorras
+ETC_20160317_021176	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +30% de EXP por cazar monstruos{nl}(Stacks with Tomo de EXP){nl} - Puedes usar gestos Premium{nl} - Puedes realizar Intercambios Personales hasta 30 veces{nl} - 1 Entrada extra a Instancias de misiones y mazmorras
 ETC_20160317_021177	Click derecho para obtener los siguientes objetos:{nl} - 360 TP{nl} - Accesorio de Cabello - Popoleón Doll
 ETC_20160317_021178	Úsalo para obtener 360 TP.
 ETC_20160317_021179	Úsalo para obtener 230 TP.
@@ -21181,7 +21181,7 @@ ETC_20160317_021180	Úsalo para obtener 110 TP.
 ETC_20160317_021181	Click derecho para obtener los siguientes objetos:{nl} - 260 TP{nl} - Accesorio de Cabello - Popoleón Doll
 ETC_20160317_021182	Click derecho para obtener los siguientes objetos:{nl} - 110 TP
 ETC_20160317_021183	2 entradas extra a Instancias de misiones y mazmorras
-ETC_20160317_021184	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +30% de EXP por cazar monstruos{nl}(Stacks with EXP Tome){nl} - Puedes usar gestos Premium{nl} - Puedes realizar Intercambios Personales hasta 30 veces{nl} - 2 entradas extra a Instancias de misiones y mazmorras
+ETC_20160317_021184	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +30% de EXP por cazar monstruos{nl}(Stacks with Tomo de EXP){nl} - Puedes usar gestos Premium{nl} - Puedes realizar Intercambios Personales hasta 30 veces{nl} - 2 entradas extra a Instancias de misiones y mazmorras
 ETC_20160320_021185	Click derecho para obtener los siguientes objetos:{nl} - 650 TP{nl} - Token (60 días){nl} - Accesorio de Cabello - Popoleón Doll{nl} - Accesorio de Cabello - Hanaming Doll{nl} - Hoglan Companion Voucher{nl} - Stat Reset Potion{nl} - Skill Reset Potion{nl}
 ETC_20160320_021186	Úsalo para obtener 650 TP.
 ETC_20160320_021187	Úsalo para obtener 380 TP.
@@ -21189,9 +21189,9 @@ ETC_20160320_021188	Úsalo para obtener 160 TP.
 ETC_20160320_021189	Click derecho para obtener los siguientes objetos:{nl} - 380 TP{nl} - Token (60 días){nl} - Accesorio de Cabello - Popoleón Doll{nl}
 ETC_20160320_021190	Click derecho para obtener los siguientes objetos:{nl} - 160 TP{nl}
 ETC_20160320_021191	Úsalo para obtener 50 TP. This item cannot be refunded or returned after use.
-ETC_20160320_021192	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +30% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes realizar Intercambios Personales hasta 30 veces{nl} - 1 Entrada extra a Instancias de misiones y mazmorras
+ETC_20160320_021192	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +30% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes realizar Intercambios Personales hasta 30 veces{nl} - 1 Entrada extra a Instancias de misiones y mazmorras
 ETC_20160320_021193	Token: 60 días
-ETC_20160320_021194	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +30% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes realizar Intercambios Personales hasta 60 veces{nl} - 1 Entrada extra a Instancias de misiones y mazmorras
+ETC_20160320_021194	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +30% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes realizar Intercambios Personales hasta 60 veces{nl} - 1 Entrada extra a Instancias de misiones y mazmorras
 ETC_20160320_021195	1 Entrada extra a Instancias de misiones y mazmorras
 ETC_20160323_021196	Instancia Torre del Mago
 ETC_20160323_021197	Misión de Clan 2
@@ -21210,16 +21210,16 @@ ETC_20160323_021209	Diferentes tipos de equipo permiten una cantidad diferente d
 ETC_20160323_021210	Logic Error
 ETC_20160323_021211	Wrong Translation Data
 ETC_20160323_021212	The .tsv file must be encoded in UTF-8 without BOM.
-ETC_20160323_021213	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes realizar Intercambios Personales hasta 30 times
-ETC_20160323_021214	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 7 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium
-ETC_20160323_021215	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 5 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium
-ETC_20160323_021216	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 1 día. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium
-ETC_20160323_021217	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 3 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium
-ETC_20160323_021218	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 6 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium
-ETC_20160323_021219	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 12 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium
-ETC_20160323_021220	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 3 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium
-ETC_20160323_021221	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +30% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes realizar Intercambios Personales hasta 30 times
-ETC_20160323_021222	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 15 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the EXP Tome effect){nl} - Puedes usar gestos Premium
+ETC_20160323_021213	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes realizar Intercambios Personales hasta 30 veces
+ETC_20160323_021214	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 7 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium
+ETC_20160323_021215	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 5 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium
+ETC_20160323_021216	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 1 día. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium
+ETC_20160323_021217	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 3 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium
+ETC_20160323_021218	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 6 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium
+ETC_20160323_021219	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 12 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium
+ETC_20160323_021220	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 3 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium
+ETC_20160323_021221	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +30% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes realizar Intercambios Personales hasta 30 veces
+ETC_20160323_021222	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 15 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20160323_021223	90 TP [Event]
 ETC_20160323_021224	Úsalo para obtener 90 TP.
 ETC_20160323_021225	Lucky 100 Package
@@ -21228,7 +21228,7 @@ ETC_20160323_021227	Banco de arena Dellam
 ETC_20160323_021228	Pántanos Polybba
 ETC_20160323_021229	Arrecife Rocoso Kranta
 ETC_20160323_021230	Centinela de Sniega
-ETC_20160323_021231	Terreno Baldío Dalyti
+ETC_20160323_021231	Baldío Dalyti
 ETC_20160323_021232	Centinela de Lemyra
 ETC_20160323_021233	Old Bridge
 ETC_20160323_021234	Colina Pramgi
@@ -21236,7 +21236,7 @@ ETC_20160323_021235	Laguna Sahguma
 ETC_20160323_021236	Arrecife de Coral Lamdonas
 ETC_20160323_021237	Centinela de Khanka
 ETC_20160323_021238	Tierras bajas Antsp
-ETC_20160323_021239	Terreno Baldío Bachl
+ETC_20160323_021239	Baldío Bachl
 ETC_20160323_021240	Arrecife de Coral Tuolo
 ETC_20160323_021241	Banco de arena Garama
 ETC_20160323_021242	Peregrino Viejo
@@ -21745,7 +21745,7 @@ ETC_20160425_021743	Aplica beneficios de Token a todos tus personajes en el serv
 ETC_20160425_021744	Aplica beneficios de Token a todos tus personajes en el servidor por 6 horas. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +20% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium
 ETC_20160425_021745	Aplica beneficios de Token a todos tus personajes en el servidor por 12 horas. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +20% EXP{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium
 ETC_20160425_021746	Aplica beneficios de Token a todos tus personajes en el servidor por 3 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +20% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium
-ETC_20160425_021747	Aplica beneficios de Token a todos tus personajes en el servidor por 30 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +20% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium{nl} - Puedes realizar Intercambios Personales hasta 30 times
+ETC_20160425_021747	Aplica beneficios de Token a todos tus personajes en el servidor por 30 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +20% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium{nl} - Puedes realizar Intercambios Personales hasta 30 veces
 ETC_20160425_021748	Aplica beneficios de Token a todos tus personajes en el servidor por 15 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +20% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium
 ETC_20160425_021749	Steam VAC bot report function used for 1
 ETC_20160425_021750	Bot detection system frunction used for 1
@@ -21765,7 +21765,7 @@ ETC_20160426_021763	Aplica beneficios de Token a todos tus personajes en el serv
 ETC_20160426_021764	Aplica beneficios de Token a todos tus personajes en el servidor por 6 horas. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 9 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +20% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium
 ETC_20160426_021765	Aplica beneficios de Token a todos tus personajes en el servidor por 12 horas. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 9 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +20% EXP{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium
 ETC_20160426_021766	Aplica beneficios de Token a todos tus personajes en el servidor por 3 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 9 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +20% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium
-ETC_20160426_021767	Aplica beneficios de Token a todos tus personajes en el servidor por 30 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 9 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +20% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium{nl} - Puedes realizar Intercambios Personales hasta 30 times
+ETC_20160426_021767	Aplica beneficios de Token a todos tus personajes en el servidor por 30 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 9 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +20% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium{nl} - Puedes realizar Intercambios Personales hasta 30 veces
 ETC_20160426_021768	Aplica beneficios de Token a todos tus personajes en el servidor por 15 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 9 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +20% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium
 ETC_20160503_021769	Failed to connect to DB. Forcing the server to disconnect. Please check your ODBC or connection settings.
 ETC_20160503_021770	+1 to the skill Conviction
@@ -21775,62 +21775,62 @@ ETC_20160509_021773	Usar un Token aumenta la cantidad de objetos que puedes list
 ETC_20160512_021774	Aplica beneficios de Token a todos tus personajes en el servidor por 15 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 9 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +30% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium					
 ETC_20160512_021775	Cobrar el DLC tiene un retardo de (seconds) segundos				
 ETC_20160513_021776	Aplica beneficios de Token a todos tus personajes en el servidor por 15 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 9 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +30% de EXP por cazar monstruos{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes usar gestos Premium{nl} - 1 Entrada extra a Instancias de misiones y mazmorras
-ETC_20160520_021777	Colección:Never-Seen-Before
-ETC_20160520_021778	Ash Blond Dye
-ETC_20160520_021779	Such subtle golden color is the best to attract the attention. Right-click to use. Check the Character Info for the registered color.
-ETC_20160520_021780	Ruby Wine Dye
-ETC_20160520_021781	Fiery and fierce red like Ruby. Right-click to use. Check the Character Info for the registered color.
-ETC_20160520_021782	Instanced Dungeon Reset Voucher:14 Days
-ETC_20160520_021783	Resets the restrictions on the instanced dungeons and mercenary missions when used. Upon pick-up, use within 14 days.
-ETC_20160520_021784	EXP Tome:14 Days
-ETC_20160520_021785	Applies various effects to your character for 1 hour. Upon pick-up, use within 14 days. Right-click to use.{nl} - Consumes time when you are connected to the game.{nl}[EXP Tome Effect]{nl} - +30% EXP from hunting monsters{nl} - Doubled STA recovery rate
-ETC_20160520_021786	30 TP[Event]
-ETC_20160520_021787	Contains 30 TP.
-ETC_20160520_021788	Instanced Dungeon Reset Voucher:1 Minute
-ETC_20160520_021789	EXP Tome:1 Minute
-ETC_20160520_021790	Pastel Green Dye
-ETC_20160520_021791	Express your exotic side. Right-click to use. Check the Character Info for the registered color.
-ETC_20160520_021792	Ash Grey Dye
-ETC_20160520_021793	A subtle but classy color. Right-click to use. Check the Character Info for the registered color.
-ETC_20160520_021794	Transcendental Stone:Weapon
-ETC_20160520_021795	Material for transcending Weapon items.
-ETC_20160520_021796	Transcendental Stone:Armor
-ETC_20160520_021797	Material for transcending Armor items.
-ETC_20160520_021798	Transcendental Stone:Accessory
-ETC_20160520_021799	Material for transcending Accessory items.
-ETC_20160520_021800	Hammer of Dismantlement
-ETC_20160520_021801	A mystical hammer that can dismantle things it touches. It is a material used for transcendental removal.
-ETC_20160520_021802	Spell Rod
-ETC_20160520_021803	Rods spawning all around will absorb Spell. Used in transcendence removal.
-ETC_20160520_021804	Premium Awakening Stone (14 Days)
-ETC_20160520_021805	Stat Reset Potion(14 Days)
-ETC_20160520_021806	Laima Package
-ETC_20160520_021807	Contains goodies. Right-click to use.{nl} - Token 7 Days(Event) x1 {nl} - EXP Tome x3 {nl} – Highly Condensed HP Potion x100 {nl} - Highly Condensed SP Potion x100 {nl} - Urgent Repair Kit x3 {nl} - Warp Scroll x10 {nl} - Soul Crystal x5 {nl} - Instanced Dungeon Reset Voucher x1 {nl} – Megaphone x10
-ETC_20160520_021808	Benefit UPUP! Package
-ETC_20160520_021809	Contains goodies. Right-click to use.{nl} - Token 30 Days x1{nl} - Sardine x15 {nl} – Penguin Egg x1
-ETC_20160520_021810	Sardine Bundle
-ETC_20160520_021811	Right-click to use. Can obtain Sardine x5.
-ETC_20160520_021812	Trump Swordsman Package(Male)
-ETC_20160520_021813	Contains goodies. Right-click to use.{nl} - Trump Swordman Costume(Male) x1{nl} - Major Spade Hat x1{nl} - Enchant Scroll x40
-ETC_20160520_021814	Trump Swordsman Package(Female)
-ETC_20160520_021815	Contains goodies. Right-click to use.{nl} - Trump Swordman Costume(Female) x1{nl} - Major Spade Hat x1{nl} - Enchant Scroll x40
-ETC_20160520_021816	Trump Magician Package(Male)
-ETC_20160520_021817	Contains goodies. Right-click to use.{nl} - Trump Magician Costume(Male) x1{nl} - Diamond Magician Hat x1{nl} - Enchant Scroll x40
-ETC_20160520_021818	Trump Magician Package(Female)
-ETC_20160520_021819	Contains goodies. Right-click to use.{nl} - Trump Magician Costume(Female) x1{nl} - Queen Diamond’s Tiara x1{nl} - Enchant Scroll x40
-ETC_20160520_021820	Trump Archer Package(Male)
-ETC_20160520_021821	Contains goodies. Right-click to use.{nl} - Trump Archer Costume(Male) x1{nl} - Clover Feather Hat x1{nl} - Enchant Scroll x40
-ETC_20160520_021822	Trump Archer Package(Female)
-ETC_20160520_021823	Contains goodies. Right-click to use.{nl} - Trump Archer Costume(Female) x1{nl} - Clover Feather Hat x1{nl} - Enchant Scroll x40
-ETC_20160520_021824	Trump Cleric Package(Male)
-ETC_20160520_021825	Contains goodies. Right-click to use.{nl} - Trump Cleric Costume(Male) x1{nl} - Sailor Heart Hat x1{nl} - Enchant Scroll x40
-ETC_20160520_021826	Trump Cleric Package(Female)
-ETC_20160520_021827	Contains goodies. Right-click to use.{nl} - Trump Cleric Costume(Female) x1{nl} - Sailor Heart Hat x1{nl} - Enchant Scroll x40
+ETC_20160520_021777	Colección: Nunca Antes Visto
+ETC_20160520_021778	Tinte Rubio Ceniza
+ETC_20160520_021779	Un color tan sutil es el mejor para llamar la atención. Click derecho para usar. Revisa la Info del Personaje para ver el color registrado.
+ETC_20160520_021780	Tinte Borgoña
+ETC_20160520_021781	Un rojo fiero y bravo cómo el rubí. Click derecho para usar. Revisa la Info del Personaje para ver el color registrado.
+ETC_20160520_021782	Cupón para reiniciar contador de instancias: 14 Days
+ETC_20160520_021783	Reinicia las restricciones de las Instancias y Misiones de mercenario al ser usado. Tras adquirirlo, úsalo dentro de 14 días.
+ETC_20160520_021784	Tomo de EXP: 14 Days
+ETC_20160520_021785	Aplica varios efectos a tu personaje por 1 hora. Tras adquirilo, úsalo dentro de 14 días. Click derecho para usar.{nl} - El tiempo se consume mientras te encuentres jugando.{nl}[Efecto del Tomo de EXP]{nl} - +30% EXP al cazar monstruos{nl} - Duplica la tasa de recuperación de RES
+ETC_20160520_021786	30 TP[Evento]
+ETC_20160520_021787	Contiene 30 TP.
+ETC_20160520_021788	Cupón para reiniciar contador de instancias: 1 Minuto
+ETC_20160520_021789	Tomo de EXP: 1 Minuto
+ETC_20160520_021790	Tinte Verde Pastel
+ETC_20160520_021791	Expresa tu lado exótico. Click derecho para usar. Revisa la Info del Personaje para ver el color registrado.
+ETC_20160520_021792	Tinte Gris Ceniza
+ETC_20160520_021793	Un sútil pero elegante color. Click derecho para usar. Revisa la Info del Personaje para ver el color registrado.
+ETC_20160520_021794	Piedra Transcendental: Arma
+ETC_20160520_021795	Material usado para transcender Armas.
+ETC_20160520_021796	Piedra Transcendental: Armadura
+ETC_20160520_021797	Material usado para transcender Armaduras.
+ETC_20160520_021798	Piedra Transcendental: Accesorio
+ETC_20160520_021799	Material para transcender Accesorios.
+ETC_20160520_021800	Martillo Desmantelador
+ETC_20160520_021801	Un martillo místico que puede desmantelar lo que toca. Material usado en eliminación transcendental.
+ETC_20160520_021802	Varita de Hechizos
+ETC_20160520_021803	Varita que expele un hechizo de Absorción. Usada en eliminación transcendental.
+ETC_20160520_021804	Piedra Despertadora Premium (14 Days)
+ETC_20160520_021805	Poción para re-establecer Estadísticas(14 Days)
+ETC_20160520_021806	Paquete de Laima
+ETC_20160520_021807	Contiene objetos. Click derecho para usar.{nl} - Token de 7 Días(Evento) x1 {nl} - Tomo de EXP x3 {nl} – Poción de PS Altamente Condensada x100 {nl} - Poción de PM Altamente Condensada x100 {nl} - Kit de Reparación Urgente x3 {nl} - Pergamino de Teletransporte x10 {nl} - Cristal del Alma x5 {nl} - Cupón para reiniciar contador de Instancias x1 {nl} – Megafóno x10
+ETC_20160520_021808	Paquete de Beneficio ¡SUBESUBE!
+ETC_20160520_021809	Contiene objetos. Click derecho para usar.{nl} - Token de 30 Días x1{nl} - Sardina x15 {nl} – Huevo de Pingüino x1
+ETC_20160520_021810	Paquete de Sardinas
+ETC_20160520_021811	Click derecho para usar. Obtendrás Sardina x5.
+ETC_20160520_021812	Paquete de Ases - Espadachín(Chico)
+ETC_20160520_021813	Contiene objetos. Click derecho para usar.{nl} - Traje de As Espadachín(Chico) x1{nl} - Sombrero de General Pica x1{nl} - Pergamino para Encantar x40
+ETC_20160520_021814	Paquete de Ases - Espadachín(Chica)
+ETC_20160520_021815	Contiene objetos. Click derecho para usar.{nl} - Traje de As Espadachín(Chica) x1{nl} - Sombrero de General Pica x1{nl} - Pergamino para Encantar x40
+ETC_20160520_021816	Paquete de Ases - Mago(Chico)
+ETC_20160520_021817	Contiene objetos. Click derecho para usar.{nl} - Traje de As Mago(Chico) x1{nl} - Sombrero de Mago Diamante x1{nl} - Pergamino para Encantar x40
+ETC_20160520_021818	Paquete de Ases - Mago(Chica)
+ETC_20160520_021819	Contiene objetos. Click derecho para usar.{nl} - Traje de As Mago(Chica) x1{nl} - Tiara de Reina Diamante x1{nl} - Pergamino para Encantar x40
+ETC_20160520_021820	Paquete de Ases - Arquero(Chico)
+ETC_20160520_021821	Contiene objetos. Click derecho para usar.{nl} - Traje de As Arquero(Chico) x1{nl} - Sombrero Trébol de Plumas  x1{nl} - Pergamino para Encantar x40
+ETC_20160520_021822	Paquete de Ases - Arquero(Chica)
+ETC_20160520_021823	Contiene objetos. Click derecho para usar.{nl} - Traje de As Arquero(Chica) x1{nl} - Sombrero Trébol de Plumas x1{nl} - Pergamino para Encantar x40
+ETC_20160520_021824	Paquete de Ases - Clérigo(Chico)
+ETC_20160520_021825	Contiene objetos. Click derecho para usar.{nl} - Traje de As Clérigo(Chico) x1{nl} - Sombrero de Marino Corazón x1{nl} - Pergamino para Encantar x40
+ETC_20160520_021826	Paquete de Ases - Clérigo(Chica)
+ETC_20160520_021827	Contiene objetos. Click derecho para usar.{nl} - Traje de As Clérigo(Chica) x1{nl} - Sombrero de Marino Corazón x1{nl} - Pergamino para Encantar x40
 ETC_20160520_021828	Pinguino
-ETC_20160520_021829	Uso del Steam Inventory
+ETC_20160520_021829	Uso del Inventario de Steam
 ETC_20160520_021830	Tiempo en neutral (seg)
 ETC_20160520_021831	¿Realmente deseas usarlo?
-ETC_20160520_021832	TP recargado.
+ETC_20160520_021832	TP cargado.
 ETC_20160520_021833	La carga de TP ha fallado.
 ETC_20160520_021834	¿Deseas cambiar tu clan a un estado neutral?{nl}Los clanes neutrales no pueden participar en guerras.{nl}El estado neutral será mantenido por {DAY} día(s).
 ETC_20160520_021835	¿Deseas cambiar tu clan a un estado no-neutral?{nl}Los clanes no-neutrales pueden participar en guerras.{nl}El estado no-neutral será mantenido por {DAY} día(s).
