@@ -577,7 +577,7 @@ ETC_20150317_000576	Biteregina Fatal
 ETC_20150317_000577	Nureongi
 ETC_20150317_000578	Speck
 ETC_20150317_000579	White Spots
-ETC_20150317_000580	Dog
+ETC_20150317_000580	x
 ETC_20150317_000581	Anvil
 ETC_20150317_000582	Hogma Warrior
 ETC_20150317_000583	Although the Hogmas are smarter than the Vubbes and can use tools, their brutish instincts stifle any progress and lead to many stupid mistakes.
@@ -3652,8 +3652,8 @@ ETC_20150317_003651	obj of killed monstruo is not found
 ETC_20150317_003652	Usa la llave para el pergamino de magia absorvida {nl} luego, mata monstruos sobre el círculo mágico para cargar el cristal
 ETC_20150317_003653	No tienes suficientes piezas de la piedra base. Junta las piezas.
 ETC_20150317_003654	Has encontrado un Andamio de Cocatriz.
-ETC_20150317_003655	¡Has recolectado suficiente Grasa de Cocatriz Fat! {nl} Úsala en el monumento para revisar su contenido.
-ETC_20150317_003656	¡Has recolectado suficiente Graasa de Cocatriz!
+ETC_20150317_003655	¡Has recolectado suficiente Grasa de Cocatriz! {nl} Úsala en el monumento para revisar su contenido.
+ETC_20150317_003656	¡Has recolectado suficiente Grasa de Cocatriz!
 ETC_20150317_003657	Has encontrado Carbones Ganzúa
 ETC_20150317_003658	¡Has recolectado suficientes Carbones Ganzúa! {nl} Revisa el contenido del monumento
 ETC_20150317_003659	Has recolectado suficientes Carbones Ganzúa
@@ -4787,7 +4787,7 @@ ETC_20150317_004786	Preguntar que sucedio luego
 ETC_20150317_004787	¡Has encontrado una palanca de cerrojo!
 ETC_20150317_004788	Encontre información acerca del flujo de caballos de fuerza.
 ETC_20150317_004789	Información especial no pudo ser encontrada.
-ETC_20150317_004790	¡Por favor deshazte la trampa que atrae monstruos!
+ETC_20150317_004790	¡Por favor deshazte de la trampa que atrae a los monstruos!
 ETC_20150317_004791	Más monstruos se acercan, es peligroso.
 ETC_20150317_004792	Purificando tierra corrupta
 ETC_20150317_004793	¡Has purificado la tierra corrupta por demonios!
@@ -8273,7 +8273,7 @@ ETC_20150317_008273	Receta - Klavis Two-handed Sword
 ETC_20150317_008274	Receta - Cane Rover
 ETC_20150317_008275	Receta - Cane
 ETC_20150317_008276	Receta - Crook
-ETC_20150317_008277	Receta - Puter Rod
+ETC_20150317_008277	Receta - Pewter Rod
 ETC_20150317_008278	Receta - Owl Rod
 ETC_20150317_008279	Receta - Rune Rod
 ETC_20150317_008280	Receta - Cristal Rod
@@ -8291,7 +8291,7 @@ ETC_20150317_008291	Receta - Smith Rod
 ETC_20150317_008292	Receta - Klavis Rod
 ETC_20150317_008293	Receta - Oak Staff
 ETC_20150317_008294	Receta - Staff
-ETC_20150317_008295	Receta - Jus Staff
+ETC_20150317_008295	Receta - Ju Staff
 ETC_20150317_008296	Receta - Ubuko Staff
 ETC_20150317_008297	Receta - Stag Staff
 ETC_20150317_008298	Receta - Geometry Staff
@@ -8317,7 +8317,7 @@ ETC_20150317_008317	Receta - Long Bow
 ETC_20150317_008318	Receta - Composite Bow
 ETC_20150317_008319	Receta - Self Bow
 ETC_20150317_008320	Receta - Rokas Bow
-ETC_20150317_008321	Receta - Goritos
+ETC_20150317_008321	Receta - Gorithos
 ETC_20150317_008322	Receta - Gulail
 ETC_20150317_008323	Receta - Kaman
 ETC_20150317_008324	Receta - Gendawa
@@ -11556,7 +11556,7 @@ ETC_20150428_011557	You do not have enough PM.
 ETC_20150428_011558	You do not have enough RES.
 ETC_20150428_011559	You do not have enough PS.
 ETC_20150428_011560	There is no target in sight.
-ETC_20150428_011561	The skill items are insufficient.
+ETC_20150428_011561	Insufficient items available for skill use.
 ETC_20150428_011562	[Moving Validation Error] Too fast.
 ETC_20150428_011563	Found a charcoal of Hallowventer.
 ETC_20150428_011564	You have collected enough Hallowventer Charcoal!{nl}Use it on the tombstone.
@@ -12223,7 +12223,7 @@ ETC_20150714_012224	Receta - Roxona Leather Gloves
 ETC_20150714_012225	Receta - Roxona Leather Boots
 ETC_20150714_012226	Receta - Roxona Leather Pants
 ETC_20150714_012227	Receta - Roxona Leather Armor
-ETC_20150714_012228	Receta - Roxona Plate Gauntlet
+ETC_20150714_012228	Receta - Roxona Plate Gauntlets
 ETC_20150714_012229	Receta - Roxona Plate Boots
 ETC_20150714_012230	Receta - Roxona Plate Pants
 ETC_20150714_012231	Receta - Roxona Plate Armor
@@ -16503,7 +16503,7 @@ ETC_20151102_016504	Salvia Forest
 ETC_20151102_016505	Lake Rasvoy
 ETC_20151102_016506	Sekta Shelter
 ETC_20151102_016507	Oath Memorial Site
-ETC_20151102_016508	Maven Abbey
+ETC_20151102_016508	Maven Abadía
 ETC_20151102_016509	Pelke Shrine Ruins
 ETC_20151102_016510	Absenta Reservoir
 ETC_20151102_016511	Ruklys Hall of Fame
@@ -16516,7 +16516,7 @@ ETC_20151102_016517	Barha Forest
 ETC_20151102_016518	Nahash Forest
 ETC_20151102_016519	Vera Coast
 ETC_20151102_016520	Elgos Monasterio Annex
-ETC_20151102_016521	Elgos Abbey Main Building
+ETC_20151102_016521	Elgos Abadía Main Building
 ETC_20151102_016522	Vedas Plateau
 ETC_20151102_016523	Koru Jungle
 ETC_20151102_016524	Knidos Jungle
@@ -17701,7 +17701,6 @@ ETC_20151224_017702	Hohen competed against humans since the birth of the kingdom
 ETC_20151224_017703	Unlike other specter type monstruos, Reapers used to work for quite some time in the demon realm and it's evil whereabouts are recorded in the kingdom's history.
 ETC_20151224_017704	Señor Demonio Hauberk signed a secret treaty with Agailla Flurry, who is known as one of the greatest mages in the history, but after that treaty had been discovered by Señor Demonio Helgasercle, the body of Hauberk was ripped into pieces and those pieces were sealed away and scattered across the world. Nevertheless, Hauberk still influences his servants and dreams of his resurrection and return.
 ETC_20151224_017705	Lapemiter is a unique occupation that is highly respected, but is also looked down upon among Lapes. A Lapemiter serves a religious role, but the other Lapes don't put great emphasis on religious rituals, so they want a Lapemiter to do their exhausting duty.
-ETC_20151022_015924	Unlike the prejudice of the humans, Lapezards are not Lapes that obtained their current status through long training. Most of them are selected by their breeds and they grow up accordingly and receive the necessary food to become a Lapezard.
 ETC_20151224_017706	Their status is not high among Lapes, but they are most dangerous and they get encountered often. To receive respect from the other Lapes, they act violently to the ones they encounter with.
 ETC_20151224_017707	For a Lape to Lapflammer, they just need to obtain the weapons they need. But its not that easy since when Lapflammers die, the weapons also get destroyed so its not that easy for the Lapes.
 ETC_20151224_017708	Ferret Arquero
@@ -17808,7 +17807,7 @@ ETC_20151224_017808	Second Starting Point
 ETC_20151224_017809	Rasvoy Lake
 ETC_20151224_017810	Sekta Forest
 ETC_20151224_017811	Oasseu Memorial
-ETC_20151224_017812	Maven Abby
+ETC_20151224_017812	Maven Abadía
 ETC_20151224_017813	Unused-Siauliai
 ETC_20151224_017814	Guarida
 ETC_20151224_017815	Opening Zone
@@ -19456,7 +19455,7 @@ ETC_20151224_019456	It's rotten... Useless
 ETC_20151224_019457	Curing the Refugees
 ETC_20151224_019458	Purifying the Monsters
 ETC_20151224_019459	You've successfully purified the monstruos
-ETC_20151224_019460	You've injecting the spirit inot the monstruo's soul
+ETC_20151224_019460	Injecting the spirit into the monstruo's soul
 ETC_20151224_019461	You've absorbed the monstruo's soul
 ETC_20151224_019462	You've failed to absorb the monstruo's soul
 ETC_20151224_019463	It seems that there is no information related to the giant bracken
@@ -20480,7 +20479,7 @@ ETC_20160224_020480	Receta - Forge
 ETC_20160224_020481	Receta - Shield Charger
 ETC_20160224_020482	Una receta para crear Equipos. Click Derecho para registrar esta receta en el Diario de Aventuras.
 ETC_20160224_020483	Receta - Seimos Sword
-ETC_20160224_020484	Receta - Luma Sword
+ETC_20160224_020484	Receta - Ruma Sword
 ETC_20160224_020485	Receta - Magas Sword
 ETC_20160224_020486	Receta - Catacombs Blade
 ETC_20160224_020487	Receta - Seimos Two-handed Sword
@@ -20727,7 +20726,6 @@ ETC_20160224_020727	La puerta de hierro ha sido retirada.
 ETC_20160224_020728	Volver a la aldea
 ETC_20160224_020729	Volver a la entrada
 ETC_20160224_020730	¡Quedan 5 minutos antes de que finalice la Instancia!
-ETC_20160224_020731	Derrota al monstruo jefe
 ETC_20160224_020731	Derrota al monstruo jefe
 ETC_20160224_020732	¡Regresando a la entrada en 30 segundos!
 ETC_20160224_020733	Abrir
@@ -21734,7 +21732,6 @@ ETC_20160412_021733	{Name} ha sido reportado. Muchas Gracias.
 ETC_20160415_021734	Delay period after account creation until trading is available: (segundos)
 ETC_20160415_021735	Precio Mín del Mercado: Ajustar
 ETC_20160415_021736	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons y enlaces está restringido pues puede consumir una gran cantidad de bites.
-ETC_20150317_001460	Los mensajes de chat no pueden exceder los {Max} bites. El uso de emoticons está restringido pues puede consumir una gran cantidad de bites.
 ETC_20160415_021737	Esta función estará disponible en {Time}.
 ETC_20160415_021738	Este usuario no puede realizar intercambios en este momento.
 ETC_20160425_021739	Aplica beneficios de Token a todos tus personajes en el servidor por 30 días. Click Derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender Atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30%{img white_right_arrow 16 16}10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3{nl} - +30% de EXP por cazar monstruos{nl} - Puedes usar gestos Premium{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes realizar Intercambios Personales hasta 30 veces{nl} - 1 Entrada extra a Instancias de misiones y mazmorras
@@ -21838,3 +21835,6 @@ ETC_20160520_021836	Rubio Ceniza
 ETC_20160520_021837	Borgoña
 ETC_20160520_021838	Verde Pastel
 ETC_20160520_021839	Gris Ceniza
+ETC_20160530_021840	No puedes solicitar esa función en esta área.				
+ETC_20160530_021841	¿Deseas comprar {ProductName}?				
+ETC_20160530_021842	Has fallado en crear la instancia debido a que se excedió la capacidad del servidor. Intenta nuevamente más tarde.
