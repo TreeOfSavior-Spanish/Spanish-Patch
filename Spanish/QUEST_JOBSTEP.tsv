@@ -232,7 +232,7 @@ QUEST_JOBSTEP_20150317_000231	¿Quieres aprender acerca de los Bokor?{nl}Entonce
 QUEST_JOBSTEP_20150317_000232	No importa que carta sea, siempre que provenga de un monstruo poderoso.{nl}Lo que me traerás ya está decidido.
 QUEST_JOBSTEP_20150317_000233	Completado. Viajero. Victoria prometida. Mundo perfecto.{nl}Encontrar una interpretación completa es tarea tuya.
 QUEST_JOBSTEP_20150317_000234	A veces, el duro destino puede conducir a un oscuro futuro.{nl}Te guiaré a través del camino del Bokor como te prometí.
-QUEST_JOBSTEP_20150317_000235	 Estoy buscando a un gato que sirva de modelo, pero estoy demasiado viejo y no me resulta fácil.{nl}Tráeme un gato viable y te enseñaré mis habilidades.
+QUEST_JOBSTEP_20150317_000235	Estoy buscando a un gato que sirva de modelo, pero estoy demasiado viejo y no me resulta fácil.{nl}Tráeme un gato viable y te enseñaré mis habilidades.
 QUEST_JOBSTEP_20150317_000236	¿El abuelo Tesla quiere un gato?{nl}La Plaza de Klaipeda está llena de gatos,{nl}pero no será facil atrapar uno sin una comida especial.
 QUEST_JOBSTEP_20150317_000237	Me gustan los gatos porque hacen lo básico.{nl}Los gatos tienen todas las líneas.
 QUEST_JOBSTEP_20150317_000238	Puedo darte una comida de gato especial para atrapar un gato.{nl}Si encuentras a mi padre, ¡te la daré grátis!
@@ -241,24 +241,24 @@ QUEST_JOBSTEP_20150317_000240	Uno de los soldados de Fedimian me dijo que vió e
 QUEST_JOBSTEP_20150317_000241	Este es el símbolo que grabé en la esclava de mi padre...{nl}Esto es muy importante para mi. Gracias.
 QUEST_JOBSTEP_20150317_000242	Te daré la comida de gatos especial como te prometí.{nl}Está hecha con cosas que les gustan a los gatos, así que debería funcionar.
 QUEST_JOBSTEP_20150317_000243	Oh oh, eso es un gato.{nl}Como prometí, dejame guiarte hacia un terreno más alto.
-QUEST_JOBSTEP_20150317_000244	I've traded for a long time with a Klaipeda Item Merchant, so they might help you.{nl}He comerciado durante mucho tiempo con Mercaderes de Objetos de Klaipeda, así que deberían{nl}ayudarte.
+QUEST_JOBSTEP_20150317_000244	He comerciado durante mucho tiempo con Mercaderes de Objetos de Klaipeda, así que deberían{nl}ayudarte.
 QUEST_JOBSTEP_20150317_000245	Quiero que hagas algo a cambio de que te enseñe magia.{nl}Es simple, pero peligroso. ¿Te gustaría intentarlo?{nl}
-QUEST_JOBSTEP_20150317_000246	Just put this pot in the reading room that is at the 1st floor of the Mage Tower.{nl}The problem is that there are Chapparition that are standing in the reading room.. I think you would be more than able to defeat them.
-QUEST_JOBSTEP_20150317_000247	If you find it dangerous, please get out quickly. {nl}I'll just have to find another disciple. 
-QUEST_JOBSTEP_20150317_000248	Good work. {nl}I will teach Pyromancy as promised. {nl}
-QUEST_JOBSTEP_20150317_000249	I can promise you a higher level of strength. {nl}Of course, it won't come for free.
-QUEST_JOBSTEP_20150317_000250	Please bring the Beaks of Cockatrices from the Crystal Brook, and Scales of Arma from the 3rd floor of the Mage Tower.{nl}It shouldn't be too hard for you.{nl}
-QUEST_JOBSTEP_20150317_000251	Well done. {nl}I'll help you become stronger.
-QUEST_JOBSTEP_20150317_000252	You've come to the right place if you want to practice stronger magic. {nl}But you can't learn from me with your weak determination.
-QUEST_JOBSTEP_20150317_000253	I can see your passion, but what about your abilities? {nl}Bring me a Phyracon Fragment and a Green Drake Scale in the Mage Tower.
-QUEST_JOBSTEP_20150317_000254	Great job. But I still have my doubts. {nl}I'll decide depending on how well you assist my work.
-QUEST_JOBSTEP_20150317_000255	I used to do research on town defense magic and I think we can try that in Fedimian. {nl}But in order to do that I'll need a lot of data. {nl}
-QUEST_JOBSTEP_20150317_000256	Your job is to use this data recording scroll in Fedimian.
-QUEST_JOBSTEP_20150317_000257	I've marked on your map where you should use it. {nl}Use it at each location.
-QUEST_JOBSTEP_20150317_000258	Good work. You wanted to take magic to the next level right? {nl}I'm very strict so I hope you follow along well.
-QUEST_JOBSTEP_20150317_000259	Healing the body also heals the soul. {nl}If you want to take yourself to the next level, then service others by healing them.
-QUEST_JOBSTEP_20150317_000260	There are still many people who need treatment. {nl}Share your kindness with them.
-QUEST_JOBSTEP_20150317_000261	The goddess helps those who help. {nl}It may not be much, but I hope I can be of assistance in taking you to the next level.
+QUEST_JOBSTEP_20150317_000246	Simplemente pon este jarrón en la sala de lectura que hay en la primera planta de la Torre{nl}del Mago.{nl}El problema es que hay Chapprition que permanecen en la sala de lectura. Creo que tú serás{nl}más capaz de derrotarlos.
+QUEST_JOBSTEP_20150317_000247	Si crees que es peligroso sal rápidamente, por favor.{nl}Tendré que encontrar a otro discípulo.
+QUEST_JOBSTEP_20150317_000248	Buen trabajo.{nl}Te enseñaré Piromancia, como te prometí.
+QUEST_JOBSTEP_20150317_000249	Puedo prometerte un nivel superior de fuerza.{nl}Por supuesto, no será gratis.
+QUEST_JOBSTEP_20150317_000250	Por favor, tráeme los Picos de los Cockatrices del Arroyo de Cristal, y Escamas de Arma de la{nl}tercera planta de la Torre del Mago.{nl}No debería resultarte complicado.{nl}
+QUEST_JOBSTEP_20150317_000251	Bien hecho.{nl}Te ayudaré a volverte más fuerte.
+QUEST_JOBSTEP_20150317_000252	Has venido al lugar indicado si quieres practicar magia más difícil.{nl}Pero no podrás aprender de mí con una determinación tan poco convincente.
+QUEST_JOBSTEP_20150317_000253	Puedo ver tu pasión, pero ¿Qué me dices de tus habilidades?{nl}Tráeme un Fragmento de Phyracon y una Escama de Drake Verde de la Torre del Mago.
+QUEST_JOBSTEP_20150317_000254	Buen trabajo. Pero aún tengo mis dudas.{nl}Decidiré dependiendo de cómo me ayudes con mi trabajo.
+QUEST_JOBSTEP_20150317_000255	Solía hacer investigaciones sobre la defensa mágica de la ciudad, y creo que podríamos intentarlo{nl}en Fedimian.{nl}Pero para poder hacerlo vamos a necesitar un montón de información.
+QUEST_JOBSTEP_20150317_000256	Tu trabajo consiste en usar este pergamino de recopilación de datos en Fedimian.
+QUEST_JOBSTEP_20150317_000257	He marcado en tu mapa donde debería usarlo.{nl}Usalo en cada una de las localizaciones.
+QUEST_JOBSTEP_20150317_000258	Buen trabajo. ¿Quiéres llevar la mágia al siguiente nivel, verdad?{nl}Soy muy estricto, así que espero que me sigas bien el ritmo.
+QUEST_JOBSTEP_20150317_000259	Curar el cuerpo también cura el alma.{nl}Si quieres alcanzar el siguiente nivel, deberás servir a otros curándolos.
+QUEST_JOBSTEP_20150317_000260	Hay mucha gente que aún necesita tratamiento.{nl}Comparte tu amabilidad con ellos.
+QUEST_JOBSTEP_20150317_000261	La Diosa ayuda a aquellos que ayudan.{nl}Puede no ser mucho, pero espero poder servirte de ayuda para alcanzar el siguiente nivel.
 QUEST_JOBSTEP_20150317_000262	Cataphract...{nl}I'm not sure if you have the strength to learn.
 QUEST_JOBSTEP_20150317_000263	I like your courage.{nl}Show your skills by defeating Sparnasman in the Rhombuspaving Dale. 
 QUEST_JOBSTEP_20150317_000264	Great work. You seem qualified to learn my skills. {nl}Oh, and I apologize for underestimating you.
