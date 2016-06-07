@@ -3664,7 +3664,7 @@ ETC_20150317_003663	¡La Misión cuando te golpean!
 ETC_20150317_003664	¡Misión Completa! {nl} Jonas se ha despertado.
 ETC_20150317_003665	Activar cuando el dispositivo se encuentre brillando{nl} para acortar el tiempo.
 ETC_20150317_003666	¡Activar Equipo! (Barra Espaciadora)
-ETC_20150317_003667	¡Quita la forja del Molde!
+ETC_20150317_003667	¡Quita el objeto forjado del Molde!
 ETC_20150317_003668	Modificar
 ETC_20150317_003669	¡Misión completa! {nl}
 ETC_20150317_003670	Joya con energía maligna recolectada
@@ -5380,7 +5380,7 @@ ETC_20150317_005379	¡Buen trabajo!
 ETC_20150317_005380	¡¡¡Dónde estás!!!
 ETC_20150317_005381	¡Sal!
 ETC_20150317_005382	Puerta de Espinas
-ETC_20150317_005383	Bolsillo Conteniendo Algo
+ETC_20150317_005383	Mochila que Contiene Algo
 ETC_20150317_005384	Deshazte de los monstruos atacantes mientras la piedra mágica esta siendo refinada.
 ETC_20150317_005385	Seguidor de la Diosa Saule
 ETC_20150317_005386	Cambiar Invocación
@@ -16678,7 +16678,7 @@ ETC_20151102_016679	Gema de Goblin Charger
 ETC_20151102_016680	Gema de Honeymeli
 ETC_20151102_016681	Gema de Denden
 ETC_20151102_016682	Gema de Lemuria
-ETC_20151102_016683	Gema de Corrupt Belfigi
+ETC_20151102_016683	Gema de Corrupt Velfiggy
 ETC_20151102_016684	Gema de Leaf Bug
 ETC_20151102_016685	Gema de Kepa
 ETC_20151102_016686	Gema de Despojos
@@ -19220,8 +19220,8 @@ ETC_20151224_019221	The number to find : {NEXT}
 ETC_20151224_019222	You've found all the numbers
 ETC_20151224_019223	You've found all the numbers of today
 ETC_20151224_019224	Obtain the following number and arithmetic {MIXINGMAX}{nl}by hunting monstruos to create the combination of {VALUETARGET}.
-ETC_20151224_019225	Target Number : {VALUETARGET}{nl}Combine the following {MIXINGMAX} number and arithmetics. {nl} Owned Arithmetic : + ({s1}), - ({s2}), * ({s3}), / ({s4}){nl} Owned Number : 1 ({nl}), 2 ({n2}), 3 ({n3}), 4 ({n4}), 5 ({n5}), 6 ({n6}), 7 ({n7}), 8 ({n8}), 9 ({n9}){nl} Combination of Value : {MIXING}
-ETC_20151224_019226	Completed number combination!
+ETC_20151224_019225	Target Number : {VALUETARGET}{nl}Combine the following {MIXINGMAX} numbers and arithmetics. {nl} Owned Arithmetic : + ({s1}), - ({s2}), * ({s3}), / ({s4}){nl} Owned Number : 1 ({n1}), 2 ({n2}), 3 ({n3}), 4 ({n4}), 5 ({n5}), 6 ({n6}), 7 ({n7}), 8 ({n8}), 9 ({n9}){nl} Combination of Value : {MIXING}
+ETC_20151224_019226	The number combination has been completed!
 ETC_20151224_019227	You lack the numbers and arithmetics.{nl}{CARD}
 ETC_20151224_019228	You lack the number number.{nl}{CARD}
 ETC_20151224_019229	You lack the arithmetics.{nl}{CARD}
