@@ -1657,7 +1657,7 @@ ITEM_20150317_001656	Cuerno de Unicornio
 ITEM_20150317_001657	El cuerno de un unicornio. Esto es considerado un objeto mítico. 
 ITEM_20150317_001658	Cuerno Rojo
 ITEM_20150317_001659	Aunque no puedes convertirte en un demonio, puedes ponertelo en la cabeza. 
-ITEM_20150317_001660	Orejas de Chupacabras del Desierto
+ITEM_20150317_001660	Orejas de Chupacabra del Desierto
 ITEM_20150317_001661	Si se mira con cuidado, se puede ver diminutos pelos suaves en estos oídos. 
 ITEM_20150317_001662	Casco de Mirtis
 ITEM_20150317_001663	Casco anteriormente usado por Mirtis. 
@@ -1785,11 +1785,11 @@ ITEM_20150317_001784	Restores 30 Resistencia. {nl}Click derecho para usar. Enfri
 ITEM_20150317_001785	Píldora de RES (Grande) 
 ITEM_20150317_001786	Restores 40 Resistencia. {nl}Click derecho para usar. Enfriamiento de 60 segundos. 
 ITEM_20150317_001787	Poción de Recuperación Pequeña
-ITEM_20150317_001788	Restores PS and PM every 2 segundos. {nl}224 PS y de PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos. 
+ITEM_20150317_001788	Restura PS y PM cada 2 segundos. {nl}224 PS y de PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos. 
 ITEM_20150317_001789	Poción de Recuperación
-ITEM_20150317_001790	Restores PS and PM every 2 segundos. {nl}373 PS y de PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
+ITEM_20150317_001790	Restura PS y PM cada 2 segundos. {nl}373 PS y de PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
 ITEM_20150317_001791	Poción de Recuperación Grande
-ITEM_20150317_001792	Restores PS and PM every 2 segundos. {nl}744 PS y de PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
+ITEM_20150317_001792	Restura PS y PM cada 2 segundos. {nl}744 PS y de PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
 ITEM_20150317_001793	Poción de RES +5
 ITEM_20150317_001794	Incrementa tu resistencia en 5.
 ITEM_20150317_001795	Pieza de Kepa Rojo
@@ -2109,7 +2109,7 @@ ITEM_20150317_002108	Una hoja que tiene un sabor ligeramente amargo. Se vuelve m
 ITEM_20150317_002109	Caparazón de Infro Rocktor
 ITEM_20150317_002110	Una caparazón resistente con un patrón hexagonal en él. {nl}Obtenido de Infro Rocktors. 
 ITEM_20150317_002111	Dientes de Chupacabra
-ITEM_20150317_002112	Unos pequeños y afilados dientes. {nl}Obtenido de Chupacabras.
+ITEM_20150317_002112	Unos pequeños y afilados dientes. {nl}Obtenido de Chupacabra.
 ITEM_20150317_002113	Antena de Tejedora
 ITEM_20150317_002114	A blunt feeler with a hairy surface. {nl}Obtenido de Tejedoras. 
 ITEM_20150317_002115	Piel de Pokubu
@@ -2185,7 +2185,7 @@ ITEM_20150317_002184	Se utiliza frecuentemente en la elaboración de arcos debid
 ITEM_20150317_002185	Caparazón de Zinute
 ITEM_20150317_002186	Muestra una geometría definida. Se requiere un proceso especial antes de su uso debido a su dureza, que es como el metal. {nl}Obtenido de Zinutes. 
 ITEM_20150317_002187	Carne de Chupacabra del Desierto
-ITEM_20150317_002188	Bastante dura debido a las fibras musculares, pero tiene un sabor salado. {nl}Obtenido de Chupacabras del Desierto. 
+ITEM_20150317_002188	Bastante dura debido a las fibras musculares, pero tiene un sabor salado. {nl}Obtenido de Chupacabra del Desierto. 
 ITEM_20150317_002189	Diente de Wendigo
 ITEM_20150317_002190	Un diente con fuerza suficiente para atravesar la madera sólida. {nl}Obtenido de Wendigos. 
 ITEM_20150317_002191	Núcleo de Sauga
@@ -2556,7 +2556,7 @@ ITEM_20150317_002555	Obtenido de Big Gribas.
 ITEM_20150317_002556	Pico de Big Cocatriz
 ITEM_20150317_002557	Si intentas bloquear un picotazo, puede romper tu escudo. {nl}Obtenido de Big Cockatrices. 
 ITEM_20150317_002558	Piel de Chupacabra del Desierto
-ITEM_20150317_002559	A pesar de que sólo pueden obtenerse en pequeñas cantidades, tiene muchos usos y utilidades. {nl}Obtenido de Chupacabras del Desierto. 
+ITEM_20150317_002559	A pesar de que sólo pueden obtenerse en pequeñas cantidades, tiene muchos usos y utilidades. {nl}Obtenido de Chupacabra del Desierto. 
 ITEM_20150317_002560	Motor de Mando de Sauga
 ITEM_20150317_002561	Un mecanismo que permite un control más fácil del poder mágico. {nl}Obtenido de Saugas. 
 ITEM_20150317_002562	Hoja de Cire
@@ -5277,8 +5277,8 @@ ITEM_20150714_005276	A complex gear seems to be used for the complex machine. Yo
 ITEM_20150714_005277	Dullahan Armor Fragment 
 ITEM_20150714_005278	A fragment of Dullahan's armor. {nl}Obtenido de Dullahan in Roxona Reconstuction Agency East Building.
 ITEM_20150714_005279	A heavy lump of scrap metal. {nl}Obtenido de Anchor.
-ITEM_20150714_005280	Belfigi Bead
-ITEM_20150714_005281	There is a little color difference between Dimmer beads. {nl}Obtenido de Belfigi.
+ITEM_20150714_005280	Velfiggy Bead
+ITEM_20150714_005281	There is a little color difference between Dimmer beads. {nl}Obtenido de Velfiggy.
 ITEM_20150714_005282	Cliquare Core
 ITEM_20150714_005283	A mutant variation of the Nucl, the power source of mutant monster. Contiene magia altamente condensada que podría explotar si no se maneja con cuidado. {nl}Obtain from Stone Orcas.
 ITEM_20150714_005284	A record written by the teacher of Hones and Raius. It seems to contain very important information.
@@ -5677,7 +5677,7 @@ ITEM_20150717_005676	This equipment was once adopted as the official equipment o
 ITEM_20150717_005677	According to folklore, the source of this recipe was leaked from the Library of the goddesses.
 ITEM_20150717_005678	This is the equipment with the pattern that was mainly worn at the outer areas of the kingdom. It is believed to be used in the southern part of Orsha for about a hundred years.
 ITEM_20150717_005679	In the past, this equipment was given to commemorate all the people who received a knighthood.
-ITEM_20150717_005680	Since the pattern was adopted from the tribal society outside the kingdom, this equipment shows the improvements as the time passed by.
+ITEM_20150717_005680	Since the pattern was adopted from the tribal society outside the kingdom, this equipment shows the improvements as time passed by.
 ITEM_20150717_005681	Its name is said to be taken from a famous monster in the past which cannot be confirmed, unless you are using the library of the goddesses. 
 ITEM_20150717_005682	This equipment was adopted from the Gele Plateau area. The history has been long, so it is believed to be made from in the period of the first Paladín Master, but it actually was crafted first at some point of time in the later generations.
 ITEM_20150717_005683	Heavier and weaker than expected but its enchantment with power of mummies that are different from the undead helps the wearer.
@@ -5863,7 +5863,7 @@ ITEM_20150729_005862	This item has been crafted with various poisons since its o
 ITEM_20150729_005863	Originally from demons who passed the recipe down to the Vubbes, this recipe was released by human warriors who stole it from the Vubbes.
 ITEM_20150729_005864	- [Plant Colección] effect{nl}, when defeat Plant types - Herb items can be dropped when [Plant Colección] is stacked 15 times
 ITEM_20150729_005865	The new monsters appeared since Medzio Diena, the name was made according to the a scholar woh devoted to find ways.
-ITEM_20150729_005866	 - [Frenzy] for 5 segundos when an enemy avoids your attack{nl}  - Increases physical attack by 235, movement speed by 10 and reduces physical defense by 88 durante 30 segundos when stacking [Frenzy] 8 times
+ITEM_20150729_005866	 - [Frenzy] for 5 segundos when an enemy avoids your attack{nl}  - Incrementa el ataque físico en 235, movement speed by 10 and reduces physical defense by 88 durante 30 segundos when stacking [Frenzy] 8 times
 ITEM_20150729_005867	Añade 2814 EXP y 2166 EXP de Clase. {nl}Hay una oportunida de recibir experiencia adicional. {nl}Click derecho para usar. 
 ITEM_20150729_005868	Lv3 EXP Card (Deletion)
 ITEM_20150729_005869	Kubas Card
@@ -6194,7 +6194,7 @@ ITEM_20150918_006193	Miao Hair Ornament
 ITEM_20150918_006194	An elaborate ornament that is the identifying marker of the Wugushi. Its distinctive feature is the bullhorn design in the center.
 ITEM_20150918_006195	Fletcher Knife
 ITEM_20150918_006196	Restaura instantáneamente 190 PS. {nl}Restaura Adicionalmente PS cada 2 segundos. {nl}266 de PS restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 20 segundos.
-ITEM_20150918_006197	Restaura instantáneamente 320 PS. {nl}Restaura Adicionalmente PS cada 2 segundos. {nl}448 de PS restaurados en 15 segundos. {nl}Click derecho para usar. Cooldown of 25 segundos.
+ITEM_20150918_006197	Restaura instantáneamente 320 PS. {nl}Restaura Adicionalmente PS cada 2 segundos. {nl}448 de PS restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 25 segundos.
 ITEM_20150918_006198	Restaura instantáneamente 640 PS. {nl}Restaura Adicionalmente PS cada 2 segundos. {nl}896 de PS restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
 ITEM_20150918_006199	Restaura instantáneamente 70 PM. {nl}Restaura Adicionalmente PM cada 2 segundos. {nl}98 de PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
 ITEM_20150918_006200	Restaura instantáneamente 120 PM. {nl}Restaura Adicionalmente PM cada 2 segundos. {nl}168 de PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 45 segundos.
@@ -8681,7 +8681,7 @@ ITEM_20151224_008680	Kranto Bracelet
 ITEM_20151224_008681	 - Triggers [Plant Colección] durante 30 segundos when defeating Plant-type monsters{nl}  -  Herb items can be dropped when this effect is stacked 15 times
 ITEM_20151224_008682	Elements Dance
 ITEM_20151224_008683	Created by mages to protect themselves from elemental magic, but due to a fatal flaw it couldn't be made.
-ITEM_20151224_008684	 - Triggers [Frenzy] durante 5 segundos when an enemy avoids your attack{nl}  - Increases physical attack by 235, movement speed by 10 and reduces physical defense by 88 durante 30 segundos when stacking [Frenzy] 8 times
+ITEM_20151224_008684	 - Triggers [Frenzy] durante 5 segundos when an enemy avoids your attack{nl}  - Incrementa el ataque físico en 235, movement speed by 10 and reduces physical defense by 88 durante 30 segundos when stacking [Frenzy] 8 times
 ITEM_20151224_008685	Traje de Templario
 ITEM_20151224_008686	Traje de Sabio
 ITEM_20151224_008687	Traje de Brujo
@@ -10130,15 +10130,15 @@ ITEM_20160224_010129	Poción Básica de PM Nv10
 ITEM_20160224_010130	Poción Básica de PM Nv5
 ITEM_20160224_010131	Poción Básica de PM Nv10
 ITEM_20160224_010132	Cofre de Soporte: Lv15
-ITEM_20160224_010133	Usar para obtener los siguientes objetos:{nl}Can be used from Nv. 15.{nl}- 30x Lv3 EXP Card{nl}- 5x Soul Crystal{nl}- 10x Settlement Support Potion{nl}- 정작 Support Chest: Lv45{nl}Este objeto será eliminado tras el mantenimiento del servidor del 4 de marzo.
+ITEM_20160224_010133	Usar para obtener los siguientes objetos:{nl}Puede ser usado desde Nv. 15.{nl}- 30x Lv3 EXP Card{nl}- 5x Soul Crystal{nl}- 10x Settlement Support Potion{nl}- 정작 Support Chest: Lv45{nl}Este objeto será eliminado tras el mantenimiento del servidor del 4 de marzo.
 ITEM_20160224_010134	Cofre de Soporte: Lv45
 ITEM_20160224_010135	Usar para obtener los siguientes objetos:{nl}Puede ser usado desde Nv. 40.{nl}- 20x Lv4 EXP Card{nl}- 10x Settlement Support Potion{nl}- 3x EXP Tome{nl}- Cofre de Soporte: Lv60{nl}Este objeto será eliminado tras el mantenimiento del servidor del 4 de marzo.
 ITEM_20160224_010136	Cofre de Soporte: Lv60
-ITEM_20160224_010137	Usar para obtener los siguientes objetos:{nl}Can be used from Nv. 60.{nl}- 35x Lv4 EXP Card{nl}- 5x Instanced Dungeon Reset Voucher{nl}- 10x Settlement Support Potion{nl}- Cofre de Soporte: Lv75{nl}Este objeto será eliminado tras el mantenimiento del servidor del 4 de marzo.
+ITEM_20160224_010137	Usar para obtener los siguientes objetos:{nl}Puede ser usado desde Nv. 60.{nl}- 35x Lv4 EXP Card{nl}- 5x Instanced Dungeon Reset Voucher{nl}- 10x Settlement Support Potion{nl}- Cofre de Soporte: Lv75{nl}Este objeto será eliminado tras el mantenimiento del servidor del 4 de marzo.
 ITEM_20160224_010138	Cofre de Soporte: Lv75
-ITEM_20160224_010139	Usar para obtener los siguientes objetos:{nl}Can be used from Nv. 75.{nl}- 40x Lv6 EXP Card{nl}- 5x Enchant Scroll{nl}- 1x Skill Reset Potion{nl}- Cofre de Soporte: Lv100{nl}Este objeto será eliminado tras el mantenimiento del servidor del 4 de marzo.
+ITEM_20160224_010139	Usar para obtener los siguientes objetos:{nl}Puede ser usado desde Nv. 75.{nl}- 40x Lv6 EXP Card{nl}- 5x Enchant Scroll{nl}- 1x Skill Reset Potion{nl}- Cofre de Soporte: Lv100{nl}Este objeto será eliminado tras el mantenimiento del servidor del 4 de marzo.
 ITEM_20160224_010140	Cofre de Soporte: Lv100
-ITEM_20160224_010141	Usar para obtener los siguientes objetos:{nl}Can be used from Nv. 100.{nl}- 40x Lv6 EXP Card{nl}- 50 TP [Event]{nl}- 40x Megaphone{nl}- Token: 15 Days [Event]{nl}- Supportive Badelaire{nl}- Supportive Katzbalger{nl}- Supportive Alchupiz{nl}- Supportive Royal Partisan{nl}- Supportive Alter Rod{nl}- Supportive Drake Staff{nl}- Supportive Siege Bow{nl}- Supportive Fedimian Turret{nl}- Supportive Fedimian Club{nl}Este objeto será eliminado tras el mantenimiento del servidor del 4 de marzo.
+ITEM_20160224_010141	Usar para obtener los siguientes objetos:{nl}Puede ser usado desde Nv. 100.{nl}- 40x Lv6 EXP Card{nl}- 50 TP [Event]{nl}- 40x Megaphone{nl}- Token: 15 Días [Event]{nl}- Supportive Badelaire{nl}- Supportive Katzbalger{nl}- Supportive Alchupiz{nl}- Supportive Royal Partisan{nl}- Supportive Alter Rod{nl}- Supportive Drake Staff{nl}- Supportive Siege Bow{nl}- Supportive Fedimian Turret{nl}- Supportive Fedimian Club{nl}Este objeto será eliminado tras el mantenimiento del servidor del 4 de marzo.
 ITEM_20160224_010142	Colección: Meseta Gele
 ITEM_20160224_010143	Cubo de Saalus
 ITEM_20160224_010144	Cubo de Torre de la Tierra P5
@@ -10573,4 +10573,61 @@ ITEM_20160520_010572	Incrementa tu velocidad de movimiento en 3 durante 250 segu
 ITEM_20160520_010573	Colección: Arma de principiante
 ITEM_20160520_010574	Colección: Armadura de principiante
 ITEM_20160520_010575	Huevo de pingüino
-ITEM_20160520_010576	Click derecho para usar, tras usarlo el compañero queda instantaneamente registrado. {nl} El compañero puede ser montado sin habilidad de montar. {nl} El compañero le otorga buffs de defensa física y mágica a los jugadores cercanos.
+ITEM_20160520_010576	Click derecho para usar, tras usarlo el compañero queda instantaneamente registrado. {nl} Este compañero puede ser montado sin habilidad de montar. {nl} Este compañero le otorga buffs de defensa física y mágica a los jugadores cercanos.
+ITEM_20160530_010577	Restura PS y PM cada 2 segundos. {nl}28 PS y PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
+ITEM_20160530_010578	Restura PS y PM cada 2 segundos. {nl}46 PS y PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 50 segundos.
+ITEM_20160530_010579	Restura PS y PM cada 2 segundos. {nl}93 PS y PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 70 segundos.
+ITEM_20160530_010580	Consumido tras realizar la habilidad.
+ITEM_20160530_010581	Restura PS y PM cada 2 segundos. {nl}373 PS y PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 50 segundos.
+ITEM_20160530_010582	Restura PS y PM cada 2 segundos. {nl}744 PS y PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 70 segundos.
+ITEM_20160530_010583	Incrementa los PM máximos durante 10 segundos.
+ITEM_20160530_010584	Incrementa los PS máximos durante 10 segundos.
+ITEM_20160530_010585	Añade 2420348 EXP de personaje y 1863583 EXP de clase. Puede ser usado desde Nv. 250.
+ITEM_20160530_010586	Incrementa el ataque físico en 65 durante 30 segundos.{nl}Click derecho para usar. Enfriamiento de 60 segundos.
+ITEM_20160530_010587	Restura PS y PM cada 2 segundos. {nl}373 PS y PM restaurados en 15 segundos. {nl}Click derecho para usar. Enfriamiento de 30 segundos.
+ITEM_20160530_010588	Caja de Materiales Attok
+ITEM_20160530_010589	Caja de posibilidades y Finales Attok
+ITEM_20160530_010590	Caja Sospechosa Attok
+ITEM_20160530_010591	Cubo de Attok
+ITEM_20160530_010592	Yunque de Plata: 14 Días
+ITEM_20160530_010593	Coloca una pieza de equipo en este yunque y golpealo después para mejorar su calidad. Puedes mejorar el equipo sin coste de plata. Click derecho para usar. Se puede utilizar durante 14 días después de ser adquirido.
+ITEM_20160530_010594	Yunque Aumentador de Potencial
+ITEM_20160530_010595	Coloca una pieza de equipo en este yunque y golpealo después para mejorar el potencial. Click derecho para usar.
+ITEM_20160530_010596	Yunque Aumentador de Potencial: 14 Días
+ITEM_20160530_010597	Corazón de Cockat
+ITEM_20160530_010598	El corazón de una bestia. Similar a un corazón humano. Obtenido de Cockats.
+ITEM_20160530_010599	Pico de Cockat
+ITEM_20160530_010600	Tratar de detenerlo con un escudo y probablemente se romperá. Obtenido de Cockats.
+ITEM_20160530_010601	Ocasionalmente obtenido de monstruos tipo planta. Usado para crear otros objetos.
+ITEM_20160530_010602	Piedra del Despertar: 14 Días
+ITEM_20160530_010603	Ayuda a despertar un objeto sin reducir el potencial del equipo. Se puede utilizar durante 14 días después de ser adquirido.
+ITEM_20160530_010604	Lingote Negro
+ITEM_20160530_010605	Recompensa
+ITEM_20160530_010606	Un lingote de color negro. Es difícil decir de qué material está hecho.
+ITEM_20160530_010607	Lingote Dorado
+ITEM_20160530_010608	Un lingote de color dorado. Parece hecho de oro real.
+ITEM_20160530_010609	Piel Desconocida
+ITEM_20160530_010610	De que bestia viene, o incluso si es realmente una piel, nadie lo sabe.
+ITEM_20160530_010611	Pegamento Marrón
+ITEM_20160530_010612	Considerando lo pegajoso que se ve, debe de ser pegamento…
+ITEM_20160530_010613	Cristal Roto
+ITEM_20160530_010614	Un cristal, roto por razones desconocidas.
+ITEM_20160530_010615	Hebra Roja
+ITEM_20160530_010616	Parece una hebra de hilo, pero se ve que está hecho un metal desconocido.
+ITEM_20160530_010617	Cristal Rojo
+ITEM_20160530_010618	Un cristal de color rojo.
+ITEM_20160530_010619	Cristal Amarillo
+ITEM_20160530_010620	Un cristal de color amarillo.
+ITEM_20160530_010621	Cristal Púrpura
+ITEM_20160530_010622	Un cristal de color púrpura.
+ITEM_20160530_010623	Piedra del Despertar: 1 Minuto
+ITEM_20160530_010624	[Efecto de equipo] 20% de probabilidad de reducir la defensa física y mágica del enemigo en un 50% durante 10 segundos despues de bloquearlo
+ITEM_20160530_010625	[Efecto de equipo] 15% de probabilidad de incrementar tu daño en un 20% durante 15 segundos en enemigos derribados
+ITEM_20160530_010626	[Efecto de equipo] 3% de probabilidad de reducir el 1096 PM del enemigo cuando lo atacas desde detras
+ITEM_20160530_010627	[Efecto de equipo] Cuanto te golpean teniendo menos del 10% de los PS, hay un 4% de probabilidad de recuperar 2100 PS en 6 segundos
+ITEM_20160530_010628	Un huevo del que puede crecer un compañero. Los huevos de compañero pueden usarse dentro de un guild's hangout.
+ITEM_20160530_010629	Huevo de Panda Pequeño
+ITEM_20160530_010630	Caja de Panda Pequeña
+ITEM_20160530_010631	Click derecho para usar. tras usarlo el compañero queda instantaneamente registrado.{nl}Este compañero puede ser montado sin habilidad de montar.{nl}Este compañero le otorga buffs de probabilidad de crítico y ataque crítico a los jugadores cercanos.
+ITEM_20160530_010632	Boleto T
+ITEM_20160530_010633	Un boleto que muestra la inicial 'T'. Puede ser intercambiado por un objeto en los PNJs de la Asociación Mágica en las ciudades.
