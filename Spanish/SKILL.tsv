@@ -935,48 +935,48 @@ SKILL_20150317_000934	Golpe de umbo
 SKILL_20150317_000935	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl}Ataca golpeando con tu escudo. {nl} Inflinge más daño tras bloquear un ataque enemigo.
 SKILL_20150317_000936	Golpe con el canto
 SKILL_20150317_000937	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl}Ataca utilizando el borde del escudo. {nl} Inflinge más daño a enemigos congelados o petrificados.
-SKILL_20150317_000938	Swash Buckling
-SKILL_20150317_000939	Strike your shield to provoke nearby enemies.
-SKILL_20150317_000940	Targets: #{SkillSR}#{nl}Maximum Provocation: +#{CaptionRatio}# for #{CaptionTime}# seconds
-SKILL_20150317_000941	Decreases your attack, but increases your defense.
-SKILL_20150317_000942	Physical Defense: +#{CaptionRatio}#{nl}Physical Damage: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
-SKILL_20150317_000943	Shield Lob
-SKILL_20150317_000944	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Throw shield to attack enemy.
-SKILL_20150317_000945	High Guard
-SKILL_20150317_000946	Butterfly
-SKILL_20150317_000947	Wagon Wheel
-SKILL_20150317_000948	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Perform an uppercut with your weapon, launching enemies.
-SKILL_20150317_000949	Cartar Stroke
-SKILL_20150317_000950	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather up power and use your weapon to attack targets by smashing it to the ground.
-SKILL_20150317_000951	Attack #{SkillAtkAdd}#{nl}Cast Time 0.5 seconds{nl}Splash #{SkillSR}#
-SKILL_20150317_000952	Crown
-SKILL_20150317_000953	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Release a powerful attack by smashing on the enemy's head. Temporarily decreases the enemy's INT and SPR.
-SKILL_20150317_000954	Attack: #{SkillAtkAdd}#{nl}Splash: #{SkillSR}#{nl}{#339999}{ol}[Shock]{/}{/} Duration: #{CaptionTime}# seconds
-SKILL_20150317_000955	Cross Guard
-SKILL_20150317_000956	Use your weapon to take a defensive stance.
-SKILL_20150317_000957	Defense: +#{CaptionRatio}#{nl}Block: +#{CaptionRatio2}#
-SKILL_20150317_000958	Moulinet
-SKILL_20150317_000959	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Deal five consecutive frontal attacks to an enemy.
-SKILL_20150317_000960	Stabbing
-SKILL_20150317_000961	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Attack an enemy consecutively with a spear.
-SKILL_20150317_000962	Pierce
-SKILL_20150317_000963	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Inflicts damage on an enemy with a strong stab.{nl} A continuous attack bonus will apply depending on the enemy's size.
-SKILL_20150317_000964	Attack #{SkillAtkAdd}#{nl}Medium target 2 attacks{nl}Large target 3 attacks
+SKILL_20150317_000938	Golpear escudo
+SKILL_20150317_000939	Golpea tu escudo para provocar a los enemigos cercanos
+SKILL_20150317_000940	Objetivos: #{SkillSR}#{nl}Provocación máxima: +#{CaptionRatio}# durante #{CaptionTime}# segundos
+SKILL_20150317_000941	Reduce tu ataque, pero incrementa tu defensa.
+SKILL_20150317_000942	Defensa física: +#{CaptionRatio}#{nl}Daño físico: -#{CaptionRatio2}#{nl}Duración: #{CaptionTime}# segundos
+SKILL_20150317_000943	Lanzamiento de escudo
+SKILL_20150317_000944	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl} Lanza el escudo para atacar al enemigo.
+SKILL_20150317_000945	Guardia alta
+SKILL_20150317_000946	Mariposa
+SKILL_20150317_000947	Rueda de vagón
+SKILL_20150317_000948	{#DD5500}{ol}[Físico] - [Corte]{/}{/}{nl}Realiza un tajo ascendente con tu arma, lanzando a los enemigos.
+SKILL_20150317_000949	Golpe Cartar fulminante
+SKILL_20150317_000950	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl}Acumula potencia y usa tu arma para atacar a objetivos aplastándolos contra el suelo.
+SKILL_20150317_000951	Ataque #{SkillAtkAdd}#{nl}Tiempo de lanzamiento 0.5 segundos{nl}Salpicadura #{SkillSR}#
+SKILL_20150317_000952	Corona
+SKILL_20150317_000953	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl} Lanza un poderoso ataque aplastando la cabeza del enemigo. Reduce temporalmente la INT y el SPR del enemigo.
+SKILL_20150317_000954	Ataque: #{SkillAtkAdd}#{nl}Salpicadura: #{SkillSR}#{nl}{#339999}{ol}[Shock]{/}{/} Duración: #{CaptionTime}# segundos
+SKILL_20150317_000955	Guardia cruzada
+SKILL_20150317_000956	Usa tu arma para adoptar una postura defensiva.
+SKILL_20150317_000957	Defensa: +#{CaptionRatio}#{nl}Bloqueo: +#{CaptionRatio2}#
+SKILL_20150317_000958	Molinete
+SKILL_20150317_000959	{#DD5500}{ol}[Físico] - [Corte]{/}{/}{nl}Realiza cinco ataques frontales consecutivos a un enemigo.
+SKILL_20150317_000960	Apuñalamiento
+SKILL_20150317_000961	{#DD5500}{ol}[Físico] - [Penetración]{/}{/}{nl} Ataca a un enemigo consecutivamente con una lanza.
+SKILL_20150317_000962	Penetración
+SKILL_20150317_000963	{#DD5500}{ol}[Físico] - [Penetración]{/}{/}{nl} Inflinge daño a un enemigo con una fuerte estocada.{nl} Se aplicará una bonificación de ataque continua dependiendo del tamaño del enemigo.
+SKILL_20150317_000964	Ataque #{SkillAtkAdd}#{nl}2 ataques a objetivo mediano{nl}3 ataques a objetivo grande
 SKILL_20150317_000965	Finestra
-SKILL_20150317_000966	Switch into the Window stance.{nl} Increases Critical Rate, but decreases Evasion.
-SKILL_20150317_000967	Critical Rate: +#{CaptionRatio}#{nl}Evasion: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
-SKILL_20150317_000968	Synchro Thrusting
-SKILL_20150317_000969	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl} Inflicts damage on an enemy by using a shield and spear.
-SKILL_20150317_000970	Spear Attack #{SkillAtkAdd}#{nl}Shield Attack #{CaptionRatio}#{nl}Splash #{SkillSR}#
-SKILL_20150317_000971	Long Stride
-SKILL_20150317_000972	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Inflicts damage to an enemy by jumping to your designated location.
-SKILL_20150317_000973	Spear Throw
-SKILL_20150317_000974	Shield Charge
-SKILL_20150317_000975	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Run while holding up your shield. The first target hit by the shield falls down.
-SKILL_20150317_000976	Attack #{SkillAtkAdd}#{nl}Max. Duration 10 seconds{nl}Consume STA
+SKILL_20150317_000966	Cambia a la postura de la ventana.{nl} Aumenta la probabilidad de crítico, pero reduce la Evasión.
+SKILL_20150317_000967	Probabilidad de crítico: +#{CaptionRatio}#{nl}Evasión: -#{CaptionRatio2}#{nl}Duración: #{CaptionTime}# segundos
+SKILL_20150317_000968	Estocada sincronizada
+SKILL_20150317_000969	{#DD5500}{ol}[Físico] - [Penetración] - [Golpe]{/}{/}{nl} Inflinge daño a un enemigo usando una lanza y escudo.
+SKILL_20150317_000970	Ataque de lanza #{SkillAtkAdd}#{nl}Ataque de escudo #{CaptionRatio}#{nl}Salpicadura #{SkillSR}#
+SKILL_20150317_000971	Paso largo
+SKILL_20150317_000972	{#DD5500}{ol}[Físico] - [Penetración]{/}{/}{nl} Inflinge daño a un enemigo saltando al lugar designado.,Inflicts damage to an enemy by jumping to your designated location.
+SKILL_20150317_000973	Lanzamiento de lanza
+SKILL_20150317_000974	Carga de escudo
+SKILL_20150317_000975	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl} Corre con el escudo levantado. El primer objetivo golpeado por el escudo es derribado.
+SKILL_20150317_000976	Ataque #{SkillAtkAdd}#{nl}Máx. Duración 10 segundos{nl}Consume STA
 SKILL_20150317_000977	Montano
-SKILL_20150317_000978	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl} Uses a strong attack on the lower part of a target.
-SKILL_20150317_000979	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration 7 seconds
+SKILL_20150317_000978	{#DD5500}{ol}[Físico] - [Corte]{/}{/}{nl} Usa un fuerte ataque en la parte inferior del objetivo.
+SKILL_20150317_000979	Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Aturdido]{/}{/} Duración 7 segundos.
 SKILL_20150317_000980	Targe Smash
 SKILL_20150317_000981	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl} Inflicts damage by strongly smashing your shield to the target. Has a high chance to inflict the Darkness status effect to the target.
 SKILL_20150317_000982	Attack: #{SkillAtkAdd}#{nl}{#339999}{ol}[Blind]{/}{/} Duration: 3 seconds{nl}Splash: #{SkillSR}#
@@ -3656,8 +3656,8 @@ SKILL_20150414_003655	Install base camp for party members. Party members can use
 SKILL_20150414_003656	Duration: #{CaptionRatio}# hours{nl}Duration of the food effects is at least 30 minutes
 SKILL_20150414_003657	Set up a refreshment table to prepare dishes that temporarily increases the abilities of your party members. A refreshment table can only placed near a base camp. If the camp is removed, the refreshment table will be removed as well.
 SKILL_20150414_003658	Ping a flag that boosts pirates' abilities. Kill enemies repeatedly near the flag for combo attack.
-SKILL_20150414_003659	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Drag and pull enemies captured with Iron Hook. Enenues receives damage each time it is pulled.
-SKILL_20150414_003660	Able to use your dagger{nl}without delay after normal attacks{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150414_003659	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl}Arrastra y atrae a enemigos capturados con Gancho de Hierro. Los enemigos reciben daño cada vez que son atraídos.
+SKILL_20150414_003660	Puedes usar tu daga{nl}sin retardo después de ataques normales{nl}Duración: #{CaptionTime}# segundos
 SKILL_20150414_003661	Attack with chance of stealing enemy items.
 SKILL_20150414_003662	Create a formation that calls on the squads members.
 SKILL_20150414_003663	Change to the Phalanx formation. All of the squad members' block will be focused to the 3 in the front row.
