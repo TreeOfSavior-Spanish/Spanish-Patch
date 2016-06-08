@@ -24,6 +24,7 @@
 - Quest -> Misión
 - Mission -> Servicio
 - Request -> Solicitud
+- Revelator -> Revelador
 
 [ Estadistícas ]
 - HP --> PS -> Puntos de Salud
