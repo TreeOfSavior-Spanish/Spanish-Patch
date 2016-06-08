@@ -21,6 +21,9 @@
 - Field -> Región
 - Master -> Maestre (Por ser neutral)
 - Commission -> Comisión
+- Quest -> Misión
+- Mission -> Servicio
+- Request -> Solicitud
 
 [ Estadistícas ]
 - HP --> PS -> Puntos de Salud
