@@ -1,4 +1,4 @@
-QUEST_20150317_000001	Por favor, selecciona el usuario que requiere una actualización de misión.
+﻿QUEST_20150317_000001	Por favor, selecciona el usuario que requiere una actualización de misión.
 QUEST_20150317_000002	Estatua de la diosa Vakarine
 QUEST_20150317_000003	Por favor, selecciona un territorio.
 QUEST_20150317_000004	Selecciona
@@ -102,11 +102,11 @@ QUEST_20150317_000101	Ten cuidado, hay monstruos de aquí en adelante.
 QUEST_20150317_000102	Estos bosques no son exactamente... pacíficos, pero son mejor que otros lugares.{nl}Hay otros bosques que no poseen más que almas en pena.
 QUEST_20150317_000103	Esto es que las personas que han visto una diosa en sus sueños están siendo llamadas.
 QUEST_20150317_000104	Pensé que las visiones de los Reveladores era locuras en un principio.{nl}Después de todo, las Diosas han estado desaparecidas por mucho tiempo.
-QUEST_20150317_000105	¿No es verdad que las Diosas no han respondido nuestras plegarias desde que Medzio Diena {nl}ocurrió hace cuatro años?
-QUEST_20150317_000106	Puedes encontrar a los Maestres de Clase por todo el reino.{nl}¿Por qué no los visitas y aprendes lo que puedas?
-QUEST_20150317_000107	¿No sabes sobre Medzio Diena? Debes venir desde muy lejos.{nl}Hace cuatro años, las cosas se salieron de control en la capital.
-QUEST_20150317_000108	Fue un desastre... Muchas personas resultaron heridas o fallecidas.{nl}Las criaturas que alguna vez fueron pacíficas se volvieron feroces, {nl}y muchos monstruos nuevos aparecieron.
-QUEST_20150317_000109	Si aún te interesa saber acerca de lo que ocurrió hace cuatro años durante {nl}Medzio Diena, intenta visitar Klaipeda.{nl}Muchos de los sobrevivientes se refugiaron allí.
+QUEST_20150317_000105	¿No es verdad que las Diosas no han respondido nuestras plegarias desde hace cuatro años{nl}cuando ocurrió el Medzio Diena?
+QUEST_20150317_000106	Puedes encontrar a los Maestres de clase por todo el reino.{nl}¿Por qué no los visitas y aprendes lo que puedas?
+QUEST_20150317_000107	¿No sabes sobre el Medzio Diena? Debes venir desde muy lejos.{nl}Hace cuatro años, las cosas se salieron de control en la capital.
+QUEST_20150317_000108	Fue un desastre... Hubo muchos muertos y heridos.{nl}Las criaturas que alguna vez fueron pacíficas se volvieron feroces, {nl}y muchos monstruos nuevos aparecieron.
+QUEST_20150317_000109	Si aún te interesa saber acerca de lo que ocurrió hace cuatro años durante {nl} el Medzio Diena, intenta visitar Klaipeda.{nl}Muchos de los sobrevivientes se refugiaron allí.
 QUEST_20150317_000110	Centinela de los bosques del este
 QUEST_20150317_000111	¿Te diriges hacia el Bosque del Este?{nl}¡No deberías! ¡Es demasiado peligroso!
 QUEST_20150317_000112	¡Maldición, esas tercas alimañas nos persiguieron hasta aquí!
@@ -115,15 +115,15 @@ QUEST_20150317_000114	Instrucciones de seguridad
 QUEST_20150317_000115	1. Solo el personal autorizado puede entrar.{nl}2. Siempre siga las instrucciones del supervisor de la mina.
 QUEST_20150317_000116	3. No se acerque a las áreas cerradas.{nl}4. Cualquier indivuduo sospechoso deberá ser reportado ante los Caballeros de Klaipeda.
 QUEST_20150317_000117	Soldado de la base de suministros
-QUEST_20150317_000118	Nunca antes he estado en una pelea de verdad, así que estoy un poco nervioso.
+QUEST_20150317_000118	Nunca he estado en una pelea de verdad, así que estoy un poco nervioso.
 QUEST_20150317_000119	Centinela de la granja
 QUEST_20150317_000120	Mi colega está en medio de una batalla en la Aldea Minera.{nl}Pensé en ir a ayudar, pero el Bosque del Este también está en problemas, así que lo único{nl}que puedo hacer es preocuparme.
 QUEST_20150317_000121	Creo que esta misión me ha permitido ver suficientes monstruos para abarcar una vida entera.{nl}Solían ser solo grupos de Vubbes.
-QUEST_20150317_000122	Chupacabras are fond of the streams and lush vegetation of the northern area.
+QUEST_20150317_000122	A los Chupacabras les gustan los arroyos y la abundante vegetación del área norte.
 QUEST_20150317_000123	Capitán de la guardia de Klaipeda
 QUEST_20150317_000124	Tú eres...
 QUEST_20150317_000125	Parece que desde aquí puedes ver hacia el interior del bosque.{nl}Trata de no meterte en problemas.
-QUEST_20150317_000126	You don't have the required quest item. Are you sure you want to continue?{nl}No tienes el objeto necesario para la misión. ¿Estás seguro de que quieres continuar?
+QUEST_20150317_000126	No tienes el objeto necesario para la misión. ¿Estás seguro de que quieres continuar?
 QUEST_20150317_000127	Chica de Klaipeda
 QUEST_20150317_000128	Mi vecino solía ser un cazador de monstruos, pero ahora está retirado. {nl}Ahora se ha vuelto demasiado peligroso.
 QUEST_20150317_000129	Sería bueno que el hecho de que todos estos Reveladores estén aquí{nl}signifique que las Diosas han regresado.
@@ -138,7 +138,7 @@ QUEST_20150317_000137	Aún cuando el mundo está en caos, no podemos dejar de tr
 QUEST_20150317_000138	Klaipeda es una ciudad que vive de la minería.{nl}Con Medzio Diena, ahora debemos trabajar plantando árboles o cortándolos.
 QUEST_20150317_000139	Mi padre solía hacer eso de revisar todos los rincones buscando algo bueno.{nl}A veces, tenía suerte y encontraba un buen cofre del tesoro. Me pregunto quién los dejaría ahí.
 QUEST_20150317_000140	Cazador Retirado
-QUEST_20150317_000141	Recuerdo aquella batalla en que los soldados lucharon con un enorme montruo en un {nl}profundo cañón.{nl}Ver esa enorme cosa caer fue increíble, pero el botín fue aún mejor.
+QUEST_20150317_000141	Recuerdo aquella batalla en que los soldados lucharon con un enorme monstruo en un {nl}profundo cañón.{nl}Ver esa enorme cosa caer fue increíble, pero el botín fue aún mejor.
 QUEST_20150317_000142	Alfarero Viejo
 QUEST_20150317_000143	Puse un rezo en mis cerámicas, una por una.{nl}De ese modo, cada jarrón algún día estará lleno con las bendiciones de la Diosa.
 QUEST_20150317_000144	Los espadachines deberían tener Fuerza, pero también pueden usar Destreza y Constitución.{nl}Necesitarás pensar con qué quieres comenzar.
@@ -162,7 +162,7 @@ QUEST_20150317_000161	Monumento del Ladrón Olvidado.
 QUEST_20150317_000162	Yo, Zubeck, dejo este epitafio.{nl}Por el honor de ser el ladrón más grande de la historia, desafié a un poderoso hechicero.
 QUEST_20150317_000163	¿Pero podría yo, un mero ladrón, conseguir la victoria simplemente robando algo de ella?{nl}Tal vez, si estando ciego pudiese robarle al más grande archimago.
 QUEST_20150317_000164	Y aún así, no podría.{nl}Quería ser el ladrón número uno de la historia, no solo por hoy.
-QUEST_20150317_000165	Por fin he descubierto la forma de ingresar a la Torre del Mago.{nl}Para hacerlo, uno debe concentrar el poder mágico en un lugar específico.{nl}Ahora, solo necesito tomar un decisivo paso más.
+QUEST_20150317_000165	Por fin he descubierto la forma de entrar a la Torre del Mago.{nl}Para hacerlo, uno debe concentrar el poder mágico en un lugar específico.{nl}Ahora, solo necesito tomar un decisivo paso más.
 QUEST_20150317_000166	Y entonces, mi artefacto especial se activará.{nl}Si haces lo que yo hice, tu también lograrás entrar a la torre.
 QUEST_20150317_000167	Luego de eso, también podrás mostrarle a esos tontos magos un par de cosas. ¡Jaja!
 QUEST_20150317_000168	Monumento al mando
@@ -171,13 +171,13 @@ QUEST_20150317_000170	Reina demonio Gesti
 QUEST_20150317_000171	Humanos insolentes.
 QUEST_20150317_000172	Solo espera. Este no es el final.{nl}Reza con todo tu corazón para que Laima salve este mundo.
 QUEST_20150317_000173	Oficial de Klaipeda
-QUEST_20150317_000174	Bienvenido, bienvenido.{nl}Sir Uska está esperando en la plaza central de Klaipeda.{nl}Oh, ¿primero necesitabas algo más?
+QUEST_20150317_000174	Bienvenido, bienvenido.{nl}Sir Uska está esperando en la plaza central de Klaipeda.{nl}Oh, ¿necesitabas algo primero?
 QUEST_20150317_000175	¿Deseas dirigirte a las puertas de Klaipeda de inmediato?
 QUEST_20150317_000176	Operador temporal
 QUEST_20150317_000177	Por favor, cambia el estado de este personaje.
 QUEST_20150317_000178	NPC HIDE/UNHIDE Setting!
 QUEST_20150317_000179	Seguidor Algis
-QUEST_20150317_000180	El momento que la Diosa predijo para el primer Paladín finalmente ha llegado.{nl}Ven. Pregúntame lo que sea.
+QUEST_20150317_000180	El momento que la Diosa predijo para el primer Paladín, finalmente ha llegado.{nl}Ven. Pregúntame lo que sea.
 QUEST_20150317_000181	Hace mucho, mucho tiempo, habían nómadas que sufrían de una plaga maldita.{nl}El honorable primer Paladín disipó la maldición con una Reliquia Sagrada.
 QUEST_20150317_000182	Los Observadores son descendientes de esos nómadas.{nl}Sin embargo, el fin de la Reliquia Sagrada no era curar a esas personas.
 QUEST_20150317_000183	Un día, la Diosa le pidió al Primer Paladín que protegiera una revelación divina.{nl}Los nomadas malditos aparecieron justo mientras el Paladín reflexionaba sobre cómo {nl}mantener el secreto.
@@ -195,7 +195,7 @@ QUEST_20150317_000194	Gesti nos dijo que protegiéramos este lugar.
 QUEST_20150317_000195	¿Entonces qué hago ahora?
 QUEST_20150317_000196	¿Es este el lugar correcto?
 QUEST_20150317_000197	Explicando
-QUEST_20150317_000198	Entregaste los detalles del fragmento de la revelación encontrada en la Mina de Cristal.
+QUEST_20150317_000198	Compartiste los detalles del fragmento de la revelación encontrada en la Mina de Cristal.
 QUEST_20150317_000199	No sé ni me importa qué tan grande fuiste en el pasado.{nl}Aquí siguen las órdenes del Ejército Real, incluso ustedes, Caballeros de Kaliss.{nl}Aquí, ¡nuestra palabra es la ley!
 QUEST_20150317_000200	Ladrón de tumbas Hubertas
 QUEST_20150317_000201	Hanging around in these ruins is driving me insane. {nl}Why the heck did he come here anyway?
