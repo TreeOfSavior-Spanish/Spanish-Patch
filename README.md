@@ -6,16 +6,14 @@ Miembros:
 - Darkelfen (elfengirox00)
 - Corbi
 - SoulCryes
-- Teravan
-- Xerraspls
+- Liaths
 
 ## Archivos a Traducir:
 - ETC.tsv - Darkelfen (elfengirox00)
 - SKILL.tsv - Teravan
 - ITEM.tsv - Darkloud
-- QUEST.tsv
+- QUEST.tsv - Liaths
 - QUEST_JOBSTEP.tsv - Corbi
-- QUEST_LV_0100.tsv - Xerraspls
 - QUEST_LV_0200.tsv 
 - QUEST_LV_0300.tsv
 - QUEST_UNUSED.tsv
@@ -72,3 +70,4 @@ los cambios que hemos realizado, le añadiremos un nombre descriptivo y una pequ
 - Vyole
 - DkAngelS
 - Ayaros-Chan
+- Teravan
