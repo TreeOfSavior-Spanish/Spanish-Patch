@@ -10,7 +10,7 @@ Miembros:
 
 ## Archivos a Traducir:
 - ETC.tsv - Darkelfen (elfengirox00)
-- SKILL.tsv - Teravan
+- SKILL.tsv
 - ITEM.tsv - Darkloud
 - QUEST.tsv - Liaths
 - QUEST_JOBSTEP.tsv - Corbi
