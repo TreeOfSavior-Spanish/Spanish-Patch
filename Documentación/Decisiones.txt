@@ -187,6 +187,7 @@ Missile --> Proyectil
 [Slash]-type => tipo [Corte]
 [Stab]-type => tipo [Puñalada]
 [Strike]-type => tipo [Golpe] 
+[Blessing] => [Bendición]
 
 [ ESTADOS ]
 [Effect] => [Efecto]
@@ -196,6 +197,7 @@ Missile --> Proyectil
 [Death Sentence] => [Sentencia de Muerte]
 [Fear] => [Miedo]
 [Freeze] => [Congelado]
+[Blind] => [Cegado]
 
 [ Objetos ]
 Scroll --> Pergamino
