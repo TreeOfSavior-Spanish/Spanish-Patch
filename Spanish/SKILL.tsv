@@ -1255,7 +1255,7 @@ SKILL_20150317_001254	Duración #{CaptionTime}# segundos, Defend 6 times, Maximu
 SKILL_20150317_001255	Surround target with powerful energy. Inflict damage to those nearby target.
 SKILL_20150317_001256	Attack rate #{SkillFactor}#, Splash #{SkillSR}#
 SKILL_20150317_001257	Drop meteor around and inflict [Fuego] damage on enemies.
-SKILL_20150317_001258	[Fuego] [Golpe] Damage + #{SkillFactor}#{nl} meteor count #{CaptionRatio}#{nl} Dog Splash #{SkillSR}#{nl} consumption PM #{SpendSP}#
+SKILL_20150317_001258	[Fuego] [Golpe] Daño + #{SkillFactor}#{nl} numero de meteoritos #{CaptionRatio}#{nl} Dog Splash #{SkillSR}#{nl} consumption PM #{SpendSP}#
 SKILL_20150317_001259	Freeze enemy.
 SKILL_20150317_001260	Countdown
 SKILL_20150317_001261	Turn back time of allies. PS, PM, STA, Skill cool
@@ -1265,7 +1265,7 @@ SKILL_20150317_001264	Spirit receives all the damage of summoner.
 SKILL_20150317_001265	Create clone of yourself and move away from area after using skill.
 SKILL_20150317_001266	Buff for adding attack speed
 SKILL_20150317_001267	Make ground skill of enemies be usable by allies.
-SKILL_20150317_001268	test
+SKILL_20150317_001268	prueba
 SKILL_20150317_001269	Multi Shot
 SKILL_20150317_001270	{#DD5500}{ol}[Físico] - [Missile]{/}{/}{nl}Charge up and then quickly launch multiple shots at a targeted area.
 SKILL_20150317_001271	Ataque: #{SkillAtkAdd}#{nl}Number of Shots: #{CaptionRatio}#
@@ -2059,8 +2059,8 @@ SKILL_20150317_002058	Gung Ho: Remaining Defense
 SKILL_20150317_002059	The remaining defense after using [Gung Ho] becomes 5% per level.
 SKILL_20150317_002060	Bash: Knockdown
 SKILL_20150317_002061	Enemies hit by [Bash] are knocked down.
-SKILL_20150317_002062	Concentrate: Stun
-SKILL_20150317_002063	When you attack while [Concentrate] is active, there is a 2% chance per attribute level to stun enemies.
+SKILL_20150317_002062	Concentración: Stun
+SKILL_20150317_002063	When you attack while [Concentración] is active, there is a 2% chance per attribute level to stun enemies.
 SKILL_20150317_002064	Restrain: Duración
 SKILL_20150317_002065	Increases the duration of [Restrain] by 5 segundos per level.
 SKILL_20150317_002066	Thrust: Critical Chance
@@ -2562,8 +2562,8 @@ SKILL_20150317_002561	Detonate Traps: Enhance
 SKILL_20150317_002562	Increases the damage of [Detonate Traps] per attribute level.
 SKILL_20150317_002563	Gung Ho: Enhance
 SKILL_20150317_002564	Increases the physical attack, while defense decreases of [Gung Ho] per attribute level.
-SKILL_20150317_002565	Concentrate: Enhance
-SKILL_20150317_002566	Increases the additional damage of [Concentrate] per attribute level.
+SKILL_20150317_002565	Concentración: Enhance
+SKILL_20150317_002566	Increases the additional damage of [Concentración] per attribute level.
 SKILL_20150317_002567	Restrain: Enhance
 SKILL_20150317_002568	Increases the physical attack, while your maximum PS decreases of [Restrain] per attribute level.
 SKILL_20150317_002569	Guardian: Enhance
@@ -2598,10 +2598,10 @@ SKILL_20150317_002597	Gung Ho: Enhance 2
 SKILL_20150317_002598	Enhanced the physical attack increase effect of [Gung Ho] to Swordsman's 2nd Circle standards. (Defense decrease effect also increases.)
 SKILL_20150317_002599	Gung Ho: Enhance 3
 SKILL_20150317_002600	Enhanced the physical attack increase effect of [Gung Ho] to Swordsman's 3rd Circle standards. (Defense decrease effect also increases.)
-SKILL_20150317_002601	Concentrate: Enhance 2
-SKILL_20150317_002602	Enhanced the additional damage increase effect of [Concentrate] to Swordsman's 2nd Circle standards. 
-SKILL_20150317_002603	Concentrate: Enhance 3
-SKILL_20150317_002604	Enhanced the additional damage increase effect of [Concentrate] to Swordsman's 3rd Circle standards.  
+SKILL_20150317_002601	Concentración: Enhance 2
+SKILL_20150317_002602	Enhanced the additional damage increase effect of [Concentración] to Swordsman's 2nd Circle standards. 
+SKILL_20150317_002603	Concentración: Enhance 3
+SKILL_20150317_002604	Enhanced the additional damage increase effect of [Concentración] to Swordsman's 3rd Circle standards.  
 SKILL_20150317_002605	Restrain: Enhance 2
 SKILL_20150317_002606	Enhanced the physical attack of [Restrain] to Swordsman's 3rd Circle standards. (Maximum PS decrease effect also decreases.)
 SKILL_20150317_002607	Lethargy: Enhance
@@ -5007,7 +5007,7 @@ SKILL_20150803_005006	Attribute Damage: #{CaptionRatio2}#%{nl}Additional Damage 
 SKILL_20150803_005007	Able to use the monster's skill{nl}Duración máxima: #{CaptionTime}# segundos
 SKILL_20150803_005008	Effigy Enhance
 SKILL_20150803_005009	Increases the attack bonus of Effigy
-SKILL_20150803_005010	Increases the additional damage of [Concentrate] by 2 per attribute level.
+SKILL_20150803_005010	Increases the additional damage of [Concentración] by 2 per attribute level.
 SKILL_20150803_005011	Increases your evasion and magic defense by 5% per attribute level when using [Stabbing].
 SKILL_20150803_005012	Enemies hit by [Penetración] have a 2% chance per attribute level to be afflicted with [Bleeding] for 6 segundos. Bleeding damage is proportional to the character's physical attack. 
 SKILL_20150803_005013	Increases the physical attack increase effect of [Warcry] by 3 per attribute level. (This attribute applies after an enemy's defense is reduced.)
@@ -5023,7 +5023,7 @@ SKILL_20150803_005022	Increases the chance of obtaining materials for [Carve] by
 SKILL_20150803_005023	Increases the PS recovery effect of [Restoration] by 2 per attribute level.
 SKILL_20150803_005024	Lv3 Blessing required
 SKILL_20150803_005025	Lv3 Steady Aim required
-SKILL_20150803_005026	Lv3 Concentrate required
+SKILL_20150803_005026	Lv3 Concentración required
 SKILL_20150804_005027	Switch into the Window stance to attack. Increases your critical rate and block, while decreasing evasion.
 SKILL_20150804_005028	Critical Rate: +#{CaptionRatio}#%{nl}Block: +#{SkillFactor}#%{nl}Evasion: -#{CaptionRatio2}#{nl}Duración: #{CaptionTime}# segundos
 SKILL_20150804_005029	Your attacks are guaranteed to hit, increasing your Critical Rate and Critical Resistance.
