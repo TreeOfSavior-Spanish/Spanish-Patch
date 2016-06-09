@@ -14224,9 +14224,9 @@ ETC_20150918_014225	Manahas
 ETC_20150918_014226	Genar Field
 ETC_20150918_014227	Fallen Legwyn Family Dungeon
 ETC_20150918_014228	Archmage Tower Dungeon
-ETC_20150918_014229	Prisión62_1
-ETC_20150918_014230	Prisión62_2
-ETC_20150918_014231	Prisión62_3
+ETC_20150918_014229	Prison62_1
+ETC_20150918_014230	Prison62_2
+ETC_20150918_014231	Prison62_3
 ETC_20150918_014232	Área en Ruinas Dungeon
 ETC_20150918_014233	Naktis' servants have rushed in!
 ETC_20150918_014234	Obtain the natural Mano stones after defeating Rocktortuga!
@@ -15357,15 +15357,15 @@ ETC_20151001_015358	P7
 ETC_20151001_015359	P8
 ETC_20151001_015360	P9
 ETC_20151001_015361	10F
-ETC_20151001_015362	1P1
-ETC_20151001_015363	1P2
-ETC_20151001_015364	1P3
-ETC_20151001_015365	1P4
-ETC_20151001_015366	1P5
-ETC_20151001_015367	1P6
-ETC_20151001_015368	1P7
-ETC_20151001_015369	1P8
-ETC_20151001_015370	1P9
+ETC_20151001_015362	P11
+ETC_20151001_015363	P12
+ETC_20151001_015364	P13
+ETC_20151001_015365	P14
+ETC_20151001_015366	P15
+ETC_20151001_015367	P16
+ETC_20151001_015368	P17
+ETC_20151001_015369	P18
+ETC_20151001_015370	P19
 ETC_20151001_015371	P20
 ETC_20151001_015372	Lobby
 ETC_20151001_015373	Cleared the 1er Piso!{nl}Break the door to move to the next floor!
@@ -20780,60 +20780,60 @@ ETC_20160224_020781	Gosarius ha llamado a sus subordinados
 ETC_20160224_020782	Derrota a Gosarius
 ETC_20160224_020783	Eligiendo un lider del grupo
 ETC_20160224_020784	Tiempo en Cola
-ETC_20160224_020785	El líder del grupo ha aceptado el siguiente desafio{nl}Ve a 1P1
-ETC_20160224_020786	Torre de la Tierra 1P1
+ETC_20160224_020785	El líder del grupo ha aceptado el siguiente desafio{nl}Ve a P11
+ETC_20160224_020786	Torre de la Tierra P11
 ETC_20160224_020787	El líder de grupo ha abandonado el desafio{nl}Regresa a Ruinas Istora para recibir tu recompensa
 ETC_20160224_020788	Saliendo
-ETC_20160224_020789	La misión de Torre de la Tierra 1P1 comenzará pronto
-ETC_20160224_020790	¡La misión de Torre de la Tierra 1P1 fue un éxito!{nl}Avanza al siguiente piso
-ETC_20160224_020791	Torre de la Tierra 1P2
+ETC_20160224_020789	La misión de Torre de la Tierra P11 comenzará pronto
+ETC_20160224_020790	¡La misión de Torre de la Tierra P11 fue un éxito!{nl}Avanza al siguiente piso
+ETC_20160224_020791	Torre de la Tierra P12
 ETC_20160224_020792	El primer objetivo ha comenzado{nl}Derrota 180 monstruos dentro del tiempo límite
 ETC_20160224_020793	Derrota 180 monstruos
-ETC_20160224_020794	La misión de Torre de la Tierra 1P2 comenzará pronto
+ETC_20160224_020794	La misión de Torre de la Tierra P12 comenzará pronto
 ETC_20160224_020795	Esfera Celestial
-ETC_20160224_020796	¡La misión de Torre de la Tierra 1P2 fue un éxito!{nl}Avanza al siguiente piso
-ETC_20160224_020797	Torre de la Tierra 1P3
+ETC_20160224_020796	¡La misión de Torre de la Tierra P12 fue un éxito!{nl}Avanza al siguiente piso
+ETC_20160224_020797	Torre de la Tierra P13
 ETC_20160224_020798	El primer objetivo ha comenzado{nl}Protege la Esfera Celestial de ser destruida
 ETC_20160224_020799	Protege la Esfera Celestial
-ETC_20160224_020800	La misión de Torre de la Tierra 1P3 comenzará pronto
+ETC_20160224_020800	La misión de Torre de la Tierra P13 comenzará pronto
 ETC_20160224_020801	Huevos de Insecto Desagradables
-ETC_20160224_020802	La misión de Torre de la Tierra 1P3 fue un éxito!{nl}Avanza al siguiente piso
-ETC_20160224_020803	Torre de la Tierra 1P4
+ETC_20160224_020802	La misión de Torre de la Tierra P13 fue un éxito!{nl}Avanza al siguiente piso
+ETC_20160224_020803	Torre de la Tierra P14
 ETC_20160224_020804	El primer objetivo ha comenzado{nl}Destruye los Huevos de Insecto Desagradables
 ETC_20160224_020805	Una Niñera Pag immune a los efectos ha aparecido
 ETC_20160224_020806	Destruye los Huevos de Insecto Desagradables
-ETC_20160224_020807	La misión de Torre de la Tierra 1P4 comenzará pronto
-ETC_20160224_020808	¡La misión de Torre de la Tierra 1P4 fue un éxito!{nl}Avanza al siguiente piso
-ETC_20160224_020809	Torre de la Tierra 1P5
+ETC_20160224_020807	La misión de Torre de la Tierra P14 comenzará pronto
+ETC_20160224_020808	¡La misión de Torre de la Tierra P14 fue un éxito!{nl}Avanza al siguiente piso
+ETC_20160224_020809	Torre de la Tierra P15
 ETC_20160224_020810	El primer objetivo ha comenzado{nl}Sobrevive a los monstruos
 ETC_20160224_020811	Recupera 200 Energías de Luz
-ETC_20160224_020812	La misión de Torre de la Tierra 1P5 comenzará pronto
+ETC_20160224_020812	La misión de Torre de la Tierra P15 comenzará pronto
 ETC_20160224_020813	El primer objetivo ha comenzado{nl}Derrota a Turtai
 ETC_20160224_020814	Turtai a llamado a sus subordinados
 ETC_20160224_020815	Derrota a Turtai
-ETC_20160224_020816	El líder del grupo ha aceptado el siguiente desafio{nl}Ve a 1P6
-ETC_20160224_020817	Torre de la Tierra 1P6
-ETC_20160224_020818	La misión de Torre de la Tierra 1P6 comenzará pronto
-ETC_20160224_020819	¡La misión de Torre de la Tierra 1P6 fue un éxito!{nl}Avanza al siguiente piso
-ETC_20160224_020820	Torre de la Tierra 1P7
+ETC_20160224_020816	El líder del grupo ha aceptado el siguiente desafio{nl}Ve a P16
+ETC_20160224_020817	Torre de la Tierra P16
+ETC_20160224_020818	La misión de Torre de la Tierra P16 comenzará pronto
+ETC_20160224_020819	¡La misión de Torre de la Tierra P16 fue un éxito!{nl}Avanza al siguiente piso
+ETC_20160224_020820	Torre de la Tierra P17
 ETC_20160224_020821	El primer objetivo ha comenzado{nl}
 ETC_20160224_020822	Derrota 195 monstruos
-ETC_20160224_020823	La misión de Torre de la Tierra 1P7 comenzará pronto
+ETC_20160224_020823	La misión de Torre de la Tierra P17 comenzará pronto
 ETC_20160224_020824	Cristal de Estrella Incompleto
-ETC_20160224_020825	¡La misión de Torre de la Tierra 1P7 fue un éxito!{nl}Avanza al siguiente piso
-ETC_20160224_020826	Torre de la Tierra 1P8
+ETC_20160224_020825	¡La misión de Torre de la Tierra P17 fue un éxito!{nl}Avanza al siguiente piso
+ETC_20160224_020826	Torre de la Tierra P18
 ETC_20160224_020827	El primer objetivo ha comenzado
 ETC_20160224_020828	Energía Incompleta
 ETC_20160224_020829	Protege el Cristal de Estrella Incompleto
-ETC_20160224_020830	La misión de Torre de la Tierra 1P8 comenzará pronto
+ETC_20160224_020830	La misión de Torre de la Tierra P18 comenzará pronto
 ETC_20160224_020831	Piedra Mágica de la Ruina
-ETC_20160224_020832	¡La misión de Torre de la Tierra 1P8 fue un éxito!{nl}Avanza al siguiente piso
-ETC_20160224_020833	Torre de la Tierra 1P9
+ETC_20160224_020832	¡La misión de Torre de la Tierra P18 fue un éxito!{nl}Avanza al siguiente piso
+ETC_20160224_020833	Torre de la Tierra P19
 ETC_20160224_020834	El primer objetivo ha comenzado{nl}Destruye todas las Piedras Mágicas de la Ruina
 ETC_20160224_020835	El segundo objetivo ha comenzado
 ETC_20160224_020836	Destruye la Piedra Mágica de la Ruina
-ETC_20160224_020837	La misión de Torre de la Tierra 1P9 comenzará pronto
-ETC_20160224_020838	¡La misión de Torre de la Tierra 1P9 fue un éxito!{nl}Avanza al siguiente piso
+ETC_20160224_020837	La misión de Torre de la Tierra P19 comenzará pronto
+ETC_20160224_020838	¡La misión de Torre de la Tierra P19 fue un éxito!{nl}Avanza al siguiente piso
 ETC_20160224_020839	Torre de la Tierra P20
 ETC_20160224_020840	El primer objetivo ha comenzado{nl}Sobrevive por 270 segundos
 ETC_20160224_020841	Tera Cortador de la Prisión ha aparecido{nl}Absorve PM periodicamente
