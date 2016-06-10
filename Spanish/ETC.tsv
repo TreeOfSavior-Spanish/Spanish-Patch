@@ -2210,11 +2210,16 @@ ETC_20150317_002209	Mirando los comestibles
 ETC_20150317_002210	No queda basura.{nl}Recolecta más basura desde el comedero de Ishplau.
 ETC_20150317_002211	No hay monstruos cercas para lanzar la purga.
 ETC_20150317_002212	Destruyendo
+ETC_20150317_002213	¡Fuíste ralentízado por un aura somnolienta proveniente de el Cristal del Árbol!{nl}¡Elimina el Cristal del Árbol en la Ruta Nederlingas para deshacer esta maldición!
 ETC_20150317_002214	Desmantelando
 ETC_20150317_002215	Has fallado en desmantelar el núcleo del cristal
 ETC_20150317_002216	Has obtenido la resistencia para desmantelar el núcleo del cristal
 ETC_20150317_002217	Cómo un efecto secundario del núcleo del cristal ¡El Viejo Gancho ha aparecido!
 ETC_20150317_002218	¡Las piezas del amuleto se han combinado en un único Amuleto!
+ETC_20150317_002219	Has tenido éxito en desmantelar el Cristal del Árbol Transformado
+ETC_20150317_002220	¡Te has desmayado por tocar el Cristal del Árbol incorrecto!
+ETC_20150317_002221	¡Has caído dormido por tocar el Cristal del Árbol incorrecto!
+ETC_20150317_002222	¡Te sido ralentizado por tocar el Cristal del Árbol incorrecto!
 ETC_20150317_002223	¡Congelaré al tacto las raíces erroneas para reparlo!
 ETC_20150317_002224	¡Te haré arrepentirte! ¡Los chicos malos!
 ETC_20150317_002225	Traídor..¡Nunca te perdonaré! Te devolveré está incluso si eso me rompe los huesos.
@@ -2326,8 +2331,10 @@ ETC_20150317_002330	No puede ser usado durante ciertas misiones en progreso
 ETC_20150317_002331	¡Ha explotado mientras buscaba comida!
 ETC_20150317_002332	Scared reblogged appearance in the dummy!
 ETC_20150317_002333	¡Me desmayé durante la explosión de polvo!
+ETC_20150317_002334	¡Has obtenido Musgo Húmedo del Kowak!{nl}¡Esparcelo para controlar una flama hacia el Cristal del Árbol!
 ETC_20150317_002335	¡Esparciendo el musgo!
 ETC_20150317_002336	La flama será controlada luego de esparcir el musgo.
+ETC_20150317_002337	La flama está creada. Por favor destruye la transformación de el Cristal del Árbol.
 ETC_20150317_002338	Todos los monstruos han entrado a la caja.
 ETC_20150317_002339	Metiendo monstruos a la caja del tesoro.
 ETC_20150317_002340	¡Debes derrotar a los monstruos alrededor del cofre del tesoro!
@@ -5230,6 +5237,7 @@ ETC_20150317_005236	¡Hey! ¿Quién Eres?
 ETC_20150317_005237	Cristal del Árbol de la Fátiga
 ETC_20150317_005238	¡Han aparecido Dispositivos de Protección para la Raíz Cristal de la fatiga!{nl}¡Destruyelos a todos antes de que acabe el tiempo!
 ETC_20150317_005239	Dispositivos de Protección para la raíz cristal
+ETC_20150317_005240	¡El Cristal del Árbol se incendiado sorpresivamente! {nl} Obtén algo para extinguir el fuego de los monstruos.
 ETC_20150317_005241	¡La raíz modificada de convirtió en un Cactusvel!{nl}¡Derrota al Cactusvel!
 ETC_20150317_005242	Peregrino Grazzios
 ETC_20150317_005243	¡Derrota a todos los monstruos invocados por el Alma del Peregrino dentro del tiempo límite!
@@ -5691,6 +5699,8 @@ ETC_20150317_005698	Cerebro lavado
 ETC_20150317_005699	Bendeción - Velocidad de Movimiento aumentada
 ETC_20150317_005700	¡Debes recibir una bendición para aumentar tu velocidad de movimiento!
 ETC_20150317_005701	Separación de Alma
+ETC_20150317_005702	¡Los monstruos han sido atrapados luego de reparar el Cristal del Árbol!
+ETC_20150317_005703	Esperando a reparar el Cristal del Árbol.
 ETC_20150317_005704	Generación de Potencia
 ETC_20150317_005705	Prueba de Generación de Potencia del Reactivo
 ETC_20150317_005706	Incapaz de Combatir
@@ -5968,6 +5978,7 @@ ETC_20150317_005977	La Recuperación Espontánea es más lenta comparada a otros
 ETC_20150317_005978	[Recuperación por Pociones]: Recupera PS/PM/Resistencia inmediatamente usando pociones.
 ETC_20150317_005979	Las pociones tienen un tiempo de enfriamiento antes de volver a ser empleadas.
 ETC_20150317_005980	[Cristal del Árbol]: Destruye Cristales del Árbol para recuperar Resistencia.
+ETC_20150317_005981	{memo }Los Cristales del Árbol aparecen aleatoriamente en los campos.
 ETC_20150317_005982	[Modo Descanso]: Prender una fogata durante el Modo Descanso acelera tu recuperación.
 ETC_20150317_005983	La recuperación durante el Modo Descanso es más rápida que la Recuperación Espontánea, y es inclusive más valoz si prendes una fogata durante el Modo Descanso.
 ETC_20150317_005984	Exterminio se activará si matas al monstruo con un golpe final muy fuerte.
@@ -6226,6 +6237,7 @@ ETC_20150317_006237	Está hecha de modo que no impida ni la vista ni el movimien
 ETC_20150317_006238	{s18}{#001100}Cuando una misión es completada, dale click al botón Retorno para teletransportare al PNJ.{/}
 ETC_20150317_006239	{s18}{#001100}Puedes comprar objetos en una tienda.{/}
 ETC_20150317_006240	{s18}{#001100}Si te diriges a la luz brillante, puedes obtener objetos mediante combate o diálogo. {/}
+ETC_20150317_006241	{s18}{#001100}Destruye el Cristal del Árbol para recuperar resistencia. {/}
 ETC_20150317_006242	{s18}{#001100}Puedes adquirir montones de EXP simplemente atacando a monstruo.{/}
 ETC_20150317_006243	{s18}{#001100}¡¡¡Caerán objetos al derrotar a este Monstruo del Tesoro!!!{/}
 ETC_20150317_006244	{s18}{#001100}Puedes progresar la misión apretando la Barra Espaciadora cerca de la bandera roja de un PNJ.{/}
@@ -9377,6 +9389,7 @@ ETC_20150317_009389	Evil Aura
 ETC_20150317_009390	Peregrino Julius turned into a Drapeliun!
 ETC_20150317_009391	Making a grave for Liliya
 ETC_20150317_009392	Grave of Peregrino Mathas*
+ETC_20150317_009393	¡Fuíste ralentízado por un aura somnolienta proveniente de el Cristal del Árbol!{nl}¡Elimina el Cristal del Árbol en la Ruta Nederlingas para deshacer esta maldición!
 ETC_20150317_009394	Variant Laziness Cristal del Árbol*
 ETC_20150317_009395	Traces of Pollution
 ETC_20150317_009396	Scattered Cristal del Árbol Core
