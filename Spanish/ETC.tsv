@@ -444,8 +444,8 @@ ETC_20150317_000443	Luego de transformarse en un monstruo con un cuerpo de mader
 ETC_20150317_000444	Cyst
 ETC_20150317_000445	Ammon
 ETC_20150317_000446	Desde tiempos inmemoriales, Ammon ha dañado incontables personas y monstruos.
-ETC_20150317_000447	Operador
-ETC_20150317_000448	Aunque mantuvo su forma original, el Operador ha desarrollado un comportamiento extremedamente violento y peligroso.
+ETC_20150317_000447	Operor
+ETC_20150317_000448	Aunque mantuvo su forma original, el Operor ha desarrollado un comportamiento extremedamente violento y peligroso.
 ETC_20150317_000449	Chafperador
 ETC_20150317_000450	Un híbrido entre Avispa y Escarabajo gravemente mutado que comparte carácteristicas de ambos, operan en enjambres.
 ETC_20150317_000451	Ramlarva
@@ -656,13 +656,13 @@ ETC_20150317_000655	Blue Lauzinute
 ETC_20150317_000656	Field Specter
 ETC_20150317_000657	Varv
 ETC_20150317_000658	Although small, it has grown bigger than its original state and hunts for meat throughout its life
-ETC_20150317_000659	Field Blue Woodspirit
+ETC_20150317_000659	Field Espíritu de la Madera Azul
 ETC_20150317_000660	Field Hydra
-ETC_20150317_000661	Field Green Woodspirit
+ETC_20150317_000661	Field Green Espíritu de la Madera
 ETC_20150317_000662	Bone Necklace Poata
 ETC_20150317_000663	Rough Gray Golem
 ETC_20150317_000664	Dirt-eating Glass Mole
-ETC_20150317_000665	Crazy Woodspirit
+ETC_20150317_000665	Crazy Espíritu de la Madera
 ETC_20150317_000666	Pale Rikaus
 ETC_20150317_000667	Solid Caparazón
 ETC_20150317_000668	Impregnable Cyclops
@@ -939,7 +939,7 @@ ETC_20150317_000938	Q1 Yekub
 ETC_20150317_000939	Q1 Chaparición
 ETC_20150317_000940	Q3 Chaparición
 ETC_20150317_000941	Q4 Chaparición
-ETC_20150317_000942	Q1 Green Woodspirit
+ETC_20150317_000942	Q1 Green Espíritu de la Madera
 ETC_20150317_000943	Q2 Tutu
 ETC_20150317_000944	Summoned Poata
 ETC_20150317_000945	Q3 Poata
@@ -977,7 +977,7 @@ ETC_20150317_000976	Rumor Culprit Bearkaras
 ETC_20150317_000977	Guante Demoníaco
 ETC_20150317_000978	Corpse Cleaner Harpeia
 ETC_20150317_000979	[Ascenso] Stone whale
-ETC_20150317_000980	[Ascenso] Green Woodspirit
+ETC_20150317_000980	[Ascenso] Green Espíritu de la Madera
 ETC_20150317_000981	[Ascenso] Monarca Espectral
 ETC_20150317_000982	[Ascenso] Rajapearl
 ETC_20150317_000983	[Ascenso] Lepus
@@ -1030,7 +1030,7 @@ ETC_20150317_001029	Sword Pell (Poison)
 ETC_20150317_001030	Sword Pell (Lightning)
 ETC_20150317_001031	Sword Pell (Earth)
 ETC_20150317_001032	Creepy Chaparición
-ETC_20150317_001033	Bleak Green Woodspirit
+ETC_20150317_001033	Bleak Green Espíritu de la Madera
 ETC_20150317_001034	Large Panto Lancero
 ETC_20150317_001035	Preparing.
 ETC_20150317_001036	Despojos Demoníaco
@@ -2210,16 +2210,11 @@ ETC_20150317_002209	Mirando los comestibles
 ETC_20150317_002210	No queda basura.{nl}Recolecta más basura desde el comedero de Ishplau.
 ETC_20150317_002211	No hay monstruos cercas para lanzar la purga.
 ETC_20150317_002212	Destruyendo
-ETC_20150317_002213	¡Fuíste ralentízado por un aura somnolienta proveniente de la Raíz Cristal del Árbol!{nl}¡Elimina la Raíz Cristal del Árbol en la Ruta Nederlingas para deshacer esta maldición!
 ETC_20150317_002214	Desmantelando
 ETC_20150317_002215	Has fallado en desmantelar el núcleo del cristal
 ETC_20150317_002216	Has obtenido la resistencia para desmantelar el núcleo del cristal
 ETC_20150317_002217	Cómo un efecto secundario del núcleo del cristal ¡El Viejo Gancho ha aparecido!
 ETC_20150317_002218	¡Las piezas del amuleto se han combinado en un único Amuleto!
-ETC_20150317_002219	Has tenido éxito en desmantelar la Raíz Cristal del Árbol Transformado
-ETC_20150317_002220	¡Te has desmayado por tocar la Raíz Cristal del Árbol incorrecto!
-ETC_20150317_002221	¡Has caído dormido por tocar la Raíz Cristal del Árbol incorrecto!
-ETC_20150317_002222	¡Te sido ralentizado por tocar la Raíz Cristal del Árbol incorrecto!
 ETC_20150317_002223	¡Congelaré al tacto las raíces erroneas para reparlo!
 ETC_20150317_002224	¡Te haré arrepentirte! ¡Los chicos malos!
 ETC_20150317_002225	Traídor..¡Nunca te perdonaré! Te devolveré está incluso si eso me rompe los huesos.
@@ -2331,14 +2326,12 @@ ETC_20150317_002330	No puede ser usado durante ciertas misiones en progreso
 ETC_20150317_002331	¡Ha explotado mientras buscaba comida!
 ETC_20150317_002332	Scared reblogged appearance in the dummy!
 ETC_20150317_002333	¡Me desmayé durante la explosión de polvo!
-ETC_20150317_002334	¡Has obtenido Musgo Húmedo del Kowak!{nl}¡Esparcelo para controlar una flama hacia la Raíz Cristal del Árbol!
 ETC_20150317_002335	¡Esparciendo el musgo!
 ETC_20150317_002336	La flama será controlada luego de esparcir el musgo.
-ETC_20150317_002337	La flama está creada. Por favor destruye la transformación de la Raíz Cristal del Árbol.
 ETC_20150317_002338	Todos los monstruos han entrado a la caja.
 ETC_20150317_002339	Metiendo monstruos a la caja del tesoro.
 ETC_20150317_002340	¡Debes derrotar a los monstruos alrededor del cofre del tesoro!
-ETC_20150317_002341	Por no tener núcleos de Raíz Cristal del Árbol, no podemos hacer nada.{nl}Busca el núcleo de cristal en los monstruos cercanos para insertarlo.
+ETC_20150317_002341	Por no tener núcleos de Cristal del Árbol, no podemos hacer nada.{nl}Busca el núcleo de cristal en los monstruos cercanos para insertarlo.
 ETC_20150317_002342	Reaccionando al cristal
 ETC_20150317_002343	¡El alma del monstruo que tenía el núcleo de cristal ha salido!
 ETC_20150317_002344	Salió el alma del monstruo
@@ -2509,7 +2502,7 @@ ETC_20150317_002508	¡Has usado la bomba!
 ETC_20150317_002509	Has recuperado los registros.
 ETC_20150317_002510	Teletransportar
 ETC_20150317_002511	Tú... ¡Todos deben morir!
-ETC_20150317_002512	¡No quiero terminar así!
+ETC_20150317_002512	¡No quiero que acabe así!
 ETC_20150317_002513	Ver Colección
 ETC_20150317_002514	Ver Diario de Aventuras
 ETC_20150317_002515	haré una donación
@@ -3261,7 +3254,7 @@ ETC_20150317_003260	Matsum v13
 ETC_20150317_003261	¡Mata a los monstruos!
 ETC_20150317_003262	¡El efecto de las piedras activas ha sido deshabilitado!
 ETC_20150317_003263	¡El efecto de las piedras activas ha sido deshabilitado!{nl} Puedes recibir el Buff activado nuevamente si regresas al manual de Supresor del Mausoleo
-ETC_20150317_003264	Absorviendo Energía
+ETC_20150317_003264	Absorbiendo Energía
 ETC_20150317_003265	Eliminando
 ETC_20150317_003266	Boowook Despierto
 ETC_20150317_003267	Despertando
@@ -3649,7 +3642,7 @@ ETC_20150317_003648	¡La olla será destruida si te alejas demasiado!
 ETC_20150317_003649	Movimiento entre campamentos : Activar Klaipeda
 ETC_20150317_003650	Has obtenido Yunque para mejorar equipo
 ETC_20150317_003651	obj of killed monstruo is not found
-ETC_20150317_003652	Usa la llave para el pergamino de magia absorvida {nl} luego, mata monstruos sobre el círculo mágico para cargar el cristal
+ETC_20150317_003652	Usa la llave para el pergamino de magia absorbida {nl} luego, mata monstruos sobre el círculo mágico para cargar el cristal
 ETC_20150317_003653	No tienes suficientes piezas de la piedra base. Junta las piezas.
 ETC_20150317_003654	Has encontrado un Andamio de Cocatriz.
 ETC_20150317_003655	¡Has recolectado suficiente Grasa de Cocatriz! {nl} Úsala en el monumento para revisar su contenido.
@@ -5234,10 +5227,9 @@ ETC_20150317_005233	¡Tocar la pila de comida ha hecho que Raptorpedo aparezca!
 ETC_20150317_005234	Montón de Carne Podrida
 ETC_20150317_005235	Peregrino Janus
 ETC_20150317_005236	¡Hey! ¿Quién Eres?
-ETC_20150317_005237	Raíz Cristal del Árbol de la Fátiga
+ETC_20150317_005237	Cristal del Árbol de la Fátiga
 ETC_20150317_005238	¡Han aparecido Dispositivos de Protección para la Raíz Cristal de la fatiga!{nl}¡Destruyelos a todos antes de que acabe el tiempo!
 ETC_20150317_005239	Dispositivos de Protección para la raíz cristal
-ETC_20150317_005240	¡La Raíz Cristal del Árbol se incendiado sorpresivamente! {nl} Obtén algo para extinguir el fuego de los monstruos.
 ETC_20150317_005241	¡La raíz modificada de convirtió en un Cactusvel!{nl}¡Derrota al Cactusvel!
 ETC_20150317_005242	Peregrino Grazzios
 ETC_20150317_005243	¡Derrota a todos los monstruos invocados por el Alma del Peregrino dentro del tiempo límite!
@@ -5699,8 +5691,6 @@ ETC_20150317_005698	Cerebro lavado
 ETC_20150317_005699	Bendeción - Velocidad de Movimiento aumentada
 ETC_20150317_005700	¡Debes recibir una bendición para aumentar tu velocidad de movimiento!
 ETC_20150317_005701	Separación de Alma
-ETC_20150317_005702	¡Los monstruos han sido atrapados luego de reparar la Raíz Cristal del Árbol!
-ETC_20150317_005703	Esperando a reparar la Raíz Cristal del Árbol.
 ETC_20150317_005704	Generación de Potencia
 ETC_20150317_005705	Prueba de Generación de Potencia del Reactivo
 ETC_20150317_005706	Incapaz de Combatir
@@ -5977,15 +5967,14 @@ ETC_20150317_005976	Recuperación proporcional
 ETC_20150317_005977	La Recuperación Espontánea es más lenta comparada a otros métodos, pero no requiere que el personaje haga algo.
 ETC_20150317_005978	[Recuperación por Pociones]: Recupera PS/PM/Resistencia inmediatamente usando pociones.
 ETC_20150317_005979	Las pociones tienen un tiempo de enfriamiento antes de volver a ser empleadas.
-ETC_20150317_005980	[Raíz Cristal del Árbol]: Destruye Raíces Cristal del Árbol para recuperar Resistencia.
-ETC_20150317_005981	{memo }Las Raíces Cristal del Árbol aparecen aleatoriamente en los campos.
+ETC_20150317_005980	[Cristal del Árbol]: Destruye Cristales del Árbol para recuperar Resistencia.
 ETC_20150317_005982	[Modo Descanso]: Prender una fogata durante el Modo Descanso acelera tu recuperación.
 ETC_20150317_005983	La recuperación durante el Modo Descanso es más rápida que la Recuperación Espontánea, y es inclusive más valoz si prendes una fogata durante el Modo Descanso.
 ETC_20150317_005984	Exterminio se activará si matas al monstruo con un golpe final muy fuerte.
 ETC_20150317_005985	Exterminio será activado si le haces más daño al monstruo que sus PS restantes con un ataque poderoso.
-ETC_20150317_005986	Destruir una Raíz Cristal del Árbol recupera tu Resistencia.
-ETC_20150317_005987	Hay muchas Raíces Cristal del Árbol en cada campo.
-ETC_20150317_005988	La Resistencia de todos los personajes a tu alrededor será recuperada si destruyes Raíces Cristal del Árbol.
+ETC_20150317_005986	Destruir una Cristal del Árbol recupera tu Resistencia.
+ETC_20150317_005987	Hay muchas Cristales del Árbol en cada campo.
+ETC_20150317_005988	La Resistencia de todos los personajes a tu alrededor será recuperada si destruyes Cristales del Árbol.
 ETC_20150317_005989	Sobrecalentar
 ETC_20150317_005990	Algunas habilidades se pueden sobrecalentar cuando se usan un cierto número de veces.
 ETC_20150317_005991	Si se activa el sobrecalentamiento, esa habilidad entra en enfriamiento y serás incapaz de usarla por un tiempo.
@@ -6237,7 +6226,6 @@ ETC_20150317_006237	Está hecha de modo que no impida ni la vista ni el movimien
 ETC_20150317_006238	{s18}{#001100}Cuando una misión es completada, dale click al botón Retorno para teletransportare al PNJ.{/}
 ETC_20150317_006239	{s18}{#001100}Puedes comprar objetos en una tienda.{/}
 ETC_20150317_006240	{s18}{#001100}Si te diriges a la luz brillante, puedes obtener objetos mediante combate o diálogo. {/}
-ETC_20150317_006241	{s18}{#001100}Destruye la Raíz Cristal del Árbol para recuperar resistencia. {/}
 ETC_20150317_006242	{s18}{#001100}Puedes adquirir montones de EXP simplemente atacando a monstruo.{/}
 ETC_20150317_006243	{s18}{#001100}¡¡¡Caerán objetos al derrotar a este Monstruo del Tesoro!!!{/}
 ETC_20150317_006244	{s18}{#001100}Puedes progresar la misión apretando la Barra Espaciadora cerca de la bandera roja de un PNJ.{/}
@@ -7533,7 +7521,7 @@ ETC_20150317_007533	Quita la Trampa
 ETC_20150317_007534	Buscando un Gran Pilar (1)
 ETC_20150317_007535	Buscando un Gran Pilar (2)
 ETC_20150317_007536	Buscando un Gran Pilar (3)
-ETC_20150317_007537	Derrota a los Boowooks cerca del Cubo Real para que los absorva
+ETC_20150317_007537	Derrota a los Boowooks cerca del Cubo Real para que los absorba
 ETC_20150317_007538	Prueba del Rey Zachariel el Grande (1)
 ETC_20150317_007539	Pon las Fuentes de Poder en los contenedores
 ETC_20150317_007540	Prueba del Rey Zachariel el Grande (2)
@@ -7648,9 +7636,9 @@ ETC_20150317_007648	Despierta los recuerdos durmientes de las Esculturas de Búh
 ETC_20150317_007649	Mercenario del valle
 ETC_20150317_007650	Dispositivo Especial del Valle
 ETC_20150317_007651	Grupo de Investigación Desaparecido (3)
-ETC_20150317_007652	Elimina la Barrera Oeste
-ETC_20150317_007653	Elimina la Barrera Este
-ETC_20150317_007654	Elimina la Barrera Norte
+ETC_20150317_007652	Libera la Barrera Oeste
+ETC_20150317_007653	Libera la Barrera Este
+ETC_20150317_007654	Libera la Barrera Norte
 ETC_20150317_007655	El camino perdido de una chica (1)
 ETC_20150317_007656	Encuentra pistas de los desaparecidos revisando las bolsas de los Saugas
 ETC_20150317_007657	El camino perdido de una chica (2)
@@ -7748,10 +7736,10 @@ ETC_20150317_007748	Estatua de la Diosa Maligna
 ETC_20150317_007749	Julius se transformó en un Drapeliun, trata de revertir su metamorfosis
 ETC_20150317_007750	Recolecta hojas frescas de Asellucho
 ETC_20150317_007751	Limpia las pilas de comida podrida
-ETC_20150317_007752	Encuentra el núcleo desperdigado de Raíz Cristal del Árbol
+ETC_20150317_007752	Encuentra el núcleo desperdigado de Cristal del Árbol
 ETC_20150317_007753	Recolecta el musgo posterior usando los Kowak
 ETC_20150317_007754	Rocía el musgo a las raíces del árbol transformadas
-ETC_20150317_007755	Encuentra y libera la real Raíz Cristal del Árbol mutada
+ETC_20150317_007755	Encuentra y libera la real Cristal del Árbol mutada
 ETC_20150317_007756	Derrota al monstruo luego de modificar la maldición de las raíces transformadas
 ETC_20150317_007757	Atrae a los monstruos cercanos al cofre del tesoro y derrotalos
 ETC_20150317_007758	Libera las almas atadas al altar
@@ -8871,7 +8859,7 @@ ETC_20150317_008871	Attacking with countering properties on monstruos can cause 
 ETC_20150317_008872	Arquero Tip
 ETC_20150317_008873	Press and hold the attack button to continuously attack a targeted enemy. You can also move while attacking using the arrow keys.
 ETC_20150317_008874	The attacks of the Arquero has a maximum range. Higher damage can be dealt when shooting from afar.
-ETC_20150317_008875	Accuracy and evasion increases when an Arquero-type class gains a level.
+ETC_20150317_008875	Precisión and evasion increases when an Arquero-type class gains a level.
 ETC_20150317_008876	An Arquero's basic attack can cause more damage to Flying-type monstruos.
 ETC_20150317_008877	Wizard Tip
 ETC_20150317_008878	When a Wizard-type class is attacked during skill casting, the skill can be canceled.
@@ -9342,7 +9330,7 @@ ETC_20150317_009342	Summoning Círculo Mágico
 ETC_20150317_009343	Small Hive
 ETC_20150317_009344	Source of Corruption
 ETC_20150317_009345	HUEVILLAGE_58_3_MQ04_Trigger for return
-ETC_20150317_009346	[Escultor Santo Master]{nl}      Sculptor Tesla
+ETC_20150317_009346	[Maestre Escultor Santo]{nl}      Sculptor Tesla
 ETC_20150317_009347	Wood Sap Container
 ETC_20150317_009348	Sleeping Upent
 ETC_20150317_009349	Barrel of Explosives
@@ -9389,11 +9377,10 @@ ETC_20150317_009389	Evil Aura
 ETC_20150317_009390	Peregrino Julius turned into a Drapeliun!
 ETC_20150317_009391	Making a grave for Liliya
 ETC_20150317_009392	Grave of Peregrino Mathas*
-ETC_20150317_009393	¡Fuíste ralentízado por un aura somnolienta proveniente de la Raíz Cristal del Árbol!{nl}¡Elimina la Raíz Cristal del Árbol en la Ruta Nederlingas para deshacer esta maldición!
-ETC_20150317_009394	Variant Laziness Raíz Cristal del Árbol*
+ETC_20150317_009394	Variant Laziness Cristal del Árbol*
 ETC_20150317_009395	Traces of Pollution
-ETC_20150317_009396	Scattered Raíz Cristal del Árbol Core
-ETC_20150317_009397	Summoned transformed Raíces Cristal del Árbol*
+ETC_20150317_009396	Scattered Cristal del Árbol Core
+ETC_20150317_009397	Summoned transformed Cristales del Árbol*
 ETC_20150317_009398	Bosque Fallido de Árboles Morados
 ETC_20150317_009399	Camino del Peregrino Gate
 ETC_20150317_009400	Peregrino Grachius
@@ -9405,7 +9392,7 @@ ETC_20150317_009405	Merge-bound Soul*
 ETC_20150317_009406	Decoy Altar
 ETC_20150317_009407	Milky Dust Stack
 ETC_20150317_009408	Stepping Stone
-ETC_20150317_009409	Raíz Cristal del Árbol
+ETC_20150317_009409	Cristal del Árbol
 ETC_20150317_009410	Purple Tree Forest Reeds
 ETC_20150317_009411	Flower
 ETC_20150317_009412	The container for the map
@@ -9465,7 +9452,7 @@ ETC_20150317_009465	High Crooked Road
 ETC_20150317_009466	Varkis' Records
 ETC_20150317_009467	Mausoleo Real Guardian Device
 ETC_20150317_009468	Cofre del Tesoro Nv1
-ETC_20150317_009469	Derrota the Woodspirit Quest trigger
+ETC_20150317_009469	Derrota the Espíritu de la Madera Quest trigger
 ETC_20150317_009470	Rock with moss
 ETC_20150317_009471	Bokor Fray's favor (3)
 ETC_20150317_009472	Prepare for the Giant Tree (1)
@@ -9526,7 +9513,7 @@ ETC_20150320_009526	Status Points can be used in enhancing different abilities{n
 ETC_20150323_009527	Orange Popoleón
 ETC_20150323_009528	Orange Gribaru
 ETC_20150323_009529	Marionette
-ETC_20150323_009530	Fire Lord
+ETC_20150323_009530	Señor del Fuego
 ETC_20150323_009531	Organ
 ETC_20150323_009532	Velmoski
 ETC_20150323_009533	Veliamonkey
@@ -9565,7 +9552,7 @@ ETC_20150323_009565	Owl Burial Ground
 ETC_20150323_009566	Karolis Springs
 ETC_20150323_009567	Paupys Crossing
 ETC_20150323_009568	Poslinkis Forest
-ETC_20150323_009569	Saknis Plains
+ETC_20150323_009569	Planicies Saknis
 ETC_20150323_009570	Lemprasa Pond
 ETC_20150323_009571	Kule Peak
 ETC_20150323_009572	Sirdgela Forest
@@ -9667,7 +9654,7 @@ ETC_20150323_009667	Use the branch!
 ETC_20150323_009668	¡Derrota a Yonazolem!
 ETC_20150323_009669	You touched the rotten meat, and a Raptorpedo appeared!
 ETC_20150323_009670	Son! Wake up...
-ETC_20150323_009671	The barrier protecting Raíz Cristal del Árbol of Laziness appeared!{nl}Better destroy it all before it disappear.
+ETC_20150323_009671	The barrier protecting Cristal del Árbol of Laziness appeared!{nl}Better destroy it all before it disappear.
 ETC_20150323_009672	The fire looks like it would die out soon.{nl}Get more kindling de los monstruos and keep the fire alive.
 ETC_20150323_009673	Derrota the soul binding Merge!
 ETC_20150323_009674	Finally... Am I free?
@@ -9909,8 +9896,8 @@ ETC_20150323_009910	Place the Sun Essence in Ramstis Ridge
 ETC_20150323_009911	Find reference related to Naktis
 ETC_20150323_009912	Get Asellu Leaf Buds
 ETC_20150323_009913	Get kindling from Kowak
-ETC_20150323_009914	Add kindling to the burning Raíz Cristal del Árbol
-ETC_20150323_009915	Free the peregrino's soul from the monstruo and attack the Raíz Cristal del Árbol
+ETC_20150323_009914	Add kindling to the burning Cristal del Árbol
+ETC_20150323_009915	Free the peregrino's soul from the monstruo and attack the Cristal del Árbol
 ETC_20150323_009916	Test the Reagent on the monstruos in Altary Way
 ETC_20150323_009917	Lure the monstruos to the santuario and defeat them
 ETC_20150323_009918	Destruye the Demon Círculo de Invocación
@@ -10050,12 +10037,12 @@ ETC_20150323_010051	Collected Asellu Leaf Bud
 ETC_20150323_010052	Going through the pile of food
 ETC_20150323_010053	Get more food waste from the pile of food in Ishplash Plaza
 ETC_20150323_010054	There is no monstruo
-ETC_20150323_010055	Destroying the Raíz Cristal del Árbol Core
+ETC_20150323_010055	Destroying the Cristal del Árbol Core
 ETC_20150323_010056	The core of Cristal exploded.
-ETC_20150323_010057	Destroyed the Raíz Cristal del Árbol Core and recovered Resistencia!
+ETC_20150323_010057	Destroyed the Cristal del Árbol Core and recovered Resistencia!
 ETC_20150323_010058	There was an abnormal reaction from the Core of Cristal and Old Hook Appeared!
-ETC_20150323_010059	Successfully destroyed Mutated Raíz Cristal del Árbol!
-ETC_20150323_010060	Touched the wrong Raíz Cristal del Árbol and movement speed decreased!
+ETC_20150323_010059	Successfully destroyed Mutated Cristal del Árbol!
+ETC_20150323_010060	Touched the wrong Cristal del Árbol and movement speed decreased!
 ETC_20150323_010061	Don't lie! I will finish you too!
 ETC_20150323_010062	You think I'll forgive you?
 ETC_20150323_010063	I will destroy you too!
@@ -10108,14 +10095,14 @@ ETC_20150323_010109	Released the soul restrained by the monstruo!
 ETC_20150323_010110	You already have enough food waste.
 ETC_20150323_010111	Persuade the tired Drapeliun!
 ETC_20150323_010112	You went through the food pile and it exploded!
-ETC_20150323_010113	Acquired kindling! {nl}Put it in the fire for the Raíz Cristal del Árbol to burn it!
+ETC_20150323_010113	Acquired kindling! {nl}Put it in the fire for the Cristal del Árbol to burn it!
 ETC_20150323_010114	Adding Kindling
 ETC_20150323_010115	Flame is blazing up!
-ETC_20150323_010116	Successfully burned Raíz Cristal del Árbol.
+ETC_20150323_010116	Successfully burned Cristal del Árbol.
 ETC_20150323_010117	trapped the evil aura in the box.
 ETC_20150323_010118	The evil aura is being absorbed into the box.
 ETC_20150323_010119	It will automatically explode when you get its Core de los monstruos nearby!
-ETC_20150323_010120	Raíz Cristal del Árbol Reacting
+ETC_20150323_010120	Cristal del Árbol Reacting
 ETC_20150323_010121	Soul of Peregrino entrapped by the monstruo is released!{nl}Destruye the entrapped Soul of Peregrino to release him!
 ETC_20150323_010122	Trapped Peregrino's Soul
 ETC_20150323_010123	Lure the monstruo and consume its PS before extracting its soul
@@ -10390,7 +10377,7 @@ ETC_20150323_010391	Boss Trigger
 ETC_20150323_010392	Safety Zone Trigger
 ETC_20150323_010393	Gytis Farm
 ETC_20150323_010394	Tripede
-ETC_20150323_010395	Transformed Raíces Cristal del Árbol of Laziness*
+ETC_20150323_010395	Transformed Cristales del Árbol of Laziness*
 ETC_20150323_010396	The spirit of the peregrino in wrath*
 ETC_20150323_010397	The diary of someone
 ETC_20150323_010398	Bosque de las Plegarias Notice
@@ -10690,7 +10677,7 @@ ETC_20150406_010691	Outer World White Harpeia
 ETC_20150406_010692	Outer World Stone Whale
 ETC_20150406_010693	Outer World Monarca Espectral
 ETC_20150406_010694	Outer World Magburk
-ETC_20150406_010695	Outer World Fire Lord
+ETC_20150406_010695	Outer World Señor del Fuego
 ETC_20150406_010696	Outer World Inferbovino
 ETC_20150406_010697	Outer World Manticen
 ETC_20150406_010698	Outer World Mushwort
@@ -10723,8 +10710,8 @@ ETC_20150406_010724	Pile of Food (Large)
 ETC_20150406_010725	Pile of Food (Medium)
 ETC_20150406_010726	Pile of Food (Small)
 ETC_20150406_010727	Pile of Food (Extra Small)
-ETC_20150406_010728	Mutated Raíz Cristal del Árbol
-ETC_20150406_010729	Mutated Raíz Cristal del Árbol 2
+ETC_20150406_010728	Mutated Cristal del Árbol
+ETC_20150406_010729	Mutated Cristal del Árbol 2
 ETC_20150406_010730	Soil Sample
 ETC_20150406_010731	Pile of Soil
 ETC_20150406_010732	Young Dandelion
@@ -10875,8 +10862,8 @@ ETC_20150414_010876	Attack and destroy the círculo mágico!
 ETC_20150414_010877	The círculo mágico is on fire!{nl}Get kindling from Orange Dandel and keep the fire alive!
 ETC_20150414_010878	Baron's Storage
 ETC_20150414_010879	Shaton Family Mercenary Chief
-ETC_20150414_010880	Guardian stone of Raíz Cristal del Árbol of Laziness appeared! {nl}Destruye all of it.
-ETC_20150414_010881	Guardian Stone of Raíz Cristal del Árbol
+ETC_20150414_010880	Guardian stone of Cristal del Árbol of Laziness appeared! {nl}Destruye all of it.
+ETC_20150414_010881	Guardian Stone of Cristal del Árbol
 ETC_20150414_010882	Are you trying to interfere with my plans?
 ETC_20150414_010883	¡Al Ataque!
 ETC_20150414_010884	Looks like I'm just in time. {nl}First, the cure...
@@ -10982,7 +10969,7 @@ ETC_20150414_010983	Use Halconero Attribute
 ETC_20150414_010984	IvnItem:FARM47_1_SQ_060_ITEM_1:1/DoTimeAction:Making meat jerky:3:MAKING:None
 ETC_20150414_010985	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:Made jerky!:3/Sleep:5000/AnimNPC:Local:CLOSE:0/EffectNPC:Local:F_smoke135_dark:2:BOT/GiveItem:FARM47_1_SQ_060_ITEM_2:1/TakeItem:FARM47_1_SQ_060_ITEM_1:1/Property:2/PropertyAdd:1
 ETC_20150414_010986	Stop Rexipher
-ETC_20150414_010987	Destruye the Scattered Raíz Cristal del Árbol Cores
+ETC_20150414_010987	Destruye the Scattered Cristal del Árbol Cores
 ETC_20150414_010988	Activate the Gedulah Altar before Rexipher destroys it
 ETC_20150414_010989	Activate Sviesa Altar
 ETC_20150414_010990	Protege the sealing ritual of the dimensional crack
@@ -11311,7 +11298,7 @@ ETC_20150428_011312	Stick to target and explode when touched
 ETC_20150428_011313	Hide underground
 ETC_20150428_011314	Glitter Buff
 ETC_20150428_011315	{s18}{#001100}Usa el botón de Retorno para regresar al PNJ tras completar una misión.{/}
-ETC_20150428_011316	{s18}{#001100}Recupera Resistencia destruyendo {nl}esta Raíz Cristal del Árbol.{/}
+ETC_20150428_011316	{s18}{#001100}Recupera Resistencia destruyendo {nl}esta Cristal del Árbol.{/}
 ETC_20150428_011317	{s18}{#001100}¡Puedes adquirir recompensas especiales al derrotar un Monstruo del Tesoro!{/}
 ETC_20150428_011318	First Room of Barrier
 ETC_20150428_011319	Second Room of Barrier
@@ -11432,7 +11419,7 @@ ETC_20150428_011433	Receta - Sage Necklace
 ETC_20150428_011434	Receta - Superior Rune Bracelet
 ETC_20150428_011435	Receta - Star Bracelet
 ETC_20150428_011436	FAQ : Guarida{nl}1) Puedes cambiar el nombre de tu Guarida dandole click a 'Configuración de Guarida'. {nl}2) Puedes comprar aspectos para tu Guarida usando TP al darle click a 'Cambiar Guarida'.{nl}3) Puedes elegir el canal al que deseas ingresar desde tu Guarida.
-ETC_20150428_011437	FAQ : Character PS, PM, RES {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) RES: This is stamina. When your RES is 0, you can only walk and cannot run anymore. {nl} RES is also used when learning certain attributes. {nl} RES can be recovered by destroying Raíces Cristal del Árbol or by using Resistencia Pills. {nl} Resistencia Pills can be purchased from shops, earned by completing quests or by defeating boss monstruos.
+ETC_20150428_011437	FAQ : Character PS, PM, RES {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) RES: This is stamina. When your RES is 0, you can only walk and cannot run anymore. {nl} RES is also used when learning certain attributes. {nl} RES can be recovered by destroying Cristales del Árbol or by using Resistencia Pills. {nl} Resistencia Pills can be purchased from shops, earned by completing quests or by defeating boss monstruos.
 ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15.
 ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3) You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
 ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Guarida before entering the world.
@@ -11581,7 +11568,7 @@ ETC_20150428_011582	Key Thief
 ETC_20150428_011583	Great King Zachariel's Coffin
 ETC_20150428_011584	Second Prisión Demoníaca
 ETC_20150428_011585	Butterfly Tomb's Thicket
-ETC_20150428_011586	Summoned Mutated Raíz Cristal del Árbol
+ETC_20150428_011586	Summoned Mutated Cristal del Árbol
 ETC_20150428_011587	Raging Peregrino's Soul
 ETC_20150428_011588	Altar-bound Peregrino's Soul
 ETC_20150428_011589	Merge-bound Soul
@@ -11803,7 +11790,7 @@ ETC_20150714_011804	The Thorn Vines are spreading evil energy!
 ETC_20150714_011805	Protege the crystal of the authority
 ETC_20150714_011806	The portal suddenly opened!
 ETC_20150714_011807	Monsters started to attack the Seal Tower!
-ETC_20150714_011808	The protecting stone that protects the Raíces Cristal del Árbol of Laziness ha aparecido!{nl}You better destroy all protecting stones!
+ETC_20150714_011808	The protecting stone that protects the Cristales del Árbol of Laziness ha aparecido!{nl}You better destroy all protecting stones!
 ETC_20150714_011809	The flame has been ignited but it seems that it would be extinguished soon.{nl}Obtain some kindling de los monstruos and make the flame bigger!
 ETC_20150714_011810	It doesn't look like the slate you are looking for!
 ETC_20150714_011811	The uncontrollable Necroventer has been summoned!{nl}The experiment failed! Derrota Necroventer!
@@ -11834,7 +11821,7 @@ ETC_20150714_011835	Título entregado por have completed the main story quest of
 ETC_20150714_011836	Epigraphist
 ETC_20150714_011837	Título entregado por have completed the main story quest of Escanciu Village.
 ETC_20150714_011838	Philipas' Honorable Soldado
-ETC_20150714_011839	Título entregado por have completed the main story quest of Saknis Plains.
+ETC_20150714_011839	Título entregado por have completed the main story quest of Planicies Saknis.
 ETC_20150714_011840	Sunset Flag Bearer
 ETC_20150714_011841	Título entregado por have completed the main story quest of Sunset Flag Forest.
 ETC_20150714_011842	Purifying Mediator
@@ -11858,7 +11845,7 @@ ETC_20150714_011859	Petrifying
 ETC_20150714_011860	You body is becoming stiff due to the Petrifying Frost! Get out of here quickly!
 ETC_20150714_011861	Petrified
 ETC_20150714_011862	You've been petrified!
-ETC_20150714_011863	Demonic Stone - PM Recovery
+ETC_20150714_011863	Demonic Stone - Recuperación de PM
 ETC_20150714_011864	You've obtained the effect of increasing PM recovery amount from the destroyed magic crystal.
 ETC_20150714_011865	Demonic Stone - Recuperación de PS
 ETC_20150714_011866	You've obtained the effect of increasing PS recovery amount from the destroyed magic crystal.
@@ -12251,7 +12238,7 @@ ETC_20150714_012252	{nl}The gem's level decreases upon extraction.{nl}Are you su
 ETC_20150714_012253	Maximum Physical Attack
 ETC_20150714_012254	Add {Value} Physical Defense to your Companion
 ETC_20150714_012255	Add {Value} Defensa Mágica to your Companion
-ETC_20150714_012256	Add {Value} Accuracy to your Companion
+ETC_20150714_012256	Add {Value} Precisión to your Companion
 ETC_20150714_012257	Minimum Physical Attack
 ETC_20150714_012258	Magic Amplification
 ETC_20150714_012259	Minimum Magic Attack
@@ -13181,7 +13168,7 @@ ETC_20150714_013182	Wandering Spirit
 ETC_20150714_013183	Hardened Astral Body Crystal
 ETC_20150714_013184	Storage Box
 ETC_20150717_013185	Black Liverwort
-ETC_20150717_013186	Burning Fire Lord
+ETC_20150717_013186	Burning Señor del Fuego
 ETC_20150717_013187	Wrathful Harpeia
 ETC_20150717_013188	Starving Ellaganos
 ETC_20150717_013189	Hohen Mane
@@ -13321,7 +13308,7 @@ ETC_20150717_013322	Recuperación de PS Speed
 ETC_20150717_013323	, recovering PS in intervals.
 ETC_20150717_013324	Restoring Naturally is very slow compared to other methods, but does not require any control or conditions.
 ETC_20150717_013325	[Restore by Potion] Restore PS/PM/RES immediately using various potions.
-ETC_20150717_013326	[Destruye Raíz Cristal del Árbol] Destruye the Raíz Cristal del Árbol to restore the Resistencia of all nearby characters.
+ETC_20150717_013326	[Destruye Cristal del Árbol] Destruye the Cristal del Árbol to restore the Resistencia of all nearby characters.
 ETC_20150717_013327	PvP is a team match under the name of Liga de Batalla en Equipo.
 ETC_20150717_013328	You can join at certain times when you have a party of five members.
 ETC_20150717_013329	You will transfer to the battle area when an opponent party is found.
@@ -13474,7 +13461,7 @@ ETC_20150717_013475	Throw the core to the terminal (1)
 ETC_20150717_013476	Throw the core to the terminal (2)
 ETC_20150717_013477	Throw the core to the terminal (3)
 ETC_20150717_013478	Obtain the detonator de los monstruos
-ETC_20150717_013479	Saknis Plains Hidden Event Requirements Session
+ETC_20150717_013479	Planicies Saknis Hidden Event Requirements Session
 ETC_20150717_013480	Gytis Settlement Area Hidden Event Requirements Session
 ETC_20150717_013481	Sunset Flag Forest Hidden Event Session
 ETC_20150717_013482	Zachariel Crossroads Hidden Event Requirements Session
@@ -13486,7 +13473,7 @@ ETC_20150717_013487	Receta - Naktis
 ETC_20150717_013488	Receta - Grynas Rod
 ETC_20150717_013489	Receta - Temere
 ETC_20150717_013490	Receta - Black Staff
-ETC_20150717_013491	Receta - Accuracy Crossbow
+ETC_20150717_013491	Receta - Precisión Crossbow
 ETC_20150717_013492	Receta - Veteran Crossbow
 ETC_20150717_013493	Receta - Handgun
 ETC_20150717_013494	Veteran
@@ -13609,7 +13596,7 @@ ETC_20150717_013610	Suspicious Crystal
 ETC_20150717_013611	Suspicious Sculpture
 ETC_20150717_013612	This game is rated ESRB Teen.
 ETC_20150717_013613	{How} Plata obtained.
-ETC_20150717_013614	{@st59}Increase in Max PM, PM Recovery and Block Penetration{/}
+ETC_20150717_013614	{@st59}Increase in Max PM, Recuperación de PM and Penetración de Bloqueo{/}
 ETC_20150717_013615	{@st59}Increases Magic Attack{/}
 ETC_20150729_013616	Colimen
 ETC_20150729_013617	Mine Trap
@@ -13695,7 +13682,7 @@ ETC_20150729_013696	Only the areas you have already discovered will be activated
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
 ETC_20150729_013698	Use Status Points obtained through leveling up to upgrade your character's abilities.
 ETC_20150729_013699	Press {img F1 40 40} to open the Character Información window to view info about your character.
-ETC_20150729_013700	Use FUE/CON/INT/SPR/DES to make your character stronger. {nl} {nl} FUE : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max PS, Recuperación de PS, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max PM and PM Recovery, Defensa Mágica and Block Penetration {nl} {nl} DES : Increase in Accuracy, Evasión and Critical Chance {nl}
+ETC_20150729_013700	Use FUE/CON/INT/SPR/DES to make your character stronger. {nl} {nl} FUE : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max PS, Recuperación de PS, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max PM and Recuperación de PM, Defensa Mágica and Penetración de Bloqueo {nl} {nl} DES : Increase in Precisión, Evasión and Critical Chance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
 ETC_20150729_013702	You can manage the skills of your character through the Skill window.
 ETC_20150729_013703	Press {img F3 40 40} to open the Skill window.
@@ -13747,9 +13734,9 @@ ETC_20150729_013748	{memo }{nl}{nl}[Natural Recovery]: The
 ETC_20150729_013749	{memo }Natural Recovery is very slow compared to other methods, but does not have any requirements.
 ETC_20150729_013750	{memo }{nl}{nl}[Recovery using Potions]: Amount of PS/PM/RES restored depends on the potion consumed.
 ETC_20150729_013751	However, potions have a cooldown before they can be re-used.
-ETC_20150729_013752	{memo }{nl}{nl}[Destroying Raíces Cristal del Árbol]: Destroying a Raíz Cristal del Árbol will restore the Resistencia of all nearby players.
-ETC_20150729_013753	Destroying a Raíz Cristal del Árbol recovers your Resistencia.
-ETC_20150729_013754	Resistencia of all the players nearby will be restored when you destroy a Raíz Cristal del Árbol.
+ETC_20150729_013752	{memo }{nl}{nl}[Destroying Cristales del Árbol]: Destroying a Cristal del Árbol will restore the Resistencia of all nearby players.
+ETC_20150729_013753	Destroying a Cristal del Árbol recovers your Resistencia.
+ETC_20150729_013754	Resistencia of all the players nearby will be restored when you destroy a Cristal del Árbol.
 ETC_20150729_013755	Liga de Batalla en Equipo
 ETC_20150729_013756	Liga de Batalla en Equipo is a 5:5 team battle among players.
 ETC_20150729_013757	If Party and all party members press accept, system will search for opponents. When matching opponent party is found, you will move to battle zone to begin the battle.
@@ -13918,7 +13905,7 @@ ETC_20150729_013919	The Secret of the Chamber - Wizard type_Conditions
 ETC_20150729_013920	The Secret of the Chamber - Arquero type_Conditions
 ETC_20150729_013921	The Secret of the Chamber - Clérigo type_Conditions
 ETC_20150729_013922	Obtain Young Leaves from wild grass
-ETC_20150729_013923	Escultor Santo Master's story
+ETC_20150729_013923	Maestre Escultor Santo's story
 ETC_20150729_013924	Nigromante Master's story
 ETC_20150729_013925	Cronomante Master's story
 ETC_20150729_013926	Cremate the revived body
@@ -13963,7 +13950,7 @@ ETC_20150729_013964	This monstruo has a detonator!
 ETC_20150729_013965	The terminal rejected accesss!
 ETC_20150729_013966	You will lost your energy to the terminal for 1 minute!{nl}Svitrigaila could eliminate all the evil energy!
 ETC_20150729_013967	Obtained all core required.
-ETC_20150729_013968	{@st59}Increases Max PM, PM Recovery, Block Penetration and Defensa Mágica{/}
+ETC_20150729_013968	{@st59}Increases Max PM, Recuperación de PM, Penetración de Bloqueo and Defensa Mágica{/}
 ETC_20150729_013969	You hear the sounds of working machinery!{nl}Go to District 5 and look for lubricant.
 ETC_20150729_013970	Asking about the eternal life
 ETC_20150729_013971	Sacrifice a Big Siaulioveja Sinew as an offering
@@ -14036,7 +14023,7 @@ ETC_20150730_014037	Damage taken will be shared with the connected objects.
 ETC_20150730_014038	Buff effects will be shared with the connected objects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	You can make your character stronger by allocating Status Points into FUE/CON/INT/SPR/DES.{nl} {nl} - FUE : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max PS, Recuperación de PS, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, Recuperación de PS of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, PM Recovery, Defensa Mágica, Block Penetration and Resistance to harmful effects{nl} {nl}- DES : Increase in Accuracy, Evasión and Tasa Crítico{nl}
+ETC_20150730_014041	You can make your character stronger by allocating Status Points into FUE/CON/INT/SPR/DES.{nl} {nl} - FUE : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max PS, Recuperación de PS, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, Recuperación de PS of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, Recuperación de PM, Defensa Mágica, Penetración de Bloqueo and Resistance to harmful effects{nl} {nl}- DES : Increase in Precisión, Evasión and Tasa Crítico{nl}
 ETC_20150730_014042	DoTimeAction:Buscando parts:2:SITGROPE:None
 ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	DoTimeAction:Recolectando petrification liquid powder:2:GROPE:None
@@ -14160,7 +14147,7 @@ ETC_20150804_014161	Achieved by being between 2~10 to reach rank 6 in CBT3!
 ETC_20150804_014162	The lighting effects at the church
 ETC_20150804_014163	The church lighting enhances your PM regeneration
 ETC_20150804_014164	THe lighting effects aft the Loading place
-ETC_20150804_014165	PM Recovery Rate will increase due to the light effect of the loading place.
+ETC_20150804_014165	Recuperación de PM Rate will increase due to the light effect of the loading place.
 ETC_20150804_014166	Pre Dungeon Defense
 ETC_20150804_014167	Enhance a shield to level 4
 ETC_20150804_014168	Examine the Great King Zachariel's Epitaph
@@ -14204,7 +14191,7 @@ ETC_20150807_014205	SPR {img red_up_arrow 16 16} 6
 ETC_20150807_014206	Group Settings {img white_right_arrow 18 18}
 ETC_20150807_014207	{@st41b}Fold {img red_up_arrow 16 16}
 ETC_20150918_014208	Cockat
-ETC_20150918_014209	Archmage Fire Lord
+ETC_20150918_014209	Archmage Señor del Fuego
 ETC_20150918_014210	Guard Dog Cerbero
 ETC_20150918_014211	Thick Cereal Gruel
 ETC_20150918_014212	Bat Event
@@ -14234,9 +14221,9 @@ ETC_20150918_014235	The monstruos that noticed some movements rushed in!
 ETC_20150918_014236	Derrota los monstruos that were lured to the baits!
 ETC_20150918_014237	Please protect the souls so that they can be guided to the Estatua de Diosa!
 ETC_20150918_014238	Protege the crystal of the mighty power!
-ETC_20150918_014239	The stone protecting the Raíces Cristal del Árbol of Laziness ha aparecido!{nl}Destruye all the stones!
+ETC_20150918_014239	The stone protecting the Cristales del Árbol of Laziness ha aparecido!{nl}Destruye all the stones!
 ETC_20150918_014240	The fire started, but it seems that it will be extinguished soon.{nl}Make a bigger fire by obtaining kindling from Kowaks!
-ETC_20150918_014241	The transformed Raíz Cristal del Árbol has turned into a Cactusvel!
+ETC_20150918_014241	The transformed Cristal del Árbol has turned into a Cactusvel!
 ETC_20150918_014242	If I do this...
 ETC_20150918_014243	You've found a small portrait!{nl}Derrota los monstruos that are rushing in and get out from there!
 ETC_20150918_014244	As you collected the corpses of the bishops, the monstruos that noticed your movements are coming!
@@ -14346,7 +14333,7 @@ ETC_20150918_014347	Eminent's Identity
 ETC_20150918_014348	Words of the Traitor
 ETC_20150918_014349	The Tomb Robber in History
 ETC_20150918_014350	Traitor's Diary
-ETC_20150918_014351	Light Plate Set
+ETC_20150918_014351	Light Set de Placas
 ETC_20150918_014352	Amplitud de Área {img green_up_arrow 16 16} 1
 ETC_20150918_014353	Defense {img green_up_arrow 16 16} 6
 ETC_20150918_014354	Dark Property Attack {img green_up_arrow 16 16} 30
@@ -14483,18 +14470,18 @@ ETC_20150918_014484	Capilla
 ETC_20150918_014485	That monstruo looks ready to explode!
 ETC_20150918_014486	Get more leftover food from Isblyskes Square!
 ETC_20150918_014487	The Cristal Core Piece reacts strangely and turns into a Lomor!
-ETC_20150918_014488	You have found the real Raíz Cristal del Árbol and destroyed it!
-ETC_20150918_014489	The fake Raíz Cristal del Árbol made you faint!
-ETC_20150918_014490	The fake Raíz Cristal del Árbol made you sleep!
-ETC_20150918_014491	The fake Raíz Cristal del Árbol reduced your movement speed!
-ETC_20150918_014492	The fake Raíz Cristal del Árbol froze you!
+ETC_20150918_014488	You have found the real Cristal del Árbol and destroyed it!
+ETC_20150918_014489	The fake Cristal del Árbol made you faint!
+ETC_20150918_014490	The fake Cristal del Árbol made you sleep!
+ETC_20150918_014491	The fake Cristal del Árbol reduced your movement speed!
+ETC_20150918_014492	The fake Cristal del Árbol froze you!
 ETC_20150918_014493	They betrayed me!
 ETC_20150918_014494	Looking through the piles of leaves
 ETC_20150918_014495	The soul is attacking!
 ETC_20150918_014496	The peregrino's soul that was trapped inside the monstruo came out!{nl}Release the peregrino's soul!
 ETC_20150918_014497	Lure the monstruo and attack it to pull out the soul!
 ETC_20150918_014498	You need flowers to calm the altar-bound soul
-ETC_20150918_014499	The peregrino's soul is attacking the Raíz Cristal del Árbol!
+ETC_20150918_014499	The peregrino's soul is attacking the Cristal del Árbol!
 ETC_20150918_014500	Move forward in order to open the chest
 ETC_20150918_014501	The statue of the Diosa won't react
 ETC_20150918_014502	Do you think I will be able to go to the Diosas?
@@ -15507,7 +15494,7 @@ ETC_20151001_015508	Romuva Barrier
 ETC_20151001_015509	Gloomy Panto Assassin
 ETC_20151001_015510	Protege the Romuva Barrier from the Pantos.{nl}Move on to the next location!
 ETC_20151001_015511	Derrota the Gloomy Green Aparición!
-ETC_20151001_015512	The Green Woodspirit has been defeated!
+ETC_20151001_015512	The Green Espíritu de la Madera has been defeated!
 ETC_20151001_015513	The mission has been completed.{nl}You will return to your original area after 60 segundos.
 ETC_20151001_015514	There are no remaining players left.{nl}You will return to your original area.
 ETC_20151001_015515	The mission has failed. You will be moved to your original zone.
@@ -15662,7 +15649,7 @@ ETC_20151016_015663	No!!
 ETC_20151016_015664	Since it turned out like this, I will destroy you with Kruvina!!
 ETC_20151016_015665	What happened to the tombstone?
 ETC_20151016_015666	Okay! I will come back!
-ETC_20151016_015667	The Fire Lord which was Albinas before
+ETC_20151016_015667	The Señor del Fuego which was Albinas before
 ETC_20151016_015668	The monstruos who stole the sign of Nestospa are attacking again!
 ETC_20151016_015669	Ugh! They again...!
 ETC_20151016_015670	What! Demons!
@@ -16108,7 +16095,7 @@ ETC_20151022_016109	My... body!
 ETC_20151022_016110	What was that?
 ETC_20151022_016111	Clymen appeared to protect the Curse Totem!
 ETC_20151022_016112	Curse Totem
-ETC_20151022_016113	Derrota Fire Lord!
+ETC_20151022_016113	Derrota Señor del Fuego!
 ETC_20151022_016114	Kill the Revelador!
 ETC_20151022_016115	Denóptico appeared as you tried to remove the surveillance totem!
 ETC_20151022_016116	Surveillance Totem
@@ -16127,7 +16114,7 @@ ETC_20151022_016128	Orsha is done for!
 ETC_20151022_016129	What is this?
 ETC_20151022_016130	He doesn't stand in line?
 ETC_20151022_016131	Ah!!
-ETC_20151022_016132	Derrota Woodspirit!
+ETC_20151022_016132	Derrota Espíritu de la Madera!
 ETC_20151022_016133	Run away!
 ETC_20151022_016134	You've paid your first tax.
 ETC_20151022_016135	Paid the tax 1 time
@@ -16568,7 +16555,7 @@ ETC_20151102_016569	A ferret ha aparecido!
 ETC_20151102_016570	Ferret Marauder, protector of the Demon Totems ha aparecido!
 ETC_20151102_016571	Eliminate Ferret Marauder and destroy the Demon Totem!
 ETC_20151102_016572	Ack... You insolent human!!
-ETC_20151102_016573	Fight against Señor Demonio Zaura who imPrisióned Diosa Lada
+ETC_20151102_016573	Combate al Señor Demonio Zaura quien aprisionó a la Diosa Lada
 ETC_20151102_016574	Stand back.
 ETC_20151102_016575	No!!
 ETC_20151102_016576	Señor Demonio Zaura disappeared with the girl! Eliminate the horde of ferrets!
@@ -17458,7 +17445,7 @@ ETC_20151224_017459	Raffly hunts small insects, even after transformed.
 ETC_20151224_017460	Not fall down even attacking legs. But, there are no special ways.
 ETC_20151224_017461	Ghost caused by demon might increase the rank by receiving more stronger power if endures more than 100 years.
 ETC_20151224_017462	Ghost caused by demons has various form's features and color.
-ETC_20151224_017463	Each Woodspirit has various personalities. Unlike the outline color, there are various it such as solo play and demon's pawn. But, there are no Woodspirit which have a like to a human.
+ETC_20151224_017463	Each Espíritu de la Madera has various personalities. Unlike the outline color, there are various it such as solo play and demon's pawn. But, there are no Espíritu de la Madera which have a like to a human.
 ETC_20151224_017464	It is so fortunate that Woodsman is not an active monstruo.
 ETC_20151224_017465	Bramble is not utmost smart among the other Señor Demonios. However, Gesti likes his personality and provides him with a lot of power. According to a story, Bramble tried to steal the Diosa' relic where other Señor Demonios have failed in.
 ETC_20151224_017466	According to the story, the willow which got the unique disease at Medzio Diena has been changed to like this form plant.
@@ -17476,7 +17463,7 @@ ETC_20151224_017477	It is not bad that the deformed monstruos are like these num
 ETC_20151224_017478	Despite its appearance, these creatures are not hollow on the inside.
 ETC_20151224_017479	Hechiceros changed these humans who were once a wizard after shown interest in the demon realm.
 ETC_20151224_017480	A lesser demon summoned by its demonic superiors to invade towers.
-ETC_20151224_017481	It was created to protect humans by Escultor Santo Master, but it has been the harmful monstruos to change the characteristtics.
+ETC_20151224_017481	It was created to protect humans by Maestre Escultor Santo, but it has been the harmful monstruos to change the characteristtics.
 ETC_20151224_017482	Old Status that Diosa' divinity left from here will absorb the demons.
 ETC_20151224_017483	The number of Bagworms is no longer increasing, yet its current population is enough not to worry about extinction.
 ETC_20151224_017484	This kind of monstruo won't be discovered anymore. But, the number of these monstruos that currently exist seems to indicate that there is no worry about extinction.
@@ -17621,7 +17608,7 @@ ETC_20151224_017622	It is certain that they existed before Medzio Diena. However
 ETC_20151224_017623	Since the Pantos turned their backs on humans, the species that were never seen before appeared. Maybe... the demons are the culprit.
 ETC_20151224_017624	A soldier that makes up the army of the demons.
 ETC_20151224_017625	There's no one who wants to see the true nature of the hidden face behind this mask.
-ETC_20151224_017626	The phenomena of the Golemlet absorbing the energy from Raíces Cristal del Árbol to become stronger occurs sometimes.
+ETC_20151224_017626	The phenomena of the Golemlet absorbing the energy from Cristales del Árbol to become stronger occurs sometimes.
 ETC_20151224_017627	Muerto Vivos turn into Rodelins when they receive a lot of influences from demons or when they are acknowledged by the high-ranked demons.
 ETC_20151224_017628	Even when the Pantos were having a close relationship with humans, they actually weren't that friendly to humans. But, they weren't as hostile as they are now.
 ETC_20151224_017629	There's a legend were Riteris was one of the masters in the past. Among the masters that are not wizards, some make contracts with the demons for immortality and look for others who are similar to them, then lead them to the demon realm.
@@ -17669,7 +17656,7 @@ ETC_20151224_017670	Saltistters live in cold, rugged areas so their amount hardl
 ETC_20151224_017671	After Medzio Diena, as the environment turned favorable to the Goblins, their number increased and they wanted to invade the land of the humans. For your reference, Woodgoblins and goblins are not directly related.
 ETC_20151224_017672	By looking at the spear Ticen is carrrying, the assumption that there may be other kinds of Ticens out there turned out to be true and many kinds of Ticens were created and they are moving in a herd. They care about sociality.
 ETC_20151224_017673	It is certain that Infrogalas is close to Gaigalas, but we haven't yet actually identified the origin of Gaigalas at the moment so it's origin and the birth are still unknown. However, it is fortunate that other information that is needed when fighting against it is known.
-ETC_20151224_017674	ImPrisióned Infrogalas Arquero
+ETC_20151224_017674	Arquero Infrogalas Aprisionado
 ETC_20151224_017675	A monstruo that the Hechiceros of the devil realm called out using noir. There's a rumor that they use the spirits in the forest after capturing them, but that has yet to be confirmed.
 ETC_20151224_017676	It is not uncommon that the stone statues that are engraved with magical power or parts of architectures move to harm humans. After Medzio Diena, there's no one who think that could be a bit strange.
 ETC_20151224_017677	Criomante Master Aleister Crowley
@@ -17920,7 +17907,7 @@ ETC_20151224_017921	Monsters!
 ETC_20151224_017922	Calm down!
 ETC_20151224_017923	Please wait for your turn!
 ETC_20151224_017924	What is that!
-ETC_20151224_017925	Derrota the Woodspirit that suddenly appeared!
+ETC_20151224_017925	Derrota the Espíritu de la Madera that suddenly appeared!
 ETC_20151224_017926	A title given to CBT1 participants.
 ETC_20151224_017927	Strong-willed Adventurer
 ETC_20151224_017928	Obtain 1,500 Gimmick Achievement Points
@@ -17980,7 +17967,7 @@ ETC_20151224_017981	Increases attack
 ETC_20151224_017982	Reward Buff - Defense Rate increase
 ETC_20151224_017983	Increases defense and gradually increases stamina
 ETC_20151224_017984	Increases recovery rate
-ETC_20151224_017985	Recuperación de PS Rate per Second and PM Recovery Rate per Second increase
+ETC_20151224_017985	Recuperación de PS Rate per Second and Recuperación de PM Rate per Second increase
 ETC_20151224_017986	When you get shot, you deceive an enemy using a log and a counter attack.
 ETC_20151224_017987	PM Absorption
 ETC_20151224_017988	Reduces movement speed by 20%, PM Bloodsucking
@@ -18031,7 +18018,7 @@ ETC_20151224_018032	{nl} {nl}Press {img Alt 40 40} to immediately stop movement 
 ETC_20151224_018033	{nl} {nl}Places you've never been are not shown on the World Map.
 ETC_20151224_018034	{nl} {nl}You can view the World Map by pressing {img N 40 40}.
 ETC_20151224_018035	{nl} {nl}Hover your mouse cursor on the marked areas,{nl}to view maps which your character has completed so far.
-ETC_20151224_018036	You can make your character stronger by allocating Status Points into FUE/CON/INT/SPR/DES.{nl} {nl} - FUE : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max PS, Recuperación de PS, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack, Recuperación de PS of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, PM Recovery, Defensa Mágica, Block Penetration and Resistance to harmful effects{nl} {nl}- DES : Increase in Accuracy, Evasión and Tasa Crítico{nl}
+ETC_20151224_018036	You can make your character stronger by allocating Status Points into FUE/CON/INT/SPR/DES.{nl} {nl} - FUE : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max PS, Recuperación de PS, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack, Recuperación de PS of Spells and Potions{nl} {nl}- SPR : Increase in Max PM, Recuperación de PM, Defensa Mágica, Penetración de Bloqueo and Resistance to harmful effects{nl} {nl}- DES : Increase in Precisión, Evasión and Tasa Crítico{nl}
 ETC_20151224_018037	{nl} {nl}The effects of the status that you want to invest can be previewed below in the character window.
 ETC_20151224_018038	{nl} {nl}Your skill level increases after clicking on the + button.
 ETC_20151224_018039	{nl} {nl}Some attributes can be turned on or off depending on the circumstances.
@@ -18253,7 +18240,7 @@ ETC_20151224_018254	Úsalo para obtener 30 TP.{nl}This item cannot be refunded o
 ETC_20151224_018255	Úsalo para obtener 100 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018256	Úsalo para obtener 200 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018257	Úsalo para obtener 300 TP.{nl}This item cannot be refunded or returned after use.
-ETC_20151224_018258	Token: 7 días [Event]
+ETC_20151224_018258	Token: 7 días [Evento]
 ETC_20151224_018259	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 7 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20151224_018260	Premium Awakening Stone
 ETC_20151224_018261	Megaphone 50x Box
@@ -18263,7 +18250,7 @@ ETC_20151224_018264	Soul Cristal 10x Box
 ETC_20151224_018265	Contains 10 Cristal del Almas when you open it. Click derecho para usar.
 ETC_20151224_018266	Pergamino de Teletranporte 10x Box
 ETC_20151224_018267	Contains 10 Pergaminos de Teletranporte when you open it. Click derecho para usar.
-ETC_20151224_018268	Token: 5 días [Event]
+ETC_20151224_018268	Token: 5 días [Evento]
 ETC_20151224_018269	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 5 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20151224_018270	Premium Package A
 ETC_20151224_018271	Contains premium goodies. Click derecho para usar.{nl} - 600 TP (Untradable){nl} - Highly Enriched PS Potion 150x (Untradable){nl} - Highly Enriched PM Potion 150x (Untradable){nl} - Pergamino de Teletranporte 10x Box 3x (Untradable){nl} - Megaphone 50x Box (Untradable){nl} - Accesorio de Cabello: War Bonnet
@@ -18271,25 +18258,25 @@ ETC_20151224_018272	Premium Package B
 ETC_20151224_018273	Contains premium goodies. Click derecho para usar.{nl} - 1300 TP (Untradable){nl} - Highly Enriched PS Potion 150x (Untradable){nl} - Highly Enriched PM Potion 150x (Untradable){nl} - Pergamino de Teletranporte 10x Box 3x (Untradable){nl} - Megaphone 50x Box (Untradable){nl} - Accesorio de Cabello: Cornus Helmet
 ETC_20151224_018274	Úsalo para obtener 600 TP.{nl}This item cannot be refunded or returned after use.
 ETC_20151224_018275	Úsalo para obtener 1300 TP.{nl}This item cannot be refunded or returned after use.
-ETC_20151224_018276	Token: 1 día [Event]
+ETC_20151224_018276	Token: 1 día [Evento]
 ETC_20151224_018277	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 1 día. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
-ETC_20151224_018278	Token: 3 horas [Event]
+ETC_20151224_018278	Token: 3 horas [Evento]
 ETC_20151224_018279	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 3 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
-ETC_20151224_018280	Token: 6 horas [Event]
+ETC_20151224_018280	Token: 6 horas [Evento]
 ETC_20151224_018281	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 6 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
-ETC_20151224_018282	Token: 12 horas [Event]
+ETC_20151224_018282	Token: 12 horas [Evento]
 ETC_20151224_018283	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 12 horas. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
-ETC_20151224_018284	Token: 3 días [Event]
+ETC_20151224_018284	Token: 3 días [Evento]
 ETC_20151224_018285	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 3 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20151224_018286	Skill Reset Potion
 ETC_20151224_018287	A very useful potion for those who just cannot get their skill build right.{nl}Use this to reset your current skill points.
 ETC_20151224_018288	Instanced Dungeon Reset Voucher
 ETC_20151224_018289	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.
-ETC_20151224_018290	10 TP [Event]
+ETC_20151224_018290	10 TP [Evento]
 ETC_20151224_018291	Úsalo para obtener 10 TP.
 ETC_20151224_018292	Kit de Reparación Urgente
 ETC_20151224_018293	Recovers the durability of your equipment by +5.
-ETC_20151224_018294	50 TP [Event]
+ETC_20151224_018294	50 TP [Evento]
 ETC_20151224_018295	Úsalo para obtener 50 TP.
 ETC_20151224_018296	Shinobis are warriors who are familiar with special tactics called Ninjutsu. Only few can overcome the long and harsh training required to become a Shinobi.
 ETC_20151224_018297	Dragóns are elite warriors who are specialized in using spears for battle. They benefit from using two-handed spears.
@@ -18345,7 +18332,7 @@ ETC_20151224_018346	Collaborative Working District
 ETC_20151224_018347	Solitary Confinement District
 ETC_20151224_018348	Bird Room
 ETC_20151224_018349	Supply Room
-ETC_20151224_018350	Prisióner Waiting Room
+ETC_20151224_018350	Sala de Espera de los Prisioneros
 ETC_20151224_018351	Special Prisión District
 ETC_20151224_018352	Examination Room
 ETC_20151224_018353	Felon Prisión
@@ -18485,7 +18472,7 @@ ETC_20151224_018486	Wreckage of the Demonic Power Supply Device
 ETC_20151224_018487	Delmore Barrier
 ETC_20151224_018488	Orsha Soldado Male14_1
 ETC_20151224_018489	Orsha Soldado Male14_2
-ETC_20151224_018490	ImPrisióned Laima
+ETC_20151224_018490	Laima Captiva
 ETC_20151224_018491	Armed Giltine
 ETC_20151224_018492	Lake Leaf
 ETC_20151224_018493	Elevator
@@ -20267,15 +20254,15 @@ ETC_20160224_020268	A powerful monstruo named Guante Demoníaco is keeping peopl
 ETC_20160224_020269	The Colimencia in the Absenta Reservoir is drinking the red water and becoming more powerful. Derrota it before it's too late.
 ETC_20160224_020270	With all its residents missing, the Delmore Castle was invaded by a Denóptico. Derrota it and help Mage Melchioras destroy the remnants of the Kruvina experiment in Delmore Castle.
 ETC_20160224_020271	There are rumors of a Mothstem appearing among the peregrinos passing by the Galeed Plateau. Keep the peregrinos safe by defeating the Mothstem.
-ETC_20160224_020272	The evil energy gathered at Bosque Kateen is attracting all sorts of dangerous monstruos. The Blue Woodspirit in Saknis Plains is particularly threatening to the soldiers stationed there. Derrota the Blue Woodspirit and protect the soldiers.
-ETC_20160224_020273	The demons invading the Torre del Mago are building up their forces. Derrota the Fire Lord that's occupying Torre del Mago P2 to demoralize the demons.
+ETC_20160224_020272	La energía maligna en el Bosque Kateen está atrayendo toda clase de monstruos peligrosos. El Espíritu de la Madera Azul en las Planicies Saknis está amenzando a las tropas emplazadas allí. Derrota al Espíritu de la Madera Azul y protege a los soldados.
+ETC_20160224_020273	Los demonios invadiendo la Torre del Mago están llamando refuerzos. Derrota al Señor del Fuego que está ocupando la Torre del Mago P2 para bajar la moral de los demonios.
 ETC_20160224_020274	Creation Turned Askew
-ETC_20160224_020275	The Escultor Santo Master received a letter from Tesla.{nl}Tesla created several Spirit Guide Esculturas de Búho and the Secoya to protect them. However, the Secoya was corrupted by the demons' evil energy and is destroying the statues and setting fire to the forest. Tesla is now looking for a brave adventurer to defeat the Secoya.
-ETC_20160224_020276	In A Forgotten Place
-ETC_20160224_020277	A letter arrived from Historiador Cyrenia Odell.{nl}The demons have secretly invaded the church that was destroyed to keep the secret of the Mausoleo Real of the Great King Zachariel after its construction. Cyrenia is now looking for someone to stop the demons before they can build up their forces.
+ETC_20160224_020275	El Maestre Escultor Santo ha recibido una carta de Tesla.{nl}Tesla ha creado varias Esculturas de Búho para guiar las almas y un Secoya para protegerlas. Sin embargo, el Secoya fue corrompido por la energía demoniaca y está destruyendo las estatuas y quemando el bosque. Tesla está en busqueda de un valiente aventurero para derrotar al Secoya.
+ETC_20160224_020276	En un Lugar Olvidado
+ETC_20160224_020277	Ha llegado una carta de la Historiadora Cyrenia Odell.{nl}Los demonios han invadido secretamente la iglesia que fue destruída para preservar el secreto del Mausoleo Real del Gran Rey Zachariel luego de su construcción. Cyrenia está buscando aventureros para detener a los demonios mientras consigue refuerzos.
 ETC_20160224_020278	Sublevación Demoníaca
 ETC_20160224_020279	Ha llegado un mensaje de la Diosa Vakarine.{nl}Luego de que los Reveladores castigaran a los Señores Demonios en la Prisión Demoníaca, sus segundos al mando está reuniendo tropas para ver quien los sucederá. La Diosa Vakarine y los Kupoles aún no lográn recuperarse por completo luego de los eventos recientes y buscan un Revelador que los ayude a detener a los demonios.
-ETC_20160224_020280	You can make your character stronger by allocating Status Points into FUE/CON/INT/SPR/DES.{nl} {nl} - FUE : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max PS, Recuperación de PS, Recuperación de PS of Spells and Potions, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack{nl} {nl}- SPR : Increase in Max PM, PM Recovery, PM Recovery of Spells and Potions, Defensa Mágica, Block Penetration and Resistance to harmful effects{nl} {nl}- DES : Increase in Accuracy, Evasión and Tasa Crítico{nl}
+ETC_20160224_020280	Puedes hacer que tu personaje sea más fuerte asignando puntos en FUE/CON/INT/SPR/DES.{nl} {nl} - FUE : Aumenta el Daño Físico, Daño Crítico y el Límite de Peso{nl} {nl}- CON : Aumenta los PS máximos, Recuperación de PS, Recuperación de PS por Hechizos y Pociones, Bloqueo, Resistencia a Críticos y Límite de Peso{nl} {nl}- INT : Aumenta tu Daño Mágico{nl} {nl}- SPR : Aumenta PM máximos, Recuperación de PM, Recuperación de PM por Hechizos o Pociones, Defensa Mágica, Penetración de Bloqueo y Resistencia a estados alterados{nl} {nl}- DES : Aumenta Precisión, Evasión y Tasa Crítico{nl}
 ETC_20160224_020281	Nexon NGS error
 ETC_20160224_020282	Failed to reset IDSpace in XML.
 ETC_20160224_020283	Failed to enter instanced dungeon.
@@ -20375,64 +20362,64 @@ ETC_20160224_020376	Waiting Time Exceeded
 ETC_20160224_020377	User Session Data
 ETC_20160224_020378	Connection terminated by disconnection request.
 ETC_20160224_020379	Used memory capacity and total controlling memory capacity of UI addon(s).
-ETC_20160224_020380	Sobre memory used for images
-ETC_20160224_020381	Sobre memory used for UI classes
+ETC_20160224_020380	Over memory used for images
+ETC_20160224_020381	Over memory used for UI classes
 ETC_20160224_020382	Debugging TEST log
 ETC_20160224_020383	UI Log
 ETC_20160224_020384	Reaction time after clicking OBB TEST
 ETC_20160224_020385	Processing overtime log
 ETC_20160224_020386	Formats with %s are not used in clientmessage.xml due to multilingual word order issues.
 ETC_20160224_020387	Convent Auto Matching
-ETC_20160224_020388	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
+ETC_20160224_020388	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl} - Puedes usar gestos Premium
 ETC_20160224_020389	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nl}After a successful enhancement, the Potential of the equipment will reduce by one. Click derecho para usar.
-ETC_20160224_020390	Enchant Scroll
-ETC_20160224_020391	Adds a random option to a hair costume.{nl}Up to 3 options can be added.{nl}You cannot use this scroll on an equipped item.{nl}Click derecho para usar.
-ETC_20160224_020392	100 TP [Event]
+ETC_20160224_020390	Pergamino para Encantar
+ETC_20160224_020391	Añade un bono aleatorio a un accesorio de cabello.{nl}Hasta 3 bonos pueden ser añadidos.{nl}No puedes usar este pergamino en un objeto equipado.{nl}Click derecho para usar.
+ETC_20160224_020392	100 TP [Evento]
 ETC_20160224_020393	Úsalo para obtener 100 TP.
-ETC_20160224_020394	Enchant Scroll 20x Box
-ETC_20160224_020395	Contains 20 Enchant Scrolls. Click derecho para usar.
-ETC_20160224_020396	Stat Reset Potion
-ETC_20160224_020397	50 días Open Commemoration Package
-ETC_20160224_020398	Click derecho para obtener los siguientes objetos:{nl} - 500 TP{nl} - 10x Enchant Scroll{nl} - Accesorio de Cabello - Popoleón Doll{nl} - 150 TP [Event]
+ETC_20160224_020394	Pergamino para Encantar 20x Box
+ETC_20160224_020395	Contiene 20 Pergaminos para Encantar. Click derecho para usar.
+ETC_20160224_020396	Poción para Reiniciar Estadísticas
+ETC_20160224_020397	50 días Paquete Conmemorativo por Apertura
+ETC_20160224_020398	Click derecho para obtener los siguientes objetos:{nl} - 500 TP{nl} - 10x Pergamino para Encantar{nl} - Accesorio de Cabello - Popoleón Doll{nl} - 150 TP [Evento]
 ETC_20160224_020399	Úsalo para obtener 500 TP.
-ETC_20160224_020400	150 TP [Event]
+ETC_20160224_020400	150 TP [Evento]
 ETC_20160224_020401	Úsalo para obtener 150 TP.
-ETC_20160224_020402	Token [Event]
-ETC_20160224_020403	Token: 15 días [Event]
-ETC_20160224_020404	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor por 15 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Internet Cafe benefits & Tomo de EXP effect){nl} - Puedes usar gestos Premium
-ETC_20160224_020405	Torre de la Tierra Entrance
+ETC_20160224_020402	Token [Evento]
+ETC_20160224_020403	Token: 15 días [Evento]
+ETC_20160224_020404	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor por 15 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl} - Puedes usar gestos Premium
+ETC_20160224_020405	Entrada a la Torre de la Tierra
 ETC_20160224_020406	Small_Area of Ruins_Tombstone03
 ETC_20160224_020407	Diosa Zemyna
-ETC_20160224_020408	Torre de la Tierra Iron Gate
-ETC_20160224_020409	Torre de la Tierra Mercader
-ETC_20160224_020410	Broken Tombstone
-ETC_20160224_020411	Recovered Tombstone (no obb)
+ETC_20160224_020408	Portón de Hieroo de la Torre de la Tierra
+ETC_20160224_020409	Mercader de la Torre de la Tierra
+ETC_20160224_020410	Tumba Quebrada
+ETC_20160224_020411	Tumba Recuperada (no obb)
 ETC_20160224_020412	Liga de Batalla en Equipo
-ETC_20160224_020413	Female Alquimista
+ETC_20160224_020413	Alquimista
 ETC_20160224_020414	Torre de la Tierra Gate_2
-ETC_20160224_020415	Sister 1
-ETC_20160224_020416	Sister 2
+ETC_20160224_020415	Hermana 1
+ETC_20160224_020416	Hermana 2
 ETC_20160224_020417	Kupole3_3D
-ETC_20160224_020418	Preguntar acerca de the Piedra Rúnica
-ETC_20160224_020419	Use Conjurador Rúnico Attributes
-ETC_20160224_020420	Buy Conjurador Rúnico Items
+ETC_20160224_020418	Preguntar acerca de la Piedra Rúnica
+ETC_20160224_020419	Usar Atributos de Conjurador Rúnico
+ETC_20160224_020420	Comprar Objetos de Conjurador Rúnico
 ETC_20160224_020421	Following Battle PNJ
-ETC_20160224_020422	Virtov Set
-ETC_20160224_020423	Ice Property Attack {img green_up_arrow 16 16} 12
-ETC_20160224_020424	Ice Property Attack {img green_up_arrow 16 16} 26
-ETC_20160224_020425	Pierce-type Defense {img green_up_arrow 16 16} 25
-ETC_20160224_020426	Virtov Leather Set
-ETC_20160224_020427	Strike-type Defense {img green_up_arrow 16 16} 25
-ETC_20160224_020428	Virtov Plate Set
-ETC_20160224_020429	Slash-type Defense {img green_up_arrow 16 16} 25
-ETC_20160224_020430	Lolopantera Set
-ETC_20160224_020431	PM Recovery {img green_up_arrow 16 16} 100
-ETC_20160224_020432	Earth Property Attack {img green_up_arrow 16 16} 42
+ETC_20160224_020422	Set Virtov
+ETC_20160224_020423	Ataque de Elemento Hielo {img green_up_arrow 16 16} 12
+ETC_20160224_020424	Ataque de Elemento Hielo {img green_up_arrow 16 16} 26
+ETC_20160224_020425	Defensa a Penetrante {img green_up_arrow 16 16} 25
+ETC_20160224_020426	Set Virtov de Cuero
+ETC_20160224_020427	Defensa a Golpes {img green_up_arrow 16 16} 25
+ETC_20160224_020428	Set Virtov de Placas
+ETC_20160224_020429	Defensa a Cortes {img green_up_arrow 16 16} 25
+ETC_20160224_020430	Set Lolopantera
+ETC_20160224_020431	Recuperación de PM {img green_up_arrow 16 16} 100
+ETC_20160224_020432	Ataque de Elemento Tierra {img green_up_arrow 16 16} 42
 ETC_20160224_020433	INT {img green_up_arrow 16 16} 25
-ETC_20160224_020434	Lolopantera Leather Set
+ETC_20160224_020434	Set Lolopantera de Cuero
 ETC_20160224_020435	Tasa Crítico {img green_up_arrow 16 16} 46
 ETC_20160224_020436	DES {img green_up_arrow 16 16} 25
-ETC_20160224_020437	Lolopantera Plate Set
+ETC_20160224_020437	Set Lolopantera de Placas
 ETC_20160224_020438	Recuperación de PS {img green_up_arrow 16 16} 100
 ETC_20160224_020439	FUE {img green_up_arrow 16 16} 25
 ETC_20160224_020440	Max silver allowed to users upon item drop
@@ -20443,10 +20430,10 @@ ETC_20160224_020444	User kick by NGS
 ETC_20160224_020445	Check sp_market_item_get?
 ETC_20160224_020446	Diario de Aventuras kill ranking min record: 10
 ETC_20160224_020447	Diario de Aventuras damage ranking min record: 10
-ETC_20160224_020448	Item enhancement ranking min record: 10
-ETC_20160224_020449	Instanced Dungeon Reset Time 6 AM
-ETC_20160224_020450	Max No of Chat Windows Open
-ETC_20160224_020451	How many messages combined in one speech bubble?
+ETC_20160224_020448	Mejora de objeto ranking min record: 10
+ETC_20160224_020449	Reinicio de Instancias a las 6 AM
+ETC_20160224_020450	Máximo n° de ventanas de chat abiertas
+ETC_20160224_020451	¿Cuantos mensajes deben combinarse en un bocadillo?
 ETC_20160224_020452	Messages added to current time in chat text
 ETC_20160224_020453	Progresión
 ETC_20160224_020454	Maven
@@ -20560,7 +20547,7 @@ ETC_20160224_020561	{nl}¿Registrar esto al Diario de Aventuras?
 ETC_20160224_020562	Sin opciones
 ETC_20160224_020563	Las propiedades de este objeto han sido modificadas durante el intercambio. Intenta nuevamente.
 ETC_20160224_020564	No puedes cargar más de {MAX} plata.
-ETC_20160224_020565	Cobrable hasta [{Time}]
+ETC_20160224_020565	Retirar antes de [{Time}]
 ETC_20160224_020566	Inexpirable
 ETC_20160224_020567	Ocultar
 ETC_20160224_020568	Mostrar
@@ -21097,14 +21084,14 @@ ETC_20160310_021098	Leélo cerca del Cofre Ordenado
 ETC_20160310_021099	Has sido capturado por un Soldado Congelado
 ETC_20160310_021100	Has fallado en proteger a Lemija
 ETC_20160310_021101	Absorviendo Magia
-ETC_20160310_021102	No queda mucha magia absorvida
+ETC_20160310_021102	No queda mucha magia absorbida
 ETC_20160310_021103	Vamos hacia el Campamento de los Soldados.
 ETC_20160310_021104	El sello aquí es muy fuerte.{nl}Rodeemos el Campamento de los Soldados.
 ETC_20160310_021105	Has fallado en proteger Lucienne.
 ETC_20160310_021106	Lucienne falló al concentrarse en mezclar el reactivo
 ETC_20160310_021107	Usando Reactivo
 ETC_20160310_021108	Plantando Semillas de Hierba
-ETC_20160310_021109	has absorvido el alma de demonio
+ETC_20160310_021109	has absorbido el alma de demonio
 ETC_20160310_021110	Absorviendo el alma de demonio
 ETC_20160310_021111	Inyectando el alma purificada
 ETC_20160310_021112	¡Has destruído el Ídolo Siniestro!
@@ -21120,7 +21107,7 @@ ETC_20160310_021121	Que... Que he hecho...
 ETC_20160310_021122	¡Has encontrado la escritura falsa!
 ETC_20160310_021123	Has fallado en encontrar la escritura falsa
 ETC_20160310_021124	Has fallado en proteger al Aldeano Duncan
-ETC_20160310_021125	El alma de éste demonio está siendo absorvida
+ETC_20160310_021125	El alma de éste demonio está siendo absorbida
 ETC_20160310_021126	¡Un demonio oculto ha aparecido de la nada!
 ETC_20160310_021127	¡Simonas! ¡Los monstruos están regresando de la fosa!
 ETC_20160310_021128	Alcalde, no podemos seguir viviendo de esta forma. Si no podemos pagar el tributo, deberíamos dejarlo.
@@ -21218,7 +21205,7 @@ ETC_20160323_021219	Otorga beneficios de Token Premium para todos tus personajes
 ETC_20160323_021220	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 3 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium
 ETC_20160323_021221	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 30 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +30% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium{nl} - Aumenta la cantidad de Buff que puedes recibir{nl} - Puedes realizar Intercambios Personales hasta 30 veces
 ETC_20160323_021222	Otorga beneficios de Token Premium para todos tus personajes en éste servidor por 15 días. Click derecho para usar.{nl}[Beneficios del Token]{nl} - Puedes aprender atributos instantáneamente{nl} - Reduce Impuesto del Mercado (30% {img white_right_arrow 16 16} 10%){nl} - Puedes listar 5 objetos en el mercado{nl} - Velocidad de movimiento aumentada en +3 speed{nl} - +20% de EXP por cazar monstruos{nl}(Stacks with the Tomo de EXP effect){nl} - Puedes usar gestos Premium
-ETC_20160323_021223	90 TP [Event]
+ETC_20160323_021223	90 TP [Evento]
 ETC_20160323_021224	Úsalo para obtener 90 TP.
 ETC_20160323_021225	Lucky 100 Package
 ETC_20160323_021226	Click derecho para obtener los siguientes objetos:{nl} - Cuerno de Grupo{nl} - 100 TP{nl} - 100 TP
@@ -21330,9 +21317,9 @@ ETC_20160323_021331	¡El Círculo Mágico Azul ha desaparecido a causa del terre
 ETC_20160323_021332	¡Has obtenido un fragmento de cuerno coral!
 ETC_20160323_021333	Lanzando el fragmento de cuerno coral
 ETC_20160323_021334	Absorviendo energía de la tierra
-ETC_20160323_021335	Has absorvido la energía de la tierra
-ETC_20160323_021336	No has podido absorver energía de la tierra
-ETC_20160323_021337	Has absorvido energía marina
+ETC_20160323_021335	Has absorbido la energía de la tierra
+ETC_20160323_021336	No has podido absorber energía de la tierra
+ETC_20160323_021337	Has absorbido energía marina
 ETC_20160323_021338	La energía de la tierra está embarrando la Piedra Mágica Marina
 ETC_20160323_021339	La concentración de Lutas se ha vuelto difusa
 ETC_20160323_021340	¡El Círculo Mágico para Balancear ha sido completado!
