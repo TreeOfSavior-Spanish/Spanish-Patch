@@ -1285,7 +1285,7 @@ UI_20150317_001284	Conjunto de control
 UI_20150317_001285	{@St41}Dificultad : %s
 UI_20150317_001286	{@St42}Tiempo restante : %s
 UI_20150317_001287	{@St53}Creando objeto
-UI_20150323_001288	{@st59}Introduce tu equipo aquí{/}
+UI_20150323_001288	{@st59}Introduce tu objeto aquí{/}
 UI_20150323_001289	{@st42}Cancelar
 UI_20150323_001290	{@st42}Confirmar
 UI_20150323_001291	{@st43}Creando...{/}
@@ -1729,7 +1729,7 @@ UI_20150717_001728	Observar a otro jugador
 UI_20150717_001729	{@st41}Campo de batalla
 UI_20150717_001730	Resultados
 UI_20150717_001731	{@st41}Moverse ahora
-UI_20150717_001732	{@st41b}             Un 'Nombre de Equipo' representa todos{nl}             tus personajes.{nl}                Es un nombre común usado dentro del juego.{nl}                  (¡Cambiar el nombre de equipo te costará TP!){/}
+UI_20150717_001732	{@st41b}             Un Nombre de Equipo representa todos{nl}             tus personajes.{nl}                Es un nombre común usado dentro del juego.{nl}                  (¡Cambiar el nombre de equipo te costará TP!){/}
 UI_20150729_001733	{@st42}Mostrar solo atributos disponibles{/}
 UI_20150729_001734	Número de piernas
 UI_20150729_001735	Tecla
@@ -2193,3 +2193,7 @@ UI_20160520_002192	Regalar TP
 UI_20160520_002193	{@st49}Usar{/}
 UI_20160520_002194	{@st42}Guerra de clan
 UI_20160520_002195	Declarar neutral
+UI_20160603_002196	{@st66b}Control de velocidad de habilidad (%s){/}
+UI_20160613_002197	{@st42}Si ambos grupos usan Tokens,{nl}los objetos de equipo intercambiables no ser volveran no intercambiables.{nl}{#FFFF00}Los materiales y consumibles se volveran{nl}intercambiables aunque se use Token.{/}
+UI_20160613_002198	{@st59}Cerrar{/}
+UI_20160613_002199	{@st43}{s22}Nivel de equipo %s{/}
